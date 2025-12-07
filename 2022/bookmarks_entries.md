@@ -8941,7 +8941,6 @@
  - [https://en.wikipedia.org/wiki/Global_surveillance](https://en.wikipedia.org/wiki/Global_surveillance)
  - date_published: 2022-12-11T20:58:21+00:00
  - tags: ['all time', 'surveillance']
- - date_dead_since: 2025-07-29T06:56:46.439538+00:00
 
  ## Southern Cross Cable
  - [https://en.wikipedia.org/wiki/Southern_Cross_Cable#Spying_and_interception](https://en.wikipedia.org/wiki/Southern_Cross_Cable#Spying_and_interception)
@@ -9006,7 +9005,6 @@
  - [https://www.cnet.com/news/privacy/this-privacy-setting-helps-keep-facebook-from-tracking-you/#ftag=CADf328eec](https://www.cnet.com/news/privacy/this-privacy-setting-helps-keep-facebook-from-tracking-you/#ftag=CADf328eec)
  - date_published: 2022-12-13T00:15:03+00:00
  - tags: ['facebook', 'privacy']
- - date_dead_since: 2025-07-29T05:36:05.829302+00:00
 
  ## Twitter files show how Trump was banned, while world dictators were allowed to call for mass murder
  - [https://www.dailymail.co.uk/news/article-11530873/Twitter-files-Trump-banned-world-dictators-allowed-call-mass-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11530873/Twitter-files-Trump-banned-world-dictators-allowed-call-mass-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -9027,7 +9025,6 @@
  - [https://www.bbc.co.uk/news/world-europe-63952993?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63952993?at_medium=RSS&at_campaign=KARANGA)
  - date_published: 2022-12-13T11:46:07+00:00
  - tags: ['corruption', 'european union', 'qatar']
- - date_dead_since: 2025-07-29T05:06:17.071165+00:00
 
  ## 'Maybe because I'm from China...': Twitter shutting down Chinese employee's concerns over censorship says so much
  - [https://www.louderwithcrowder.com/twitter-censorship-employee-concern](https://www.louderwithcrowder.com/twitter-censorship-employee-concern)
@@ -9042,7 +9039,6 @@
  - [https://www.dailywire.com/news/social-media-goes-wild-as-cambridge-dictionary-redefines-woman-man](https://www.dailywire.com/news/social-media-goes-wild-as-cambridge-dictionary-redefines-woman-man)
  - date_published: 2022-12-13T17:44:34+00:00
  - tags: ['gender', 'ideology', 'newspeak', 'propaganda', 'the left wing']
- - date_dead_since: 2025-07-29T04:53:17.114271+00:00
 
  ## Indian citizens that don’t link account numbers to Digital ID will soon face financial blacklisting
  - [https://reclaimthenet.org/india-digital-id-account-link](https://reclaimthenet.org/india-digital-id-account-link)
@@ -9058,7 +9054,6 @@
  - [https://www.theepochtimes.com/dutch-government-to-force-farm-buyouts-for-totalitarian-agenda_4921732.html](https://www.theepochtimes.com/dutch-government-to-force-farm-buyouts-for-totalitarian-agenda_4921732.html)
  - date_published: 2022-12-13T23:44:13+00:00
  - tags: ['agriculture']
- - date_dead_since: 2025-07-29T04:04:17.009837+00:00
 
  ## Ex-Twitter CEO Jack Dorsey insists there was 'no ill intent or hidden agendas' amid fallout from Twitter Files
  - [https://www.foxnews.com/media/ex-twitter-ceo-jack-dorsey-insists-no-ill-intent-hidden-agendas-amid-fallout-twitter-files](https://www.foxnews.com/media/ex-twitter-ceo-jack-dorsey-insists-no-ill-intent-hidden-agendas-amid-fallout-twitter-files)
@@ -9079,7 +9074,6 @@
  - [https://www.cnn.com/style/article/orwell-1984-russian-bestseller-scli-intl/index.html](https://www.cnn.com/style/article/orwell-1984-russian-bestseller-scli-intl/index.html)
  - date_published: 2022-12-14T12:19:21+00:00
  - tags: ['orwell', 'russia', 'war']
- - date_dead_since: 2025-07-29T03:37:38.043036+00:00
 
  ## Meta Accused in Lawsuit of Amplifying Hate Speech in Africa
  - [http://www.msn.com/en-us/news/world/meta-accused-in-lawsuit-of-amplifying-hate-speech-in-africa/ar-AA15fjbi?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/meta-accused-in-lawsuit-of-amplifying-hate-speech-in-africa/ar-AA15fjbi?li=BBnbcA1&srcref=rss)
@@ -9090,25 +9084,21 @@
  - [https://arstechnica.com/?p=1904335](https://arstechnica.com/?p=1904335)
  - date_published: 2022-12-14T13:57:38+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-07-29T03:11:18.645135+00:00
 
  ## Privacy concerns are raised over Chinese surveillance companies’ access to UK business crime data
  - [https://reclaimthenet.org/dahua-and-hikvision-uk-data-access](https://reclaimthenet.org/dahua-and-hikvision-uk-data-access)
  - date_published: 2022-12-14T16:28:55+00:00
  - tags: ['censorship', 'china', 'privacy']
- - date_dead_since: 2025-07-29T03:06:06.330523+00:00
 
  ## If You Make Over $600 on PayPal, Venmo or Cash App, the IRS Will Know About It     - CNET
  - [https://www.cnet.com/personal-finance/taxes/if-you-make-over-600-on-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/if-you-make-over-600-on-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CADf328eec)
  - date_published: 2022-12-14T17:15:00+00:00
  - tags: ['big brother', 'cbdc', 'government', 'surveillance']
- - date_dead_since: 2025-07-29T03:01:02.626325+00:00
 
  ## YouTube moderation bots will start issuing warnings, 24-hour bans
  - [https://arstechnica.com/?p=1904382](https://arstechnica.com/?p=1904382)
  - date_published: 2022-12-14T17:50:42+00:00
  - tags: ['moderation', 'social media', 'youtube']
- - date_dead_since: 2025-07-29T02:53:02.970067+00:00
 
  ## Peru declares nationwide state of emergency as crisis deepens
  - [https://www.aljazeera.com/news/2022/12/14/peru-declares-nationwide-state-of-emergency-as-crisis-deepens](https://www.aljazeera.com/news/2022/12/14/peru-declares-nationwide-state-of-emergency-as-crisis-deepens)
@@ -9130,6 +9120,11 @@
  - date_published: 2022-12-15T12:48:35+00:00
  - tags: ['hunter biden']
 
+ ## Health chiefs call attention to risks of myocarditis/ pericarditis in children “within 14 days of Pfizer Covid jabs”
+ - [https://www.portugalresident.com/health-chiefs-call-attention-to-risks-of-myocarditis-pericarditis-in-children-within-14-days-of-pfizer-covid-jabs](https://www.portugalresident.com/health-chiefs-call-attention-to-risks-of-myocarditis-pericarditis-in-children-within-14-days-of-pfizer-covid-jabs)
+ - date_published: 2022-12-15T15:30:00+00:00
+ - tags: ['covid', 'vaccine']
+
  ## BlackRock Executive Grilled By Texas Lawmakers Over ESG And Climate Agendas
  - [https://www.dailywire.com/news/blackrock-executive-grilled-by-texas-lawmakers-over-esg-and-climate-agendas](https://www.dailywire.com/news/blackrock-executive-grilled-by-texas-lawmakers-over-esg-and-climate-agendas)
  - date_published: 2022-12-15T17:04:33+00:00
@@ -9139,13 +9134,6 @@
  - [https://www.cnet.com/news/social-media/senate-passes-bill-banning-tiktok-on-government-devices/#ftag=CADf328eec](https://www.cnet.com/news/social-media/senate-passes-bill-banning-tiktok-on-government-devices/#ftag=CADf328eec)
  - date_published: 2022-12-15T17:46:00+00:00
  - tags: ['china', 'moderation', 'tiktok']
- - date_dead_since: 2025-07-29T02:18:03.678808+00:00
-
- ## Health chiefs call attention to risks of myocarditis/ pericarditis in children “within 14 days of Pfizer Covid jabs”
- - [https://www.portugalresident.com/health-chiefs-call-attention-to-risks-of-myocarditis-pericarditis-in-children-within-14-days-of-pfizer-covid-jabs](https://www.portugalresident.com/health-chiefs-call-attention-to-risks-of-myocarditis-pericarditis-in-children-within-14-days-of-pfizer-covid-jabs)
- - date_published: 2022-12-15T17:59:02+00:00
- - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-07-29T02:06:59.806427+00:00
 
  ## Israel to introduce sweeping online censorship law
  - [https://reclaimthenet.org/israel-to-introduce-sweeping-online-censorship-law](https://reclaimthenet.org/israel-to-introduce-sweeping-online-censorship-law)
@@ -9166,7 +9154,6 @@
  - [https://en.m.wikipedia.org/wiki/Rothschild_Island](https://en.m.wikipedia.org/wiki/Rothschild_Island)
  - date_published: 2022-12-15T20:08:50+00:00
  - tags: ['rothschild', 'secret societies']
- - date_dead_since: 2025-07-29T01:30:10.922515+00:00
 
  ## Corporate coalition pushes government to create digital ID infrastructure
  - [https://reclaimthenet.org/corporations-push-for-digital-id](https://reclaimthenet.org/corporations-push-for-digital-id)
@@ -9182,7 +9169,6 @@
  - [https://en.m.wikipedia.org/wiki/Skull_and_Bones](https://en.m.wikipedia.org/wiki/Skull_and_Bones)
  - date_published: 2022-12-15T20:14:17+00:00
  - tags: ['secret societies', 'skull and bones']
- - date_dead_since: 2025-07-29T01:01:17.347134+00:00
 
  ## IRS Accidentally Releases 112,000 Taxpayers’ Private Data Again
  - [https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again](https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again)
@@ -9193,7 +9179,6 @@
  - [https://www.theepochtimes.com/twitter-censorship-contributed-to-destructive-pandemic-policies-and-is-criminal-says-former-white-house-covid-adviser_4927500.html](https://www.theepochtimes.com/twitter-censorship-contributed-to-destructive-pandemic-policies-and-is-criminal-says-former-white-house-covid-adviser_4927500.html)
  - date_published: 2022-12-16T02:42:19+00:00
  - tags: ['covid', 'covid collateral damage']
- - date_dead_since: 2025-07-29T00:58:19.931949+00:00
 
  ## New web tracking technique is bypassing privacy protections
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59839](https://www.codeproject.com/script/News/View.aspx?nwid=59839)
