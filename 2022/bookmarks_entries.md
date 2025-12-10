@@ -8507,6 +8507,11 @@
  - date_published: 2022-12-03T00:45:24+00:00
  - tags: ['censorship', 'facebook', 'new zealand', 'privacy']
 
+ ## Apple to move 40-45% iPhone production to India
+ - [https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
+ - date_published: 2022-12-03T05:00:00+00:00
+ - tags: ['apple', 'china', 'india', 'iphone']
+
  ## Russia is spying on Telegram chats in occupied Ukrainian regions. Here's how.
  - [https://www.pwnallthethings.com/p/russia-is-spying-on-telegram-chats](https://www.pwnallthethings.com/p/russia-is-spying-on-telegram-chats)
  - date_published: 2022-12-03T06:44:28+00:00
@@ -8527,12 +8532,6 @@
  - date_published: 2022-12-04T00:00:00+00:00
  - tags: ['democracy', 'legacy media', 'misinformation', 'propaganda', 'the right wing']
 
- ## Apple to move 40-45% iPhone production to India
- - [https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
- - date_published: 2022-12-04T07:22:34+00:00
- - tags: ['apple', 'china', 'india', 'iphone']
- - date_dead_since: 2025-08-01T23:14:11.023851+00:00
-
  ## Fauci suggested FBI be warned about possible lab leak before he dismissed hypothesis
  - [http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss)
  - date_published: 2022-12-04T08:02:07.377169+00:00
@@ -8546,6 +8545,7 @@
  ## Twenty five thousand dollars of funny money
  - [https://rachelbythebay.com/w/2022/12/02/25k](https://rachelbythebay.com/w/2022/12/02/25k)
  - date_published: 2022-12-04T10:44:14.126401+00:00
+ - date_dead_since: 2025-12-09T22:50:19.205376+00:00
 
  ## Elon Musk Polls Twitter On Whether Julian Assange and Edward Snowden Should Be Pardoned
  - [https://www.dailywire.com/news/elon-musk-polls-twitter-on-whether-julian-assange-and-edward-snowden-should-be-pardoned](https://www.dailywire.com/news/elon-musk-polls-twitter-on-whether-julian-assange-and-edward-snowden-should-be-pardoned)
@@ -8787,6 +8787,11 @@
  - date_published: 2022-12-09T00:00:00+00:00
  - tags: ['facebook', 'gdpr', 'meta', 'privacy']
 
+ ## How Embracing Digital Identity Can Benefit Governments, Companies And Individuals
+ - [https://www.forbes.com/sites/forbestechcouncil/2022/12/09/how-embracing-digital-identity-can-benefit-governments-companies-and-individuals](https://www.forbes.com/sites/forbestechcouncil/2022/12/09/how-embracing-digital-identity-can-benefit-governments-companies-and-individuals)
+ - date_published: 2022-12-09T00:00:00+00:00
+ - tags: ['digital id', 'propaganda']
+
  ## The Twitter Files Part 2: Twitter's Secret Blacklists
  - [https://twitter.com/bariweiss/status/1601007575633305600](https://twitter.com/bariweiss/status/1601007575633305600)
  - date_published: 2022-12-09T00:16:35+00:00
@@ -8801,11 +8806,6 @@
  - [https://forsal.pl/lifestyle/zdrowie/artykuly/8606647,nadwyzka-szczepionek-przeciwko-covid-19.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8606647,nadwyzka-szczepionek-przeciwko-covid-19.html)
  - date_published: 2022-12-09T14:08:48+00:00
  - tags: ['covid']
-
- ## How Embracing Digital Identity Can Benefit Governments, Companies And Individuals
- - [https://www.forbes.com/sites/forbestechcouncil/2022/12/09/how-embracing-digital-identity-can-benefit-governments-companies-and-individuals](https://www.forbes.com/sites/forbestechcouncil/2022/12/09/how-embracing-digital-identity-can-benefit-governments-companies-and-individuals)
- - date_published: 2022-12-09T14:30:00+00:00
- - tags: ['digital id', 'propaganda']
 
  ## EU court orders Google to remove “manifestly inaccurate” information
  - [https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information](https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information)
