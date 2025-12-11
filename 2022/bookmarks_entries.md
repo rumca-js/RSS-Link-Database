@@ -4504,6 +4504,11 @@
  - [https://medium.com/@histocrat/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0](https://medium.com/@histocrat/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
  - date_published: 2022-09-13T09:59:12.151786+00:00
 
+ ## Walmart class action alleges retailer illegally collects, stores, uses customer biometric data
+ - [https://topclassactions.com/lawsuit-settlements/privacy/bipa/walmart-class-action-alleges-retailer-illegally-collects-stores-uses-customer-biometric-data](https://topclassactions.com/lawsuit-settlements/privacy/bipa/walmart-class-action-alleges-retailer-illegally-collects-stores-uses-customer-biometric-data)
+ - date_published: 2022-09-13T13:00:00+00:00
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
+
  ## Chińskie komponenty w iPhone'ach. Apple „igra z ogniem”
  - [https://www.wykop.pl/link/6814441/chinskie-komponenty-w-iphone-ach-apple-igra-z-ogniem](https://www.wykop.pl/link/6814441/chinskie-komponenty-w-iphone-ach-apple-igra-z-ogniem)
  - date_published: 2022-09-13T13:47:02+00:00
@@ -7612,18 +7617,16 @@
  - [https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps](https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps)
  - date_published: 2022-11-07T09:52:33+00:00
  - tags: ['cbdc', 'digital euro']
- - date_dead_since: 2025-08-02T14:15:09.577159+00:00
+
+ ## Tech outlook for a GOP Congress: More noise, even less action
+ - [https://www.axios.com/2022/11/07/midterms-tech-policy-congress-control](https://www.axios.com/2022/11/07/midterms-tech-policy-congress-control)
+ - date_published: 2022-11-07T11:00:20+00:00
+ - tags: ['antitrust', 'big brother', 'big tech', 'usa']
 
  ## Cop27 in Egypt: Activists hit out at VIP menu featuring beef, chicken, fish and dairy products | Daily Mail Online
  - [https://www.dailymail.co.uk/news/article-11398493/Cop27-Egypt-Activists-hit-VIP-menu-featuring-beef-chicken-fish-dairy-products.html](https://www.dailymail.co.uk/news/article-11398493/Cop27-Egypt-Activists-hit-VIP-menu-featuring-beef-chicken-fish-dairy-products.html)
  - date_published: 2022-11-07T11:56:43+00:00
  - tags: ['billionaires', 'climate change', 'cop27', 'elites', 'hypocrisy']
-
- ## Tech outlook for a GOP Congress: More noise, even less action
- - [https://www.axios.com/2022/11/07/midterms-tech-policy-congress-control](https://www.axios.com/2022/11/07/midterms-tech-policy-congress-control)
- - date_published: 2022-11-07T14:20:50+00:00
- - tags: ['antitrust', 'big brother', 'big tech', 'usa']
- - date_dead_since: 2025-08-02T14:00:09.787888+00:00
 
  ## TikTok ships “opium version” to world and less addictive app to Chinese audience | ADN América
  - [https://adnamerica.com/en/united-states/tiktok-ships-opium-version-world-and-less-addictive-app-chinese-audience](https://adnamerica.com/en/united-states/tiktok-ships-opium-version-world-and-less-addictive-app-chinese-audience)
@@ -7714,7 +7717,6 @@
  - [https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html](https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html)
  - date_published: 2022-11-09T10:00:23+00:00
  - tags: ['smartphone']
- - date_dead_since: 2025-08-02T12:20:15.161253+00:00
 
  ## Xi Jinping tells China’s army to focus on preparation for war
  - [https://www.theguardian.com/world/2022/nov/09/xi-jinping-tells-chinas-army-to-focus-on-preparation-for-war](https://www.theguardian.com/world/2022/nov/09/xi-jinping-tells-chinas-army-to-focus-on-preparation-for-war)
@@ -7891,9 +7893,8 @@
 
  ## Google Agrees to $392 Million Privacy Settlement With 40 States
  - [https://www.nytimes.com/2022/11/14/technology/google-privacy-settlement.html](https://www.nytimes.com/2022/11/14/technology/google-privacy-settlement.html)
- - date_published: 2022-11-14T16:43:47+00:00
+ - date_published: 2022-11-14T16:26:43+00:00
  - tags: ['google', 'privacy', 'tracking']
- - date_dead_since: 2025-03-15T17:12:11.300967+00:00
 
  ## Disney+ demands users’ age and gender so it can “deliver targeted advertising”
  - [https://reclaimthenet.org/disney-plus-demands-users-age-and-gender](https://reclaimthenet.org/disney-plus-demands-users-age-and-gender)
@@ -7954,7 +7955,6 @@
  - [https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2](https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2)
  - date_published: 2022-11-16T15:29:11+00:00
  - tags: ['open source', 'tool rot']
- - date_dead_since: 2025-08-02T08:18:42.881893+00:00
 
  ## Why Is Super Creep Klaus Schwab Even At The G-20 Summit?
  - [https://www.dailywire.com/news/why-is-super-creep-klaus-schwab-even-at-the-g-20-summit](https://www.dailywire.com/news/why-is-super-creep-klaus-schwab-even-at-the-g-20-summit)
@@ -8101,6 +8101,11 @@
  - date_published: 2022-11-23T09:33:40+00:00
  - tags: ['algorithms', 'big tech', 'smart home', 'voice assistant']
 
+ ## Earth Now Has 8 Billion Humans. This Man Wishes There Were None.
+ - [https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html](https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html)
+ - date_published: 2022-11-23T10:00:22+00:00
+ - tags: ['depopulation', 'propaganda', 'voluntary human extinction']
+
  ## Mercedes locks faster acceleration behind a yearly $1,200 subscription - The Verge
  - [https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price](https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price)
  - date_published: 2022-11-23T14:24:10+00:00
@@ -8115,12 +8120,6 @@
  - [https://www.zdnet.com/article/best-raspberry-pi-alternative](https://www.zdnet.com/article/best-raspberry-pi-alternative)
  - date_published: 2022-11-23T18:27:29+00:00
  - tags: ['raspberry pi']
-
- ## Earth Now Has 8 Billion Humans. This Man Wishes There Were None.
- - [https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html](https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html)
- - date_published: 2022-11-23T20:42:36+00:00
- - tags: ['depopulation', 'propaganda', 'voluntary human extinction']
- - date_dead_since: 2025-08-02T06:03:40.425739+00:00
 
  ## Interconnected, a blog by Matt Webb
  - [https://interconnected.org/home](https://interconnected.org/home)
@@ -8155,6 +8154,11 @@
  - [https://www.makeuseof.com/why-consider-duckduckgo](https://www.makeuseof.com/why-consider-duckduckgo)
  - date_published: 2022-11-24T08:42:39+00:00
  - tags: ['duckduckgo', 'privacy', 'tracking']
+
+ ## Tax Filing Websites Caught Sending Users’ Financial Data to Facebook
+ - [https://www.extremetech.com/internet/341111-tax-filing-websites-caught-sending-users-financial-data-to-facebook](https://www.extremetech.com/internet/341111-tax-filing-websites-caught-sending-users-financial-data-to-facebook)
+ - date_published: 2022-11-24T09:03:46+00:00
+ - tags: ['facebook', 'privacy']
 
  ## Right to abortion in France: The necessary steps before it gets enshrined in the constitution
  - [https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html](https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html)
@@ -8195,24 +8199,16 @@
  - [https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469](https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469)
  - date_published: 2022-11-26T10:30:00+00:00
  - tags: ['climate change', 'science', 'science is dead']
- - date_dead_since: 2025-08-02T04:59:41.024054+00:00
 
  ## Animated Gay Teen Romance Film Is Woke Disney’s Latest Box-Office Bomb
  - [https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb](https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb)
  - date_published: 2022-11-26T11:42:23+00:00
  - tags: ['disney', 'go woke go broke', 'lgbt', 'the left wing']
 
- ## Tax Filing Websites Caught Sending Users’ Financial Data to Facebook
- - [https://www.extremetech.com/internet/341111-tax-filing-websites-caught-sending-users-financial-data-to-facebook](https://www.extremetech.com/internet/341111-tax-filing-websites-caught-sending-users-financial-data-to-facebook)
- - date_published: 2022-11-26T12:19:20+00:00
- - tags: ['facebook', 'privacy']
- - date_dead_since: 2025-03-15T04:03:37.141777+00:00
-
  ## WhatsApp data leak: 500M user records for sale
  - [https://cybernews.com/news/whatsapp-data-leak](https://cybernews.com/news/whatsapp-data-leak)
  - date_published: 2022-11-26T13:41:53+00:00
  - tags: ['data leak', 'privacy', 'whatsapp']
- - date_dead_since: 2025-08-02T04:43:41.318115+00:00
 
  ## Former CEO says he considered suicide after suffering 'social terrorism' from co-workers for views
  - [https://www.dailymail.co.uk/news/article-11472163/Former-CEO-says-considered-suicide-suffering-social-terrorism-workers-views.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11472163/Former-CEO-says-considered-suicide-suffering-social-terrorism-workers-views.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
