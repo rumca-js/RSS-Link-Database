@@ -6010,11 +6010,6 @@
  - date_published: 2022-10-10T19:08:00+00:00
  - tags: ['california', 'crisis']
 
- ## Science is the belief in the ignorance of experts
- - [https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts](https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts)
- - date_published: 2022-10-10T23:31:37+00:00
- - tags: ['dogma', 'science', 'science is dead']
-
  ## California makes it illegal for doctors to disagree with politicians
  - [https://nypost.com/2022/10/10/california-makes-it-illegal-for-doctors-to-disagree-with-politicians](https://nypost.com/2022/10/10/california-makes-it-illegal-for-doctors-to-disagree-with-politicians)
  - date_published: 2022-10-10T23:39:39+00:00

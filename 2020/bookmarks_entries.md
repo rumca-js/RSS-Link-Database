@@ -780,6 +780,11 @@
  - date_published: 2020-07-12T08:46:19+00:00
  - tags: ['all lives matter', 'black lives matter', 'censorship', 'racism', 'reddit', 'technofeudalism']
 
+ ## Science is the belief in the ignorance of experts
+ - [https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts](https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts)
+ - date_published: 2020-07-12T16:22:46+00:00
+ - tags: ['dogma', 'science', 'science is dead']
+
  ## George Soros’s Foundation Pours $220 Million Into Racial Equality Push - The New York Times
  - [https://www.nytimes.com/2020/07/13/us/politics/george-soros-racial-justice-organizations.html](https://www.nytimes.com/2020/07/13/us/politics/george-soros-racial-justice-organizations.html)
  - date_published: 2020-07-13T08:43:45+00:00
