@@ -784,6 +784,11 @@
  - date_published: 2025-11-04T21:41:23+00:00
  - tags: ['israel']
 
+ ## Budget Samsung phones shipped with unremovable spyware, say researchers
+ - [https://www.malwarebytes.com/blog/news/2025/11/budget-samsung-phones-shipped-with-unremovable-spyware-say-researchers](https://www.malwarebytes.com/blog/news/2025/11/budget-samsung-phones-shipped-with-unremovable-spyware-say-researchers)
+ - date_published: 2025-11-20T21:30:00+00:00
+ - tags: ['israel', 'privacy', 'surveillance']
+
  ## AdBlock and Signal are for terrorists, according to French govt (2023) [video]
  - [https://www.youtube.com/watch?v=1q1hjmwLqe4](https://www.youtube.com/watch?v=1q1hjmwLqe4)
  - date_published: 2025-11-27T00:20:37+00:00

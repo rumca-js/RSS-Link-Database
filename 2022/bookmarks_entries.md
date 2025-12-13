@@ -4256,6 +4256,11 @@
  - date_published: 2022-09-08T08:35:00+00:00
  - tags: ['lgbt', 'propaganda', 'the left wing']
 
+ ## More than 80% of websites you visit are stealing your data
+ - [https://www.digitaltrends.com/computing/over-80-of-websites-you-visit-could-be-leaking-your-data](https://www.digitaltrends.com/computing/over-80-of-websites-you-visit-could-be-leaking-your-data)
+ - date_published: 2022-09-08T09:58:58+00:00
+ - tags: ['big tech', 'internet', 'privacy', 'social media', 'surveillance']
+
  ## MEP Cristian Terhes Grills AstraZeneca, Moderna About Vaccines and Contracts During EU Covid Committee Meeting - Europe Reloaded
  - [https://www.europereloaded.com/mep-cristian-terhes-grills-astrazeneca-moderna-about-vaccines-and-vaccine-contracts-during-eu-covid-committee-meeting](https://www.europereloaded.com/mep-cristian-terhes-grills-astrazeneca-moderna-about-vaccines-and-vaccine-contracts-during-eu-covid-committee-meeting)
  - date_published: 2022-09-08T11:29:53+00:00
@@ -4269,10 +4274,10 @@
  - [https://www.bankier.pl/wiadomosc/Niemcy-maja-problem-gazem-Mozliwe-blackouty-8402880.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemcy-maja-problem-gazem-Mozliwe-blackouty-8402880.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2022-09-08T15:31:00+00:00
 
- ## More than 80% of websites you visit are stealing your data
- - [https://www.digitaltrends.com/computing/over-80-of-websites-you-visit-could-be-leaking-your-data](https://www.digitaltrends.com/computing/over-80-of-websites-you-visit-could-be-leaking-your-data)
- - date_published: 2022-09-08T16:58:58+00:00
- - tags: ['big tech', 'internet', 'privacy', 'social media', 'surveillance']
+ ## Companies are buying large numbers of carbon offsets that don’t cut emissions
+ - [https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900](https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900)
+ - date_published: 2022-09-08T15:34:00+00:00
+ - tags: ['climate change', 'climate drama', 'science is dead']
 
  ## Why the iPhone 14's eSIM Might Be a Problem for You
  - [https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200](https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200)
@@ -4297,6 +4302,10 @@
  - [https://xeiaso.net/blog/patreon-happening](https://xeiaso.net/blog/patreon-happening)
  - date_published: 2022-09-09T08:47:46.525349+00:00
 
+ ## Hackers can now sneak malware into the GIFs you share
+ - [https://www.digitaltrends.com/computing/hackers-sneak-malware-into-gifs](https://www.digitaltrends.com/computing/hackers-sneak-malware-into-gifs)
+ - date_published: 2022-09-09T10:16:02+00:00
+
  ## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
  - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
  - date_published: 2022-09-09T11:00:00+00:00
@@ -4314,12 +4323,6 @@
  - date_published: 2022-09-09T11:23:47+00:00
  - tags: ['cbdc', 'technofeudalism']
 
- ## Companies are buying large numbers of carbon offsets that don’t cut emissions
- - [https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900](https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900)
- - date_published: 2022-09-09T16:01:08+00:00
- - tags: ['climate change', 'climate drama', 'science is dead']
- - date_dead_since: 2025-08-04T22:14:09.512952+00:00
-
  ## Lauded Federal Data Privacy Bill Has A Carveout For Government Surveillance
  - [https://www.dailywire.com/news/lauded-federal-data-privacy-bill-has-a-carveout-for-government-surveillance](https://www.dailywire.com/news/lauded-federal-data-privacy-bill-has-a-carveout-for-government-surveillance)
  - date_published: 2022-09-09T16:04:08+00:00
@@ -4327,10 +4330,6 @@
  ## Apple could lose billions after DOJ slaps Google with antitrust action
  - [https://www.androidauthority.com/google-doj-antitrust-action-3207188](https://www.androidauthority.com/google-doj-antitrust-action-3207188)
  - date_published: 2022-09-09T16:31:43+00:00
-
- ## Hackers can now sneak malware into the GIFs you share
- - [https://www.digitaltrends.com/computing/hackers-sneak-malware-into-gifs](https://www.digitaltrends.com/computing/hackers-sneak-malware-into-gifs)
- - date_published: 2022-09-09T17:16:02+00:00
 
  ## 1249 Athlete Heart Attacks, 847 Dead, Since Last Year - Slay News
  - [https://slaynews.com/news/1249-athlete-heart-attacks-847-dead-since-last-year](https://slaynews.com/news/1249-athlete-heart-attacks-847-dead-since-last-year)
@@ -4437,6 +4436,7 @@
  ## Rodzice masowo odmawiają obowiązkowych szczepień. Padł rekord
  - [https://www.wykop.pl/link/6813711/rodzice-masowo-odmawiaja-obowiazkowych-szczepien-padl-rekord](https://www.wykop.pl/link/6813711/rodzice-masowo-odmawiaja-obowiazkowych-szczepien-padl-rekord)
  - date_published: 2022-09-12T16:29:02+00:00
+ - date_dead_since: 2025-12-12T20:17:58.651054+00:00
 
  ## Google now owns the firm that found SolarWinds
  - [https://www.theverge.com/2022/9/12/23349213/google-mandiant-acquisition-cloud-security-threat-intelligence](https://www.theverge.com/2022/9/12/23349213/google-mandiant-acquisition-cloud-security-threat-intelligence)
@@ -5001,7 +5001,6 @@
  - [https://www.wsj.com/articles/cdc-oversells-the-bivalent-covid-shot-hospitalizations-vaccine-booster-omicron-pandemic-pfizer-moderna-china-illness-death-11663793472](https://www.wsj.com/articles/cdc-oversells-the-bivalent-covid-shot-hospitalizations-vaccine-booster-omicron-pandemic-pfizer-moderna-china-illness-death-11663793472)
  - date_published: 2022-09-21T13:36:42+00:00
  - tags: ['big pharma', 'covid', 'covid lie', 'vaccine']
- - date_dead_since: 2025-08-04T10:40:09.512481+00:00
 
  ## TikTok Cracks Down on Political Content
  - [https://gizmodo.com/tiktok-midterms-politics-influencers-social-media-1849562186](https://gizmodo.com/tiktok-midterms-politics-influencers-social-media-1849562186)
