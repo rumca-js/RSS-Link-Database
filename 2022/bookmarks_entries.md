@@ -2993,7 +2993,6 @@
  ## Spearphishing: it can happen to you too - Xe
  - [https://xeiaso.net/blog/spearphishing](https://xeiaso.net/blog/spearphishing)
  - date_published: 2022-07-09T21:18:16.866956+00:00
- - date_dead_since: 2025-08-05T21:53:44.650037+00:00
 
  ## Monitoring tiny web services
  - [https://jvns.ca/blog/2022/07/09/monitoring-small-web-services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services)
@@ -3273,6 +3272,7 @@
  - [https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take)
  - date_published: 2022-07-29T07:21:23+00:00
  - tags: ['microsoft', 'palladium', 'pluton', 'secure boot', 'tpm', 'web environment integrity']
+ - date_dead_since: 2025-12-13T17:23:57.163952+00:00
 
  ## Bristol Drag queen children's story hour disrupted by protests - BBC News
  - [https://www.bbc.com/news/uk-england-bristol-62335147](https://www.bbc.com/news/uk-england-bristol-62335147)
@@ -3310,11 +3310,6 @@
  - [https://nypost.com/2022/09/01/californians-asked-not-to-charge-electric-cars-amid-heat-wave](https://nypost.com/2022/09/01/californians-asked-not-to-charge-electric-cars-amid-heat-wave)
  - date_published: 2022-08-01T20:36:35+00:00
  - tags: ['california', 'climate change', 'electric vehicles', 'technofeudalism']
-
- ## TikTok Diagnosis Videos Leave Some Teens Thinking They Have Rare Mental Disorders - WSJ
- - [https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602](https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602)
- - date_published: 2022-08-02T09:20:55.318842+00:00
- - date_dead_since: 2025-08-05T16:40:16.184210+00:00
 
  ## How I Used DALL·E 2 to Generate The Logo for OctoSQL | Jacob Martin
  - [https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql](https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql)
@@ -3537,7 +3532,6 @@
  - [https://www.wsj.com/articles/twitter-becomes-a-tool-of-government-censors-alex-berenson-twitter-facebook-ban-covid-misinformation-first-amendment-psaki-murthy-section-230-antitrust-11660732095](https://www.wsj.com/articles/twitter-becomes-a-tool-of-government-censors-alex-berenson-twitter-facebook-ban-covid-misinformation-first-amendment-psaki-murthy-section-230-antitrust-11660732095)
  - date_published: 2022-08-17T08:35:54+00:00
  - tags: ['alex berenson', 'big brother', 'censorship', 'covid', 'manufacturing consent', 'twitter']
- - date_dead_since: 2025-08-05T12:34:12.734041+00:00
 
  ## University Professor Explains Surprising Ties Between Abortion and ‘LGBT’ Identity
  - [https://dailycitizen.focusonthefamily.com/university-professor-explains-surprising-ties-between-abortion-and-lgbt-identity](https://dailycitizen.focusonthefamily.com/university-professor-explains-surprising-ties-between-abortion-and-lgbt-identity)
@@ -3687,6 +3681,7 @@
  - [https://socialpsych.blogs.pace.edu/2017/12/12/how-social-media-affects-our-behavior](https://socialpsych.blogs.pace.edu/2017/12/12/how-social-media-affects-our-behavior)
  - date_published: 2022-08-24T12:04:50.005772+00:00
  - tags: ['skinner box', 'social media']
+ - date_dead_since: 2025-12-13T10:19:09.607276+00:00
 
  ## What is Smart City Surveillance?
  - [https://www.briefcam.com/resources/blog/what-is-smart-city-surveillance](https://www.briefcam.com/resources/blog/what-is-smart-city-surveillance)
@@ -3812,6 +3807,7 @@
  - [https://m.wirtualnemedia.pl/m/artykul/niemiecki-wydawca-wycofuje-ksiazki-o-winnetou-razism#.YwxIfjV-QSA.wykop](https://m.wirtualnemedia.pl/m/artykul/niemiecki-wydawca-wycofuje-ksiazki-o-winnetou-razism#.YwxIfjV-QSA.wykop)
  - date_published: 2022-08-29T08:37:40.696185+00:00
  - tags: ['censorship', 'fahrenheit 451', 'karl may', 'the left wing']
+ - date_dead_since: 2025-12-13T07:46:52.015340+00:00
 
  ## Weryfikatorzy faktów Facebooka będą komentowali wpisy... nieweryfikowalne
  - [https://ithardware.pl/aktualnosci/weryfikatorzy_faktow_facebooka_beda_komentowali_wpisy_nieweryfikowalne-22997.html](https://ithardware.pl/aktualnosci/weryfikatorzy_faktow_facebooka_beda_komentowali_wpisy_nieweryfikowalne-22997.html)
@@ -3886,13 +3882,13 @@
  - [https://www.nytimes.com/2022/09/01/world/asia/china-covid-lockdown-chengdu.html](https://www.nytimes.com/2022/09/01/world/asia/china-covid-lockdown-chengdu.html)
  - date_published: 2022-09-01T06:56:43+00:00
 
+ ## Apple’s antivirus strategy for Mac has gone fully preemptive, but is that enough?
+ - [https://www.digitaltrends.com/computing/mac-anti-antivirus-fully-preemptive](https://www.digitaltrends.com/computing/mac-anti-antivirus-fully-preemptive)
+ - date_published: 2022-09-01T10:55:35+00:00
+
  ## Things not available when someone blocks all cookies
  - [https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies](https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies)
  - date_published: 2022-09-01T11:17:13.779268+00:00
-
- ## Apple’s antivirus strategy for Mac has gone fully preemptive, but is that enough?
- - [https://www.digitaltrends.com/computing/mac-anti-antivirus-fully-preemptive](https://www.digitaltrends.com/computing/mac-anti-antivirus-fully-preemptive)
- - date_published: 2022-09-01T17:55:35+00:00
 
  ## The Twitter Whistleblower Story Is Worse Than You Think
  - [https://www.kolide.com/blog/the-twitter-whistleblower-story-is-worse-than-you-think](https://www.kolide.com/blog/the-twitter-whistleblower-story-is-worse-than-you-think)

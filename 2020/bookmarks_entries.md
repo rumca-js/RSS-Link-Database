@@ -264,6 +264,7 @@
  ## part 1: antisoftware action | anti software software club
  - [https://antisoftware.club/manifesto/2020/03/16/part-1.html](https://antisoftware.club/manifesto/2020/03/16/part-1.html)
  - date_published: 2020-03-16T00:00:00+00:00
+ - date_dead_since: 2025-12-13T12:59:10.100756+00:00
 
  ## Did Video Show Italian Army Trucks Transporting Coffins Amid COVID-19 Pandemic? | Snopes.com
  - [https://www.snopes.com/fact-check/italy-army-coffins-coronavirus](https://www.snopes.com/fact-check/italy-army-coffins-coronavirus)

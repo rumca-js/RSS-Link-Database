@@ -4306,6 +4306,10 @@
  - [https://threedots.tech/post/common-anti-patterns-in-go-web-applications](https://threedots.tech/post/common-anti-patterns-in-go-web-applications)
  - date_published: 2021-12-25T21:50:47.079346+00:00
 
+ ## TikTok Diagnosis Videos Leave Some Teens Thinking They Have Rare Mental Disorders - WSJ
+ - [https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602](https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602)
+ - date_published: 2021-12-26T10:30:00+00:00
+
  ## Covid-induced poverty: Nearly 100 million people may stay poor this year from the pandemic | CNN Business
  - [https://edition.cnn.com/2021/12/26/business/global-poverty-covid-pandemic-intl-hnk/index.html](https://edition.cnn.com/2021/12/26/business/global-poverty-covid-pandemic-intl-hnk/index.html)
  - date_published: 2021-12-26T19:34:40+00:00
