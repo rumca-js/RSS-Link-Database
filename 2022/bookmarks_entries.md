@@ -1526,6 +1526,10 @@
  - date_published: 2022-03-27T11:00:25.822831+00:00
  - tags: ['corporatocracy', 'google', 'technofeudalism']
 
+ ## What Is ‘Medical Gaslighting’ and How Can You Elevate Health Care - The New York Times
+ - [https://www.nytimes.com/2022/03/28/well/live/gaslighting-doctors-patients-health.html](https://www.nytimes.com/2022/03/28/well/live/gaslighting-doctors-patients-health.html)
+ - date_published: 2022-03-28T09:00:08+00:00
+
  ## Yet Another GitHub Profile Generator - House Absolute(ly Pointless)
  - [https://blog.urth.org/2022/03/28/yet-another-github-profile-generator](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator)
  - date_published: 2022-03-28T10:09:46+00:00
@@ -1562,9 +1566,8 @@
 
  ## Biden to Receive Second Pfizer Booster After Covid Remarks - The New York Times
  - [https://www.nytimes.com/2022/03/30/us/politics/biden-second-booster-covid.html](https://www.nytimes.com/2022/03/30/us/politics/biden-second-booster-covid.html)
- - date_published: 2022-03-30T20:51:14+00:00
+ - date_published: 2022-03-30T16:44:34+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-08-06T23:28:34.679223+00:00
 
  ## Emily Bridges: Transgender cyclist will not race in women's National Omnium event - BBC Sport
  - [https://www.bbc.co.uk/sport/cycling/60934099](https://www.bbc.co.uk/sport/cycling/60934099)
@@ -1645,7 +1648,6 @@
  - [https://academic.oup.com/cid/article/75/1/e545/6563799](https://academic.oup.com/cid/article/75/1/e545/6563799)
  - date_published: 2022-04-05T05:10:27+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-08-06T21:59:29.083820+00:00
 
  ## Exit Interviews Are a Trap - Jacob Kaplan-Moss
  - [https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap](https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap)
@@ -1784,11 +1786,6 @@
  - [https://lof.flounder.online/gemlog/2022-04-11%20How%20I%20decided%20to%20move%20away%20for%20bigTech%20for%20my%20children%20and%20myself.gmi](https://lof.flounder.online/gemlog/2022-04-11%20How%20I%20decided%20to%20move%20away%20for%20bigTech%20for%20my%20children%20and%20myself.gmi)
  - date_published: 2022-04-11T15:46:15.012602+00:00
 
- ## What Is ‘Medical Gaslighting’ and How Can You Elevate Health Care - The New York Times
- - [https://www.nytimes.com/2022/03/28/well/live/gaslighting-doctors-patients-health.html](https://www.nytimes.com/2022/03/28/well/live/gaslighting-doctors-patients-health.html)
- - date_published: 2022-04-11T21:05:12.832082+00:00
- - date_dead_since: 2025-08-06T19:18:29.161605+00:00
-
  ## Kevin Lee: The Briton who plays the bad guy in China's patriotic movies - BBC News
  - [https://www.bbc.co.uk/news/world-asia-china-60798556](https://www.bbc.co.uk/news/world-asia-china-60798556)
  - date_published: 2022-04-11T23:40:57.895855+00:00
@@ -1829,6 +1826,10 @@
  ## Why is selling software so weird?
  - [https://www.zeptonaut.com/posts/selling-software-is-weird](https://www.zeptonaut.com/posts/selling-software-is-weird)
  - date_published: 2022-04-14T11:17:59.289138+00:00
+
+ ## Quartz is taking down the paywall on QZ.com — Quartz
+ - [https://qz.com/2154695/quartz-is-taking-down-the-paywall-on-qz-com](https://qz.com/2154695/quartz-is-taking-down-the-paywall-on-qz-com)
+ - date_published: 2022-04-14T13:00:12+00:00
 
  ## Elon Musk Wants to Buy Out Twitter (TWTR) in Final $43 Billion Unsolicited Bid - Bloomberg
  - [https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter](https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter)
@@ -1875,11 +1876,6 @@
  ## The musl preprocessor debate | The Cat Fox Life
  - [https://catfox.life/2022/04/16/the-musl-preprocessor-debate](https://catfox.life/2022/04/16/the-musl-preprocessor-debate)
  - date_published: 2022-04-17T01:01:57+00:00
-
- ## Quartz is taking down the paywall on QZ.com — Quartz
- - [https://qz.com/2154695/quartz-is-taking-down-the-paywall-on-qz-com](https://qz.com/2154695/quartz-is-taking-down-the-paywall-on-qz-com)
- - date_published: 2022-04-17T17:18:17.699849+00:00
- - date_dead_since: 2025-08-06T17:33:40.253547+00:00
 
  ## Be less technical
  - [https://www.sequential.dev/posts/be-less-technical](https://www.sequential.dev/posts/be-less-technical)
@@ -1932,7 +1928,6 @@
  ## ‘Jack Dorsey’s First Tweet’ NFT Went on Sale for $48M. It Ended With a Top Bid of Just $280
  - [https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280](https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280)
  - date_published: 2022-04-21T06:45:19.870657+00:00
- - date_dead_since: 2025-08-06T16:43:28.909279+00:00
 
  ## Tory health minister Sajid Javid attacks NHS gender services for trans kids
  - [https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans](https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans)
@@ -2143,15 +2138,14 @@
  - date_published: 2022-05-06T13:36:00+00:00
  - tags: ['selfhost', 'vulnerability']
 
+ ## Amazon Fires Senior Managers Tied to Unionized Staten Island Warehouse - The New York Times
+ - [https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html](https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html)
+ - date_published: 2022-05-06T17:08:18+00:00
+ - tags: ['amazon', 'big tech']
+
  ## Your Phone May Soon Replace Many of Your Passwords – Krebs on Security
  - [https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords](https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords)
  - date_published: 2022-05-07T19:40:59.661427+00:00
-
- ## Amazon Fires Senior Managers Tied to Unionized Staten Island Warehouse - The New York Times
- - [https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html](https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html)
- - date_published: 2022-05-08T06:59:02.741911+00:00
- - tags: ['amazon', 'big tech']
- - date_dead_since: 2025-08-06T12:59:28.871685+00:00
 
  ## Apple's Director of Machine Learning Resigns Due to Return to Office Work - MacRumors
  - [https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns](https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns)
@@ -2163,8 +2157,7 @@
 
  ## Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night. - The New York Times
  - [https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html](https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html)
- - date_published: 2022-05-08T14:58:19.864834+00:00
- - date_dead_since: 2025-08-06T12:44:34.669438+00:00
+ - date_published: 2022-05-08T09:00:25+00:00
 
  ## robocadey: Shitposting as a Service - Xe
  - [https://xeiaso.net/blog/robocadey-2022-04-30](https://xeiaso.net/blog/robocadey-2022-04-30)
@@ -2401,7 +2394,6 @@
  - [https://www.boundless.com/blog/ice-spies-on-majority-of-americans](https://www.boundless.com/blog/ice-spies-on-majority-of-americans)
  - date_published: 2022-05-26T07:34:48+00:00
  - tags: ['ice', 'privacy', 'surveillance', 'tracking']
- - date_dead_since: 2025-08-06T07:29:38.687828+00:00
 
  ## How I Hacked my Car Part 3: Making Software :: Programming With Style
  - [https://programmingwithstyle.com/posts/howihackedmycarpart3](https://programmingwithstyle.com/posts/howihackedmycarpart3)
@@ -2429,6 +2421,10 @@
  - [https://evanhahn.com/a-decade-of-dotfiles](https://evanhahn.com/a-decade-of-dotfiles)
  - date_published: 2022-05-29T00:00:00+00:00
 
+ ## Opinion | Stop Pretending All Books Are Written in English - The New York Times
+ - [https://www.nytimes.com/2022/05/29/opinion/translator-credit-cover.html](https://www.nytimes.com/2022/05/29/opinion/translator-credit-cover.html)
+ - date_published: 2022-05-29T10:00:07+00:00
+
  ## My students cheated... A lot • crumplab
  - [https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
  - date_published: 2022-05-29T11:00:57.393519+00:00
@@ -2447,7 +2443,6 @@
  - [https://www.spiceworks.com/it-security/data-security/news/big-tech-state-privacy-laws](https://www.spiceworks.com/it-security/data-security/news/big-tech-state-privacy-laws)
  - date_published: 2022-05-30T07:37:04+00:00
  - tags: ['corporatocracy', 'privacy', 'surveillance', 'tracking']
- - date_dead_since: 2025-08-06T06:49:38.555188+00:00
 
  ## Major Version Numbers are Not Sacred
  - [https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.html](https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.html)
@@ -2475,10 +2470,6 @@
  - [https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers](https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers)
  - date_published: 2022-05-31T13:00:00+00:00
 
- ## Unknown Sender: The Mystery of the Circleville Letters
- - [https://getpocket.com/explore/item/unknown-sender-the-mystery-of-the-circleville-letters](https://getpocket.com/explore/item/unknown-sender-the-mystery-of-the-circleville-letters)
- - date_published: 2022-05-31T15:55:47.176341+00:00
-
  ## Tulsi Gabbard On WEF ‘Great Reset’ Agenda: ‘Must Be Condemned By Us All’
  - [https://americanfaith.com/tulsi-gabbard-on-wef-great-reset-agenda-must-be-condemned-by-us-all](https://americanfaith.com/tulsi-gabbard-on-wef-great-reset-agenda-must-be-condemned-by-us-all)
  - date_published: 2022-05-31T20:23:26+00:00
@@ -2497,11 +2488,6 @@
  ## Taiwan Restricts Russia, Belarus to CPUs Under 25 MHz Frequency | Tom's Hardware
  - [https://www.tomshardware.com/news/taiwan-restricts-exports-of-25mhz-cpus-to-russia](https://www.tomshardware.com/news/taiwan-restricts-exports-of-25mhz-cpus-to-russia)
  - date_published: 2022-06-01T17:24:29+00:00
-
- ## Opinion | Stop Pretending All Books Are Written in English - The New York Times
- - [https://www.nytimes.com/2022/05/29/opinion/translator-credit-cover.html](https://www.nytimes.com/2022/05/29/opinion/translator-credit-cover.html)
- - date_published: 2022-06-01T19:35:42.937097+00:00
- - date_dead_since: 2025-08-06T05:58:44.483939+00:00
 
  ## A Year After the Capitol Riot, Nothing Useful Has Been Done
  - [https://jacobin.com/2022/01/january-6-capitol-riot-trump-conspiracy-cable-news-national-security-state](https://jacobin.com/2022/01/january-6-capitol-riot-trump-conspiracy-cable-news-national-security-state)
@@ -2586,7 +2572,6 @@
  ## I Cheated on My Microsoft Interview | The Facet Blog
  - [https://www.facet.net/posts/i-cheated-on-my-microsoft-interview](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
  - date_published: 2022-06-05T12:24:33.022054+00:00
- - date_dead_since: 2025-08-06T04:28:36.863180+00:00
 
  ## Telegram reportedly surrendered user data to authorities despite insisting '0 bytes' had ever been shared
  - [https://www.androidpolice.com/telegram-germany-user-data-surrendered](https://www.androidpolice.com/telegram-germany-user-data-surrendered)
@@ -2809,14 +2794,13 @@
  - date_published: 2022-06-23T07:14:08.784166+00:00
  - date_dead_since: 2025-08-06T01:08:39.193058+00:00
 
+ ## Teens Are Getting Sick From Products With High THC Levels - The New York Times
+ - [https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html](https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html)
+ - date_published: 2022-06-23T09:00:28+00:00
+
  ## Hardening the Registers: A Cascading Failure of Edge Induced Fault Tolerance
  - [https://tech.target.com/blog/hardening-the-registers](https://tech.target.com/blog/hardening-the-registers)
  - date_published: 2022-06-23T15:56:48.821062+00:00
-
- ## Teens Are Getting Sick From Products With High THC Levels - The New York Times
- - [https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html](https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html)
- - date_published: 2022-06-23T17:18:46.909713+00:00
- - date_dead_since: 2025-08-06T00:54:38.442105+00:00
 
  ## Observations on 6 years of journaling | ᕕ( ᐛ )ᕗ Herman's blog
  - [https://herman.bearblog.dev/years-of-journaling](https://herman.bearblog.dev/years-of-journaling)

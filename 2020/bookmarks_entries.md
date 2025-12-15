@@ -1754,6 +1754,10 @@
  - tags: ['australia', 'big brother', 'privacy', 'surveillance', 'surveillance bill']
  - date_dead_since: 2025-08-12T10:54:32.275867+00:00
 
+ ## Unknown Sender: The Mystery of the Circleville Letters
+ - [https://getpocket.com/explore/item/unknown-sender-the-mystery-of-the-circleville-letters](https://getpocket.com/explore/item/unknown-sender-the-mystery-of-the-circleville-letters)
+ - date_published: 2020-12-10T14:30:00+00:00
+
  ## Command Line Bibles
  - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
  - date_published: 2020-12-11T00:00:00+00:00
