@@ -4222,6 +4222,10 @@
  - [https://xeiaso.net/blog/princeton-study-2021-12-17](https://xeiaso.net/blog/princeton-study-2021-12-17)
  - date_published: 2021-12-20T08:35:15.361596+00:00
 
+ ## Fired for being female
+ - [https://torontolife.com/city/irene-cybulsky-surgeon-fired-for-being-female-hamilton-general-hospital](https://torontolife.com/city/irene-cybulsky-surgeon-fired-for-being-female-hamilton-general-hospital)
+ - date_published: 2021-12-20T20:18:40+00:00
+
  ## The wisdom of the shaman don Juan. Quotes and aphorisms from the work of Carlos Castaneda
  - [https://www.youtube.com/watch?v=7kWVuabom54](https://www.youtube.com/watch?v=7kWVuabom54)
  - date_published: 2021-12-21T00:00:00+00:00
@@ -4366,7 +4370,6 @@
  ## Japan's Paper Culture | JetPens
  - [https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
  - date_published: 2021-12-29T09:32:22.322888+00:00
- - date_dead_since: 2025-08-07T23:04:29.816348+00:00
 
  ## Covid: Warning over patchy lateral flow test supply - BBC News
  - [https://www.bbc.co.uk/news/uk-59814032](https://www.bbc.co.uk/news/uk-59814032)

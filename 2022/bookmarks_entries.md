@@ -51,7 +51,6 @@
  ## You don't need that CORS request - Nick Olinger
  - [https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request)
  - date_published: 2022-01-04T07:17:57.342918+00:00
- - date_dead_since: 2025-08-07T20:58:27.772335+00:00
 
  ## Jak informuje pkwp.org Facebook zmniejszył zasięgi akcji ukazującej problem gwałconych chrześcijanek w państwach islamskich. Zablokowano petycję w ich obronie.
  - [https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom](https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom)
@@ -152,11 +151,6 @@
  - [https://www.rmcybernetics.com/general/zhengbang-zb3245tss-pick-place-machine](https://www.rmcybernetics.com/general/zhengbang-zb3245tss-pick-place-machine)
  - date_published: 2022-01-09T16:48:17+00:00
 
- ## Fired for being female
- - [https://torontolife.com/city/irene-cybulsky-surgeon-fired-for-being-female-hamilton-general-hospital](https://torontolife.com/city/irene-cybulsky-surgeon-fired-for-being-female-hamilton-general-hospital)
- - date_published: 2022-01-09T17:06:49.473619+00:00
- - date_dead_since: 2025-08-07T19:08:29.796719+00:00
-
  ## New Notepad enters Windows Insider Beta Channel • The Register
  - [https://www.theregister.com/2022/01/06/notepad_update](https://www.theregister.com/2022/01/06/notepad_update)
  - date_published: 2022-01-09T18:56:37.846765+00:00
@@ -209,7 +203,6 @@
  ## LastPass appears to be holding users' passwords hostage alongside more expensive pricing plans | AlternativeTo
  - [https://alternativeto.net/news/2022/1/lastpass-seemingly-deliberately-holding-users-password-data-hostage-alongside-new-pricing-plans](https://alternativeto.net/news/2022/1/lastpass-seemingly-deliberately-holding-users-password-data-hostage-alongside-new-pricing-plans)
  - date_published: 2022-01-12T08:27:30.661457+00:00
- - date_dead_since: 2025-08-07T18:13:34.961205+00:00
 
  ## Is the madness ever going to end?
  - [https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html)
@@ -250,9 +243,8 @@
 
  ## Supreme Court Blocks Biden’s Vaccine Mandate for Large Employers - The New York Times
  - [https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html](https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html)
- - date_published: 2022-01-13T20:25:48+00:00
+ - date_published: 2022-01-13T19:41:19+00:00
  - tags: ['covid mandates', 'joe biden', 'vaccine']
- - date_dead_since: 2025-08-07T17:33:29.877757+00:00
 
  ## Transgender Healthcare in the UK: My Experience
  - [https://www.anewseducation.com/post/transgender-healthcare-in-the-uk](https://www.anewseducation.com/post/transgender-healthcare-in-the-uk)
@@ -376,14 +368,14 @@
  - [https://www.wired.com/story/22-year-old-builds-chips-parents-garage](https://www.wired.com/story/22-year-old-builds-chips-parents-garage)
  - date_published: 2022-01-20T12:00:00+00:00
 
+ ## Roblox Return to Service 10/28-10/31 2021 - Roblox Blog
+ - [https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021)
+ - date_published: 2022-01-20T15:52:00+00:00
+
  ## The Top 5 DIY Smartwatch Projects
  - [https://www.makeuseof.com/diy-smartwatch-projects](https://www.makeuseof.com/diy-smartwatch-projects)
  - date_published: 2022-01-20T19:31:45+00:00
  - tags: ['dyi', 'selfhost', 'smartwatch']
-
- ## Roblox Return to Service 10/28-10/31 2021 - Roblox Blog
- - [https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021)
- - date_published: 2022-01-21T09:06:54.936547+00:00
 
  ## The Internet Changed My Life | Pointers Gone Wild
  - [https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life](https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life)
@@ -446,7 +438,6 @@
  - [https://www.gartner.com/en/newsroom/press-releases/2022-01-24-gartner-predicts-hyperscalers-carbon-emissions-will-drive-cloud-purchase-decsions-by-2025](https://www.gartner.com/en/newsroom/press-releases/2022-01-24-gartner-predicts-hyperscalers-carbon-emissions-will-drive-cloud-purchase-decsions-by-2025)
  - date_published: 2022-01-24T10:54:00+00:00
  - tags: ['climate change', 'cloud computing', 'esg']
- - date_dead_since: 2025-08-07T14:54:29.849478+00:00
 
  ## Shell CCS facility in Canada emits more than it captures, study says
  - [https://www.cnbc.com/2022/01/24/shell-ccs-facility-in-canada-emits-more-than-it-captures-study-says.html](https://www.cnbc.com/2022/01/24/shell-ccs-facility-in-canada-emits-more-than-it-captures-study-says.html)
@@ -490,7 +481,6 @@
  - [https://www.timesofisrael.com/adl-other-jewish-groups-denounce-ongoing-terrorism-by-settler-extremists](https://www.timesofisrael.com/adl-other-jewish-groups-denounce-ongoing-terrorism-by-settler-extremists)
  - date_published: 2022-01-25T20:47:14+00:00
  - tags: ['israel', 'palestine']
- - date_dead_since: 2025-08-07T14:08:29.998303+00:00
 
  ## FDA Asks the Court to Delay First 55,000 Page Production Until May and Pfizer Moves to Intervene in the Lawsuit
  - [https://aaronsiri.substack.com/p/fda-asks-the-court-to-delay-first](https://aaronsiri.substack.com/p/fda-asks-the-court-to-delay-first)
@@ -506,7 +496,6 @@
  - [https://www.opendemocracy.net/en/opendemocracyuk/uk-government-40000-hiding-clearing-house-unit-foi-legal-battle](https://www.opendemocracy.net/en/opendemocracyuk/uk-government-40000-hiding-clearing-house-unit-foi-legal-battle)
  - date_published: 2022-01-26T19:46:09+00:00
  - tags: ['big brother', 'censorship', 'clearing house', 'covid', 'surveillance']
- - date_dead_since: 2025-08-07T13:43:29.263529+00:00
 
  ## Electric Tables V0.1
  - [https://tomcritchlow.com/2022/01/26/electric-tables](https://tomcritchlow.com/2022/01/26/electric-tables)
@@ -597,6 +586,10 @@
  - date_published: 2022-01-31T12:59:22+00:00
  - tags: ['canada', 'covid', 'freedom convoy']
 
+ ## the new hire who showed up is not the same person we interviewed — Ask a Manager
+ - [https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html](https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html)
+ - date_published: 2022-01-31T15:59:53+00:00
+
  ## The Tragic Tale of Twitter
  - [https://www.youtube.com/watch?v=7NXr-8rIOg8](https://www.youtube.com/watch?v=7NXr-8rIOg8)
  - date_published: 2022-02-01T00:00:00+00:00
@@ -606,11 +599,6 @@
  - [https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy)
  - date_published: 2022-02-01T05:32:34+00:00
  - tags: ['programming']
-
- ## the new hire who showed up is not the same person we interviewed — Ask a Manager
- - [https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html](https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html)
- - date_published: 2022-02-01T08:47:47.625540+00:00
- - date_dead_since: 2025-08-07T12:18:35.766025+00:00
 
  ## Facebook says Apple iOS privacy change will result in $10 billion revenue hit this year
  - [https://www.cnbc.com/2022/02/02/facebook-says-apple-ios-privacy-change-will-cost-10-billion-this-year.html](https://www.cnbc.com/2022/02/02/facebook-says-apple-ios-privacy-change-will-cost-10-billion-this-year.html)
@@ -656,7 +644,6 @@
  - [https://www.bizpacreview.com/2022/02/05/beginning-of-the-end-gofundme-faces-avalanche-of-backlash-after-yanking-freedom-convoy-campaign-1197369](https://www.bizpacreview.com/2022/02/05/beginning-of-the-end-gofundme-faces-avalanche-of-backlash-after-yanking-freedom-convoy-campaign-1197369)
  - date_published: 2022-02-05T06:41:16+00:00
  - tags: ['censorship', 'covid', 'gofundme', 'protest']
- - date_dead_since: 2025-08-07T11:52:35.686314+00:00
 
  ## Jan-Piet Mens :: A shell command to create JSON: jo
  - [https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo)
@@ -747,6 +734,7 @@
  - [https://dispatch.techlore.tech/p/the-real-privacy-enemy-is-ourselves-dc2188ad7eeb](https://dispatch.techlore.tech/p/the-real-privacy-enemy-is-ourselves-dc2188ad7eeb)
  - date_published: 2022-02-08T07:45:38+00:00
  - tags: ['privacy', 'tracking']
+ - date_dead_since: 2025-12-15T10:13:37.488366+00:00
 
  ## IRS To Ditch Biometric Requirement for Online Access – Krebs on Security
  - [https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access](https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access)
@@ -812,6 +800,11 @@
  - date_published: 2022-02-10T09:36:27+00:00
  - tags: ['big brother', 'crypto wars', 'earn it act', 'government control']
 
+ ## New York Times May Publish Documents About Project Veritas, Court Says - The New York Times
+ - [https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html](https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html)
+ - date_published: 2022-02-10T15:28:25+00:00
+ - tags: ['covid', 'gain of function', 'project veritas']
+
  ## How We Write GitHub Actions in Go · Blend Engineering: Full Stack Finance
  - [https://full-stack.blend.com/how-we-write-github-actions-in-go.html#authoring-an-action-todays-landscape](https://full-stack.blend.com/how-we-write-github-actions-in-go.html#authoring-an-action-todays-landscape)
  - date_published: 2022-02-10T17:04:49+00:00
@@ -820,12 +813,6 @@
  - [https://www.theverge.com/2022/2/10/22927346/earn-it-act-markup-senate-judiciary-section-230-csam-non-consensual-porn](https://www.theverge.com/2022/2/10/22927346/earn-it-act-markup-senate-judiciary-section-230-csam-non-consensual-porn)
  - date_published: 2022-02-10T17:06:43+00:00
  - tags: ['big brother', 'censorship', 'free speech']
-
- ## New York Times May Publish Documents About Project Veritas, Court Says - The New York Times
- - [https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html](https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html)
- - date_published: 2022-02-10T20:19:16+00:00
- - tags: ['covid', 'gain of function', 'project veritas']
- - date_dead_since: 2025-08-07T09:07:34.692032+00:00
 
  ## Judge freezes access to funds donated to protesting truckers in Canada : NPR
  - [https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest](https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest)
@@ -1194,7 +1181,6 @@
  ## The new silent majority: People who don't tweet
  - [https://www.axios.com/political-polarization-twitter-cable-news-ac9699c6-260d-4141-b511-5c7193566ea1.html](https://www.axios.com/political-polarization-twitter-cable-news-ac9699c6-260d-4141-b511-5c7193566ea1.html)
  - date_published: 2022-03-09T07:02:38.966803+00:00
- - date_dead_since: 2025-08-07T04:14:30.222193+00:00
 
  ## VW unveils adorable electric ID. Buzz, US sales begin in 2024 | Ars Technica
  - [https://arstechnica.com/cars/2022/03/vw-unveils-adorable-electric-id-buzz-us-sales-begin-2024](https://arstechnica.com/cars/2022/03/vw-unveils-adorable-electric-id-buzz-us-sales-begin-2024)
@@ -1329,6 +1315,10 @@
  - date_published: 2022-03-17T08:38:03.562979+00:00
  - tags: ['england', 'online safety bill']
 
+ ## Each Firefox download has a unique identifier - gHacks Tech News
+ - [https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier](https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier)
+ - date_published: 2022-03-17T15:20:58+00:00
+
  ## Szpila: Biały heteronormatywny ochrzczony Polak szkodzi planecie
  - [https://wyborcza.pl/magazyn/7,124059,28232815,szpila-bialy-heteronormatywny-ochrzczony-polak-szkodzi-planecie.html](https://wyborcza.pl/magazyn/7,124059,28232815,szpila-bialy-heteronormatywny-ochrzczony-polak-szkodzi-planecie.html)
  - date_published: 2022-03-17T16:02:27+00:00
@@ -1343,11 +1333,6 @@
  - [https://www.openrightsgroup.org/blog/online-safety-made-dangerous](https://www.openrightsgroup.org/blog/online-safety-made-dangerous)
  - date_published: 2022-03-17T19:51:57+00:00
  - tags: ['big brother', 'crypto wars', 'government control', 'online safety bill', 'tech control']
-
- ## Each Firefox download has a unique identifier - gHacks Tech News
- - [https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier](https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier)
- - date_published: 2022-03-18T07:48:20.123632+00:00
- - date_dead_since: 2025-08-07T02:18:35.440070+00:00
 
  ## Pfizer CEO Albert Bourla received $24.3 million in total compensation for 2021
  - [https://www.cnbc.com/2022/03/18/pfizer-ceo-albert-bourla-received-24point3-million-in-total-compensation-for-2021.html](https://www.cnbc.com/2022/03/18/pfizer-ceo-albert-bourla-received-24point3-million-in-total-compensation-for-2021.html)
@@ -1431,9 +1416,8 @@
 
  ## Invasion of the Fact-Checkers
  - [https://www.tabletmag.com/sections/news/articles/invasion-fact-checkers](https://www.tabletmag.com/sections/news/articles/invasion-fact-checkers)
- - date_published: 2022-03-22T13:54:27+00:00
+ - date_published: 2022-03-22T01:30:00+00:00
  - tags: ['censorship', 'fact check', 'free speech', 'misinformation']
- - date_dead_since: 2025-08-07T01:03:30.616019+00:00
 
  ## 1920s - A Trip Around The World in Color  [60fps, Remastered] w/sound design added
  - [https://www.youtube.com/watch?v=GUZ0jTU1o5s](https://www.youtube.com/watch?v=GUZ0jTU1o5s)
