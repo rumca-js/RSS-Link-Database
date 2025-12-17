@@ -43,6 +43,10 @@
  - date_published: 2014-04-01T11:11:39+00:00
  - tags: ['heartbleed', 'vulnerability']
 
+ ## soft question - Visually stunning math concepts which are easy to explain - Mathematics Stack Exchange
+ - [https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
+ - date_published: 2014-04-02T12:59:19+00:00
+
  ## Mozilla CEO resigns, opposition to gay marriage drew fire
  - [https://www.reuters.com/article/us-mozilla-ceo-resignation/mozilla-ceo-resigns-opposition-to-gay-marriage-drew-fire-idUSBREA321Y320140403](https://www.reuters.com/article/us-mozilla-ceo-resignation/mozilla-ceo-resigns-opposition-to-gay-marriage-drew-fire-idUSBREA321Y320140403)
  - date_published: 2014-04-03T09:11:24+00:00

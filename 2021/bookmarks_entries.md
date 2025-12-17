@@ -2587,6 +2587,10 @@
  - date_published: 2021-09-08T15:50:12+00:00
  - tags: ['big brother', 'censorship', 'history', 'ministry of truth', 'racism', 'sexism']
 
+ ## Outdated Answers: accepted answer is now unpinned on Stack Overflow - Meta Stack Overflow
+ - [https://meta.stackoverflow.com/questions/411352/outdated-answers-accepted-answer-is-now-unpinned-on-stack-overflow](https://meta.stackoverflow.com/questions/411352/outdated-answers-accepted-answer-is-now-unpinned-on-stack-overflow)
+ - date_published: 2021-09-08T16:05:18+00:00
+
  ## NIH Documents Provide New Evidence U.S. Funded Gain-of-Function Research in Wuhan
  - [https://theintercept.com/2021/09/09/covid-origins-gain-of-function-research](https://theintercept.com/2021/09/09/covid-origins-gain-of-function-research)
  - date_published: 2021-09-10T01:03:04+00:00
@@ -2605,29 +2609,24 @@
  - [https://www.nytimes.com/2021/09/10/travel/mask-fine-costs-flights-tsa.html](https://www.nytimes.com/2021/09/10/travel/mask-fine-costs-flights-tsa.html)
  - date_published: 2021-09-10T09:58:33+00:00
  - tags: ['covid', 'covid mandates', 'masks']
- - date_dead_since: 2025-08-08T22:44:29.827393+00:00
 
  ## Apple must allow other forms of in-app purchase, rules judge in Epic v. Apple - The Verge
  - [https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store](https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store)
  - date_published: 2021-09-10T15:24:40+00:00
+
+ ## China Makes Sure Everyone Writes Taiwan’s Name Just So—Even a Colorado High School - WSJ
+ - [https://www.wsj.com/articles/china-makes-sure-everyone-writes-taiwans-name-just-soeven-a-colorado-high-school-11631304386](https://www.wsj.com/articles/china-makes-sure-everyone-writes-taiwans-name-just-soeven-a-colorado-high-school-11631304386)
+ - date_published: 2021-09-10T20:06:00+00:00
 
  ## Our fridge just emailed us to say we opened its door too many times | Hacker News
  - [https://news.ycombinator.com/item?id=28478438](https://news.ycombinator.com/item?id=28478438)
  - date_published: 2021-09-11T08:02:30.616457+00:00
  - tags: ['corporatocracy', 'iot', 'technofeudalism']
 
- ## Outdated Answers: accepted answer is now unpinned on Stack Overflow - Meta Stack Overflow
- - [https://meta.stackoverflow.com/questions/411352/outdated-answers-accepted-answer-is-now-unpinned-on-stack-overflow](https://meta.stackoverflow.com/questions/411352/outdated-answers-accepted-answer-is-now-unpinned-on-stack-overflow)
- - date_published: 2021-09-11T08:47:57.771829+00:00
-
  ## Facebook Is Censoring People For Mentioning Open-Source Social Network Mastodon | The Changelog
  - [https://changelog.complete.org/archives/10285-facebook-censored-me-for-mentioning-open-source-social-network-mastodon](https://changelog.complete.org/archives/10285-facebook-censored-me-for-mentioning-open-source-social-network-mastodon)
  - date_published: 2021-09-12T09:54:38.994089+00:00
  - tags: ['censorship', 'facebook', 'mastodon', 'open source', 'social media']
-
- ## soft question - Visually stunning math concepts which are easy to explain - Mathematics Stack Exchange
- - [https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
- - date_published: 2021-09-12T10:05:17.694925+00:00
 
  ## The Dead Internet Theory
  - [https://www.youtube.com/watch?v=DEn758DVF9I](https://www.youtube.com/watch?v=DEn758DVF9I)
@@ -2757,7 +2756,6 @@
  - [https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html](https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html)
  - date_published: 2021-09-21T19:59:50+00:00
  - tags: ['algorithms', 'facebook', 'manufacturing consent', 'mark zuckerberg', 'meta', 'search engines', 'social media']
- - date_dead_since: 2025-08-08T20:53:29.830158+00:00
 
  ## WATCH: Bill Gates says meetings with Jeffrey Epstein were 'a mistake'
  - [https://www.youtube.com/watch?v=LNAwUxZ5nfw](https://www.youtube.com/watch?v=LNAwUxZ5nfw)
@@ -2782,6 +2780,10 @@
  - [https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278)
  - date_published: 2021-09-23T06:58:09+00:00
  - tags: ['poland', 'prawo i sprawiedliwość', 'turow']
+
+ ## Scotland becomes first country in world to embed LGBT education in school curriculum | The Scotsman
+ - [https://www.scotsman.com/news/politics/scotland-becomes-first-country-in-world-to-embed-lgbt-education-in-school-curriculum-3393389](https://www.scotsman.com/news/politics/scotland-becomes-first-country-in-world-to-embed-lgbt-education-in-school-curriculum-3393389)
+ - date_published: 2021-09-23T08:57:25+00:00
 
  ## The NSA and CIA Use Ad Blockers Because Online Advertising Is So Dangerous
  - [https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous](https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous)
@@ -2816,11 +2818,6 @@
  - [https://reclaimthenet.org/gofundme-deletes-fundraiser-for-harassed-arizona-state-students](https://reclaimthenet.org/gofundme-deletes-fundraiser-for-harassed-arizona-state-students)
  - date_published: 2021-09-26T06:39:50+00:00
  - tags: ['black lives matter', 'censorship', 'diversity', 'gofundme', 'inclusion', 'racism', 'tolerance']
-
- ## Scotland becomes first country in world to embed LGBT education in school curriculum | The Scotsman
- - [https://www.scotsman.com/news/politics/scotland-becomes-first-country-in-world-to-embed-lgbt-education-in-school-curriculum-3393389](https://www.scotsman.com/news/politics/scotland-becomes-first-country-in-world-to-embed-lgbt-education-in-school-curriculum-3393389)
- - date_published: 2021-09-26T14:32:49.753330+00:00
- - date_dead_since: 2025-08-08T20:08:35.430033+00:00
 
  ## Labour conference: Not right to say only women have a cervix, says Starmer - BBC News
  - [https://www.bbc.co.uk/news/uk-politics-58698406](https://www.bbc.co.uk/news/uk-politics-58698406)
@@ -2986,6 +2983,11 @@
  - date_published: 2021-10-06T14:23:48+00:00
  - tags: ['covid', 'covid mandates']
 
+ ## The ten trillion dollar man: how Larry Fink became king of Wall St | Financial Times
+ - [https://www.ft.com/content/7dfd1e3d-e256-4656-a96d-1204538d75cd](https://www.ft.com/content/7dfd1e3d-e256-4656-a96d-1204538d75cd)
+ - date_published: 2021-10-07T04:00:41+00:00
+ - tags: ['blackrock', 'larry fink']
+
  ## Whistleblower breaks Facebook secrecy wall, MP says - BBC News
  - [https://www.bbc.co.uk/news/technology-58816118](https://www.bbc.co.uk/news/technology-58816118)
  - date_published: 2021-10-07T07:29:17.637307+00:00
@@ -2994,7 +2996,6 @@
  - [https://www.nytimes.com/2021/10/07/sports/soccer/newcastle-saudi-premier-league.html](https://www.nytimes.com/2021/10/07/sports/soccer/newcastle-saudi-premier-league.html)
  - date_published: 2021-10-07T11:09:33+00:00
  - tags: ['human rights']
- - date_dead_since: 2025-08-08T18:13:35.354905+00:00
 
  ## Facebook banned me for life because I created the tool Unfollow Everything.
  - [https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html](https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html)
@@ -3015,12 +3016,6 @@
  - [https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy](https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy)
  - date_published: 2021-10-07T20:22:14+00:00
  - tags: ['australia', 'big brother', 'government control', 'privacy']
-
- ## The ten trillion dollar man: how Larry Fink became king of Wall St | Financial Times
- - [https://www.ft.com/content/7dfd1e3d-e256-4656-a96d-1204538d75cd](https://www.ft.com/content/7dfd1e3d-e256-4656-a96d-1204538d75cd)
- - date_published: 2021-10-07T22:46:10+00:00
- - tags: ['blackrock', 'larry fink']
- - date_dead_since: 2025-08-08T18:04:34.196764+00:00
 
  ## Facebook bans developer behind Unfollow Everything tool
  - [https://www.theverge.com/2021/10/8/22716044/facebook-unfollow-everything-tool-louis-barclay-banned-for-life](https://www.theverge.com/2021/10/8/22716044/facebook-unfollow-everything-tool-louis-barclay-banned-for-life)
@@ -3054,9 +3049,8 @@
 
  ## Moderna, Racing for Profits, Keeps Covid Vaccine Out of Reach of Poor - The New York Times
  - [https://www.nytimes.com/2021/10/09/business/moderna-covid-vaccine.html](https://www.nytimes.com/2021/10/09/business/moderna-covid-vaccine.html)
- - date_published: 2021-10-09T21:54:34+00:00
+ - date_published: 2021-10-09T14:20:05+00:00
  - tags: ['big pharma', 'covid', 'hypocrisy', 'moderna']
- - date_dead_since: 2025-08-08T17:09:35.703342+00:00
 
  ## Firefox Suggest: An Anatomy of a PR Incident
  - [https://www.quippd.com/writing/2021/10/10/firefox-suggest-an-anatomy.html](https://www.quippd.com/writing/2021/10/10/firefox-suggest-an-anatomy.html)
@@ -3085,11 +3079,6 @@
  ## Ideas | The “Phone Disaster”: How WeChat became digital traps for Chinese Uyghurs - Rest of World
  - [https://restofworld.org/2021/china-smartphone-uyghurs](https://restofworld.org/2021/china-smartphone-uyghurs)
  - date_published: 2021-10-12T10:00:00+00:00
-
- ## China Makes Sure Everyone Writes Taiwan’s Name Just So—Even a Colorado High School - WSJ
- - [https://www.wsj.com/articles/china-makes-sure-everyone-writes-taiwans-name-just-soeven-a-colorado-high-school-11631304386](https://www.wsj.com/articles/china-makes-sure-everyone-writes-taiwans-name-just-soeven-a-colorado-high-school-11631304386)
- - date_published: 2021-10-12T13:40:13.303657+00:00
- - date_dead_since: 2025-08-08T16:19:35.522736+00:00
 
  ## Magpie Driven Development (MDD) - Niche Software
  - [http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html](http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html)
@@ -3132,15 +3121,14 @@
  - [https://www.elle.com/life-love/a37507807/0106-0108-corporate-transition-october-2021](https://www.elle.com/life-love/a37507807/0106-0108-corporate-transition-october-2021)
  - date_published: 2021-10-14T12:00:00+00:00
 
+ ## Missouri governor vows criminal prosecution of reporter who found flaw in state website • Missouri Independent
+ - [https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website](https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website)
+ - date_published: 2021-10-14T15:29:31+00:00
+
  ## Sweden adds three new places to list of 'vulnerable areas' - The Local
  - [https://www.thelocal.se/20211015/three-new-entries-added-to-swedens-list-of-vulnerable-areas](https://www.thelocal.se/20211015/three-new-entries-added-to-swedens-list-of-vulnerable-areas)
  - date_published: 2021-10-15T07:23:43+00:00
  - tags: ['immigration', 'sweden']
-
- ## Missouri governor vows criminal prosecution of reporter who found flaw in state website • Missouri Independent
- - [https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website](https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website)
- - date_published: 2021-10-15T08:00:40.275009+00:00
- - date_dead_since: 2025-08-08T15:43:29.919282+00:00
 
  ## CBDCs: How Dangerous ARE They?
  - [https://hackernoon.com/cbdcs-how-dangerous-are-they](https://hackernoon.com/cbdcs-how-dangerous-are-they)
@@ -3257,6 +3245,10 @@
  - [https://iconmap.io/blog](https://iconmap.io/blog)
  - date_published: 2021-10-21T08:08:45.727953+00:00
 
+ ## Parson doubles down on push to prosecute reporter who found security flaw in state site • Missouri Independent
+ - [https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site](https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site)
+ - date_published: 2021-10-21T12:00:55+00:00
+
  ## Police Can’t Demand You Reveal Your Phone Passcode and Then Tell a Jury You Refused | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused](https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused)
  - date_published: 2021-10-21T15:29:17+00:00
@@ -3275,11 +3267,6 @@
  - [https://nypost.com/2021/10/21/faucis-agency-admits-it-funded-gain-of-function-work-in-wuhan-what-else-are-they-keeping-from-us](https://nypost.com/2021/10/21/faucis-agency-admits-it-funded-gain-of-function-work-in-wuhan-what-else-are-they-keeping-from-us)
  - date_published: 2021-10-21T23:39:00+00:00
  - tags: ['anthony fauci', 'covid', 'wuhan']
-
- ## Parson doubles down on push to prosecute reporter who found security flaw in state site • Missouri Independent
- - [https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site](https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site)
- - date_published: 2021-10-22T07:35:26.707398+00:00
- - date_dead_since: 2025-08-08T13:48:35.800147+00:00
 
  ## Netflix staff protest against 'transphobic' Dave Chappelle show - BBC News
  - [https://www.bbc.co.uk/news/world-us-canada-58990325](https://www.bbc.co.uk/news/world-us-canada-58990325)
@@ -3460,7 +3447,6 @@
  - [https://www.hopkinsmedicine.org/news/newsroom/news-releases/in-covid-19-vaccinated-people-those-with-prior-infection-likely-to-have-more-antibodies](https://www.hopkinsmedicine.org/news/newsroom/news-releases/in-covid-19-vaccinated-people-those-with-prior-infection-likely-to-have-more-antibodies)
  - date_published: 2021-11-01T21:14:18+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-08-08T11:29:30.679583+00:00
 
  ## Why Modern Movies Suck - They're Written By Children
  - [https://www.youtube.com/watch?v=CQ92cggLMx8](https://www.youtube.com/watch?v=CQ92cggLMx8)
@@ -3588,15 +3574,13 @@
 
  ## Moderna and U.S. at Odds Over Vaccine Patent Rights - The New York Times
  - [https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html](https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html)
- - date_published: 2021-11-09T20:20:34+00:00
+ - date_published: 2021-11-09T19:32:00+00:00
  - tags: ['covid', 'patents', 'vaccine']
- - date_dead_since: 2025-08-08T09:54:35.243210+00:00
 
  ## „Facebook Files”, czyli o tym, czego Facebook nie chciał nam powiedzieć
  - [https://demagog.org.pl/analizy_i_raporty/facebook-files-czyli-o-tym-czego-facebook-nie-chcial-nam-powiedziec](https://demagog.org.pl/analizy_i_raporty/facebook-files-czyli-o-tym-czego-facebook-nie-chcial-nam-powiedziec)
  - date_published: 2021-11-09T20:34:33+00:00
  - tags: ['facebook', 'facebook files', 'social media']
- - date_dead_since: 2025-08-08T09:48:35.268188+00:00
 
  ## The secret court case 50 years ago that has robbed transgender people of their rights ever since
  - [https://inews.co.uk/news/long-reads/secret-court-case-50-years-ago-robbed-transgender-people-rights-1291857](https://inews.co.uk/news/long-reads/secret-court-case-50-years-ago-robbed-transgender-people-rights-1291857)
@@ -3625,6 +3609,15 @@
  - [https://certitude.consulting/blog/en/invisible-backdoor](https://certitude.consulting/blog/en/invisible-backdoor)
  - date_published: 2021-11-11T09:27:33.629982+00:00
 
+ ## Weird English | National Review
+ - [https://www.nationalreview.com/magazine/2021/11/29/weird-english](https://www.nationalreview.com/magazine/2021/11/29/weird-english)
+ - date_published: 2021-11-11T16:06:18+00:00
+
+ ## Project Veritas: Journalists or Political Spies?  - The New York Times
+ - [https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html](https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html)
+ - date_published: 2021-11-11T22:54:15+00:00
+ - tags: ['project veritas']
+
  ## Australia’s only working carbon capture and storage project fails to meet target | Western Australia | The Guardian
  - [https://www.theguardian.com/australia-news/2021/nov/12/australias-only-working-carbon-capture-and-storage-project-fails-to-meet-target](https://www.theguardian.com/australia-news/2021/nov/12/australias-only-working-carbon-capture-and-storage-project-fails-to-meet-target)
  - date_published: 2021-11-12T04:54:51+00:00
@@ -3641,12 +3634,6 @@
  ## Breaking Printf · Phil Pearl's Blog
  - [https://philpearl.github.io/post/anathema](https://philpearl.github.io/post/anathema)
  - date_published: 2021-11-12T15:31:28.732204+00:00
-
- ## Project Veritas: Journalists or Political Spies?  - The New York Times
- - [https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html](https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html)
- - date_published: 2021-11-12T20:20:24+00:00
- - tags: ['project veritas']
- - date_dead_since: 2025-08-08T09:03:29.658482+00:00
 
  ## AstraZeneca to take profits from Covid vaccine - BBC News
  - [https://www.bbc.co.uk/news/business-59256223](https://www.bbc.co.uk/news/business-59256223)
@@ -3740,11 +3727,6 @@
  - date_published: 2021-11-18T08:10:08+00:00
  - tags: ['kyle rittenhouse']
 
- ## Weird English | National Review
- - [https://www.nationalreview.com/magazine/2021/11/29/weird-english](https://www.nationalreview.com/magazine/2021/11/29/weird-english)
- - date_published: 2021-11-18T10:52:51.747083+00:00
- - date_dead_since: 2025-08-08T07:58:29.424671+00:00
-
  ## Yes, PHP is Worth Learning/Using in $CURRENT_YEAR | Bulletproof PHP
  - [https://bulletproofphp.dev/yes-php-is-worth-using](https://bulletproofphp.dev/yes-php-is-worth-using)
  - date_published: 2021-11-18T11:49:01.091318+00:00
@@ -3779,6 +3761,11 @@
  - tags: ['censorship', 'deplatform']
  - date_dead_since: 2025-08-08T07:34:29.224567+00:00
 
+ ## Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe - The New York Times
+ - [https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html](https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html)
+ - date_published: 2021-11-19T16:35:30+00:00
+ - tags: ['covid', 'covid mandates', 'vaccine']
+
  ## GoFundMe reverses ban on Kyle Rittenhouse fundraisers after acquittal | Washington Examiner
  - [https://www.washingtonexaminer.com/news/gofundme-reverses-ban-on-kyle-rittenhouse-fundraisers-after-acquittal](https://www.washingtonexaminer.com/news/gofundme-reverses-ban-on-kyle-rittenhouse-fundraisers-after-acquittal)
  - date_published: 2021-11-20T15:49:00+00:00
@@ -3800,7 +3787,6 @@
  ## Who, and Where, Is Chinese Tennis Star Peng Shuai? - The New York Times
  - [https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html](https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html)
  - date_published: 2021-11-21T18:40:59.252767+00:00
- - date_dead_since: 2025-08-08T06:53:40.980909+00:00
 
  ## Why Modern Movies Suck - They're Destroying Our Heroes
  - [https://www.youtube.com/watch?v=qY-GLeHS0Ik](https://www.youtube.com/watch?v=qY-GLeHS0Ik)
@@ -3814,12 +3800,6 @@
  ## The unbearable fussiness of the smart home - Stacey on IoT | Internet of Things news and analysis
  - [https://staceyoniot.com/the-unbearable-fussiness-of-the-smart-home](https://staceyoniot.com/the-unbearable-fussiness-of-the-smart-home)
  - date_published: 2021-11-23T14:00:24+00:00
-
- ## Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe - The New York Times
- - [https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html](https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html)
- - date_published: 2021-11-23T20:52:49+00:00
- - tags: ['covid', 'covid mandates', 'vaccine']
- - date_dead_since: 2025-08-08T06:42:36.050962+00:00
 
  ## Assemblyman Pat Burke proposing bill to allow insurance to deny COVID treatment coverage for unvaccinated
  - [https://www.wkbw.com/news/local-news/assemblyman-pat-burke-proposing-bill-to-allow-insurance-to-deny-covid-treatment-coverage-for-unvaccinated](https://www.wkbw.com/news/local-news/assemblyman-pat-burke-proposing-bill-to-allow-insurance-to-deny-covid-treatment-coverage-for-unvaccinated)
@@ -4170,7 +4150,6 @@
  - [https://qz.com/2102889/the-who-is-too-dependent-on-gates-foundation-donations](https://qz.com/2102889/the-who-is-too-dependent-on-gates-foundation-donations)
  - date_published: 2021-12-16T20:34:57+00:00
  - tags: ['bill gates', 'covid', 'gates foundation', 'who']
- - date_dead_since: 2025-08-08T02:08:35.219373+00:00
 
  ## Why I wrote my own Go HTTP client · The Ethically-Trained Programmer
  - [https://blog.carlmjohnson.net/post/2021/requests-golang-http-client](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client)
