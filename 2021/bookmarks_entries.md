@@ -1492,7 +1492,6 @@
  - [https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847](https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847)
  - date_published: 2021-07-09T19:35:21+00:00
  - tags: ['covid', 'lab leak', 'wuhan']
- - date_dead_since: 2025-08-09T23:43:30.241373+00:00
 
  ## Processing IOT Data with SQLite and Golang - Jeremy Morgan's Tech Blog
  - [https://www.jeremymorgan.com/tutorials/go/how-to-iot-data-go-sqlite](https://www.jeremymorgan.com/tutorials/go/how-to-iot-data-go-sqlite)
@@ -1560,6 +1559,7 @@
  ## Give me /events, not webhooks - Sync Inc
  - [https://blog.syncinc.so/events-not-webhooks](https://blog.syncinc.so/events-not-webhooks)
  - date_published: 2021-07-14T04:20:00+00:00
+ - date_dead_since: 2025-12-17T19:55:06.422526+00:00
 
  ## Update: SaveVideo is Back: u_SaveVideo
  - [https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/?utm_source=reddit&utm_medium=usertext&utm_name=u_SaveVideo&utm_content=t3_oimo6y](https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/?utm_source=reddit&utm_medium=usertext&utm_name=u_SaveVideo&utm_content=t3_oimo6y)
@@ -1688,7 +1688,6 @@
  ## ‘Hubble is back!’ Famed space telescope has new lease on life after computer swap appears to fix glitch | Science | AAAS
  - [https://www.sciencemag.org/news/2021/07/hubble-back-famed-space-telescope-has-new-lease-life-after-computer-swap-appears-fix](https://www.sciencemag.org/news/2021/07/hubble-back-famed-space-telescope-has-new-lease-life-after-computer-swap-appears-fix)
  - date_published: 2021-07-17T08:16:58.191035+00:00
- - date_dead_since: 2025-08-09T14:29:29.991878+00:00
 
  ## Health Secretary Sajid Javid tests positive for Covid - BBC News
  - [https://www.bbc.co.uk/news/uk-57874744](https://www.bbc.co.uk/news/uk-57874744)
@@ -1710,7 +1709,6 @@
  - [https://apnews.com/article/europe-business-health-government-and-politics-france-d25494f4cf4ca6c6d1464188a89ece6f](https://apnews.com/article/europe-business-health-government-and-politics-france-d25494f4cf4ca6c6d1464188a89ece6f)
  - date_published: 2021-07-17T19:59:30+00:00
  - tags: ['covid', 'government control', 'protest', 'vaccine']
- - date_dead_since: 2025-08-09T13:58:30.117077+00:00
 
  ## What I learned from Software Engineering at Google | Swizec Teller
  - [https://swizec.com/blog/what-i-learned-from-software-engineering-at-google](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google)
@@ -1913,14 +1911,16 @@
 
  ## Video game developers at Activision Blizzard say they'll walk out Wednesday - Axios
  - [https://www.axios.com/activision-blizzard-walkout-harassment-lawsuit-fefa807b-107e-41e2-a6e2-78a086119e04.html](https://www.axios.com/activision-blizzard-walkout-harassment-lawsuit-fefa807b-107e-41e2-a6e2-78a086119e04.html)
- - date_published: 2021-07-28T06:25:43.393737+00:00
- - date_dead_since: 2025-08-09T10:29:36.048133+00:00
+ - date_published: 2021-07-28T00:38:20+00:00
 
  ## Ponad 750 mln zł wydane na energetykę jądrową. Elektrowni brak
  - [https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html](https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html)
- - date_published: 2021-07-28T14:38:59+00:00
+ - date_published: 2021-07-28T08:10:00+00:00
  - tags: ['atom', 'climate change', 'climate drama', 'poland']
- - date_dead_since: 2025-08-09T10:18:36.049472+00:00
+
+ ## France Gave Teenagers $350 for Culture. They’re Buying Comic Books. - The New York Times
+ - [https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html](https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html)
+ - date_published: 2021-07-28T09:19:50+00:00
 
  ## Streets of Philadelphia, Kensington Avenue, What’s going on Monday, July 26 2021.
  - [https://www.youtube.com/watch?v=YB6gwOBClwE](https://www.youtube.com/watch?v=YB6gwOBClwE)
@@ -1954,6 +1954,11 @@
  - [https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore)
  - date_published: 2021-07-31T21:25:28+00:00
 
+ ## To Fight Vaccine Lies, Authorities Recruit an ‘Influencer Army’ (Published 2021)
+ - [https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html](https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html)
+ - date_published: 2021-08-01T20:25:54+00:00
+ - tags: ['covid', 'manufacturing consent']
+
  ## Why Microsoft uses the term ‘net zero’ carefully | Greenbiz
  - [https://www.greenbiz.com/article/why-microsoft-uses-term-net-zero-carefully](https://www.greenbiz.com/article/why-microsoft-uses-term-net-zero-carefully)
  - date_published: 2021-08-02T00:00:00+00:00
@@ -1963,6 +1968,10 @@
  - [https://prism-break.org/en](https://prism-break.org/en)
  - date_published: 2021-08-02T07:57:09+00:00
  - tags: ['selfhost', 'surveillance']
+
+ ## The push for a "PBS for the internet" - Axios
+ - [https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html](https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html)
+ - date_published: 2021-08-02T10:00:49+00:00
 
  ## My tiny side project has had more impact than my decade in the software industry – Mike's corner of the web
  - [https://mike.zwobble.org/2021/08/side-projects-vs-industry](https://mike.zwobble.org/2021/08/side-projects-vs-industry)
@@ -1989,22 +1998,6 @@
  ## Init Is Bad and You Should Feel Bad · npf.io
  - [https://npf.io/2019/04/init-is-bad-and-you-should-feel-bad](https://npf.io/2019/04/init-is-bad-and-you-should-feel-bad)
  - date_published: 2021-08-02T15:22:11.697708+00:00
-
- ## To Fight Vaccine Lies, Authorities Recruit an ‘Influencer Army’ (Published 2021)
- - [https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html](https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html)
- - date_published: 2021-08-02T16:03:02+00:00
- - tags: ['covid', 'manufacturing consent']
- - date_dead_since: 2025-08-09T09:13:29.820579+00:00
-
- ## France Gave Teenagers $350 for Culture. They’re Buying Comic Books. - The New York Times
- - [https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html](https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html)
- - date_published: 2021-08-02T19:32:35.151676+00:00
- - date_dead_since: 2025-08-09T09:09:35.680417+00:00
-
- ## The push for a "PBS for the internet" - Axios
- - [https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html](https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html)
- - date_published: 2021-08-03T06:37:12.291568+00:00
- - date_dead_since: 2025-08-09T09:03:30.075483+00:00
 
  ## Why Don’t Tech Companies Pay Their Engineers to Stay? | by Matthew Dean | Jul, 2021 | Marker
  - [https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
@@ -2047,6 +2040,10 @@
  - [https://www.washingtonpost.com/nation/2021/08/05/hawaii-mistaken-identity-arrest](https://www.washingtonpost.com/nation/2021/08/05/hawaii-mistaken-identity-arrest)
  - date_published: 2021-08-05T08:16:26+00:00
 
+ ## A growing number of Americans are renouncing their citizenship - Axios
+ - [https://www.axios.com/wealthy-people-are-renouncing-american-citizenship-67fbada4-e2e4-4699-b106-c986839f209d.html](https://www.axios.com/wealthy-people-are-renouncing-american-citizenship-67fbada4-e2e4-4699-b106-c986839f209d.html)
+ - date_published: 2021-08-05T09:00:20+00:00
+
  ## Ben Nuttall - The surreal experience of my first developer job
  - [https://bennuttall.com/the-surreal-experience-of-my-first-developer-job](https://bennuttall.com/the-surreal-experience-of-my-first-developer-job)
  - date_published: 2021-08-05T09:43:45.413713+00:00
@@ -2055,11 +2052,6 @@
  - [https://thelandmag.com/richard-ankrom-guerrilla-public-service-los-angeles-free](https://thelandmag.com/richard-ankrom-guerrilla-public-service-los-angeles-free)
  - date_published: 2021-08-05T16:07:48+00:00
 
- ## A growing number of Americans are renouncing their citizenship - Axios
- - [https://www.axios.com/wealthy-people-are-renouncing-american-citizenship-67fbada4-e2e4-4699-b106-c986839f209d.html](https://www.axios.com/wealthy-people-are-renouncing-american-citizenship-67fbada4-e2e4-4699-b106-c986839f209d.html)
- - date_published: 2021-08-06T08:54:17.832843+00:00
- - date_dead_since: 2025-08-09T08:18:29.958979+00:00
-
  ## Google Maps warns drivers about emission charges - BBC News
  - [https://www.bbc.co.uk/news/technology-58102651](https://www.bbc.co.uk/news/technology-58102651)
  - date_published: 2021-08-06T10:12:54.585478+00:00
@@ -2067,7 +2059,6 @@
  ## Biden infrastructure bill would require cars come with ‘advanced alcohol monitoring systems’
  - [https://www.washingtontimes.com/news/2021/aug/6/bidens-bill-requires-vehicles-be-equipped-advanced](https://www.washingtontimes.com/news/2021/aug/6/bidens-bill-requires-vehicles-be-equipped-advanced)
  - date_published: 2021-08-06T13:13:33+00:00
- - date_dead_since: 2025-08-09T08:04:29.892110+00:00
 
  ## The YouTubers who blew the whistle on an anti-vax plot - BBC News
  - [https://www.bbc.co.uk/news/blogs-trending-57928647](https://www.bbc.co.uk/news/blogs-trending-57928647)
@@ -2115,9 +2106,8 @@
 
  ## Being a snowflake is bad for your mental health | Dennis Relojo-Howell | The Critic Magazine
  - [https://thecritic.co.uk/being-a-snowflake-is-bad-for-your-mental-health](https://thecritic.co.uk/being-a-snowflake-is-bad-for-your-mental-health)
- - date_published: 2021-08-09T07:14:51+00:00
+ - date_published: 2021-08-09T04:00:08+00:00
  - tags: ['activism', 'psychology', 'snowflakes', 'social justice warriors', 'the left wing']
- - date_dead_since: 2025-08-09T07:19:30.132120+00:00
 
  ## Photos, Video Leaked From Obama’s Allegedly ‘Scaled Back’ 60th Birthday Party | The Daily Wire
  - [https://www.dailywire.com/news/photos-video-leaked-from-obamas-allegedly-scaled-back-60th-birthday-party](https://www.dailywire.com/news/photos-video-leaked-from-obamas-allegedly-scaled-back-60th-birthday-party)
@@ -2189,7 +2179,6 @@
  - [https://news.ycombinator.com/item?id=28172490](https://news.ycombinator.com/item?id=28172490)
  - date_published: 2021-08-14T08:52:33.219672+00:00
  - tags: ['app store', 'open source', 'play store', 'technofeudalism']
- - date_dead_since: 2025-08-09T06:44:36.024889+00:00
 
  ## Apple regrets confusion over 'iPhone scanning' - BBC News
  - [https://www.bbc.co.uk/news/technology-58206543](https://www.bbc.co.uk/news/technology-58206543)
@@ -2224,20 +2213,24 @@
  - [https://blog.roboflow.com/nerualhash-collision](https://blog.roboflow.com/nerualhash-collision)
  - date_published: 2021-08-19T16:44:48+00:00
 
+ ## Australia Is Betting on Remote Quarantine. Here’s What I Learned on the Inside. - The New York Times
+ - [https://www.nytimes.com/2021/08/20/world/australia/howard-springs-quarantine.html](https://www.nytimes.com/2021/08/20/world/australia/howard-springs-quarantine.html)
+ - date_published: 2021-08-20T08:19:17+00:00
+ - tags: ['australia', 'covid', 'quarantine']
+
  ## OnlyFans to Bar Sexually Explicit Videos Starting in October - Bloomberg
  - [https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october](https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october)
  - date_published: 2021-08-20T11:55:58.064635+00:00
  - tags: ['onlyfans', 'technofeudalism']
 
+ ## Should Your Web History Impact Your Credit Score? The IMF Thinks So - ExtremeTech
+ - [https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so](https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so)
+ - date_published: 2021-08-20T14:01:36+00:00
+
  ## A Facebook hacker beat my 2FA, bricked my Oculus Quest, and hit the company credit card – CodeWritePlay
  - [https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card](https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card)
  - date_published: 2021-08-20T18:39:16+00:00
-
- ## Australia Is Betting on Remote Quarantine. Here’s What I Learned on the Inside. - The New York Times
- - [https://www.nytimes.com/2021/08/20/world/australia/howard-springs-quarantine.html](https://www.nytimes.com/2021/08/20/world/australia/howard-springs-quarantine.html)
- - date_published: 2021-08-20T20:02:00+00:00
- - tags: ['australia', 'covid', 'quarantine']
- - date_dead_since: 2025-08-09T05:53:35.433613+00:00
+ - date_dead_since: 2025-12-17T05:51:02.046894+00:00
 
  ## Post-Culture Review on Twitter: "A lot of people are getting the OnlyFans story wrong, and the reality of it is a lot more damaging and concerning to both the livelihood of sex workers and online freedom in general." / Twitter
  - [https://mobile.twitter.com/postcultrev/status/1428584131835748359](https://mobile.twitter.com/postcultrev/status/1428584131835748359)
@@ -2273,11 +2266,6 @@
  ## A man spent a year in jail on a murder charge that hinged on disputed AI evidence. Now the case has been dropped • The Register
  - [https://www.theregister.com/2021/08/22/in_brief_ai](https://www.theregister.com/2021/08/22/in_brief_ai)
  - date_published: 2021-08-23T09:18:53.252337+00:00
-
- ## Should Your Web History Impact Your Credit Score? The IMF Thinks So - ExtremeTech
- - [https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so](https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so)
- - date_published: 2021-08-23T11:06:41.185776+00:00
- - date_dead_since: 2025-08-09T05:08:35.489561+00:00
 
  ## As demand for bikes surged, Amazon got in the way - The Verge
  - [https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops](https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops)

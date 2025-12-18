@@ -365,6 +365,7 @@
  ## Your Idea Is Brilliant, Your Idea Is Worthless (KS Lesson #204) – Stonemaier Games
  - [https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless](https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless)
  - date_published: 2016-11-07T16:04:50+00:00
+ - date_dead_since: 2025-12-17T12:29:04.112283+00:00
 
  ## When It Comes to Fake News, the U.S. Government Is the Biggest Culprit
  - [https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit](https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit)
