@@ -2250,7 +2250,7 @@
             "depopulation",
             "population"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/Ufmu1WD2TSk/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/Ufmu1WD2TSk/maxresdefault.jpg",
         "title": "SOUTH KOREA IS OVER",
         "vote": 0
     },
@@ -4661,6 +4661,35 @@
         ],
         "thumbnail": null,
         "title": "AdBlock and Signal are for terrorists, according to French govt (2023) [video]",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "AJ Dellinger",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-12-15T22:05:00.747548+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T21:45:48+00:00",
+        "description": "Users are not thrilled.",
+        "id": 4328734,
+        "language": "en",
+        "link": "https://gizmodo.com/lg-tvs-get-unremovable-microsoft-copilot-app-2000699870",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 133,
+        "source_url": "https://gizmodo.com/feed",
+        "status_code": 0,
+        "tags": [
+            "technofeudalism"
+        ],
+        "thumbnail": null,
+        "title": "LG TVs Get Unremovable Microsoft Copilot App",
         "vote": 0
     }
 ]

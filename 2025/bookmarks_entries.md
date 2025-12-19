@@ -793,3 +793,8 @@
  - date_published: 2025-11-27T00:20:37+00:00
  - tags: ['adblock', 'crypto wars', 'encryption', 'signal']
 
+ ## LG TVs Get Unremovable Microsoft Copilot App
+ - [https://gizmodo.com/lg-tvs-get-unremovable-microsoft-copilot-app-2000699870](https://gizmodo.com/lg-tvs-get-unremovable-microsoft-copilot-app-2000699870)
+ - date_published: 2025-12-15T21:45:48+00:00
+ - tags: ['technofeudalism']
+

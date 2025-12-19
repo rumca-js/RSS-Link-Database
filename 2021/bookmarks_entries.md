@@ -1152,6 +1152,11 @@
  - date_published: 2021-06-02T06:52:01+00:00
  - tags: ['censorship', 'facebook', 'lab leak']
 
+ ## Coronavirus Origins: Washington Post Corrects Year-Old Article Calling Lab-Leak Theory 'Debunked' | National Review
+ - [https://www.nationalreview.com/news/washington-post-corrects-year-old-article-calling-lab-leak-theory-debunked](https://www.nationalreview.com/news/washington-post-corrects-year-old-article-calling-lab-leak-theory-debunked)
+ - date_published: 2021-06-02T12:06:42+00:00
+ - tags: ['censorship', 'covid', 'ministry of truth', 'misinformation', 'wuhan']
+
  ## Gates Foundation grants Annenberg Institute $999,260 | Annenberg Institute at Brown
  - [https://www.annenberginstitute.org/news/gates-foundation-grants-annenberg-institute-999260](https://www.annenberginstitute.org/news/gates-foundation-grants-annenberg-institute-999260)
  - date_published: 2021-06-02T12:12:38+00:00
@@ -1245,7 +1250,6 @@
  - [https://www.opendemocracy.net/en/freedom-of-information/foi-clearing-house-michael-gove-cabinet-office-opendemocracy-wins-court-case-uk-government](https://www.opendemocracy.net/en/freedom-of-information/foi-clearing-house-michael-gove-cabinet-office-opendemocracy-wins-court-case-uk-government)
  - date_published: 2021-06-08T19:44:41+00:00
  - tags: ['big brother', 'censorship', 'clearing house', 'covid', 'surveillance']
- - date_dead_since: 2025-08-10T23:09:30.840207+00:00
 
  ## Amazon Sidewalk Mesh Network Raises Security, Privacy Concerns - SecurityWeek
  - [https://www.securityweek.com/amazon-sidewalk-mesh-network-raises-security-privacy-concerns](https://www.securityweek.com/amazon-sidewalk-mesh-network-raises-security-privacy-concerns)
@@ -1276,7 +1280,6 @@
  - [https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding](https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding)
  - date_published: 2021-06-14T06:58:41+00:00
  - tags: ['manufacturing consent', 'moderna', 'vaccine']
- - date_dead_since: 2025-08-10T22:39:30.755779+00:00
 
  ## Kiedy WHO zmieniła definicję odporności stada? Zmiana treści definicji terminu Odporność Stadna. [listopad 2020]
  - [https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada](https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada)
@@ -1328,7 +1331,6 @@
  - [https://spectator.org/canadian-pastor-arrested-covid](https://spectator.org/canadian-pastor-arrested-covid)
  - date_published: 2021-06-21T20:16:50+00:00
  - tags: ['covid', 'lockdown']
- - date_dead_since: 2025-08-10T21:48:35.460920+00:00
 
  ## EU launches antitrust probe into Google banning third-party cookies in Chrome | Ars Technica
  - [https://arstechnica.com/tech-policy/2021/06/eu-antitrust-regulators-launch-probe-into-googles-floc-plan](https://arstechnica.com/tech-policy/2021/06/eu-antitrust-regulators-launch-probe-into-googles-floc-plan)
@@ -1352,9 +1354,8 @@
 
  ## Pfizer, Moderna COVID-19 vaccines will get label warning over rare heart risk, FDA says
  - [https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines](https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines)
- - date_published: 2021-06-24T18:00:32+00:00
+ - date_published: 2021-06-24T09:44:28+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-08-10T21:18:30.525123+00:00
 
  ## What Started the Cultural Fixation on Gender?
  - [https://www.youtube.com/watch?v=OHE442ISkUU](https://www.youtube.com/watch?v=OHE442ISkUU)
@@ -1374,12 +1375,6 @@
  - [https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387](https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387)
  - date_published: 2021-06-26T00:00:00+00:00
  - tags: ['polarization', 'social media']
-
- ## Coronavirus Origins: Washington Post Corrects Year-Old Article Calling Lab-Leak Theory 'Debunked' | National Review
- - [https://www.nationalreview.com/news/washington-post-corrects-year-old-article-calling-lab-leak-theory-debunked](https://www.nationalreview.com/news/washington-post-corrects-year-old-article-calling-lab-leak-theory-debunked)
- - date_published: 2021-06-26T19:37:50+00:00
- - tags: ['censorship', 'covid', 'ministry of truth', 'misinformation', 'wuhan']
- - date_dead_since: 2025-08-10T20:34:30.476868+00:00
 
  ## Windows 11: TPMs and Digital Sovereignty
  - [https://secret.club/2021/06/28/windows11-tpms.html](https://secret.club/2021/06/28/windows11-tpms.html)
@@ -1435,7 +1430,6 @@
  - [https://www.nytimes.com/2021/07/14/technology/facebook-data.html](https://www.nytimes.com/2021/07/14/technology/facebook-data.html)
  - date_published: 2021-07-04T20:03:09+00:00
  - tags: ['crowdtangle', 'facebook', 'meta', 'the right wing']
- - date_dead_since: 2025-08-10T12:33:32.709876+00:00
 
  ## How Low Interest Rates Sent Institutions Like Blackrock Into Bidding Wars For Homes - Better Dwelling
  - [https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes](https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes)
