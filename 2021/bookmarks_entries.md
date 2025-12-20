@@ -114,7 +114,6 @@
  - [https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e](https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e)
  - date_published: 2021-01-12T20:29:03+00:00
  - tags: ['donald trump']
- - date_dead_since: 2025-08-12T00:08:02.987284+00:00
 
  ## Cyberfaszyzm
  - [https://polityko.com/2021/01/13/cyberfaszyzm](https://polityko.com/2021/01/13/cyberfaszyzm)
@@ -208,13 +207,11 @@
  - [https://winknews.com/2021/01/25/new-instagram-terms-of-service-could-put-your-data-at-risk](https://winknews.com/2021/01/25/new-instagram-terms-of-service-could-put-your-data-at-risk)
  - date_published: 2021-01-25T20:09:20+00:00
  - tags: ['instagram', 'privacy', 'social media', 'technofeudalism']
- - date_dead_since: 2025-08-11T21:04:45.098662+00:00
 
  ## Newsom claims lifting lockdown isn't 'political' but critics point to recall threat | AllSides
  - [https://www.allsides.com/news/2021-01-25-2043/newsom-claims-lifting-lockdown-isnt-political-critics-point-recall-threat](https://www.allsides.com/news/2021-01-25-2043/newsom-claims-lifting-lockdown-isnt-political-critics-point-recall-threat)
  - date_published: 2021-01-25T20:33:04+00:00
  - tags: ['california', 'covid', 'lockdown']
- - date_dead_since: 2025-08-11T20:54:36.635597+00:00
 
  ## Google says PAC won't fund Congress members against election results
  - [https://www.cnbc.com/2021/01/25/google-says-pac-wont-fund-congress-members-against-election-results.html](https://www.cnbc.com/2021/01/25/google-says-pac-wont-fund-congress-members-against-election-results.html)
@@ -233,9 +230,8 @@
 
  ## Joe Biden & Abortion: Executive Order Reverses Pro-Life Mexico City Policy to Fund Abortion Overseas | National Review
  - [https://www.nationalreview.com/corner/biden-signs-executive-order-allowing-the-u-s-to-fund-global-abortions](https://www.nationalreview.com/corner/biden-signs-executive-order-allowing-the-u-s-to-fund-global-abortions)
- - date_published: 2021-01-28T20:59:31+00:00
+ - date_published: 2021-01-28T19:20:05+00:00
  - tags: ['abortion', 'usa']
- - date_dead_since: 2025-08-11T14:19:36.506262+00:00
 
  ## Bill Gates will spray chemicals in the atmosphere in June using thousands of planes - NeeWS
  - [https://tekdeeps.com/bill-gates-will-spray-chemicals-in-the-atmosphere-in-june-using-thousands-of-planes-neews](https://tekdeeps.com/bill-gates-will-spray-chemicals-in-the-atmosphere-in-june-using-thousands-of-planes-neews)
@@ -251,7 +247,6 @@
  - [https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html](https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html)
  - date_published: 2021-01-29T13:12:13+00:00
  - tags: ['big brother', 'censorship', 'moderation', 'social media', 'surveillance']
- - date_dead_since: 2025-08-11T13:43:31.737707+00:00
 
  ## Esteemed Academic Conference on Dangers of Censorship — Reportedly Censored by YouTube
  - [https://thefreethoughtproject.com/censorship-conference-dangers-censored-by-youtube](https://thefreethoughtproject.com/censorship-conference-dangers-censored-by-youtube)
@@ -339,16 +334,15 @@
  - date_published: 2021-02-18T06:52:31+00:00
  - tags: ['wikipedia']
 
+ ## Opinion | Don’t Go Down the Rabbit Hole - The New York Times
+ - [https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html](https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html)
+ - date_published: 2021-02-18T10:03:35+00:00
+ - tags: ['covid', 'critical thinking', 'science is dead']
+
  ## America’s Health Will Soon Be in the Hands of Very Minor Internet Celebrities
  - [https://www.theatlantic.com/technology/archive/2021/02/vaccine-influencers-covid-anti-vax-instagram/618052](https://www.theatlantic.com/technology/archive/2021/02/vaccine-influencers-covid-anti-vax-instagram/618052)
  - date_published: 2021-02-18T12:00:00+00:00
  - tags: ['covid', 'manufacturing consent']
-
- ## Opinion | Don’t Go Down the Rabbit Hole - The New York Times
- - [https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html](https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html)
- - date_published: 2021-02-18T20:03:45+00:00
- - tags: ['covid', 'critical thinking', 'science is dead']
- - date_dead_since: 2025-08-11T10:23:54.478313+00:00
 
  ## Zawodowiec (2002) - polski film dokumentalny
  - [https://www.youtube.com/watch?v=a6AVCDMHWfg](https://www.youtube.com/watch?v=a6AVCDMHWfg)
@@ -400,6 +394,7 @@
  - [https://naszapolska.pl/2021/02/28/segregacja-sanitarna-na-swiecie-w-izraelu-dziala-od-tygodnia-a-w-innych-krajach](https://naszapolska.pl/2021/02/28/segregacja-sanitarna-na-swiecie-w-izraelu-dziala-od-tygodnia-a-w-innych-krajach)
  - date_published: 2021-02-28T00:00:00+00:00
  - tags: ['covid', 'covid mandates', 'israel', 'segregation', 'vaccine']
+ - date_dead_since: 2025-12-19T09:55:07.311553+00:00
 
  ## ‘No hospitalisations and no deaths’: All three US vaccines ‘highly efficacious’, Fauci says
  - [https://www.independent.co.uk/news/world/americas/us-politics/vaccine-covid-fauci-deaths-b1808878.html](https://www.independent.co.uk/news/world/americas/us-politics/vaccine-covid-fauci-deaths-b1808878.html)
@@ -414,7 +409,6 @@
  - [https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html](https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html)
  - date_published: 2021-03-01T14:25:55+00:00
  - tags: ['hate speech', 'racism', 'usa']
- - date_dead_since: 2025-08-11T09:49:31.180769+00:00
 
  ## Dodatki COVIDowe: mamy listę szpitali z konkretnymi kwotami
  - [https://cowzdrowiu.pl/aktualnosci/post/dodatki-covidowe-mamy-liste-szpitali-z-konkretnymi-kwotami](https://cowzdrowiu.pl/aktualnosci/post/dodatki-covidowe-mamy-liste-szpitali-z-konkretnymi-kwotami)
@@ -555,9 +549,8 @@
 
  ## Covid coverage by the U.S. national media is an outlier, a study finds. - The New York Times
  - [https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html](https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html)
- - date_published: 2021-03-24T21:37:41+00:00
+ - date_published: 2021-03-24T11:12:17+00:00
  - tags: ['covid', 'fearmongering', 'media', 'propaganda', 'science is dead']
- - date_dead_since: 2025-08-11T08:19:30.666420+00:00
 
  ## Kamala Harris and Bill Clinton touting girls' empowerment together is a bad joke
  - [https://www.nbcnews.com/think/opinion/kamala-harris-bill-clinton-touting-girls-empowerment-together-bad-joke-ncna1261977](https://www.nbcnews.com/think/opinion/kamala-harris-bill-clinton-touting-girls-empowerment-together-bad-joke-ncna1261977)
@@ -630,13 +623,11 @@
  - [https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801](https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801)
  - date_published: 2021-04-04T10:42:23+00:00
  - tags: ['blackrock', 'housing market', 'wall street']
- - date_dead_since: 2025-08-11T07:10:31.417729+00:00
 
  ## Hundreds of Transgender California Inmates Request Transfers to Women's Prisons | National Review
  - [https://www.nationalreview.com/news/hundreds-of-transgender-california-inmates-request-transfers-to-womens-prisons](https://www.nationalreview.com/news/hundreds-of-transgender-california-inmates-request-transfers-to-womens-prisons)
  - date_published: 2021-04-05T19:53:54+00:00
  - tags: ['rape', 'the left wing', 'transgender']
- - date_dead_since: 2025-08-11T07:04:36.428203+00:00
 
  ## Prof. Krzysztof Simon o liczbie zgon�w: B�yskawicznie d��ymy do statystyk z wrze�nia 1939 roku
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,173952,26952224,prof-krzysztof-simon-o-liczbie-zgonow-blyskawicznie-dazymy.html](https://wiadomosci.gazeta.pl/wiadomosci/7,173952,26952224,prof-krzysztof-simon-o-liczbie-zgonow-blyskawicznie-dazymy.html)
@@ -681,7 +672,6 @@
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793804](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793804)
  - date_published: 2021-04-12T07:18:11+00:00
  - tags: ['esg']
- - date_dead_since: 2025-08-11T06:47:48.534893+00:00
 
  ## Boris Johnson is a creeping dictator – we need to stop him in his tracks
  - [https://metro.co.uk/2021/04/12/boris-johnson-is-a-creeping-dictator-we-need-to-stop-him-14382294/amp/?__twitter_impression=true](https://metro.co.uk/2021/04/12/boris-johnson-is-a-creeping-dictator-we-need-to-stop-him-14382294/amp/?__twitter_impression=true)
@@ -820,15 +810,15 @@
  - date_published: 2021-04-26T20:30:20+00:00
  - tags: ['big pharma', 'bill gates', 'corporatocracy', 'covid', 'vaccine']
 
+ ## Gwałt po nowemu. O zgubnych konsekwencjach lewicowego paradygmatu
+ - [https://klubjagiellonski.pl/2021/04/27/gwalt-po-nowemu-o-zgubnych-konsekwencjach-lewicowego-paradygmatu-polemika](https://klubjagiellonski.pl/2021/04/27/gwalt-po-nowemu-o-zgubnych-konsekwencjach-lewicowego-paradygmatu-polemika)
+ - date_published: 2021-04-27T14:53:17+00:00
+ - tags: ['discrimination', 'feminism', 'inequality', 'poland', 'rape']
+
  ## The CDC’s reign of error has done incalculable harm to America
  - [https://nypost.com/2021/04/27/the-cdcs-reign-of-error-has-done-incalculable-harm-to-america](https://nypost.com/2021/04/27/the-cdcs-reign-of-error-has-done-incalculable-harm-to-america)
  - date_published: 2021-04-27T19:32:41+00:00
  - tags: ['cdc', 'covid', 'lockdown']
-
- ## Gwałt po nowemu. O zgubnych konsekwencjach lewicowego paradygmatu
- - [https://klubjagiellonski.pl/2021/04/27/gwalt-po-nowemu-o-zgubnych-konsekwencjach-lewicowego-paradygmatu-polemika](https://klubjagiellonski.pl/2021/04/27/gwalt-po-nowemu-o-zgubnych-konsekwencjach-lewicowego-paradygmatu-polemika)
- - date_published: 2021-04-27T20:24:07+00:00
- - tags: ['discrimination', 'feminism', 'inequality', 'poland', 'rape']
 
  ## Why Google Should Stop Logging Contact-Tracing Data
  - [https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data](https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data)
@@ -838,9 +828,8 @@
 
  ## Over 200 Seattle police officers quit amid nation protests
  - [https://apnews.com/article/seattle-police-government-and-politics-e0ce15086d8bf06502659386148d94fa](https://apnews.com/article/seattle-police-government-and-politics-e0ce15086d8bf06502659386148d94fa)
- - date_published: 2021-04-28T18:41:36+00:00
+ - date_published: 2021-04-28T14:51:04+00:00
  - tags: ['black lives matter']
- - date_dead_since: 2025-08-11T04:28:30.869260+00:00
 
  ## TERREG: European Parliament confirms new online censorship powers
  - [https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers](https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers)
@@ -906,9 +895,8 @@
 
  ## Amazon and Apple Built Vast Wireless Networks Using Your Devices. Here’s How They Work. - WSJ
  - [https://www.wsj.com/articles/amazon-apple-wireless-networks-sidewalk-find-my-11620397704?st=jcvbx2bc04mmaz3&reflink=article_copyURL_share](https://www.wsj.com/articles/amazon-apple-wireless-networks-sidewalk-find-my-11620397704?st=jcvbx2bc04mmaz3&reflink=article_copyURL_share)
- - date_published: 2021-05-07T17:16:14+00:00
+ - date_published: 2021-05-07T15:00:00+00:00
  - tags: ['amazon', 'apple', 'sidewalk', 'surveillance']
- - date_dead_since: 2025-08-11T03:14:36.250423+00:00
 
  ## EU signs deal with Pfizer for up to 1.8 billion COVID vaccine doses
  - [https://nypost.com/2021/05/08/eu-signs-deal-with-pfizer-for-up-to-1-8b-covid-vaccine-doses](https://nypost.com/2021/05/08/eu-signs-deal-with-pfizer-for-up-to-1-8b-covid-vaccine-doses)
@@ -953,7 +941,6 @@
  - [https://www.science.org/doi/10.1126/science.abj0016](https://www.science.org/doi/10.1126/science.abj0016)
  - date_published: 2021-05-14T07:21:19+00:00
  - tags: ['covid', 'lab leak', 'wuhan']
- - date_dead_since: 2025-08-11T02:54:31.235456+00:00
 
  ## Video platform chief says Nazi posts on white superiority do not merit removal
  - [https://www.theguardian.com/world/2021/may/14/odysee-video-platform-nazi-content-not-grounds-for-removal](https://www.theguardian.com/world/2021/may/14/odysee-video-platform-nazi-content-not-grounds-for-removal)
@@ -1011,15 +998,15 @@
  - tags: ['bill gates', 'jeffrey epstein']
  - date_dead_since: 2025-08-11T02:08:30.907247+00:00
 
+ ## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
+ - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash)
+ - date_published: 2021-05-18T13:46:56+00:00
+ - tags: ['covid', 'covid mandates', 'fearmongering', 'vaccine', 'wef', 'world economic forum']
+
  ## Bill Gates reportedly hoped Jeffrey Epstein would help him win a Nobel
  - [https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report](https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report)
  - date_published: 2021-05-18T15:08:12+00:00
  - tags: ['bill gates', 'jeffrey epstein', 'nobel']
-
- ## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
- - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash)
- - date_published: 2021-05-18T18:46:56+00:00
- - tags: ['covid', 'covid mandates', 'fearmongering', 'vaccine', 'wef', 'world economic forum']
 
  ## Egypt’s new capital - a smart city in the making
  - [https://www.globalfleet.com/en/smart-mobility/africa-middle-east/features/egypts-new-capital-smart-city-making?a=API07&t%5B0%5D=Smart%20City&t%5B1%5D=Global%20Fleet%20Conference&t%5B2%5D=Middle%20East&curl=1](https://www.globalfleet.com/en/smart-mobility/africa-middle-east/features/egypts-new-capital-smart-city-making?a=API07&t%5B0%5D=Smart%20City&t%5B1%5D=Global%20Fleet%20Conference&t%5B2%5D=Middle%20East&curl=1)
