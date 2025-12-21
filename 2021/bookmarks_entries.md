@@ -20,7 +20,6 @@
  - [https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-](https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-)
  - date_published: 2021-01-03T20:13:03+00:00
  - tags: ['newspeak', 'the left wing']
- - date_dead_since: 2025-08-12T02:39:31.068385+00:00
 
  ## House introduces gender-neutral language in new rules for Congress
  - [https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new](https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new)
@@ -93,6 +92,7 @@
  - [https://www.forbes.com/sites/arielcohen/2021/01/11/bill-gates-backed-climate-solution-gains-traction-but-concerns-linger](https://www.forbes.com/sites/arielcohen/2021/01/11/bill-gates-backed-climate-solution-gains-traction-but-concerns-linger)
  - date_published: 2021-01-11T00:00:00+00:00
  - tags: ['atmosphere', 'bill gates', 'climate change', 'sun-dimming']
+ - date_dead_since: 2025-12-20T01:14:21.910681+00:00
 
  ## Władzę nad światem przejmuje Big Tech. Czy to już koniec wolności słowa?
  - [https://geekweek.interia.pl/styl-zycia/news-wladze-nad-swiatem-przejmuje-big-tech-czy-to-juz-koniec-woln,nId,5547055](https://geekweek.interia.pl/styl-zycia/news-wladze-nad-swiatem-przejmuje-big-tech-czy-to-juz-koniec-woln,nId,5547055)
@@ -108,7 +108,6 @@
  - [https://www.nytimes.com/2021/01/12/health/covid-vaccine-death.html](https://www.nytimes.com/2021/01/12/health/covid-vaccine-death.html)
  - date_published: 2021-01-12T13:00:20+00:00
  - tags: ['big pharma', 'covid', 'pfizer', 'vaccine']
- - date_dead_since: 2025-08-12T00:18:36.611140+00:00
 
  ## PBS lawyer resigns after being caught in Veritas sting | AP News
  - [https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e](https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e)

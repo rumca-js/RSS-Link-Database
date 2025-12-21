@@ -1419,7 +1419,6 @@
  - [https://www.entrepreneur.com/business-news/the-doj-just-slammed-google-with-a-landmark-antitrust-case/358109](https://www.entrepreneur.com/business-news/the-doj-just-slammed-google-with-a-landmark-antitrust-case/358109)
  - date_published: 2020-10-20T11:15:42+00:00
  - tags: ['antitrust', 'big tech', 'google']
- - date_dead_since: 2025-08-12T23:53:51.418895+00:00
 
  ## KE ma umowę z Johnson&Johnson na 400 mln dawek szczepionki na Covid-19 - Bankier.pl
  - [https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html](https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html)
@@ -1436,16 +1435,15 @@
  - date_published: 2020-10-22T16:32:28+00:00
  - tags: ['apple', 'corporatocracy', 'google', 'iphone', 'search engines']
 
+ ## Covid-19 Deaths: The Price for Not Wearing Masks is Perhaps 130,000 Lives - The New York Times
+ - [https://www.nytimes.com/2020/10/23/health/covid-deaths.html](https://www.nytimes.com/2020/10/23/health/covid-deaths.html)
+ - date_published: 2020-10-23T15:03:11+00:00
+ - tags: ['covid', 'masks']
+
  ## The Heinous Background of WHO Director-General Tedros Adhanom Ghebreyesus
  - [https://www.rodefshalom613.org/2020/10/the-heinous-background-of-who-director-general-tedros-adhanom-ghebreyesus](https://www.rodefshalom613.org/2020/10/the-heinous-background-of-who-director-general-tedros-adhanom-ghebreyesus)
  - date_published: 2020-10-23T18:41:12+00:00
  - tags: ['tedros adhanom', 'who']
-
- ## Covid-19 Deaths: The Price for Not Wearing Masks is Perhaps 130,000 Lives - The New York Times
- - [https://www.nytimes.com/2020/10/23/health/covid-deaths.html](https://www.nytimes.com/2020/10/23/health/covid-deaths.html)
- - date_published: 2020-10-23T19:41:35+00:00
- - tags: ['covid', 'masks']
- - date_dead_since: 2025-08-12T22:49:11.950223+00:00
 
  ## Introducing homo augmentus - Nokia Bell Labs
  - [https://www.bell-labs.com/institute/blog/introducing-homo-augmentus](https://www.bell-labs.com/institute/blog/introducing-homo-augmentus)
@@ -1596,7 +1594,6 @@
  - [https://www.opendemocracy.net/en/freedom-of-information/uk-government-running-orwellian-unit-to-block-release-of-sensitive-information](https://www.opendemocracy.net/en/freedom-of-information/uk-government-running-orwellian-unit-to-block-release-of-sensitive-information)
  - date_published: 2020-11-23T19:43:36+00:00
  - tags: ['big brother', 'censorship', 'clearing house', 'covid', 'england', 'ministry of truth', 'surveillance']
- - date_dead_since: 2025-08-12T18:18:33.556770+00:00
 
  ## Google’s Cash Makes Rivals Less Eager for Antitrust Crackdown
  - [https://www.bloomberg.com/news/articles/2020-11-24/deals-with-apple-aapl-mozilla-show-how-google-googl-discourages-competition](https://www.bloomberg.com/news/articles/2020-11-24/deals-with-apple-aapl-mozilla-show-how-google-googl-discourages-competition)
@@ -1752,7 +1749,6 @@
  - [https://thenewdaily.com.au/life/tech/2020/12/10/dutton-surveillance-bill-australia](https://thenewdaily.com.au/life/tech/2020/12/10/dutton-surveillance-bill-australia)
  - date_published: 2020-12-10T13:10:45+00:00
  - tags: ['australia', 'big brother', 'privacy', 'surveillance', 'surveillance bill']
- - date_dead_since: 2025-08-12T10:54:32.275867+00:00
 
  ## Unknown Sender: The Mystery of the Circleville Letters
  - [https://getpocket.com/explore/item/unknown-sender-the-mystery-of-the-circleville-letters](https://getpocket.com/explore/item/unknown-sender-the-mystery-of-the-circleville-letters)
@@ -1840,9 +1836,8 @@
 
  ## Władza w ramach walki z terroryzmem sprawdzi rachunki drobnych przedsiębiorców
  - [https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa](https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa)
- - date_published: 2020-12-18T13:07:40+00:00
+ - date_published: 2020-12-18T12:59:30+00:00
  - tags: ['government control', 'privacy', 'surveillance', 'terrorism']
- - date_dead_since: 2025-08-12T07:48:36.108771+00:00
 
  ## Americans Can't Sue Pfizer, Moderna In Case of Covid-19 Vaccine Side Effects, Here's Why
  - [https://www.news18.com/news/buzz/americans-cant-sue-pfizer-moderna-in-case-of-covid-19-vaccine-side-effects-heres-why-3190154.html](https://www.news18.com/news/buzz/americans-cant-sue-pfizer-moderna-in-case-of-covid-19-vaccine-side-effects-heres-why-3190154.html)
@@ -1864,6 +1859,7 @@
  - [https://radio.lublin.pl/2020/12/prof-konrad-rejdak-to-nie-bedzie-panaceum-na-wszystko-rusza-lubelskie-badania-nad-amantadyna-w-leczeniu-covid](https://radio.lublin.pl/2020/12/prof-konrad-rejdak-to-nie-bedzie-panaceum-na-wszystko-rusza-lubelskie-badania-nad-amantadyna-w-leczeniu-covid)
  - date_published: 2020-12-20T06:53:30+00:00
  - tags: ['amantadine', 'covid']
+ - date_dead_since: 2025-12-20T07:11:38.353408+00:00
 
  ## Anti-lockdown protesters arrested as hundreds gather in central London just hours before tier 4 announcement
  - [https://www.independent.co.uk/news/uk/anti-lockdown-protest-arrest-police-tier-4-b1776545.html](https://www.independent.co.uk/news/uk/anti-lockdown-protest-arrest-police-tier-4-b1776545.html)
