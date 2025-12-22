@@ -539,6 +539,11 @@
  - date_published: 2020-05-29T00:00:00+00:00
  - tags: ['free speech', 'the left wing']
 
+ ## BlackRock Is Biggest Beneficiary of Fed Purchases of Corporate Bond ETFs | Barron's
+ - [https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726](https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726)
+ - date_published: 2020-06-01T18:05:00+00:00
+ - tags: ['billionaires', 'blackrock', 'manufacturing consent']
+
  ## US Senators Introduce 'Lawful Access to Encrypted Data Act' - With Backdoor Mandate
  - [https://news.bitcoin.com/lawful-access-to-encrypted-data-act-backdoor](https://news.bitcoin.com/lawful-access-to-encrypted-data-act-backdoor)
  - date_published: 2020-06-02T12:26:32+00:00
@@ -585,7 +590,7 @@
 
  ## #ShutDownSTEM - MIT School of Science
  - [https://science.mit.edu/shutdownstem](https://science.mit.edu/shutdownstem)
- - date_published: 2020-06-10T08:54:37+00:00
+ - date_published: 2020-06-09T13:25:44+00:00
  - tags: ['math is racist', 'propaganda', 'science is dead', 'science is racist', 'the left wing']
 
  ## Christopher Columbus statues are being beheaded and torn down during Black Lives Matter protests
@@ -612,7 +617,6 @@
  - [https://www.politico.com/news/magazine/2020/06/14/how-the-new-york-times-survived-the-1960s-316530](https://www.politico.com/news/magazine/2020/06/14/how-the-new-york-times-survived-the-1960s-316530)
  - date_published: 2020-06-14T14:37:12+00:00
  - tags: ['new york times']
- - date_dead_since: 2025-08-13T22:56:48.547497+00:00
 
  ## Berlin authorities placed children with pedophiles
  - [https://www.dw.com/en/berlin-authorities-placed-children-with-pedophiles-for-30-years/a-53814208](https://www.dw.com/en/berlin-authorities-placed-children-with-pedophiles-for-30-years/a-53814208)
@@ -642,12 +646,6 @@
  - [https://www.cnn.com/2020/06/19/asia/xinjiang-explainer-intl-hnk-scli/index.html](https://www.cnn.com/2020/06/19/asia/xinjiang-explainer-intl-hnk-scli/index.html)
  - date_published: 2020-06-19T09:06:18+00:00
  - tags: ['china', 'uyghur']
-
- ## BlackRock Is Biggest Beneficiary of Fed Purchases of Corporate Bond ETFs | Barron's
- - [https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726](https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726)
- - date_published: 2020-06-20T16:50:04+00:00
- - tags: ['billionaires', 'blackrock', 'manufacturing consent']
- - date_dead_since: 2025-08-13T21:53:41.386659+00:00
 
  ## Why the Lawful Access to Encrypted Data Act is a Threat to your Privacy
  - [https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy](https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy)
@@ -790,7 +788,6 @@
  - [https://www.nytimes.com/2020/07/13/us/politics/george-soros-racial-justice-organizations.html](https://www.nytimes.com/2020/07/13/us/politics/george-soros-racial-justice-organizations.html)
  - date_published: 2020-07-13T08:43:45+00:00
  - tags: ['black lives matter', 'george soros', 'inequality']
- - date_dead_since: 2025-08-13T17:22:01.459273+00:00
 
  ## New BAFTA Gaming Standards are INSANE
  - [https://www.youtube.com/watch?v=dw9lmEp7Q6E](https://www.youtube.com/watch?v=dw9lmEp7Q6E)
@@ -923,7 +920,6 @@
  - [https://independenttrader.pl/globalisci-planuja-wielki-reset.html](https://independenttrader.pl/globalisci-planuja-wielki-reset.html)
  - date_published: 2020-07-28T07:48:25+00:00
  - tags: ['elites', 'great reset', 'wef', 'world economic forum']
- - date_dead_since: 2025-08-13T13:52:04.471983+00:00
 
  ## MacKenzie Scott donates $1.7bn since Amazon boss divorce - BBC News
  - [https://www.bbc.co.uk/news/business-53574954](https://www.bbc.co.uk/news/business-53574954)
@@ -1000,7 +996,6 @@
  ## 400+ Qualcomm Chip Vulnerabilities Threaten Millions of Android Phones
  - [https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613](https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613)
  - date_published: 2020-08-07T06:43:11+00:00
- - date_dead_since: 2025-08-13T11:52:19.270874+00:00
 
  ## A U.S. government contractor embedded tracking software in the apps of millions of smartphone users
  - [https://www.androidcentral.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users](https://www.androidcentral.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users)
@@ -1082,7 +1077,6 @@
  - [https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192](https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192)
  - date_published: 2020-08-21T12:51:44+00:00
  - tags: ['israel', 'manufacturing consent', 'usa']
- - date_dead_since: 2025-08-13T09:24:07.248165+00:00
 
  ## Dzieci odebrane Polce przez Jugendamt zostaną na razie u muzułmanów
  - [https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html)
@@ -1167,15 +1161,13 @@
 
  ## Portland's grim reality: 100 days of protests, many violent | AP News
  - [https://apnews.com/article/virus-outbreak-ap-top-news-race-and-ethnicity-id-state-wire-or-state-wire-b57315d97dd2146c4a89b4636faa7b70](https://apnews.com/article/virus-outbreak-ap-top-news-race-and-ethnicity-id-state-wire-or-state-wire-b57315d97dd2146c4a89b4636faa7b70)
- - date_published: 2020-09-04T14:30:38+00:00
+ - date_published: 2020-09-04T14:09:37+00:00
  - tags: ['black lives matter', 'blm', 'defund the police']
- - date_dead_since: 2025-08-13T06:44:17.463754+00:00
 
  ## Forget TikTok. China’s Powerhouse App Is WeChat. - The New York Times
  - [https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html](https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html)
- - date_published: 2020-09-04T16:12:51+00:00
+ - date_published: 2020-09-04T14:42:46+00:00
  - tags: ['big brother', 'big tech', 'everything app', 'manufacturing consent', 'privacy', 'surveillance', 'technofeudalism', 'wechat']
- - date_dead_since: 2025-08-13T06:35:06.453944+00:00
 
  ## Unity files to go public.  Will Apple now buy them? - Gaming Street
  - [https://gamingstreet.com/unity-files-to-go-public-will-apple-now-buy-them](https://gamingstreet.com/unity-files-to-go-public-will-apple-now-buy-them)
@@ -1217,7 +1209,6 @@
  - [https://www.nytimes.com/live/2020/2020-election-misinformation-distortions#facebook-sent-flawed-data-to-misinformation-researchers](https://www.nytimes.com/live/2020/2020-election-misinformation-distortions#facebook-sent-flawed-data-to-misinformation-researchers)
  - date_published: 2020-09-15T20:08:59+00:00
  - tags: ['corporatocracy', 'facebook', 'manufacturing consent', 'science is dead', 'technofeudalism']
- - date_dead_since: 2025-08-13T05:38:12.348692+00:00
 
  ## Chińscy hakerzy latami kontrolowali systemy TeamViewera – i nie tylko
  - [https://zaufanatrzeciastrona.pl/post/chinscy-hakerzy-latami-kontrolowali-systemy-teamviewera-i-nie-tylko](https://zaufanatrzeciastrona.pl/post/chinscy-hakerzy-latami-kontrolowali-systemy-teamviewera-i-nie-tylko)
@@ -1236,9 +1227,8 @@
 
  ## Trump Admin to Ban TikTok, WeChat From U.S. App Stores - The New York Times
  - [https://www.nytimes.com/2020/09/18/business/trump-tik-tok-wechat-ban.html](https://www.nytimes.com/2020/09/18/business/trump-tik-tok-wechat-ban.html)
- - date_published: 2020-09-18T21:40:47+00:00
+ - date_published: 2020-09-18T12:13:43+00:00
  - tags: ['china', 'tiktok']
- - date_dead_since: 2025-08-13T04:43:13.170662+00:00
 
  ## The Patriarchy Paradox
  - [https://www.youtube.com/watch?v=wTHgMxQEoPI](https://www.youtube.com/watch?v=wTHgMxQEoPI)
@@ -1344,16 +1334,15 @@
  - tags: ['inequality', 'lgbt', 'margot', 'the left wing']
  - date_dead_since: 2025-08-13T02:03:11.850624+00:00
 
+ ## A WeChat Ban Would End Their Lifeline - The New York Times
+ - [https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html](https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html)
+ - date_published: 2020-10-05T07:00:13+00:00
+ - tags: ['china', 'everything app', 'privacy', 'surveillance', 'technofeudalism', 'wechat']
+
  ## While the Poor Get Sick, Bill Gates Just Gets Richer | The Nation
  - [https://www.thenation.com/article/economy/bill-gates-investments-covid](https://www.thenation.com/article/economy/bill-gates-investments-covid)
  - date_published: 2020-10-05T09:30:32+00:00
  - tags: ['bill gates', 'billionaires', 'covid', 'elites']
-
- ## A WeChat Ban Would End Their Lifeline - The New York Times
- - [https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html](https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html)
- - date_published: 2020-10-05T16:16:09+00:00
- - tags: ['china', 'everything app', 'privacy', 'surveillance', 'technofeudalism', 'wechat']
- - date_dead_since: 2025-08-13T01:53:07.414676+00:00
 
  ## Udawali homoseksualizm, żeby dostać azyl? Nawet kilkaset przypadków w Holandii - Polsat News
  - [https://www.polsatnews.pl/wiadomosc/2020-10-06/udawali-homoseksualizm-zeby-dostac-azyl-nawet-kilkaset-przypadkow-w-holandii/?ref=aside_najnowsze](https://www.polsatnews.pl/wiadomosc/2020-10-06/udawali-homoseksualizm-zeby-dostac-azyl-nawet-kilkaset-przypadkow-w-holandii/?ref=aside_najnowsze)
