@@ -858,7 +858,6 @@
  - [https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia](https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia)
  - date_published: 2019-10-24T08:56:59+00:00
  - tags: ['big brother', 'norway']
- - date_dead_since: 2025-08-14T19:25:58.572607+00:00
 
  ## https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja
  - [https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja](https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja)

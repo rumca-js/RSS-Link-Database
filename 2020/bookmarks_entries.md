@@ -43,7 +43,6 @@
  - [https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline](https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline)
  - date_published: 2020-01-08T07:50:34+00:00
  - tags: ['covid', 'covid origins', 'fearmongering', 'lab leak']
- - date_dead_since: 2025-08-14T14:10:21.244859+00:00
 
  ## Ring Fired Employees for Watching Customer Videos
  - [https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data](https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data)
@@ -82,8 +81,7 @@
 
  ## The Secretive Company That Might End Privacy as We Know It - The New York Times
  - [https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
- - date_published: 2020-01-18T19:58:54+00:00
- - date_dead_since: 2025-08-14T13:39:32.097437+00:00
+ - date_published: 2020-01-18T10:00:18+00:00
 
  ## 2 lawyers on Trump defense team shared Epstein as a client
  - [https://www.ksat.com/news/politics/2020/01/24/2-lawyers-on-trump-defense-team-shared-epstein-as-a-client](https://www.ksat.com/news/politics/2020/01/24/2-lawyers-on-trump-defense-team-shared-epstein-as-a-client)
@@ -122,9 +120,8 @@
 
  ## Australia defends plan to create island quarantine camp | AP News
  - [https://apnews.com/c129280f6ab2a832908b8dcf4888364b](https://apnews.com/c129280f6ab2a832908b8dcf4888364b)
- - date_published: 2020-01-30T20:15:13+00:00
+ - date_published: 2020-01-30T10:17:24+00:00
  - tags: ['australia', 'covid', 'quarantine']
- - date_dead_since: 2025-08-14T13:08:26.010058+00:00
 
  ## Amiga Samplers: Budget dance music in 1990
  - [https://www.youtube.com/watch?v=i9MXYZh1jcs](https://www.youtube.com/watch?v=i9MXYZh1jcs)
@@ -229,7 +226,6 @@
  - [https://www.nytimes.com/2020/02/29/health/coronavirus-n95-face-masks.html](https://www.nytimes.com/2020/02/29/health/coronavirus-n95-face-masks.html)
  - date_published: 2020-02-29T15:28:58+00:00
  - tags: ['covid', 'masks']
- - date_dead_since: 2025-08-14T08:57:47.815741+00:00
 
  ## China officially makes internet rumor-mongering a crime amid coronavirus
  - [https://www.scmp.com/abacus/news-bites/article/3064586/china-officially-makes-internet-rumor-mongering-crime-amid](https://www.scmp.com/abacus/news-bites/article/3064586/china-officially-makes-internet-rumor-mongering-crime-amid)
@@ -298,8 +294,7 @@
 
  ## Yuval Noah Harari: the world after coronavirus | Free to read
  - [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor)
- - date_published: 2020-03-20T14:11:41+00:00
- - date_dead_since: 2025-08-14T07:07:40.203977+00:00
+ - date_published: 2020-03-20T05:00:29+00:00
 
  ## Microservices
  - [https://www.youtube.com/watch?v=y8OnoxKotPQ](https://www.youtube.com/watch?v=y8OnoxKotPQ)
@@ -308,9 +303,8 @@
 
  ## The Fed Asks for BlackRock’s Help in an Echo of 2008 - The New York Times
  - [https://www.nytimes.com/2020/03/25/business/blackrock-federal-reserve.html](https://www.nytimes.com/2020/03/25/business/blackrock-federal-reserve.html)
- - date_published: 2020-03-25T22:38:13+00:00
+ - date_published: 2020-03-25T21:35:37+00:00
  - tags: ['blackrock']
- - date_dead_since: 2025-08-14T07:01:58.877810+00:00
 
  ## NYC's Footprint Amid The COVID-19 Outbreak
  - [https://www.youtube.com/watch?v=Q5BFrDocPNs](https://www.youtube.com/watch?v=Q5BFrDocPNs)
@@ -378,7 +372,6 @@
  - [https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements](https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements)
  - date_published: 2020-04-18T05:35:32+00:00
  - tags: ['corporatocracy', 'eula', 'technofeudalism', 'terms of service']
- - date_dead_since: 2025-08-14T05:17:00.085368+00:00
 
  ## Wuhan lab says there's no way coronavirus originated there. Here's the science.
  - [https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html](https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html)
@@ -449,7 +442,6 @@
  - [https://thediplomat.com/2020/05/why-would-the-us-have-funded-the-controversial-wuhan-lab](https://thediplomat.com/2020/05/why-would-the-us-have-funded-the-controversial-wuhan-lab)
  - date_published: 2020-05-13T06:52:14+00:00
  - tags: ['covid', 'covid origins', 'wuhan']
- - date_dead_since: 2025-08-14T03:27:59.003298+00:00
 
  ## SMS Two-Factor Authentication – Worse Than Just a Good Password? | Okta Security
  - [https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password](https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password)

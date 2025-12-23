@@ -4691,5 +4691,34 @@
         "thumbnail": null,
         "title": "LG TVs Get Unremovable Microsoft Copilot App",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-12-22T21:39:29.260080+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T21:34:51+00:00",
+        "description": "Meta projected 10% of its 2024 revenue would come from ads for scams and banned goods, and it internally estimates that its platforms show users 15 billion scam ads a day, company documents show.",
+        "id": 4385380,
+        "language": "en",
+        "link": "https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "facebook",
+            "meta"
+        ],
+        "thumbnail": "https://www.reuters.com/resizer/v2/EIUQ6OAJHFA3JNGX6HUR53PMYA.jpg?auth=8016244c619cf59d907a3f1c5e66f2b099a0fa870c360241877d90a9563cfc54&height=1005&width=1920&quality=80&smart=true",
+        "title": "Meta is earning a fortune on a deluge of fraudulent ads, documents show",
+        "vote": 0
     }
 ]

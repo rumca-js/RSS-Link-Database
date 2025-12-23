@@ -798,3 +798,8 @@
  - date_published: 2025-12-15T21:45:48+00:00
  - tags: ['technofeudalism']
 
+ ## Meta is earning a fortune on a deluge of fraudulent ads, documents show
+ - [https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06](https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06)
+ - date_published: 2025-12-22T21:34:51+00:00
+ - tags: ['facebook', 'meta']
+
