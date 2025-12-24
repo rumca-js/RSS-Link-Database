@@ -197,7 +197,6 @@
  - [https://www.nytimes.com/2019/04/08/nyregion/nxivm-allison-mack.html](https://www.nytimes.com/2019/04/08/nyregion/nxivm-allison-mack.html)
  - date_published: 2019-04-08T11:44:03+00:00
  - tags: ['allison mack', 'cult', 'nxivm', 'sect']
- - date_dead_since: 2025-08-15T15:53:05.792403+00:00
 
  ## Your car is watching you. Who owns the data? - Roll Call
  - [https://rollcall.com/2019/04/09/your-car-is-watching-you-who-owns-the-data](https://rollcall.com/2019/04/09/your-car-is-watching-you-who-owns-the-data)
@@ -238,7 +237,6 @@
  - [https://www.washingtontimes.com/news/2019/apr/22/attacks-christians-double-2017](https://www.washingtontimes.com/news/2019/apr/22/attacks-christians-double-2017)
  - date_published: 2019-04-22T16:15:13+00:00
  - tags: ['christianophobia']
- - date_dead_since: 2025-08-15T09:41:02.158082+00:00
 
  ## Marble Conveyor Belt Completed! - Marble Machine X #78
  - [https://www.youtube.com/watch?v=1AEvQAg6TE0](https://www.youtube.com/watch?v=1AEvQAg6TE0)
@@ -335,7 +333,6 @@
  - [https://www.nytimes.com/2019/06/04/business/jpmorgan-chase-credit-card-arbitration.html](https://www.nytimes.com/2019/06/04/business/jpmorgan-chase-credit-card-arbitration.html)
  - date_published: 2019-06-04T09:02:11+00:00
  - tags: ['corporatocracy', 'eula', 'jpmorgan', 'terms of service']
- - date_dead_since: 2025-08-15T08:02:42.459032+00:00
 
  ## US Catholic Church spent $300 million on abuse-related costs in 12 months
  - [https://www.cnn.com/2019/06/04/us/catholic-church-300-million-abuse-claims/index.html](https://www.cnn.com/2019/06/04/us/catholic-church-300-million-abuse-claims/index.html)
@@ -413,16 +410,15 @@
  - date_published: 2019-07-08T08:25:15+00:00
  - tags: ['eatingbugs']
 
+ ## $56 Million Upper East Side Mansion Where Epstein Allegedly Abused Girls
+ - [https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html](https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html)
+ - date_published: 2019-07-08T18:49:08+00:00
+ - tags: ['jeffrey epstein']
+
  ## Everything We Know About the Sex Crimes Case Against Jeffrey Epstein
  - [https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html](https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html)
  - date_published: 2019-07-08T19:57:17+00:00
  - tags: ['billionairs', 'elites', 'jeffrey epstein']
-
- ## $56 Million Upper East Side Mansion Where Epstein Allegedly Abused Girls
- - [https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html](https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html)
- - date_published: 2019-07-08T20:03:14+00:00
- - tags: ['jeffrey epstein']
- - date_dead_since: 2025-08-15T05:22:47.789374+00:00
 
  ## So Was QAnon … Right?
  - [https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html](https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html)
@@ -593,6 +589,7 @@
  - [http://www.strefax.info/2019/08/vaclav-klaus-o-grecie-thunberg-to.html](http://www.strefax.info/2019/08/vaclav-klaus-o-grecie-thunberg-to.html)
  - date_published: 2019-08-19T18:54:07+00:00
  - tags: ['climate change', 'corporatocracy', 'greta thunberg']
+ - date_dead_since: 2025-12-23T02:01:49.753636+00:00
 
  ## Oskarżenia pod adresem Grety Thunberg. „Stoją za nią PR-owcy i koncerny”
  - [https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny](https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny)
@@ -613,7 +610,6 @@
  - [https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html](https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html)
  - date_published: 2019-08-22T12:18:53+00:00
  - tags: ['jeffrey epstein', 'mit']
- - date_dead_since: 2025-08-15T01:26:47.765092+00:00
 
  ## [Serious Question] Why the Ubuntu/Canonical hate? In quite a few posts in this subreddit, I have seen an outright hate/dislike/contempt for Ubuntu/Canonical. Can someone explain?
  - [https://www.reddit.com/r/linux/comments/cu7fv0/serious_question_why_the_ubuntucanonical_hate_in](https://www.reddit.com/r/linux/comments/cu7fv0/serious_question_why_the_ubuntucanonical_hate_in)
