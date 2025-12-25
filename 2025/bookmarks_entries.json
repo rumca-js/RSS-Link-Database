@@ -3805,18 +3805,18 @@
         "language": "en-US",
         "link": "https://www.theguardian.com/us-news/2025/aug/16/nevada-arrest-israeli-official",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 341,
         "source_url": "https://www.theguardian.com/international/rss",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "israel"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/875d90937ffc95cf4a1d1bffdae17e448e8caeac/1339_0_5248_4200/master/5248.jpg?width=140&quality=85&auto=format&fit=max&s=074720a707b5177671754b15e9bd821f",
+        "thumbnail": "https://i.guim.co.uk/img/media/875d90937ffc95cf4a1d1bffdae17e448e8caeac/1339_0_5248_4200/master/5248.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=865c6ae1d65acdc6ff6e5650e33c3431",
         "title": "Israeli government official arrested in Nevada in internet crimes against children sting",
         "vote": 0
     },

@@ -729,7 +729,6 @@
  - [https://greekcitytimes.com/2018/11/14/ngo-admits-teaching-migrants-how-to-trick-eu-border-guards-video](https://greekcitytimes.com/2018/11/14/ngo-admits-teaching-migrants-how-to-trick-eu-border-guards-video)
  - date_published: 2018-11-14T06:47:12+00:00
  - tags: ['england', 'immigration']
- - date_dead_since: 2025-08-16T17:00:56.371358+00:00
 
  ## Facebook reportedly discredited critics by linking them to George Soros
  - [https://www.theguardian.com/technology/2018/nov/14/facebook-george-soros-pr-firm-discredit-critics-crisis](https://www.theguardian.com/technology/2018/nov/14/facebook-george-soros-pr-firm-discredit-critics-crisis)
@@ -750,7 +749,6 @@
  - [https://www.axios.com/2018/11/19/tim-cook-interview-apple-google-axios-on-hbo](https://www.axios.com/2018/11/19/tim-cook-interview-apple-google-axios-on-hbo)
  - date_published: 2018-11-19T13:29:07+00:00
  - tags: ['apple', 'google', 'manufacturing consent']
- - date_dead_since: 2025-08-16T00:50:53.267399+00:00
 
  ## Mark Zuckerberg Has Never Cared About Your Privacy
  - [https://www.vanityfair.com/news/2018/11/mark-zuckerberg-has-never-cared-about-your-privacy](https://www.vanityfair.com/news/2018/11/mark-zuckerberg-has-never-cared-about-your-privacy)
