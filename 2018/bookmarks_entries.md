@@ -133,7 +133,6 @@
  - [https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears](https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears)
  - date_published: 2018-03-11T11:25:48+00:00
  - tags: ['immigration', 'police', 'racism']
- - date_dead_since: 2025-08-17T09:06:43.432898+00:00
 
  ## YouTube Extremism and the Long Tail - The Atlantic
  - [https://www.theatlantic.com/politics/archive/2018/03/youtube-extremism-and-the-long-tail/555350](https://www.theatlantic.com/politics/archive/2018/03/youtube-extremism-and-the-long-tail/555350)
@@ -155,7 +154,6 @@
  - [https://readwrite.com/concerns-slowly-killing-ad-tech](https://readwrite.com/concerns-slowly-killing-ad-tech)
  - date_published: 2018-03-14T11:27:13+00:00
  - tags: ['ad business']
- - date_dead_since: 2025-08-17T08:52:43.406452+00:00
 
  ## Privacy and Social Media
  - [https://www.youtube.com/watch?v=sMLVkBxke20](https://www.youtube.com/watch?v=sMLVkBxke20)
@@ -241,7 +239,6 @@
  - [https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html](https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html)
  - date_published: 2018-04-04T11:09:25+00:00
  - tags: ['cambridge analytica']
- - date_dead_since: 2025-08-17T08:07:43.326092+00:00
 
  ## Governments that disarm the people have troubling history - Albuquerque Journal
  - [https://www.abqjournal.com/1154293/governments-that-disarm-the-people-have-troubling-history.html](https://www.abqjournal.com/1154293/governments-that-disarm-the-people-have-troubling-history.html)
@@ -551,7 +548,6 @@
  - [https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html](https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html)
  - date_published: 2018-08-28T08:49:46+00:00
  - tags: ['inclusive', 'inequality', 'movies', 'rotten tomatoes', 'the left wing']
- - date_dead_since: 2025-08-17T00:26:09.624073+00:00
 
  ## Fans Have a Dark Theory Behind the Story of Totoro
  - [https://nextshark.com/fans-dark-theory-behind-story-totoro](https://nextshark.com/fans-dark-theory-behind-story-totoro)

@@ -1207,7 +1207,6 @@
  - [https://www.politico.com/newsletters/digital-future-daily/2024/09/23/tk-alfred-top-00180521](https://www.politico.com/newsletters/digital-future-daily/2024/09/23/tk-alfred-top-00180521)
  - date_published: 2024-09-23T07:28:04+00:00
  - tags: ['privacy', 'surveillance']
- - date_dead_since: 2025-08-17T04:52:43.003648+00:00
 
  ## US to ban Chinese connected car software and hardware, citing security risks
  - [https://arstechnica.com/cars/2024/09/us-to-ban-chinese-connected-car-software-and-hardware-citing-security-risks](https://arstechnica.com/cars/2024/09/us-to-ban-chinese-connected-car-software-and-hardware-citing-security-risks)

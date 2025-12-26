@@ -99,6 +99,11 @@
  - date_published: 2017-03-10T12:34:06+00:00
  - tags: ['fact check', 'media bias', 'science is dead']
 
+ ## UK Politicians Call 'Fake News' On Stories They Don't Like, Aping Donald Trump
+ - [https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126](https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126)
+ - date_published: 2017-03-11T10:07:50+00:00
+ - tags: ['disinformation', 'donald trump', 'england', 'fakenews']
+
  ## Who owns the world?
  - [https://www.newstatesman.com/politics/2017/03/land-queen-world-australia](https://www.newstatesman.com/politics/2017/03/land-queen-world-australia)
  - date_published: 2017-03-11T14:27:00+00:00
@@ -384,7 +389,6 @@
  - [https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html)
  - date_published: 2017-08-30T07:09:22+00:00
  - tags: ['google', 'manufacturing consent']
- - date_dead_since: 2025-08-17T14:21:43.443914+00:00
 
  ## How I Got Fired From a D.C. Think Tank for Fighting Against the Power of Google
  - [https://theintercept.com/2017/08/31/how-i-got-fired-from-a-d-c-think-tank-for-fighting-against-the-power-of-google](https://theintercept.com/2017/08/31/how-i-got-fired-from-a-d-c-think-tank-for-fighting-against-the-power-of-google)
@@ -490,7 +494,6 @@
  - [https://www.eweek.com/enterprise-apps/ubuntu-drops-unity-for-gnome-in-artful-aardvark-release](https://www.eweek.com/enterprise-apps/ubuntu-drops-unity-for-gnome-in-artful-aardvark-release)
  - date_published: 2017-10-18T16:02:27+00:00
  - tags: ['canonical', 'ubuntu']
- - date_dead_since: 2025-08-17T13:02:43.606833+00:00
 
  ## USA: Hurricane Harvey Victims Told: Boycott Israel and You Won’t Get Aid Donations
  - [https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations](https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations)
@@ -507,6 +510,7 @@
  - [http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html](http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html)
  - date_published: 2017-10-23T16:30:02+00:00
  - tags: ['search engines']
+ - date_dead_since: 2025-12-25T12:51:04.409173+00:00
 
  ## Anthony Mackie Explains Why Hollywood Movies Suck Now
  - [https://www.youtube.com/watch?v=oj8JK6c5x3M](https://www.youtube.com/watch?v=oj8JK6c5x3M)
@@ -522,12 +526,6 @@
  - [https://www.youtube.com/watch?v=gcQk3qM3Ok0](https://www.youtube.com/watch?v=gcQk3qM3Ok0)
  - date_published: 2017-11-03T00:00:00+00:00
  - tags: ['blade runner', 'movies']
-
- ## UK Politicians Call 'Fake News' On Stories They Don't Like, Aping Donald Trump
- - [https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126](https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126)
- - date_published: 2017-11-03T15:36:18+00:00
- - tags: ['disinformation', 'donald trump', 'england', 'fakenews']
- - date_dead_since: 2025-08-17T12:40:55.838633+00:00
 
  ## Jordan Peterson on the meaning of life for men. MUST WATCH
  - [https://www.youtube.com/watch?v=NX2ep5fCJZ8](https://www.youtube.com/watch?v=NX2ep5fCJZ8)
@@ -647,11 +645,9 @@
  - [https://www.nytimes.com/2017/12/31/us/politics/sexual-harassment-politics-partisanship.html](https://www.nytimes.com/2017/12/31/us/politics/sexual-harassment-politics-partisanship.html)
  - date_published: 2017-12-31T20:07:28+00:00
  - tags: ['media', 'media matters']
- - date_dead_since: 2025-08-17T10:41:43.607184+00:00
 
  ## BlackRock bets on algorithms to beat the fund managers
  - [https://www.ft.com/content/e689a67e-2911-11e8-b27e-cc62a39d57a0](https://www.ft.com/content/e689a67e-2911-11e8-b27e-cc62a39d57a0)
  - date_published: 2017-12-31T22:34:51+00:00
  - tags: ['algorithms', 'blackrock', 'fintech']
- - date_dead_since: 2025-08-17T10:36:47.888211+00:00
 
