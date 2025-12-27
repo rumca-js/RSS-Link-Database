@@ -70,9 +70,8 @@
 
  ## WikiLeaks Releases Trove of Alleged C.I.A. Hacking Documents - The New York Times
  - [https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html](https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html)
- - date_published: 2017-03-07T21:41:31+00:00
+ - date_published: 2017-03-07T15:44:18+00:00
  - tags: ['big brother', 'cia', 'julian assange', 'malware', 'surveillance', 'trojan', 'vulnerability', 'wikileaks']
- - date_dead_since: 2025-08-18T03:30:10.303458+00:00
 
  ## FBI: 'No such thing as absolute privacy'
  - [http://www.cnn.com/2017/03/08/politics/james-comey-privacy-cybersecurity/index.html](http://www.cnn.com/2017/03/08/politics/james-comey-privacy-cybersecurity/index.html)
@@ -143,7 +142,6 @@
  - [https://qz.com/948980/china-has-fished-itself-out-of-its-own-waters-so-chinese-fishermen-are-now-sticking-their-rods-in-other-nations-seas](https://qz.com/948980/china-has-fished-itself-out-of-its-own-waters-so-chinese-fishermen-are-now-sticking-their-rods-in-other-nations-seas)
  - date_published: 2017-04-04T08:22:53+00:00
  - tags: ['china', 'climate change', 'pollution']
- - date_dead_since: 2025-08-18T01:04:05.068782+00:00
 
  ## Pepsi advert with Kendall Jenner pulled after huge backlash | The Independent | The Independent
  - [https://www.independent.co.uk/arts-entertainment/tv/news/pepsi-advert-pulled-kendall-jenner-protest-video-cancelled-removed-a7668986.html](https://www.independent.co.uk/arts-entertainment/tv/news/pepsi-advert-pulled-kendall-jenner-protest-video-cancelled-removed-a7668986.html)

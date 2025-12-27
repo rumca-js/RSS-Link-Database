@@ -1342,9 +1342,8 @@
 
  ## Attention Required! | Cloudflare
  - [https://gaceta.es/espana/la-fiscalia-reconoce-que-el-64-de-detenidos-por-delitos-sexuales-en-vizcaya-son-inmigrantes-20241026-1010](https://gaceta.es/espana/la-fiscalia-reconoce-que-el-64-de-detenidos-por-delitos-sexuales-en-vizcaya-son-inmigrantes-20241026-1010)
- - date_published: 2024-10-26T20:47:34+00:00
+ - date_published: 2024-10-26T08:10:08+00:00
  - tags: ['immigration']
- - date_dead_since: 2025-08-18T02:35:05.105719+00:00
 
  ## Superyachts and jets of Europe’s elite emit more carbon pollution in a week than the world’s poorest 1% emits in a lifetime | Oxfam International
  - [https://www.oxfam.org/en/press-releases/superyachts-and-jets-europes-elite-emit-more-carbon-pollution-week-worlds-poorest-1](https://www.oxfam.org/en/press-releases/superyachts-and-jets-europes-elite-emit-more-carbon-pollution-week-worlds-poorest-1)
