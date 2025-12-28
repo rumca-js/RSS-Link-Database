@@ -3836,7 +3836,7 @@
         "manual_status_code": 0,
         "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 2,
+        "page_rating_visits": 3,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
@@ -3846,7 +3846,7 @@
             "gender",
             "inequality"
         ],
-        "thumbnail": "https://i.cbc.ca/1.7018585.1755508554!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/amy-hamm.jpeg?im=Resize%3D620",
+        "thumbnail": "https://i.cbc.ca/ais/1.7018585,1755508563000/full/max/0/default.jpg?im=Crop%2Crect%3D%2889%2C0%2C487%2C273%29%3BResize%3D620",
         "title": "B.C. nurse suspended by college, asked to pay $94K in costs for comments about transgender people | CBC News",
         "vote": 0
     },
@@ -3870,7 +3870,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 600,
+        "status_code": 603,
         "tags": [],
         "thumbnail": null,
         "title": null,
