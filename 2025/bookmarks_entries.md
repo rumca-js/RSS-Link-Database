@@ -663,7 +663,7 @@
 
  ## How Google Broke Google
  - [https://www.youtube.com/watch?v=GvaOUFwXjf4](https://www.youtube.com/watch?v=GvaOUFwXjf4)
- - date_published: 2025-08-20T19:31:50+00:00
+ - date_published: 2025-08-20T12:31:50+00:00
  - tags: ['corporatocracy', 'enshittification', 'google']
 
  - [https://httpskipedia.orgwikiPrinter_tracking_dots](https://httpskipedia.orgwikiPrinter_tracking_dots)
