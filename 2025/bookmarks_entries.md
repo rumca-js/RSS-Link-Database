@@ -677,7 +677,7 @@
 
  ## Jeffery Epstein: How a Government Spy Blackmailed America
  - [https://www.youtube.com/watch?v=x1oh19SYQZI](https://www.youtube.com/watch?v=x1oh19SYQZI)
- - date_published: 2025-08-28T00:05:22+00:00
+ - date_published: 2025-08-27T17:05:22+00:00
  - tags: ['jeffrey epstein']
 
  ## X(Twitter) Shadow Bans Turkish Presidential Candidate
