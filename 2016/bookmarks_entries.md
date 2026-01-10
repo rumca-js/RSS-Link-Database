@@ -239,7 +239,6 @@
  - [https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion](https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion)
  - date_published: 2016-07-14T15:47:42+00:00
  - tags: ['diversity', 'equity', 'inclusion', 'propaganda']
- - date_dead_since: 2025-09-02T02:56:39.256892+00:00
 
  ## France church attack: Priest killed by two 'IS militants' - BBC News
  - [https://www.bbc.com/news/world-europe-36892785](https://www.bbc.com/news/world-europe-36892785)
@@ -261,6 +260,7 @@
  - [https://youtube.fandom.com/wiki/YouTube_Adpocalypse](https://youtube.fandom.com/wiki/YouTube_Adpocalypse)
  - date_published: 2016-08-12T14:29:46+00:00
  - tags: ['ad business', 'adpocalypse', 'youtube']
+ - date_dead_since: 2026-01-10T02:32:45.551262+00:00
 
  ## Black Lives Matter cashes in with $100 million from liberal foundations - Washington Times
  - [https://www.washingtontimes.com/news/2016/aug/16/black-lives-matter-cashes-100-million-liberal-foun](https://www.washingtontimes.com/news/2016/aug/16/black-lives-matter-cashes-100-million-liberal-foun)
@@ -374,9 +374,8 @@
 
  ## Microsoft shares Windows 10 telemetry data with third parties [Updated]
  - [https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties)
- - date_published: 2016-11-24T08:54:13+00:00
+ - date_published: 2016-11-24T07:12:55+00:00
  - tags: ['microsoft', 'privacy', 'surveillance', 'telemetry', 'windows']
- - date_dead_since: 2025-09-01T20:32:06.661649+00:00
 
  ## Reddit CEO admits he edited Trump supporters' comments on social network | The Independent | The Independent
  - [https://www.independent.co.uk/tech/reddit-donald-trump-steve-huffman-spez-pizzagate-trolls-hillary-clinton-a7436406.html](https://www.independent.co.uk/tech/reddit-donald-trump-steve-huffman-spez-pizzagate-trolls-hillary-clinton-a7436406.html)
