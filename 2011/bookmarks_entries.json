@@ -297,7 +297,7 @@
             "bunga bunga",
             "silvio berlusconi"
         ],
-        "thumbnail": "https://v.wpimg.pl/MTIuanBlYjUoFxddbRdvIGtPQwcrTmF2PFdbTG1femIxQFBcbQVjIzlbEQJtDWIyZh8RCyVDf2J6R1JBIAk_ODwGAgEsBRI1LwU-W3NeYz45EAZMPw",
+        "thumbnail": "https://v.wpimg.pl/MTIuanBlYjUoFxddbRdvIGtPQwcrTmF2PFdbTG1ZfGYxRlZYbQVjIzlbEQJtDWIyZh8RCyVDf2J6R1JBIAk_ODwGAgEsBRI1LwU-W3NeYz45EAZMPw",
         "title": "Na czym polega\u0142 rytua\u0142 \"bunga-bunga\"?",
         "vote": 0
     },
@@ -315,13 +315,13 @@
         "language": "en",
         "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(11)61019-2/fulltext",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.thelancet.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "big pharma",
             "the lancet"

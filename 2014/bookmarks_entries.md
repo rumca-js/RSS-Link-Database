@@ -66,7 +66,6 @@
  - [https://time.com/77676/why-science-does-not-disprove-god](https://time.com/77676/why-science-does-not-disprove-god)
  - date_published: 2014-04-27T19:51:44+00:00
  - tags: ['god', 'religion', 'religion knowledge', 'science']
- - date_dead_since: 2025-09-02T11:17:48.454492+00:00
 
  ## Everyone is under surveillance now, says whistleblower Edward Snowden
  - [http://www.theguardian.com/world/2014/may/03/everyone-is-under-surveillance-now-says-whistleblower-edward-snowden](http://www.theguardian.com/world/2014/may/03/everyone-is-under-surveillance-now-says-whistleblower-edward-snowden)
@@ -112,7 +111,6 @@
  - [https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3](https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3)
  - date_published: 2014-06-05T14:47:34+00:00
  - tags: ['big brother', 'edward snowden', 'prism', 'surveillance']
- - date_dead_since: 2025-09-02T11:08:06.982220+00:00
 
  ## U.S rules on cell phone privacy
  - [http://edition.cnn.com/2014/06/25/justice/supreme-court-cell-phones/index.html?eref=edition](http://edition.cnn.com/2014/06/25/justice/supreme-court-cell-phones/index.html?eref=edition)
@@ -252,7 +250,6 @@
  - [https://www.eff.org/deeplinks/2014/11/verizon-x-uidh](https://www.eff.org/deeplinks/2014/11/verizon-x-uidh)
  - date_published: 2014-11-03T07:17:11+00:00
  - tags: ['corporatocracy', 'privacy', 'surveillance', 'verizon']
- - date_dead_since: 2025-09-02T10:45:12.755855+00:00
 
  ## Can Google be trusted?
  - [http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition](http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition)

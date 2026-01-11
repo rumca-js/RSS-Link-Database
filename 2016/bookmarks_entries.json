@@ -46,13 +46,13 @@
         "language": "en-US",
         "link": "https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.ghacks.net",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "microsoft",
             "privacy",
@@ -239,7 +239,7 @@
             "poland",
             "prawo i sprawiedliwo\u015b\u0107"
         ],
-        "thumbnail": "https://pliki2.portalsamorzadowy.pl/i/20/07/00/200700_r2_940.jpg",
+        "thumbnail": "https://pliki.portalsamorzadowy.pl/i/20/07/00/200700_r2_940.jpg",
         "title": "500 z\u0142 na dziecko: Ustawa 500+ wesz\u0142a w \u017cycie. Jest w Dzienniku Ustaw. Wyp\u0142aty rusz\u0105 w kwietniu",
         "vote": 0
     },
@@ -848,7 +848,7 @@
             "pronouns",
             "the left wing"
         ],
-        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2016/05/shutterstock_307344050.jpg?quality=75&strip=all&w=1024",
+        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2016/05/shutterstock_307344050.jpg?quality=75&strip=all&w=1200",
         "title": "Not using transgender pronouns could get you fined",
         "vote": 0
     },
@@ -1131,13 +1131,13 @@
         "language": "en-US",
         "link": "https://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html",
         "manual_status_code": 0,
-        "page_rating": 24,
-        "page_rating_contents": 66,
+        "page_rating": 32,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://boingboing.net",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "intel management engine",
             "surveillance",
@@ -1286,7 +1286,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://sites.psu.edu",
-        "status_code": 410,
+        "status_code": 603,
         "tags": [
             "conspiracy theory",
             "movies",

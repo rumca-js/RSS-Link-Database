@@ -2,7 +2,6 @@
  - [https://edition.cnn.com/2007/POLITICS/01/31/biden.obama](https://edition.cnn.com/2007/POLITICS/01/31/biden.obama)
  - date_published: 2007-02-09T20:26:13+00:00
  - tags: ['barack obama', 'joe biden']
- - date_dead_since: 2025-09-02T18:15:18.383714+00:00
 
  ## A500 Gods - Intro
  - [https://www.youtube.com/watch?v=xN0VIgO3U0k](https://www.youtube.com/watch?v=xN0VIgO3U0k)
@@ -63,12 +62,12 @@
  - [https://www.cda.pl/video/618603561](https://www.cda.pl/video/618603561)
  - date_published: 2007-09-01T07:05:00+00:00
  - tags: ['aaron russo', 'conspiracy theory']
- - date_dead_since: 2025-09-02T17:55:45.672015+00:00
 
  ## Have you noticed how much shit the internet has become now? (2007)
  - [https://old.sage.moe/g/thread/721239](https://old.sage.moe/g/thread/721239)
  - date_published: 2007-10-27T19:20:54+00:00
  - tags: ['internet', 'web10', 'web20', 'web30']
+ - date_dead_since: 2026-01-10T17:51:02.049447+00:00
 
  ## Sperm donor to lesbian couple forced to pay child support | Politics | The Guardian
  - [https://www.theguardian.com/politics/2007/dec/04/gayrights.immigrationpolicy](https://www.theguardian.com/politics/2007/dec/04/gayrights.immigrationpolicy)

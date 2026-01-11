@@ -405,6 +405,7 @@
  - [http://www.hrdmag.com.sg/asia/specialisation/diversity-inclusion/cpo-at-adobe-says-company-will-discontinue-dei-targets/530679](http://www.hrdmag.com.sg/asia/specialisation/diversity-inclusion/cpo-at-adobe-says-company-will-discontinue-dei-targets/530679)
  - date_published: 2025-04-25T11:21:38.825658+00:00
  - tags: ['dei', 'diversity', 'inequality']
+ - date_dead_since: 2026-01-10T12:55:37.976313+00:00
 
  ## Reclaim the internet: Mozilla’s rebrand for the next era of tech | The Mozilla Blog
  - [https://blog.mozilla.org/en/mozilla/mozilla-brand-next-era-of-tech](https://blog.mozilla.org/en/mozilla/mozilla-brand-next-era-of-tech)
@@ -680,15 +681,15 @@
  - date_published: 2025-08-27T17:05:22+00:00
  - tags: ['jeffrey epstein']
 
+ ## Phone Has Social Credit. We Just Lie About It
+ - [https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it)
+ - date_published: 2025-09-01T02:16:10+00:00
+ - tags: ['corporatocracy', 'credit score', 'social score']
+
  ## X(Twitter) Shadow Bans Turkish Presidential Candidate
  - [https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish](https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish)
  - date_published: 2025-09-02T15:42:43+00:00
  - tags: ['corporatocracy', 'shadow ban']
-
- ## Phone Has Social Credit. We Just Lie About It
- - [https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it)
- - date_published: 2025-09-02T17:14:51+00:00
- - tags: ['corporatocracy', 'credit score', 'social score']
 
  ## Intermediary age assurance provider collecting user data on specific URLs, more
  - [https://www.biometricupdate.com/202509/intermediary-age-assurance-provider-collecting-user-data-on-specific-urls-more](https://www.biometricupdate.com/202509/intermediary-age-assurance-provider-collecting-user-data-on-specific-urls-more)

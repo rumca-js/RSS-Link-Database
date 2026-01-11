@@ -145,7 +145,7 @@
             "islam",
             "religion"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlie-Hebdo-2015-11.JPG/1200px-Charlie-Hebdo-2015-11.JPG",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlie-Hebdo-2015-11.JPG/1280px-Charlie-Hebdo-2015-11.JPG",
         "title": "Charlie Hebdo shooting - Wikipedia",
         "vote": 0
     },
@@ -337,20 +337,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:26.941237+00:00",
-        "date_dead_since": "2025-09-02T07:43:15.654364+00:00",
+        "date_dead_since": null,
         "date_published": "2015-01-22T19:55:29+00:00",
         "description": "Billionaire Pervert Jeffrey Epstein and His Famous Friends: A Primer",
         "id": 40721,
         "language": "en-EN",
         "link": "https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 29,
+        "page_rating_contents": 80,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.gawker.com",
-        "status_code": 404,
+        "status_code": 200,
         "tags": [
             "billionairs",
             "elites",
@@ -401,7 +401,7 @@
         "link": "https://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke",
         "manual_status_code": 0,
         "page_rating": 30,
-        "page_rating_contents": 85,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -410,7 +410,7 @@
         "tags": [
             "open source"
         ],
-        "thumbnail": "https://assets.propublica.org/2017-pp-open-graph-1200x630.jpg",
+        "thumbnail": "https://www.propublica.org/wp-content/uploads/2015/02/20150205-werner-koch-2-1200x630.jpg",
         "title": "The World's Email Encryption Software Relies on One Guy, Who is Going Broke \u2014 ProPublica",
         "vote": 0
     },
@@ -670,13 +670,13 @@
         "language": "en",
         "link": "https://www.extremetech.com/defense/203275-the-nsa-wants-front-door-access-to-your-encrypted-data",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.extremetech.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "big brother",
             "crypto wars",
@@ -832,7 +832,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.chicagotribune.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "dawn stefanowicz",
             "lgbt"
@@ -930,7 +930,7 @@
             "denmark",
             "digital money"
         ],
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/o4oui5nWMPksvgPWqjFoAB.jpg",
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/o4oui5nWMPksvgPWqjFoAB-634-80.jpg",
         "title": "Denmark\u2019s new rules on cash mark the beginning of the end for physical money | MoneyWeek",
         "vote": 0
     },
@@ -1151,20 +1151,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:25.624972+00:00",
-        "date_dead_since": "2025-09-02T06:27:43.299678+00:00",
+        "date_dead_since": null,
         "date_published": "2015-07-08T10:27:26+00:00",
         "description": "Reddit Victoria Taylor: Dismissed AMA Coordinator Breaks Silence | Time",
         "id": 40698,
         "language": "en",
         "link": "https://time.com/3950496/reddit-victoria-taylor-post",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 32,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://time.com",
-        "status_code": 406,
+        "status_code": 200,
         "tags": [
             "reddit"
         ],
@@ -1954,7 +1954,7 @@
             "climate change",
             "climate science"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ParisAgreement.svg/1200px-ParisAgreement.svg.png",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ParisAgreement.svg/1280px-ParisAgreement.svg.png",
         "title": "Paris Agreement",
         "vote": 0
     }
