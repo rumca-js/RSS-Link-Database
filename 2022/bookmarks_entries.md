@@ -859,7 +859,6 @@
  - [https://www.youtube.com/watch?v=_vBRGWoK6_4](https://www.youtube.com/watch?v=_vBRGWoK6_4)
  - date_published: 2022-02-12T20:14:23+00:00
  - tags: ['bible', 'jordan peterson', 'religion', 'religion knowledge']
- - date_dead_since: 2025-09-03T18:27:18.854499+00:00
 
  ## Victor Davis Hanson - How COVID Lockdowns Killed Small Businesses | Highlights Ep.38
  - [https://www.youtube.com/watch?v=-CucAwH3YQY](https://www.youtube.com/watch?v=-CucAwH3YQY)
@@ -1117,7 +1116,6 @@
  ## The Economy Is Fake, the Jobs Are Fake, the Money Is Fake
  - [https://notrelated.xyz/audio/s02/S02E06_-_The_Economy_is_Fake_the_Jobs_are_Fake_the_Money_is_Fake.ogg](https://notrelated.xyz/audio/s02/S02E06_-_The_Economy_is_Fake_the_Jobs_are_Fake_the_Money_is_Fake.ogg)
  - date_published: 2022-03-04T05:00:00+00:00
- - date_dead_since: 2025-09-03T18:17:07.735591+00:00
 
  ## ICANN's rejection of Ukraine's request to sever Russia from the internet [pdf] | Hacker News
  - [https://news.ycombinator.com/item?id=30540188](https://news.ycombinator.com/item?id=30540188)
@@ -1564,7 +1562,6 @@
  ## Overpopulation and the Mouse Metaverse
  - [https://notrelated.xyz/audio/s02/S02E07_-_Overpopulation_and_the_Mouse_Metaverse.ogg](https://notrelated.xyz/audio/s02/S02E07_-_Overpopulation_and_the_Mouse_Metaverse.ogg)
  - date_published: 2022-03-31T04:00:00+00:00
- - date_dead_since: 2025-09-03T18:11:36.962815+00:00
 
  ## Twitter user sentenced to 150 hours of community service in UK for posting ‘offensive’ tweet - The Verge
  - [https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly](https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly)
@@ -2412,7 +2409,6 @@
  ## My students cheated... A lot • crumplab
  - [https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
  - date_published: 2022-05-29T11:00:57.393519+00:00
- - date_dead_since: 2025-09-03T17:56:02.653189+00:00
 
  ## Britain should scrap its Online Safety Bill | The Economist
  - [https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
@@ -2827,7 +2823,6 @@
  ## Inside the secret, often bizarre world that decides what porn you see
  - [https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5](https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5)
  - date_published: 2022-06-29T07:35:01.143846+00:00
- - date_dead_since: 2025-09-03T17:38:02.669446+00:00
 
  ## 0.5 billion, and it's permanent.
  - [https://ramapascala.substack.com/p/05-billion-and-its-permanent](https://ramapascala.substack.com/p/05-billion-and-its-permanent)
@@ -2853,7 +2848,6 @@
  ## Unity is laying off hundreds of employees - Protocol
  - [https://www.protocol.com/bulletins/unity-layoffs-game-engine](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
  - date_published: 2022-07-01T08:39:12.908918+00:00
- - date_dead_since: 2025-09-03T17:31:48.468384+00:00
 
  ## Most workers want their employer to share their values
  - [https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html](https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html)
@@ -3111,7 +3105,6 @@
  - [https://biznesalert.pl/pola-matysiak-emisje-co2-atom-niemcy-rozmowa](https://biznesalert.pl/pola-matysiak-emisje-co2-atom-niemcy-rozmowa)
  - date_published: 2022-07-19T05:25:54+00:00
  - tags: ['atom', 'climate change', 'co2']
- - date_dead_since: 2025-09-03T17:29:17.644900+00:00
 
  ## The True Story Behind Hulu's New Victoria's Secret Documentary
  - [https://time.com/6197975/victorias-secret-angels-and-demons-hulu-true-story](https://time.com/6197975/victorias-secret-angels-and-demons-hulu-true-story)
@@ -3514,7 +3507,6 @@
  ## It wasn't for nothing - Grasping gexps
  - [https://gexp.no/it-wasnt-for-nothing.html](https://gexp.no/it-wasnt-for-nothing.html)
  - date_published: 2022-08-18T21:03:53.134487+00:00
- - date_dead_since: 2025-09-03T17:21:38.004867+00:00
 
  ## Random Acts of Kindness Make a Bigger Splash Than Expected - Neuroscience News
  - [https://neurosciencenews.com/kindness-outcome-21263](https://neurosciencenews.com/kindness-outcome-21263)
@@ -3664,7 +3656,6 @@
  ## ShadowGate – A Banned Documentary Covering The Deep State Coup
  - [https://libertariannews.org/2020/08/15/shadowgate-a-banned-documentary-covering-the-deep-state-coup](https://libertariannews.org/2020/08/15/shadowgate-a-banned-documentary-covering-the-deep-state-coup)
  - date_published: 2022-08-24T12:49:08.064296+00:00
- - date_dead_since: 2025-09-03T17:16:30.515850+00:00
 
  ## ShadowGate – A Banned Documentary Source
  - [https://www.brighteon.com/fde592b6-4efd-415a-8268-f29bf288ac65](https://www.brighteon.com/fde592b6-4efd-415a-8268-f29bf288ac65)
@@ -3795,7 +3786,6 @@
  - [https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency](https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency)
  - date_published: 2022-08-29T16:56:15+00:00
  - tags: ['brics', 'cbdc', 'fiat currency']
- - date_dead_since: 2025-09-03T17:13:55.292826+00:00
 
  ## The Huawei Backdoor Conspiracy
  - [https://www.youtube.com/watch?v=z7luwhj9a2w](https://www.youtube.com/watch?v=z7luwhj9a2w)
@@ -5461,7 +5451,6 @@
  - [https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano](https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano)
  - date_published: 2022-09-29T23:59:46+00:00
  - tags: ['big tech', 'social control', 'social media']
- - date_dead_since: 2025-09-03T16:50:09.158877+00:00
 
  ## Never-before-seen malware has infected hundreds of Linux and Windows devices
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59043](https://www.codeproject.com/script/News/View.aspx?nwid=59043)
@@ -6592,7 +6581,6 @@
  - [https://www.youtube.com/watch?v=zum672SQX8Q](https://www.youtube.com/watch?v=zum672SQX8Q)
  - date_published: 2022-10-24T21:00:10+00:00
  - tags: ['cancel culture', 'culture', 'postmodernism', 'the left wing']
- - date_dead_since: 2025-09-03T16:42:06.783695+00:00
 
  ## State AGs say Fauci, Zuckerberg 'colluded' to kill COVID lab leak theory
  - [https://www.foxnews.com/politics/state-ags-fauci-zuckerberg-colluded-kill-covid-lab-leak-theory](https://www.foxnews.com/politics/state-ags-fauci-zuckerberg-colluded-kill-covid-lab-leak-theory)
@@ -6682,7 +6670,6 @@
  - [https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod)
  - date_published: 2022-10-25T22:31:24+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-09-03T16:37:22.092290+00:00
 
  ## Stock futures fall after Alphabet reports earnings miss
  - [https://biztoc.com/p/8ywu3duf?ref=rss&rd=1](https://biztoc.com/p/8ywu3duf?ref=rss&rd=1)
@@ -8047,7 +8034,6 @@
  - [https://www.gov.uk/government/publications/syphilis-quarterly-data-for-england/syphilis-in-england-2019-to-2021](https://www.gov.uk/government/publications/syphilis-quarterly-data-for-england/syphilis-in-england-2019-to-2021)
  - date_published: 2022-11-22T19:53:13+00:00
  - tags: ['england', 'homosexuality', 'syphilis']
- - date_dead_since: 2025-09-03T12:01:42.743877+00:00
 
  ## Eufy leaking your "private" images/faces & names... to the cloud.
  - [https://www.youtube.com/watch?v=qOjiCbxP5Lc](https://www.youtube.com/watch?v=qOjiCbxP5Lc)
@@ -8834,7 +8820,6 @@
  - [https://www.youtube.com/watch?v=PK6H0qI7fCY](https://www.youtube.com/watch?v=PK6H0qI7fCY)
  - date_published: 2022-12-11T00:00:00+00:00
  - tags: ['anonymity', 'digital id', 'privacy']
- - date_dead_since: 2025-09-03T16:11:33.051932+00:00
 
  ## Twitter Files reveal 'junior employee' stood against Trump ban, warned of 'slippery slope'
  - [https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope](https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope)
@@ -8879,7 +8864,6 @@
  - [https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google](https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google)
  - date_published: 2022-12-11T20:41:13+00:00
  - tags: ['google', 'privacy']
- - date_dead_since: 2025-09-03T12:00:28.993972+00:00
 
  ## Surveillance issues in smart cities
  - [https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities](https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities)
@@ -9700,7 +9684,6 @@
  - [https://www.dailywire.com/news/joe-rogans-podcast-shows-horrifying-slave-conditions-used-to-mine-materials-needed-for-electric-cars](https://www.dailywire.com/news/joe-rogans-podcast-shows-horrifying-slave-conditions-used-to-mine-materials-needed-for-electric-cars)
  - date_published: 2022-12-24T16:37:37+00:00
  - tags: ['climate change', 'climate drama', 'electric vehicles', 'slave labour']
- - date_dead_since: 2025-09-03T11:59:12.241986+00:00
 
  ## Twitter Data Breach: Data of 400M Users Up for Sale on Dark Web
  - [https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale](https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale)

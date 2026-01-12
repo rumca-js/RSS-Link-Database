@@ -191,7 +191,6 @@
  - [https://malwaretips.com/threads/sourceforge-net-adds-adware-installers-provided-by-ask-com.17247](https://malwaretips.com/threads/sourceforge-net-adds-adware-installers-provided-by-ask-com.17247)
  - date_published: 2013-07-24T00:00:00+00:00
  - tags: ['ad business']
- - date_dead_since: 2025-09-03T07:08:46.717509+00:00
 
  ## MIT releases report on its actions in the Aaron Swartz case
  - [https://news.mit.edu/2013/mit-releases-swartz-report-0730](https://news.mit.edu/2013/mit-releases-swartz-report-0730)
@@ -312,7 +311,6 @@
  - [https://www.timesofisrael.com/knesset-speaker-christmas-trees-bring-bad-memories](https://www.timesofisrael.com/knesset-speaker-christmas-trees-bring-bad-memories)
  - date_published: 2013-12-26T20:56:26+00:00
  - tags: ['christianophobia', 'israel']
- - date_dead_since: 2025-09-03T12:21:28.331615+00:00
 
  ## The Psychological Dark Side of Gmail
  - [https://www.alternet.org/2013/12/google-using-gmail-build-psychological-profiles-hundreds-millions-people](https://www.alternet.org/2013/12/google-using-gmail-build-psychological-profiles-hundreds-millions-people)

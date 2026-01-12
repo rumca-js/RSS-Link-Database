@@ -81,7 +81,6 @@
  ## Blizzard retreats from forcing real names in Warcraft forums
  - [https://www.theguardian.com/technology/blog/2010/jul/12/blizzard-warcraft-real-names-retreat](https://www.theguardian.com/technology/blog/2010/jul/12/blizzard-warcraft-real-names-retreat)
  - date_published: 2010-07-12T12:52:05+00:00
- - date_dead_since: 2025-09-03T07:03:13.352615+00:00
 
  ## Uganda blasts kill 74; Somali Islamists claim responsibilty
  - [http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition](http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition)

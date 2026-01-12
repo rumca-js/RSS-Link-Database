@@ -1,0 +1,31 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andreas Spiess",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-01-11T09:45:13.542474+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-11T08:00:39+00:00",
+        "description": "The transition from \"coder\" to \"architect\" is the biggest productivity jump I\u2019ve experienced in 40 years of electronics. Do you want to join me on my journey? With my ten levels, it\u2019s much easier than you think. And no, this is not about ChatGPT alone \u2014 we are going to the next levels. We will use Claude Code, Gemini CLI, Codex to program embedded systems like the ESP32.\n\nMy second channel: https://www.youtube.com/HB9BLAWireless\n\nLinks:\nMy GitHub repo with many other projects made in the last months: https://github.com/SensorsIot\nESP32 used for Hornet Simulator: https://s.click.aliexpress.com/e/_c3sKoZgj\nESP32 mini used for my IOS Keyboard (iPhone dictates text to PC): https://s.click.aliexpress.com/e/_c3nerJir or https://amzn.to/49LAFUy\nMarkdown editor: https://typora.io/\nMulti-project terminal editor: https://tabby.sh/ or https://mobaxterm.mobatek.net/\nClaude Code setup: https://code.claude.com/docs/en/setup\nCodex install: https://developers.openai.com/codex/cli/\nGemini CLI install:",
+        "id": 4528791,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=5DG0-_lseR4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 17,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7_D0o48KbfhpEohoP7YSQ",
+        "status_code": 0,
+        "tags": [
+            "artificial intelligence"
+        ],
+        "thumbnail": "https://i2.ytimg.com/vi/5DG0-_lseR4/hqdefault.jpg",
+        "title": "Why AI Agents Replaced the Arduino IDE in My ESP32 Projects (Claude Code, Gemini CLI, Codex)",
+        "vote": 0
+    }
+]

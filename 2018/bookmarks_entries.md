@@ -335,7 +335,6 @@
  - [https://www.youtube.com/watch?v=jdYPsCUDVrU](https://www.youtube.com/watch?v=jdYPsCUDVrU)
  - date_published: 2018-04-26T00:00:00+00:00
  - tags: ['andrzej lepper', 'conspiracy theories']
- - date_dead_since: 2025-09-04T00:56:24.618751+00:00
 
  ## Amazon Web Services starts blocking domain-fronting, following Google’s lead
  - [https://www.theverge.com/2018/4/30/17304782/amazon-domain-fronting-google-discontinued](https://www.theverge.com/2018/4/30/17304782/amazon-domain-fronting-google-discontinued)
@@ -366,7 +365,6 @@
  - [https://www.youtube.com/watch?v=tKjlf6DMXTk](https://www.youtube.com/watch?v=tKjlf6DMXTk)
  - date_published: 2018-05-11T15:51:38+00:00
  - tags: ['lgbt']
- - date_dead_since: 2025-09-04T00:53:33.613201+00:00
 
  ## Scawy big no functionality at all UwU · Issue #15 · mpaland/printf · GitHub
  - [https://github.com/mpaland/printf/issues/15](https://github.com/mpaland/printf/issues/15)
@@ -507,7 +505,6 @@
  - [https://apnews.com/article/d29c724e1d72460fbf7c2e999992d258](https://apnews.com/article/d29c724e1d72460fbf7c2e999992d258)
  - date_published: 2018-08-07T00:52:37+00:00
  - tags: ['cybersecurity', 'privacy', 'surveillance']
- - date_dead_since: 2025-09-03T13:20:09.488848+00:00
 
  ## The Astonishing Failures of Al Gore’s Arctic Prophecies
  - [https://cornwallalliance.org/2018/08/the-astonishing-failures-of-al-gores-arctic-prophecies](https://cornwallalliance.org/2018/08/the-astonishing-failures-of-al-gores-arctic-prophecies)
@@ -527,7 +524,6 @@
  ## An Introduction to Not Related! and to Luke Smith
  - [https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3](https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3)
  - date_published: 2018-08-17T04:00:00+00:00
- - date_dead_since: 2025-09-04T00:47:36.820690+00:00
 
  ## Google's data collection is hard to escape, study claims
  - [http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html](http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html)
@@ -542,7 +538,6 @@
  - [https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3](https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3)
  - date_published: 2018-08-24T04:00:00+00:00
  - tags: ['bicameral mind', 'psychology']
- - date_dead_since: 2025-09-04T00:41:45.391972+00:00
 
  ## Rotten Tomatoes Adds 200 Critics as It Tries to Be More Inclusive
  - [https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html](https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html)
@@ -572,7 +567,6 @@
  ## Capitalism, Socialism and Democracy
  - [https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3](https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3)
  - date_published: 2018-09-01T04:00:00+00:00
- - date_dead_since: 2025-09-04T00:35:53.687084+00:00
 
  ## Can mRNA disrupt the drug industry?
  - [https://cen.acs.org/business/start-ups/mRNA-disrupt-drug-industry/96/i35](https://cen.acs.org/business/start-ups/mRNA-disrupt-drug-industry/96/i35)
@@ -637,7 +631,6 @@
  ## Democracy: Rule of the NPCs
  - [https://notrelated.xyz/audio/s01/S01E04_-_Democracy_Rule_of_the_NPCs.mp3](https://notrelated.xyz/audio/s01/S01E04_-_Democracy_Rule_of_the_NPCs.mp3)
  - date_published: 2018-09-19T04:00:00+00:00
- - date_dead_since: 2025-09-04T00:33:48.499502+00:00
 
  ## How to Remove Elements from an Associative Container in C++
  - [https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp](https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp)
@@ -663,7 +656,6 @@
  - [https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3](https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3)
  - date_published: 2018-10-08T04:00:00+00:00
  - tags: ['agriculture']
- - date_dead_since: 2025-09-04T00:24:29.162520+00:00
 
  ## A Clockwork Orange - Film Analysis & Meaning [Full HD]
  - [https://www.youtube.com/watch?v=dOvP58ioBRc](https://www.youtube.com/watch?v=dOvP58ioBRc)
@@ -734,7 +726,6 @@
  ## When You're Too Rational to Be Rational!
  - [https://notrelated.xyz/audio/s01/S01E06_-_When_Youre_Too_Rational_to_Be_Rational.mp3](https://notrelated.xyz/audio/s01/S01E06_-_When_Youre_Too_Rational_to_Be_Rational.mp3)
  - date_published: 2018-11-16T05:00:00+00:00
- - date_dead_since: 2025-09-04T00:12:27.325505+00:00
 
  ## Eyes Wide Shut - What it all Meant
  - [https://www.youtube.com/watch?v=aXwy7M7Udmg](https://www.youtube.com/watch?v=aXwy7M7Udmg)
@@ -784,7 +775,6 @@
  ## Human Evolution Revised: Timelines and Multiregionalism
  - [https://notrelated.xyz/audio/s01/S01E07_-_Human_Evolution_Revised_Timelines_and_Multiregionalism.mp3](https://notrelated.xyz/audio/s01/S01E07_-_Human_Evolution_Revised_Timelines_and_Multiregionalism.mp3)
  - date_published: 2018-12-19T05:00:00+00:00
- - date_dead_since: 2025-09-04T00:01:58.214091+00:00
 
  ## Google’s Earth: how the tech giant is helping the state spy on us
  - [https://www.theguardian.com/news/2018/dec/20/googles-earth-how-the-tech-giant-is-helping-the-state-spy-on-us](https://www.theguardian.com/news/2018/dec/20/googles-earth-how-the-tech-giant-is-helping-the-state-spy-on-us)

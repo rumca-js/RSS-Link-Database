@@ -166,7 +166,6 @@
  ## The Flaws of Academic Statistics: the Null Ritual
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
  - date_published: 2019-03-13T04:00:00+00:00
- - date_dead_since: 2025-09-03T23:51:45.848843+00:00
 
  ## Elektrownia atomowa. Państwowa spółka pochłonęła już prawie pół miliarda złotych
  - [https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html](https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html)
@@ -398,7 +397,6 @@
  - [https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary](https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary)
  - date_published: 2019-07-05T08:18:45+00:00
  - tags: ['children', 'sexualization']
- - date_dead_since: 2025-09-03T23:46:16.566445+00:00
 
  ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)

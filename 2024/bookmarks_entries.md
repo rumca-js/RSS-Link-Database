@@ -107,7 +107,6 @@
  - [https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850](https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850)
  - date_published: 2024-01-11T23:34:00+00:00
  - tags: ['covid']
- - date_dead_since: 2025-09-03T08:23:39.970330+00:00
 
  ## Christian arrested for preaching by 'heavy-handed' police wins £5,000
  - [https://www.dailymail.co.uk/news/article-12958493/Victory-free-speech-Christian-arrested-preaching-ridiculously-heavy-handed-police-wins-5-000-cops.html](https://www.dailymail.co.uk/news/article-12958493/Victory-free-speech-Christian-arrested-preaching-ridiculously-heavy-handed-police-wins-5-000-cops.html)
@@ -213,7 +212,6 @@
  - [https://www.wsj.com/articles/dr-fauci-and-the-sort-of-just-appeared-defense-covid-distancing-7cada692](https://www.wsj.com/articles/dr-fauci-and-the-sort-of-just-appeared-defense-covid-distancing-7cada692)
  - date_published: 2024-01-19T20:13:00+00:00
  - tags: ['covid', 'lockdowns', 'mandates']
- - date_dead_since: 2025-09-03T08:10:05.491780+00:00
 
  ## French farmers threaten to intensify protests over taxes, regulation
  - [https://www.france24.com/en/france/20240120-french-farmers-threaten-to-intensify-protests-as-anger-mounts](https://www.france24.com/en/france/20240120-french-farmers-threaten-to-intensify-protests-as-anger-mounts)
@@ -387,7 +385,6 @@
  - [https://edition.cnn.com/2024/02/01/europe/farmers-protest-brussels-eu-summit-intl/index.html](https://edition.cnn.com/2024/02/01/europe/farmers-protest-brussels-eu-summit-intl/index.html)
  - date_published: 2024-02-01T11:26:53+00:00
  - tags: ['strike']
- - date_dead_since: 2025-09-03T07:40:04.717455+00:00
 
  ## FLASHBACK: FAA turned away qualified air traffic controllers based solely on race
  - [https://www.washingtontimes.com/news/2024/feb/1/editorial-faa-turned-away-qualified-air-traffic-co](https://www.washingtontimes.com/news/2024/feb/1/editorial-faa-turned-away-qualified-air-traffic-co)
@@ -399,7 +396,6 @@
  - [https://time.com/6622135/mark-zuckerberg-apologies-history](https://time.com/6622135/mark-zuckerberg-apologies-history)
  - date_published: 2024-02-02T15:33:58+00:00
  - tags: ['facebook']
- - date_dead_since: 2025-09-03T07:29:55.074789+00:00
 
  ## 'Entire districts appear to be taken over by Arabs,' says German billionaire about his hometown of Berlin
  - [https://rmx.news/crime/entire-districts-appear-to-be-taken-over-by-arabs-says-german-billionaire-about-his-hometown-of-berlin-2](https://rmx.news/crime/entire-districts-appear-to-be-taken-over-by-arabs-says-german-billionaire-about-his-hometown-of-berlin-2)
@@ -420,7 +416,6 @@
  - [https://en.wikipedia.org/wiki/FileZilla#Bundled_adware_issues](https://en.wikipedia.org/wiki/FileZilla#Bundled_adware_issues)
  - date_published: 2024-02-07T00:00:00+00:00
  - tags: ['ad business']
- - date_dead_since: 2025-09-03T07:23:51.355415+00:00
 
  ## What DEI research concludes about diversity training: it is divisive, counter-productive, and unnecessary - Aristotle Foundation
  - [https://aristotlefoundation.org/reality-check/what-dei-research-concludes-about-diversity-training-it-is-divisive-counter-productive-and-unnecessary](https://aristotlefoundation.org/reality-check/what-dei-research-concludes-about-diversity-training-it-is-divisive-counter-productive-and-unnecessary)
@@ -523,7 +518,6 @@
  - [https://www.google.com/url?q=https://ccla.org/press-release/ccla-urges-substantial-amendments-to-the-online-harms-act/&sa=U&ved=2ahUKEwjX-OzL1N-EAxXhFBAIHVMDC6sQFnoECAMQAg&usg=AOvVaw1fVFEoS_G397B_qdkIz2ep](https://www.google.com/url?q=https://ccla.org/press-release/ccla-urges-substantial-amendments-to-the-online-harms-act/&sa=U&ved=2ahUKEwjX-OzL1N-EAxXhFBAIHVMDC6sQFnoECAMQAg&usg=AOvVaw1fVFEoS_G397B_qdkIz2ep)
  - date_published: 2024-02-28T14:27:29+00:00
  - tags: ['canada', 'hate speech']
- - date_dead_since: 2025-09-03T07:16:02.262049+00:00
 
  ## Israeli strike hits aid point killing more than 100 in Gaza
  - [https://www.euronews.com/2024/02/29/israel-hamas-war-prevents-aid-delivery-humanitarians-deported-ultra-orthodox-jews-eyed-for](https://www.euronews.com/2024/02/29/israel-hamas-war-prevents-aid-delivery-humanitarians-deported-ultra-orthodox-jews-eyed-for)
@@ -539,13 +533,11 @@
  - [https://www.nbcnews.com/science/science-news/mexico-citys-21-million-residents-are-facing-severe-water-shortage-rcna140669](https://www.nbcnews.com/science/science-news/mexico-citys-21-million-residents-are-facing-severe-water-shortage-rcna140669)
  - date_published: 2024-03-01T12:00:00+00:00
  - tags: ['sweet water']
- - date_dead_since: 2025-09-03T06:55:43.203384+00:00
 
  ## X Says It Will Reduce the Visibility of Posts That Purposely Ignore a Person’s Preferred Pronouns
  - [https://reclaimthenet.org/x-says-it-will-reduce-the-visibility-of-posts-that-purposely-ignore-a-persons-preferred-pronouns](https://reclaimthenet.org/x-says-it-will-reduce-the-visibility-of-posts-that-purposely-ignore-a-persons-preferred-pronouns)
  - date_published: 2024-03-01T19:30:36+00:00
  - tags: ['censorship', 'pronouns']
- - date_dead_since: 2025-09-03T07:01:21.357517+00:00
 
  ## Biden secretly dumped 320,000 ‘inadmissible’ illegal immigrants into US cities - Washington Examiner
  - [https://www.washingtonexaminer.com/news/2900755/biden-secretly-dumped-320000-inadmissible-illegal-immigrants-us-cities](https://www.washingtonexaminer.com/news/2900755/biden-secretly-dumped-320000-inadmissible-illegal-immigrants-us-cities)
@@ -747,7 +739,6 @@
  - [https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html](https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html)
  - date_published: 2024-04-23T16:06:11+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism']
- - date_dead_since: 2025-09-03T06:44:03.705244+00:00
 
  ## The Man Who Killed Google Search
  - [https://www.wheresyoured.at/the-men-who-killed-google](https://www.wheresyoured.at/the-men-who-killed-google)
@@ -787,7 +778,6 @@
  - [https://restofworld.org/2024/tiktok-chinese-us-ban](https://restofworld.org/2024/tiktok-chinese-us-ban)
  - date_published: 2024-05-07T10:00:00+00:00
  - tags: ['china', 'tiktok']
- - date_dead_since: 2025-09-03T06:33:54.693917+00:00
 
  ## Unrwa Jerusalem HQ closed after ‘Israeli extremist’ arson attack
  - [https://www.theguardian.com/global-development/article/2024/may/09/unrwa-jerusalem-hq-closed-after-israeli-extremist-arson-attack](https://www.theguardian.com/global-development/article/2024/may/09/unrwa-jerusalem-hq-closed-after-israeli-extremist-arson-attack)
@@ -823,13 +813,11 @@
  - [https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say](https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say)
  - date_published: 2024-05-22T19:21:53+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism']
- - date_dead_since: 2025-09-03T06:19:11.428624+00:00
 
  ## Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows
  - [https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows)
  - date_published: 2024-05-23T13:19:05+00:00
  - tags: ['privacy', 'surveillance']
- - date_dead_since: 2025-09-03T06:22:53.749547+00:00
 
  ## Teacher famous for critical thinking video belatedly fired by school
  - [https://afn.net/education/2024/05/23/teacher-famous-for-critical-thinking-video-belatedly-fired-by-school](https://afn.net/education/2024/05/23/teacher-famous-for-critical-thinking-video-belatedly-fired-by-school)
@@ -840,7 +828,6 @@
  - [https://www.theregister.com/2021/03/31/wifi_devices_monitoring](https://www.theregister.com/2021/03/31/wifi_devices_monitoring)
  - date_published: 2024-05-23T19:16:12+00:00
  - tags: ['orwell', 'privacy', 'surveillance', 'technofeudalism']
- - date_dead_since: 2025-09-03T06:20:29.142537+00:00
 
  ## UN's top court orders Israel to halt military operations in Rafah
  - [https://www.bbc.co.uk/news/live/world-69055989](https://www.bbc.co.uk/news/live/world-69055989)
@@ -851,7 +838,6 @@
  - [https://www.thestar.com.my/tech/tech-news/2024/05/24/speedster-jailed-after-spore-police-tapped-gps-route-data-from-in-car-system-in-first-case-here](https://www.thestar.com.my/tech/tech-news/2024/05/24/speedster-jailed-after-spore-police-tapped-gps-route-data-from-in-car-system-in-first-case-here)
  - date_published: 2024-05-24T15:20:00+00:00
  - tags: ['pivacy', 'surveillance', 'technofeudalism']
- - date_dead_since: 2025-09-03T06:39:04.500136+00:00
 
  ## Celebrities like Elon Musk and Taylor Swift might soon be able to hide their private jet flights from online sleuths
  - [https://www.businessinsider.com/taylor-swift-elon-musk-private-jet-tracking-faa-reauthorization-2024-5?IR=T](https://www.businessinsider.com/taylor-swift-elon-musk-private-jet-tracking-faa-reauthorization-2024-5?IR=T)
@@ -863,13 +849,11 @@
  - [https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
  - date_published: 2024-05-25T11:14:26+00:00
  - tags: ['corporatocracy', 'google', 'search engines', 'seo', 'technofeudalism']
- - date_dead_since: 2025-09-03T06:24:29.417786+00:00
 
  ## Anonymous Source Shared Leaked Google Search API Documents
  - [https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them](https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them)
  - date_published: 2024-05-28T02:20:52+00:00
  - tags: ['corporatocracy', 'google', 'inequality']
- - date_dead_since: 2025-09-03T06:49:04.255841+00:00
 
  ## Spying, hacking and intimidation: Israel’s nine-year ‘war’ on the ICC exposed
  - [https://www.theguardian.com/world/article/2024/may/28/spying-hacking-intimidation-israel-war-icc-exposed](https://www.theguardian.com/world/article/2024/may/28/spying-hacking-intimidation-israel-war-icc-exposed)
@@ -885,7 +869,6 @@
  - [https://www.timesofisrael.com/israel-said-to-have-waged-9-year-war-against-icc-tapping-its-communications](https://www.timesofisrael.com/israel-said-to-have-waged-9-year-war-against-icc-tapping-its-communications)
  - date_published: 2024-05-28T17:28:43+00:00
  - tags: ['icc', 'israel', 'palestine']
- - date_dead_since: 2025-09-03T13:06:20.726883+00:00
 
  ## Washing machine chime scandal shows how absurd YouTube copyright abuse can get
  - [https://arstechnica.com/tech-policy/2024/05/washing-machine-chime-scandal-shows-how-absurd-youtube-copyright-abuse-can-get](https://arstechnica.com/tech-policy/2024/05/washing-machine-chime-scandal-shows-how-absurd-youtube-copyright-abuse-can-get)
@@ -1345,15 +1328,15 @@
  - date_published: 2024-10-26T08:10:08+00:00
  - tags: ['immigration']
 
+ ## Fitness app Strava gives away location of Biden, Trump and other leaders, French newspaper says
+ - [https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says](https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says)
+ - date_published: 2024-10-28T12:09:19+00:00
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
+
  ## Superyachts and jets of Europe’s elite emit more carbon pollution in a week than the world’s poorest 1% emits in a lifetime | Oxfam International
  - [https://www.oxfam.org/en/press-releases/superyachts-and-jets-europes-elite-emit-more-carbon-pollution-week-worlds-poorest-1](https://www.oxfam.org/en/press-releases/superyachts-and-jets-europes-elite-emit-more-carbon-pollution-week-worlds-poorest-1)
  - date_published: 2024-10-28T13:11:49+00:00
  - tags: ['billionaires', 'climate change', 'elite']
-
- ## Fitness app Strava gives away location of Biden, Trump and other leaders, French newspaper says
- - [https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says](https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says)
- - date_published: 2024-10-28T19:09:37+00:00
- - tags: ['privacy', 'surveillance', 'technofeudalism']
 
  ## The Harris Campaign Manipulates Reddit To Control The Platform
  - [https://thefederalist.com/2024/10/29/busted-the-inside-story-of-how-the-kamala-harris-campaign-manipulates-reddit-and-breaks-the-rules-to-control-the-platform](https://thefederalist.com/2024/10/29/busted-the-inside-story-of-how-the-kamala-harris-campaign-manipulates-reddit-and-breaks-the-rules-to-control-the-platform)

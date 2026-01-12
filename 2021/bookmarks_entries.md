@@ -1406,7 +1406,6 @@
  - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda)
  - date_published: 2021-07-02T09:10:14+00:00
  - tags: ['coke', 'go woke go broke', 'the left wing']
- - date_dead_since: 2025-09-03T20:30:15.831392+00:00
 
  ## Abigail Shrier’s Irreversible Damage: A Wealth of Irreversible Misinformation | Science-Based Medicine
  - [https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation](https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation)
@@ -1906,7 +1905,6 @@
  - [https://www.youtube.com/watch?v=YB6gwOBClwE](https://www.youtube.com/watch?v=YB6gwOBClwE)
  - date_published: 2021-07-29T00:00:00+00:00
  - tags: ['crisis', 'drugs', 'usa']
- - date_dead_since: 2025-09-03T20:06:02.378494+00:00
 
  ## The mermaid is taking over Google search in Norway - ALEXSKRA
  - [https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway](https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway)
@@ -2855,7 +2853,6 @@
  ## Myth as Science and Prehistoric Knowledge: Hamlet's Mill
  - [https://notrelated.xyz/audio/s02/S02E04_-_Myth_as_Science_and_Prehistoric_Knowledge_Hamlets_Mill.ogg](https://notrelated.xyz/audio/s02/S02E04_-_Myth_as_Science_and_Prehistoric_Knowledge_Hamlets_Mill.ogg)
  - date_published: 2021-10-01T04:00:00+00:00
- - date_dead_since: 2025-09-03T19:56:25.128558+00:00
 
  ## Chip shortage leads carmaker Opel to shut German plant until 2022 | Reuters
  - [https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30](https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30)
@@ -3051,7 +3048,6 @@
  ## Magpie Driven Development (MDD) - Niche Software
  - [http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html](http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html)
  - date_published: 2021-10-12T13:43:31.798525+00:00
- - date_dead_since: 2025-09-03T19:52:26.920143+00:00
 
  ## Amazon copied products and rigged search results, documents show
  - [https://www.reuters.com/investigates/special-report/amazon-india-rigging](https://www.reuters.com/investigates/special-report/amazon-india-rigging)
@@ -3390,7 +3386,6 @@
  ## Popper, Soros and the Open Society
  - [https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg](https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg)
  - date_published: 2021-10-31T04:00:00+00:00
- - date_dead_since: 2025-09-03T19:42:03.072681+00:00
 
  ## The metaverse is already here, it's called the internet - Can's blog
  - [https://canolcer.com/post/metaverse-is-already-here](https://canolcer.com/post/metaverse-is-already-here)
@@ -3493,7 +3488,6 @@
  - [https://www.youtube.com/watch?v=rKUWnzcCRd8](https://www.youtube.com/watch?v=rKUWnzcCRd8)
  - date_published: 2021-11-08T00:00:00+00:00
  - tags: ['motivation', 'quotes']
- - date_dead_since: 2025-09-03T19:38:17.147137+00:00
 
  ## Last of original SCO v IBM Linux lawsuit settled | ZDNET
  - [https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled](https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled)
@@ -3792,7 +3786,6 @@
  - [https://www.youtube.com/watch?v=lYYmAF7_wk0](https://www.youtube.com/watch?v=lYYmAF7_wk0)
  - date_published: 2021-11-25T00:00:00+00:00
  - tags: ['motivation']
- - date_dead_since: 2025-09-03T19:32:52.656961+00:00
 
  ## Is my cat Turing-complete? | Belay the C++
  - [https://belaycpp.com/2021/11/24/is-my-cat-turing-complete](https://belaycpp.com/2021/11/24/is-my-cat-turing-complete)
@@ -3882,7 +3875,6 @@
  - [https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?](https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?)
  - date_published: 2021-12-01T08:06:38+00:00
  - tags: ['booster', 'covid', 'vaccine']
- - date_dead_since: 2025-09-03T19:27:02.083036+00:00
 
  ## Jaki szyfrowany komunikator wybrać? Lista współpracy z FBI może pomóc w podjęciu decyzji
  - [https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869](https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869)

@@ -28,7 +28,6 @@
  - [https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html](https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html)
  - date_published: 2023-01-01T21:06:41+00:00
  - tags: ['inequality', 'lgbt', 'science is dead', 'the left wing']
- - date_dead_since: 2025-09-03T16:02:08.001459+00:00
 
  ## Witamy na stronie zaimki.pl!
  - [https://zaimki.pl](https://zaimki.pl)
@@ -39,7 +38,6 @@
  - [https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money](https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money)
  - date_published: 2023-01-01T22:31:55+00:00
  - tags: ['big tech', 'bill gates', 'billionaires', 'jeff bezos', 'mark zuckerberg', 'plutocracy']
- - date_dead_since: 2025-09-03T15:56:12.383593+00:00
 
  ## Third of world economy to hit recession in 2023, IMF head warns
  - [https://www.theguardian.com/business/2023/jan/02/third-of-world-economy-to-hit-recession-in-2023-imf-head-warns](https://www.theguardian.com/business/2023/jan/02/third-of-world-economy-to-hit-recession-in-2023-imf-head-warns)
@@ -241,7 +239,6 @@
  - [https://www.youtube.com/watch?v=oknQHbKFTZE](https://www.youtube.com/watch?v=oknQHbKFTZE)
  - date_published: 2023-01-06T07:49:05+00:00
  - tags: ['civilisation', 'future']
- - date_dead_since: 2025-09-03T15:52:16.884374+00:00
 
  ## Ile kosztuje ładowanie samochodów elektrycznych w 2023? Policzyłem to i jestem przerażony - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/technika/57587-ile-kosztuje-ladowanie-samochodow-elektrycznych-w-2023.html](https://www.instalki.pl/aktualnosci/technika/57587-ile-kosztuje-ladowanie-samochodow-elektrycznych-w-2023.html)
@@ -504,7 +501,6 @@
  - [https://reclaimthenet.org/rfk-jr-sues-mainstream-media-misinformation-cartel](https://reclaimthenet.org/rfk-jr-sues-mainstream-media-misinformation-cartel)
  - date_published: 2023-01-11T16:10:21+00:00
  - tags: ['trusted news initiative']
- - date_dead_since: 2025-09-03T11:58:59.245628+00:00
 
  ## Jes Staley had ‘profound friendship’ with Jeffrey Epstein, court documents claim
  - [https://www.theguardian.com/business/2023/jan/11/jes-staley-had-profound-friendship-with-jeffrey-epstein-court-documents-claim](https://www.theguardian.com/business/2023/jan/11/jes-staley-had-profound-friendship-with-jeffrey-epstein-court-documents-claim)
@@ -1167,7 +1163,6 @@
  - [https://www.bizpacreview.com/2023/01/26/creepy-rbg-medusa-statue-erected-at-nyc-courthouse-in-part-of-an-urgent-and-cultural-reckoning-1327894](https://www.bizpacreview.com/2023/01/26/creepy-rbg-medusa-statue-erected-at-nyc-courthouse-in-part-of-an-urgent-and-cultural-reckoning-1327894)
  - date_published: 2023-01-26T07:37:42+00:00
  - tags: ['abortion', 'satanism']
- - date_dead_since: 2025-09-03T15:47:22.673949+00:00
 
  ## Anti-abortion violence is the next wave of domestic terrorism
  - [https://thehill.com/opinion/national-security/3831448-anti-abortion-violence-is-the-next-wave-of-domestic-terrorism](https://thehill.com/opinion/national-security/3831448-anti-abortion-violence-is-the-next-wave-of-domestic-terrorism)
@@ -1454,7 +1449,6 @@
  - [https://lajili.com/posts/post-2](https://lajili.com/posts/post-2)
  - date_published: 2023-02-02T15:25:26+00:00
  - tags: ['artificial intelligence', 'chatgpt', 'internet', 'web30']
- - date_dead_since: 2025-09-03T10:54:19.945578+00:00
 
  ## Will walled gardens rule VR?
  - [https://worldish.substack.com/p/will-walled-gardens-rule-vr](https://worldish.substack.com/p/will-walled-gardens-rule-vr)
@@ -1520,7 +1514,6 @@
  - [https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society](https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society)
  - date_published: 2023-02-03T17:09:01+00:00
  - tags: ['england', 'nudge unit', 'oversight board', 'propaganda', 'psyop']
- - date_dead_since: 2025-09-03T10:52:05.831038+00:00
 
  ## Sztuczna inteligencja może odebrać pracę. Oto 10 zawodów, które zastąpi
  - [https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c](https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c)
@@ -2572,7 +2565,6 @@
  - [https://www.youtube.com/watch?v=wcn3_V2_rJ0](https://www.youtube.com/watch?v=wcn3_V2_rJ0)
  - date_published: 2023-03-12T13:24:52+00:00
  - tags: ['ukraine', 'war']
- - date_dead_since: 2025-09-03T15:22:08.173036+00:00
 
  ## What is Happening with Samsung's Camera?
  - [https://www.youtube.com/watch?v=1afpDuTb-P0](https://www.youtube.com/watch?v=1afpDuTb-P0)
@@ -5250,7 +5242,6 @@
  - [https://biznesalert.pl/brakuje-juz-ponad-szesciu-miliardow-na-mrozenie-cen-energii-wiec-zaplaca-tez-polacy](https://biznesalert.pl/brakuje-juz-ponad-szesciu-miliardow-na-mrozenie-cen-energii-wiec-zaplaca-tez-polacy)
  - date_published: 2023-06-14T14:12:44+00:00
  - tags: ['poland', 'prawo i sprawiedliwość']
- - date_dead_since: 2025-09-03T14:40:18.439954+00:00
 
  ## US spy agencies are buying the same surveillance data advertisers crave
  - [https://www.theverge.com/2023/6/14/23759585/odni-spy-report-surveillance-data-location-tracking](https://www.theverge.com/2023/6/14/23759585/odni-spy-report-surveillance-data-location-tracking)
@@ -6127,7 +6118,6 @@
  - [https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews](https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews)
  - date_published: 2023-07-19T14:10:03+00:00
  - tags: ['censorship', 'sound of freedom', 'youtube']
- - date_dead_since: 2025-09-03T14:22:48.522925+00:00
 
  ## Flying in Europe up to 30 times cheaper than train, says Greenpeace
  - [https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace](https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace)
@@ -6258,7 +6248,6 @@
  - [https://www.youtube.com/watch?v=tZ8xuQnpvIE](https://www.youtube.com/watch?v=tZ8xuQnpvIE)
  - date_published: 2023-07-23T00:00:00+00:00
  - tags: ['ad business', 'subscription', 'technofeudalism', 'youtube']
- - date_dead_since: 2025-09-03T14:21:28.035018+00:00
 
  ## Web Environment Integrity API Proposal | Hacker News
  - [https://news.ycombinator.com/item?id=36817305](https://news.ycombinator.com/item?id=36817305)
@@ -7471,7 +7460,6 @@
  - [https://www.science.org/content/article/cia-bribed-its-own-covid-19-origin-team-reject-lab-leak-theory-anonymous-whistleblower](https://www.science.org/content/article/cia-bribed-its-own-covid-19-origin-team-reject-lab-leak-theory-anonymous-whistleblower)
  - date_published: 2023-09-12T13:53:29+00:00
  - tags: ['covid', 'lab leak', 'science is dead', 'wuhan']
- - date_dead_since: 2025-09-03T13:02:21.056833+00:00
 
  ## CIA tried to pay off analysts to bury findings that COVID lab leak was likely: whistleblower
  - [https://nypost.com/2023/09/12/cia-tried-to-pay-off-analysts-to-bury-covid-lab-leak-findings-whistleblower](https://nypost.com/2023/09/12/cia-tried-to-pay-off-analysts-to-bury-covid-lab-leak-findings-whistleblower)
@@ -8444,7 +8432,6 @@
  - [https://www.politico.com/news/2023/12/21/colorado-trump-ruling-blue-states-00133009](https://www.politico.com/news/2023/12/21/colorado-trump-ruling-blue-states-00133009)
  - date_published: 2023-12-21T19:56:39+00:00
  - tags: ['democracy', 'donald trump']
- - date_dead_since: 2025-09-03T08:58:34.092647+00:00
 
  ## God Is Dead So They Are Building a New One
  - [https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building](https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building)

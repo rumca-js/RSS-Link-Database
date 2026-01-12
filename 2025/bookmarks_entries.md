@@ -399,7 +399,6 @@
  - [https://www.ibtimes.co.uk/ubisoft-game-faces-79m-fine-privacy-experts-uncover-hidden-data-harvesting-1733079](https://www.ibtimes.co.uk/ubisoft-game-faces-79m-fine-privacy-experts-uncover-hidden-data-harvesting-1733079)
  - date_published: 2025-04-25T10:51:42+00:00
  - tags: ['privacy', 'surveillance', 'ubisoft']
- - date_dead_since: 2025-09-03T07:33:43.605213+00:00
 
  ## CPO at Adobe says company will 'discontinue' DEI targets
  - [http://www.hrdmag.com.sg/asia/specialisation/diversity-inclusion/cpo-at-adobe-says-company-will-discontinue-dei-targets/530679](http://www.hrdmag.com.sg/asia/specialisation/diversity-inclusion/cpo-at-adobe-says-company-will-discontinue-dei-targets/530679)
@@ -416,7 +415,6 @@
  - [https://www.bbc.com/news/articles/cql67qk0dd3o](https://www.bbc.com/news/articles/cql67qk0dd3o)
  - date_published: 2025-04-26T02:48:29+00:00
  - tags: ['jeffrey epstein', 'virginia giuffre']
- - date_dead_since: 2025-09-03T06:25:46.470865+00:00
 
  ## Prince Andrew accuser Virginia Roberts Giuffre: 'I'm not suicidal, in case something happens to me'
  - [https://news.sky.com/story/prince-andrew-accuser-virginia-roberts-giuffre-im-not-suicidal-in-case-something-happens-to-me-11883685](https://news.sky.com/story/prince-andrew-accuser-virginia-roberts-giuffre-im-not-suicidal-in-case-something-happens-to-me-11883685)
