@@ -894,7 +894,6 @@
  - [https://www.nationalreview.com/news/could-spark-an-epidemic-house-committee-report-alleges-fauci-and-niaid-concealed-plans-to-engineer-enhanced-monkeypox-virus](https://www.nationalreview.com/news/could-spark-an-epidemic-house-committee-report-alleges-fauci-and-niaid-concealed-plans-to-engineer-enhanced-monkeypox-virus)
  - date_published: 2024-06-12T21:44:15+00:00
  - tags: ['anthony fauci', 'covid', 'pandemic']
- - date_dead_since: 2025-09-04T19:12:51.019300+00:00
 
  ## OpenAI Appoints Former NSA Director Paul Nakasone to Board of Directors
  - [https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors](https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors)
