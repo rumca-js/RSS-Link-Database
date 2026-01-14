@@ -7,6 +7,7 @@
  - [https://www.youtube.com/watch?v=Wp-WiNXH6hI](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
  - date_published: 1985-08-19T00:00:00+00:00
  - tags: ['climate change', 'global warming']
+ - date_dead_since: 2026-01-13T19:28:43.476433+00:00
 
  ## KGB Defector Yuri Bezmenov 1985 Interview. Explains KGB Manipulation of US Public Opinion
  - [https://www.youtube.com/watch?v=pOmXiapfCs8](https://www.youtube.com/watch?v=pOmXiapfCs8)

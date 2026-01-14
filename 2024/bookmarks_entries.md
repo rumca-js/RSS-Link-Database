@@ -594,7 +594,6 @@
  - [https://www.economist.com/united-states/2024/03/05/leaked-discussions-reveal-uncertainty-about-transgender-care](https://www.economist.com/united-states/2024/03/05/leaked-discussions-reveal-uncertainty-about-transgender-care)
  - date_published: 2024-03-13T00:50:49+00:00
  - tags: ['transgender', 'wpath']
- - date_dead_since: 2025-09-05T19:15:16.683431+00:00
 
  ## A New Surge in Power Use Is Threatening U.S. Climate Goals
  - [https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html](https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html)
@@ -915,7 +914,6 @@
  - [https://www.ghacks.net/2024/06/19/google-disrupted-youtube-video-playback-on-firefox-again](https://www.ghacks.net/2024/06/19/google-disrupted-youtube-video-playback-on-firefox-again)
  - date_published: 2024-06-19T10:53:34+00:00
  - tags: ['dark design', 'firefox', 'google', 'youtube']
- - date_dead_since: 2025-09-05T18:35:56.920927+00:00
 
  ## Wegen „Hasskommentaren“ gegen Vergewaltiger: Junge Frau muss in Haft - Täter bleibt auf freiem Fuß - Apollo News
  - [https://apollo-news.net/wegen-hasskommentaren-gegen-vergewaltiger-junge-frau-muss-in-haft](https://apollo-news.net/wegen-hasskommentaren-gegen-vergewaltiger-junge-frau-muss-in-haft)
@@ -1356,7 +1354,6 @@
  - [https://www.hrgrapevine.com/us/content/article/2024-11-01-aircraft-giant-ditches-dei-efforts-as-survey-underlines-consistent-employee-support](https://www.hrgrapevine.com/us/content/article/2024-11-01-aircraft-giant-ditches-dei-efforts-as-survey-underlines-consistent-employee-support)
  - date_published: 2024-11-01T00:00:00+00:00
  - tags: ['dei', 'diversity', 'inclusion']
- - date_dead_since: 2025-09-05T18:26:26.373775+00:00
 
  ## More than 100 BBC staff accuse broadcaster of Israel bias in Gaza coverage
  - [https://www.independent.co.uk/news/uk/home-news/bbc-israel-gaza-letter-tim-davie-bias-palestine-b2636737.html](https://www.independent.co.uk/news/uk/home-news/bbc-israel-gaza-letter-tim-davie-bias-palestine-b2636737.html)
@@ -1381,7 +1378,6 @@
  - [https://www.politico.com/news/2022/11/17/florida-anti-woke-law-block-colleges-education-00069252](https://www.politico.com/news/2022/11/17/florida-anti-woke-law-block-colleges-education-00069252)
  - date_published: 2024-11-19T07:24:58+00:00
  - tags: ['dystopia', 'woke']
- - date_dead_since: 2025-09-06T02:17:31.313523+00:00
 
  ## OpenAI accidentally erases potential evidence in training data lawsuit
  - [https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit](https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit)

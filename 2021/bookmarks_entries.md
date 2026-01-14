@@ -367,7 +367,6 @@
  - [https://www.nationalreview.com/news/kerry-defended-taking-private-jet-to-iceland-for-environmental-award-the-only-choice-for-somebody-like-me/amp](https://www.nationalreview.com/news/kerry-defended-taking-private-jet-to-iceland-for-environmental-award-the-only-choice-for-somebody-like-me/amp)
  - date_published: 2021-02-23T06:59:57+00:00
  - tags: ['billionaires', 'climate change']
- - date_dead_since: 2025-09-05T18:13:12.328427+00:00
 
  ## Biden’s ‘kids in cages’ prove his hypocrisy on immigration
  - [https://nypost.com/2021/02/24/bidens-kids-in-cages-prove-his-hypocrisy-on-immigration](https://nypost.com/2021/02/24/bidens-kids-in-cages-prove-his-hypocrisy-on-immigration)
@@ -2594,6 +2593,11 @@
  - date_published: 2021-09-12T09:54:38.994089+00:00
  - tags: ['censorship', 'facebook', 'mastodon', 'open source', 'social media']
 
+ ## Long-Secret FBI Report Reveals New Connections Between 9/11 Hijackers and Saudi Religious Officials in U.S.
+ - [https://www.propublica.org/article/long-secret-fbi-report-reveals-new-connections-between-9-11-hijackers-and-saudi-religious-officials-in-u-s](https://www.propublica.org/article/long-secret-fbi-report-reveals-new-connections-between-9-11-hijackers-and-saudi-religious-officials-in-u-s)
+ - date_published: 2021-09-12T22:50:00+00:00
+ - tags: ['911', 'saudi arabia']
+
  ## The Dead Internet Theory
  - [https://www.youtube.com/watch?v=DEn758DVF9I](https://www.youtube.com/watch?v=DEn758DVF9I)
  - date_published: 2021-09-13T00:00:00+00:00
@@ -2712,11 +2716,6 @@
  - [https://www.youtube.com/watch?v=F6R_WTDdx7I](https://www.youtube.com/watch?v=F6R_WTDdx7I)
  - date_published: 2021-09-21T07:45:28+00:00
  - tags: ['climate change']
-
- ## Long-Secret FBI Report Reveals New Connections Between 9/11 Hijackers and Saudi Religious Officials in U.S.
- - [https://www.propublica.org/article/long-secret-fbi-report-reveals-new-connections-between-9-11-hijackers-and-saudi-religious-officials-in-u-s](https://www.propublica.org/article/long-secret-fbi-report-reveals-new-connections-between-9-11-hijackers-and-saudi-religious-officials-in-u-s)
- - date_published: 2021-09-21T12:57:49+00:00
- - tags: ['911', 'saudi arabia']
 
  ## Inside Facebook’s Push to Defend Its Image - The New York Times
  - [https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html](https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html)
