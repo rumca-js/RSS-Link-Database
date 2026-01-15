@@ -37,7 +37,6 @@
  - [https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html](https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html)
  - date_published: 2025-01-18T10:15:06+00:00
  - tags: ['democracy', 'monarchy']
- - date_dead_since: 2025-09-06T16:42:12.488598+00:00
 
  ## Biden pardons Fauci, Milley and the Jan. 6 panel. It's a guard against potential 'revenge' by Trump
  - [https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747](https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747)
@@ -796,6 +795,11 @@
  - [https://gizmodo.com/lg-tvs-get-unremovable-microsoft-copilot-app-2000699870](https://gizmodo.com/lg-tvs-get-unremovable-microsoft-copilot-app-2000699870)
  - date_published: 2025-12-15T21:45:48+00:00
  - tags: ['technofeudalism']
+
+ ## This Flock Camera Leak is like Netflix For Stalkers
+ - [https://www.youtube.com/watch?v=vU1-uiUlHTo](https://www.youtube.com/watch?v=vU1-uiUlHTo)
+ - date_published: 2025-12-21T20:20:55+00:00
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
 
  ## Meta is earning a fortune on a deluge of fraudulent ads, documents show
  - [https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06](https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06)

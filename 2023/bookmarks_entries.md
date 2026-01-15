@@ -8090,11 +8090,6 @@
  - date_published: 2023-11-10T10:00:18+00:00
  - tags: ['religion']
 
- ## True Meaning
- - [https://www.youtube.com/feeds/videos.xml?channel_id=UCpbLMvl-azzO5gMEMCkvlYA](https://www.youtube.com/feeds/videos.xml?channel_id=UCpbLMvl-azzO5gMEMCkvlYA)
- - date_published: 2023-11-10T10:01:02+00:00
- - tags: ['alan watts']
-
  ## Microsoft steals access data: Beware of the new Outlook (German)
  - [https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
  - date_published: 2023-11-10T11:03:09+00:00

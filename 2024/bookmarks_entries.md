@@ -1028,6 +1028,7 @@
  - [https://www.aa.com.tr/en/sports/paris-olympic-opening-ceremony-criticized-for-disrespecting-religious-beliefs/3287897](https://www.aa.com.tr/en/sports/paris-olympic-opening-ceremony-criticized-for-disrespecting-religious-beliefs/3287897)
  - date_published: 2024-07-29T15:46:04+00:00
  - tags: ['lgbt', 'tolerance']
+ - date_dead_since: 2026-01-14T13:45:21.911110+00:00
 
  ## Starmer announces new plan for police forces to tackle violent disorder
  - [https://www.bbc.com/news/articles/cnk4e5g70pko](https://www.bbc.com/news/articles/cnk4e5g70pko)
@@ -1398,15 +1399,15 @@
  - date_published: 2024-11-22T01:00:00+00:00
  - tags: ['surveillance']
 
+ ## #2234 - Marc Andreessen
+ - [https://open.spotify.com/episode/0U4Y0an6iKM1VB8pE1M4vQ](https://open.spotify.com/episode/0U4Y0an6iKM1VB8pE1M4vQ)
+ - date_published: 2024-11-26T18:00:00+00:00
+ - tags: ['debanking', 'deplatform']
+
  ## FA set ethnic diversity quota target for England coaches by 2028
  - [https://www.dailymail.co.uk/sport/football/article-14129061/FA-set-ethnic-diversity-quota-target-England-coaching-staff-2028-alongside-drive-crack-discriminatory-abuse-suffered-stars.html](https://www.dailymail.co.uk/sport/football/article-14129061/FA-set-ethnic-diversity-quota-target-England-coaching-staff-2028-alongside-drive-crack-discriminatory-abuse-suffered-stars.html)
  - date_published: 2024-11-26T18:55:01+00:00
  - tags: ['inequality', 'quotas', 'racism']
-
- ## #2234 - Marc Andreessen
- - [https://open.spotify.com/episode/0U4Y0an6iKM1VB8pE1M4vQ](https://open.spotify.com/episode/0U4Y0an6iKM1VB8pE1M4vQ)
- - date_published: 2024-11-26T19:00:00+00:00
- - tags: ['debanking', 'deplatform']
 
  ## Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide
  - [https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide](https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide)

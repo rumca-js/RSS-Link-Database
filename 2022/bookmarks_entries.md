@@ -3044,7 +3044,6 @@
  ## This Life Advice Will Leave You Speechless, One of The Most Eye Opening Videos Ever | Alan Watts
  - [https://www.youtube.com/watch?v=9JWsGQ1_414](https://www.youtube.com/watch?v=9JWsGQ1_414)
  - date_published: 2022-07-15T00:00:00+00:00
- - date_dead_since: 2025-09-06T03:39:34.004436+00:00
 
  ## Ring Reveals They Give Videos to Police Without User Consent or a Warrant | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2022/07/ring-reveals-they-give-videos-police-without-user-consent-or-warrant](https://www.eff.org/deeplinks/2022/07/ring-reveals-they-give-videos-police-without-user-consent-or-warrant)

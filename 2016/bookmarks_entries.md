@@ -179,6 +179,11 @@
  - date_published: 2016-06-10T14:56:49+00:00
  - tags: ['intel management engine', 'surveillance', 'tracking']
 
+ ## True Meaning
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCpbLMvl-azzO5gMEMCkvlYA](https://www.youtube.com/feeds/videos.xml?channel_id=UCpbLMvl-azzO5gMEMCkvlYA)
+ - date_published: 2016-06-12T00:33:44+00:00
+ - tags: ['alan watts']
+
  ## Dane z JPK będą najpierw w chmurze - GazetaPrawna.pl
  - [https://podatki.gazetaprawna.pl/artykuly/952001,dane-z-jpk-beda-najpierw-w-chmurze.html](https://podatki.gazetaprawna.pl/artykuly/952001,dane-z-jpk-beda-najpierw-w-chmurze.html)
  - date_published: 2016-06-15T07:29:00+00:00
