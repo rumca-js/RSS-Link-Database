@@ -695,7 +695,7 @@
 
  ## Total surveillance you CANNOT escape is coming
  - [https://www.youtube.com/watch?v=Ch9ZkdXn3QU](https://www.youtube.com/watch?v=Ch9ZkdXn3QU)
- - date_published: 2025-09-09T15:16:52+00:00
+ - date_published: 2025-09-09T08:16:52+00:00
  - tags: ['surveilance']
 
  ## Not Even The "Tech Bros" Want Their Own "Tech"
