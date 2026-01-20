@@ -700,7 +700,7 @@
 
  ## Not Even The "Tech Bros" Want Their Own "Tech"
  - [https://www.youtube.com/watch?v=a-YVtACnfWA](https://www.youtube.com/watch?v=a-YVtACnfWA)
- - date_published: 2025-09-11T07:48:46+00:00
+ - date_published: 2025-09-11T00:48:46+00:00
  - tags: ['billionaires', 'elite']
 
  ## Aerial footage shows scale of 'unite the kingdom' rally
