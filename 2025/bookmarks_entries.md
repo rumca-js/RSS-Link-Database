@@ -786,6 +786,11 @@
  - date_published: 2025-11-20T21:30:00+00:00
  - tags: ['israel', 'privacy', 'surveillance']
 
+ ## The Thinking Game | Full documentary | Tribeca Film Festival official selection
+ - [https://www.youtube.com/watch?v=d95J8yzvjbQ](https://www.youtube.com/watch?v=d95J8yzvjbQ)
+ - date_published: 2025-11-25T07:44:20+00:00
+ - tags: ['artificial intelligence']
+
  ## AdBlock and Signal are for terrorists, according to French govt (2023) [video]
  - [https://www.youtube.com/watch?v=1q1hjmwLqe4](https://www.youtube.com/watch?v=1q1hjmwLqe4)
  - date_published: 2025-11-27T00:20:37+00:00

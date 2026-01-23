@@ -6956,6 +6956,11 @@
  - date_published: 2023-08-20T10:00:41+00:00
  - tags: ['language', 'propaganda', 'social engineering', 'woke']
 
+ ## CitizenFour | Documentary
+ - [https://www.youtube.com/watch?v=PoY_GboFMjc](https://www.youtube.com/watch?v=PoY_GboFMjc)
+ - date_published: 2023-08-20T13:44:44+00:00
+ - tags: ['privacy', 'surveillance']
+
  ## Social selling factory in Indonesia
  - [https://twitter.com/LinusEkenstam/status/1693382979291156942](https://twitter.com/LinusEkenstam/status/1693382979291156942)
  - date_published: 2023-08-20T14:24:05+00:00
