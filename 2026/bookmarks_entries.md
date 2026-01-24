@@ -8,3 +8,8 @@
  - date_published: 2026-01-11T08:00:39+00:00
  - tags: ['artificial intelligence']
 
+ ## Thought police bill introduced to revoke US passport for criticism of Israel | Hacker News
+ - [https://news.ycombinator.com/item?id=45251124](https://news.ycombinator.com/item?id=45251124)
+ - date_published: 2026-01-23T17:45:01.102896+00:00
+ - tags: ['israel']
+

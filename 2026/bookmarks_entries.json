@@ -56,5 +56,33 @@
         "thumbnail": "https://i2.ytimg.com/vi/5DG0-_lseR4/hqdefault.jpg",
         "title": "Why AI Agents Replaced the Arduino IDE in My ESP32 Projects (Claude Code, Gemini CLI, Codex)",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-09-15T17:44:49.468098+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-23T17:45:01.102896+00:00",
+        "description": null,
+        "id": 3580517,
+        "language": "en",
+        "link": "https://news.ycombinator.com/item?id=45251124",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 81,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "israel"
+        ],
+        "thumbnail": null,
+        "title": "Thought police bill introduced to revoke US passport for criticism of Israel | Hacker News",
+        "vote": 0
     }
 ]
