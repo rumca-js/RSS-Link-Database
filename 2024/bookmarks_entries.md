@@ -1456,9 +1456,8 @@
 
  ## wsj.com
  - [https://www.wsj.com/politics/national-security/fbi-covid-19-pandemic-lab-leak-theory-dfbd8a51](https://www.wsj.com/politics/national-security/fbi-covid-19-pandemic-lab-leak-theory-dfbd8a51)
- - date_published: 2024-12-30T09:59:36+00:00
+ - date_published: 2024-12-26T04:00:00+00:00
  - tags: ['covid', 'fbi', 'pandemic']
- - date_dead_since: 2025-09-16T09:22:14.192700+00:00
 
  ## Huge Volkswagen data leak exposed the locations of 460,000 EV drivers
  - [https://www.engadget.com/transportation/evs/huge-volkswagen-data-leak-exposed-the-locations-of-460000-ev-drivers-194000006.html?src=rss](https://www.engadget.com/transportation/evs/huge-volkswagen-data-leak-exposed-the-locations-of-460000-ev-drivers-194000006.html?src=rss)
