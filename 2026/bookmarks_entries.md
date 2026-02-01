@@ -13,3 +13,8 @@
  - date_published: 2026-01-23T17:45:01.102896+00:00
  - tags: ['israel']
 
+ ## Google Settles Eavesdropping Lawsuit
+ - [https://www.privacyguides.org/news/2026/01/30/google-settles-eavesdropping-lawsuit](https://www.privacyguides.org/news/2026/01/30/google-settles-eavesdropping-lawsuit)
+ - date_published: 2026-01-30T01:17:24+00:00
+ - tags: ['privacy', 'surveillance']
+

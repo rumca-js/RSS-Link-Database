@@ -84,5 +84,34 @@
         "thumbnail": null,
         "title": "Thought police bill introduced to revoke US passport for criticism of Israel | Hacker News",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-01-31T22:07:28.405273+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-30T01:17:24+00:00",
+        "description": "Accidental recordings are still fair game for Google",
+        "id": 4698420,
+        "language": "en",
+        "link": "https://www.privacyguides.org/news/2026/01/30/google-settles-eavesdropping-lawsuit",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 1,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": "https://images.unsplash.com/photo-1675352161828-c07170f1b114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEyfHxnb29nbGV8ZW58MHx8fHwxNzY5NjMxNjIyfDA&ixlib=rb-4.1.0&q=80&w=2000",
+        "title": "Google Settles Eavesdropping Lawsuit",
+        "vote": 1
     }
 ]
