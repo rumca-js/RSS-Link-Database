@@ -113,5 +113,33 @@
         "thumbnail": "https://images.unsplash.com/photo-1675352161828-c07170f1b114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEyfHxnb29nbGV8ZW58MHx8fHwxNzY5NjMxNjIyfDA&ixlib=rb-4.1.0&q=80&w=2000",
         "title": "Google Settles Eavesdropping Lawsuit",
         "vote": 1
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-02-01T07:28:18.540941+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-31T07:21:59+00:00",
+        "description": "Rare Jeffrey Epstein interview from his home, released in Epstein files. Not deleted, yet.",
+        "id": 4700437,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=dOSIZzcV2ks",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "jeffrey epstein"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/dOSIZzcV2ks/maxresdefault.jpg",
+        "title": "JEFFREY EPSTEIN LAST INTERVIEW FROM HIS HOME (from the Epstein files)",
+        "vote": 0
     }
 ]

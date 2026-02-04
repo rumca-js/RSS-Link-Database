@@ -18,3 +18,8 @@
  - date_published: 2026-01-30T01:17:24+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## JEFFREY EPSTEIN LAST INTERVIEW FROM HIS HOME (from the Epstein files)
+ - [https://www.youtube.com/watch?v=dOSIZzcV2ks](https://www.youtube.com/watch?v=dOSIZzcV2ks)
+ - date_published: 2026-01-31T07:21:59+00:00
+ - tags: ['jeffrey epstein']
+
