@@ -726,6 +726,7 @@
  - [https://www.telegraph.co.uk/news/2025/09/26/man-arrested-hamas-social-media-post-gaza-israel](https://www.telegraph.co.uk/news/2025/09/26/man-arrested-hamas-social-media-post-gaza-israel)
  - date_published: 2025-09-28T19:00:04.903717+00:00
  - tags: ['censorship', 'technofeudalism']
+ - date_dead_since: 2026-02-05T19:00:53.552907+00:00
 
  ## e-ID Act
  - [https://www.admin.ch/gov/en/start/documentation/votes/20250928/e-id-act.html](https://www.admin.ch/gov/en/start/documentation/votes/20250928/e-id-act.html)
