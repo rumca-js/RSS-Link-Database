@@ -8,6 +8,11 @@
  - date_published: 2026-01-11T08:00:39+00:00
  - tags: ['artificial intelligence']
 
+ ## Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Flaw
+ - [https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data](https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data)
+ - date_published: 2026-01-23T06:30:00+00:00
+ - tags: ['crypto wars', 'fbi', 'privacy', 'surveillance']
+
  ## Thought police bill introduced to revoke US passport for criticism of Israel | Hacker News
  - [https://news.ycombinator.com/item?id=45251124](https://news.ycombinator.com/item?id=45251124)
  - date_published: 2026-01-23T17:45:01.102896+00:00
