@@ -4350,7 +4350,7 @@
         "comments": [],
         "date_created": "2025-09-30T14:46:59.038538+00:00",
         "date_dead_since": null,
-        "date_published": "2025-09-30T13:42:26+00:00",
+        "date_published": "2025-09-30T06:42:26+00:00",
         "description": "Go to https://brilliant.org/coldfusion for 30-day free trial + 20% off!\n\nAI is a technology that divides people's opinions when we talk about its impacts. On the one had, AI has been disruptive to certain roles of employment. On the other hand, companies who have rushed to implement AI have found themselves regretting it. In this episode we get to the bottom of how AI is being used in the business world.\n\nWatch or listen to ColdFusion on Spotify: https://open.spotify.com/show/1YEwCKoRz8fEDqheXB6UJ1\n\nSources: \nhttps://docs.google.com/document/d/1cavjbsmufe42UwPWBJAZFnuIcML58SZR1I8g1CugCYA/edit?usp=drivesdk\n\nColdFusion Music: \n\nhttps://www.youtube.com/@coldfusionmusic\nhttp://burnwater.bandcamp.com   \n\nGet my book: \n\nhttp://bit.ly/NewThinkingbook \n\nColdFusion Socials: \n\nhttps://discord.gg/coldfusion\nhttps://facebook.com/ColdFusionTV \nhttps://twitter.com/ColdFusion_TV \nhttps://instagram.com/coldfusiontv\n\nCreated by: Dagogo Altraide\nProducers: Tawsif Akkas, Dagogo Altraide",
         "id": 3699241,
         "language": "en-US",
@@ -4363,11 +4363,11 @@
         "permanent": false,
         "source__id": 76,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "artificial intelligence"
         ],
-        "thumbnail": "https://i2.ytimg.com/vi/QX1Xwzm9yHY/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/QX1Xwzm9yHY/maxresdefault.jpg",
         "title": "Replacing Humans with AI is Going Horribly Wrong",
         "vote": 0
     },
