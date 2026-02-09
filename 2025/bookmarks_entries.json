@@ -4379,7 +4379,7 @@
         "comments": [],
         "date_created": "2025-10-01T06:20:28.615334+00:00",
         "date_dead_since": null,
-        "date_published": "2025-10-01T00:16:52+00:00",
+        "date_published": "2025-09-30T17:16:52+00:00",
         "description": "Get all sides of every story and be better informed at https://ground.news/AlexOC - subscribe for 40% off unlimited access.\n\nFor early access to tickets for my event on November 17th in London, become a paid subscriber to my Substack: https://www.alexoconnor.com.\n\nI'm speaking in London live on November 17th: https://www.leicestersquaretheatre.com/show/an-evening-with-alex-oconnor-religion-god-and-philosophy/\n\nTo donate to my PayPal (thank you): http://www.paypal.me/cosmicskeptic\n\n - VIDEO NOTES\n\nI've made countless videos debating ChatGPT. I've made countless videos on the trolley problem. So I had a natural video idea.\n\n - CONNECT\n\nMy Website: https://www.alexoconnor.com\n\nSOCIAL LINKS:\n\nTwitter: http://www.twitter.com/cosmicskeptic\nFacebook: http://www.facebook.com/cosmicskeptic\nInstagram: http://www.instagram.com/cosmicskeptic\nTikTok: @CosmicSkeptic\n\nThe Within Reason Podcast: https://podcasts.apple.com/gb/podcast/within-reason/id1458675168\n\n - CONTACT\n\nBusiness email: contact@alex",
         "id": 3705220,
         "language": "en",
@@ -4392,11 +4392,11 @@
         "permanent": false,
         "source__id": 641,
         "source_url": "https://youtube.com/channel/UC7kIy8fZavEni8Gzl8NLjOQ",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "artificial intelligence"
         ],
-        "thumbnail": "https://i4.ytimg.com/vi/on9joL3iQ8s/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/on9joL3iQ8s/maxresdefault.jpg",
         "title": "I Broke ChatGPT's Ethical Guidelines",
         "vote": 0
     },
