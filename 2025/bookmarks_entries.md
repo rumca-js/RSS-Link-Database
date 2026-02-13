@@ -645,6 +645,11 @@
  - date_published: 2025-08-12T14:41:31.864986+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## More Than Two Dozen People Linked to Jeffrey Epstein Have Died Under Mysterious Circumstances
+ - [https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances)
+ - date_published: 2025-08-16T00:00:00+00:00
+ - tags: ['jeffrey epstein']
+
  ## Israeli government official arrested in Nevada in internet crimes against children sting
  - [https://www.theguardian.com/us-news/2025/aug/16/nevada-arrest-israeli-official](https://www.theguardian.com/us-news/2025/aug/16/nevada-arrest-israeli-official)
  - date_published: 2025-08-16T14:16:51+00:00
@@ -687,6 +692,11 @@
  - [https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish](https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish)
  - date_published: 2025-09-02T15:42:43+00:00
  - tags: ['corporatocracy', 'shadow ban']
+
+ ## Whitney Webb: EPSTEIN, Intelligence & the Global Network of Power | Peter McCormack Show
+ - [https://www.youtube.com/watch?v=EwejUh3m9Fg](https://www.youtube.com/watch?v=EwejUh3m9Fg)
+ - date_published: 2025-09-04T11:00:02+00:00
+ - tags: ['jeffrey epstein']
 
  ## Intermediary age assurance provider collecting user data on specific URLs, more
  - [https://www.biometricupdate.com/202509/intermediary-age-assurance-provider-collecting-user-data-on-specific-urls-more](https://www.biometricupdate.com/202509/intermediary-age-assurance-provider-collecting-user-data-on-specific-urls-more)
