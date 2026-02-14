@@ -13,6 +13,11 @@
  - date_published: 2010-02-09T08:02:04+00:00
  - tags: ['climate change', 'climate gate', 'science is dead']
 
+ ## Al Seckel - Wikipedia
+ - [https://en.wikipedia.org/wiki/Al_Seckel](https://en.wikipedia.org/wiki/Al_Seckel)
+ - date_published: 2010-02-13T06:36:18+00:00
+ - tags: ['jeffrey epstein']
+
  ## Skandynawskie parytety w biznesie
  - [https://www.polityka.pl/tygodnikpolityka/rynek/1503524,1,skandynawskie-parytety-w-biznesie.read](https://www.polityka.pl/tygodnikpolityka/rynek/1503524,1,skandynawskie-parytety-w-biznesie.read)
  - date_published: 2010-02-25T09:26:00+00:00
