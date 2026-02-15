@@ -4491,7 +4491,7 @@
         "comments": [],
         "date_created": "2025-10-07T14:51:17.327813+00:00",
         "date_dead_since": null,
-        "date_published": "2025-10-07T14:00:17+00:00",
+        "date_published": "2025-10-07T07:00:17+00:00",
         "description": "IT\u2019S HERE \u2728 The 10th edition of the Human Era Calendar: https://shop.kgs.link/12026\nJoin us in 12,026 to celebrate humanity\u2019s connection to the stars with a year of cosmic stories and gorgeous artwork. Every purchase helps fund another year of kurzgesagt. \nLike everything we do, our calendar is human-made \u2013 no AI slop included. Thank you for being such a special part of our mission.\n\nSources & further reading:\nhttps://sites.google.com/view/sources-aislop\n\nAI-generated content is flooding the internet, from videos and music to news and books. On top of that, generative AI is making false information look more convincing than ever. \nWe're entering a new era of information overload, and figuring out what's real and what's not is becoming more and more of a challenge. While AI slop is slowly changing the internet as we know it, one thing is certain: kurzgesagt videos will always remain human-made.\n\n\nOUR CHANNELS\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nGerman:        https://kgs.link/youtubeDE\nSpanish:",
         "id": 3756329,
         "language": "en-US",
@@ -4504,11 +4504,11 @@
         "permanent": false,
         "source__id": 181,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "artificial intelligence"
         ],
-        "thumbnail": "https://i4.ytimg.com/vi/_zfN9wnPvU0/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/_zfN9wnPvU0/maxresdefault.jpg",
         "title": "AI Slop Is Killing Our Channel",
         "vote": 50
     },

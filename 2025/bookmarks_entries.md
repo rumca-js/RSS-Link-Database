@@ -764,7 +764,7 @@
 
  ## AI Slop Is Killing Our Channel
  - [https://www.youtube.com/watch?v=_zfN9wnPvU0](https://www.youtube.com/watch?v=_zfN9wnPvU0)
- - date_published: 2025-10-07T14:00:17+00:00
+ - date_published: 2025-10-07T07:00:17+00:00
  - tags: ['artificial intelligence']
 
  ## Brainwashing Situation is Crazy
