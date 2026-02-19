@@ -173,5 +173,31 @@
         "thumbnail": "https://i.ytimg.com/vi/dOSIZzcV2ks/maxresdefault.jpg",
         "title": "JEFFREY EPSTEIN LAST INTERVIEW FROM HIS HOME (from the Epstein files)",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-02-18T08:38:45.853840+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-16T05:41:58+00:00",
+        "description": "Tradition meets technology in a stunning showcase at the 2026 Spring Festival Gala by China Media Group. This year's gala features robots performing synchron...",
+        "id": 4830280,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=mUmlv814aJo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/mUmlv814aJo/maxresdefault.jpg",
+        "title": "Martial arts robots dazzle at 2026 Spring Festival Gala #CoolChina #springfestival2026",
+        "vote": 0
     }
 ]
