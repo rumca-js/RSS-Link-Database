@@ -2828,14 +2828,14 @@
         "language": "en-us",
         "link": "https://www.nytimes.com/2025/06/04/business/jeffrey-epstein-peter-thiel-estate.html",
         "manual_status_code": 0,
-        "page_rating": 0,
+        "page_rating": 3,
         "page_rating_contents": 0,
         "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 229,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-        "status_code": 603,
+        "status_code": 615,
         "tags": [
             "jeffrey epstein",
             "peter thiel"
@@ -4526,18 +4526,18 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=C0HwRUdRW3M",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
         "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 411,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq6VFHwMzcMXbuKyG7SQYIg",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "social media"
         ],
-        "thumbnail": "https://i4.ytimg.com/vi/C0HwRUdRW3M/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/C0HwRUdRW3M/hqdefault.jpg",
         "title": "Brainwashing Situation is Crazy",
         "vote": 0
     },
