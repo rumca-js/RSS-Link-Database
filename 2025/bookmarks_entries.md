@@ -67,6 +67,7 @@
  - [https://www.telegraph.co.uk/news/2025/01/18/proof-that-lockdown-critics-were-debanked-because-of-views](https://www.telegraph.co.uk/news/2025/01/18/proof-that-lockdown-critics-were-debanked-because-of-views)
  - date_published: 2025-01-26T16:14:50+00:00
  - tags: ['censorship', 'covid', 'debanking', 'technofeudalism']
+ - date_dead_since: 2026-02-20T15:20:21.383724+00:00
 
  ## California Law Enforcement Misused State Databases More Than 7,000 Times in 2023
  - [https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
