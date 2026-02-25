@@ -369,7 +369,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 615,
         "tags": [
             "climate change"
         ],
@@ -429,7 +429,7 @@
         "permanent": false,
         "source__id": 101,
         "source_url": "https://www.eff.org/rss/updates.xml",
-        "status_code": 200,
+        "status_code": 615,
         "tags": [
             "privacy",
             "surveillance",
@@ -459,7 +459,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 615,
         "tags": [],
         "thumbnail": "https://boingboing.net/wp-content/uploads/2025/01/faraday.jpg",
         "title": "nsa",
@@ -485,7 +485,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 615,
         "tags": [
             "privacy",
             "surveillance",
@@ -4561,7 +4561,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 615,
         "tags": [
             "racism"
         ],
