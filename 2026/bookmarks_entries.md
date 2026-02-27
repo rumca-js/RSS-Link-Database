@@ -37,3 +37,8 @@
  - date_published: 2026-02-23T04:15:43+00:00
  - tags: ['jeffrey epstein']
 
+ ## Bible and Quran apps flagged NSFW by F-Droid | Hacker News
+ - [https://news.ycombinator.com/item?id=45638096](https://news.ycombinator.com/item?id=45638096)
+ - date_published: 2026-02-26T22:26:27.220901+00:00
+ - tags: ['christianophobia', 'moderation']
+

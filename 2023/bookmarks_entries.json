@@ -47744,7 +47744,7 @@
             "syphilis",
             "the left wing"
         ],
-        "thumbnail": "https://www.ecdc.europa.eu/sites/default/files/styles/is_large/public/images/AER-new-style.png?itok=HbiDvsz_",
+        "thumbnail": "https://www.ecdc.europa.eu/sites/default/files/styles/metatag_image_large/public/images/AER-new-style.png?itok=24Ji3yRC",
         "title": "Syphilis - Annual Epidemiological Report 2021",
         "vote": 10
     },
@@ -49579,7 +49579,7 @@
             "the left wing",
             "the right wing"
         ],
-        "thumbnail": "https://ifstudies.org/ifs-admin/resources/blog/teenparents-w1700.jpg",
+        "thumbnail": "https://ifstudies.b-cdn.net/ifs-admin/resources/blog/teenparents.jpg?",
         "title": "Parenting Is the Key to Adolescent Mental Health",
         "vote": 10
     },
@@ -49597,14 +49597,14 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 61,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 70,
         "permanent": false,
         "source__id": 227,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-        "status_code": 603,
+        "status_code": 614,
         "tags": [
             "hamas",
             "israel",
@@ -49941,7 +49941,7 @@
             "israel",
             "palestine"
         ],
-        "thumbnail": "https://substackcdn.com/image/fetch/$s_!CYJQ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37aab492-87e6-4de5-9af0-03627b883433_2096x1532.jpeg",
+        "thumbnail": "https://substackcdn.com/image/fetch/$s_!CYJQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37aab492-87e6-4de5-9af0-03627b883433_2096x1532.jpeg",
         "title": "The pro-Israel information war",
         "vote": 30
     },
@@ -50077,14 +50077,14 @@
         "language": "en-US",
         "link": "https://www.fastcompany.com/90996547/e-books-are-fast-becoming-tools-of-corporate-surveillance",
         "manual_status_code": 0,
-        "page_rating": 68,
-        "page_rating_contents": 81,
+        "page_rating": 69,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 60,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "ad business",
             "amazon",
@@ -50690,7 +50690,7 @@
             "moderna",
             "pfizer"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/n7hdbgzd6D4/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/n7hdbgzd6D4/maxresdefault.jpg",
         "title": "Trusted News Initiative as example of manufacturing consent",
         "vote": 40
     },
@@ -50897,7 +50897,7 @@
             "body positive",
             "obesity"
         ],
-        "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2023/11/34c64aee26c851fb2022ecf129bb9660-scaled.jpg?resize=1024,683",
+        "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2023/11/34c64aee26c851fb2022ecf129bb9660-scaled.jpg?resize=1200,683",
         "title": "Tragic: Obese \u2018body positivity\u2019 influencers keep dying young",
         "vote": 5
     },

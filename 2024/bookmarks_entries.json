@@ -439,7 +439,7 @@
             "catholic",
             "church scandal"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/mDopg7iBkgc/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/mDopg7iBkgc/maxresdefault.jpg",
         "title": "LAWENDOWA MAFIA [CA\u0141Y FILM] ks. Zaleski i ks. Oko o korzeniach zepsucia w Ko\u015bciele!",
         "vote": 30
     },
@@ -450,20 +450,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:23.093224+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-02-26T18:22:11.025746+00:00",
         "date_published": "2024-01-10T07:44:37+00:00",
         "description": "Encouraging the young to think they should change gender is surely itself a form of conversion therapy",
         "id": 40652,
         "language": "en",
         "link": "https://www.telegraph.co.uk/news/2024/01/10/scotland-is-abandoning-children-to-trans-extremists",
         "manual_status_code": 0,
-        "page_rating": 35,
-        "page_rating_contents": 81,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 10,
         "permanent": false,
         "source_url": "https://www.telegraph.co.uk/news/2024/01/10/scotland-is-abandoning-children-to-trans-extremists",
-        "status_code": 200,
+        "status_code": 402,
         "tags": [
             "family oppression",
             "gender",
@@ -610,7 +610,7 @@
         "link": "https://en.wikipedia.org/wiki/Casualties_of_the_2023_Israel%E2%80%93Hamas_war",
         "manual_status_code": 0,
         "page_rating": 74,
-        "page_rating_contents": 82,
+        "page_rating_contents": 81,
         "page_rating_visits": 0,
         "page_rating_votes": 70,
         "permanent": false,
@@ -768,7 +768,7 @@
             "chiptune",
             "demoscene"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/LvV85I0qksE/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/LvV85I0qksE/maxresdefault.jpg",
         "title": "Bringing the Amiga Sample Library into the 21st Century",
         "vote": 9
     },
@@ -1111,14 +1111,14 @@
         "language": "en",
         "link": "https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds",
         "manual_status_code": 0,
-        "page_rating": 37,
-        "page_rating_contents": 86,
+        "page_rating": 22,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 10,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "remote work"
         ],
@@ -1332,7 +1332,7 @@
             "surveillance capitalism",
             "technofeudalism"
         ],
-        "thumbnail": "https://img.assets-c3.propublica.org/images/articles/FF_01.jpeg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssets&q=90&w=1200&s=99e189841db335380d56fc063ffa16b6",
+        "thumbnail": "https://www.propublica.org/wp-content/uploads/2021/09/FF_01.jpeg?resize=2000,1358",
         "title": "Facebook Undermines Privacy Protections for Its 2B WhatsApp Users",
         "vote": 20
     },
@@ -1777,21 +1777,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:20.839549+00:00",
-        "date_dead_since": "2025-10-19T14:41:59.324998+00:00",
+        "date_dead_since": null,
         "date_published": "2024-01-26T00:31:13+00:00",
         "description": "<p>Article URL: <a href=\"https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834\">https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=39137430\">https://news.ycombinator.com/item?id=39137430</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
         "id": 40610,
         "language": "en",
         "link": "https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 63,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 50,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 604,
+        "status_code": 200,
         "tags": [
             "climate change"
         ],
@@ -1918,7 +1918,7 @@
             "logically ai",
             "surveillance"
         ],
-        "thumbnail": "https://substackcdn.com/image/fetch/$s_!GrFP!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadb8ab49-e5af-43d8-aa97-dbd700296c9a_1550x950.png",
+        "thumbnail": "https://substackcdn.com/image/fetch/$s_!GrFP!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadb8ab49-e5af-43d8-aa97-dbd700296c9a_1550x950.png",
         "title": "British AI Firm Helped Censor Activists and Journalists, Poised to Shape 2024 U.S. Elections",
         "vote": 20
     },
@@ -2066,7 +2066,7 @@
             "algorithms",
             "dead internet"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/DKRujmqbcSk/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/DKRujmqbcSk/maxresdefault.jpg",
         "title": "MGS2 Was Wrong, Actually... How AI Broke The Internet",
         "vote": 20
     },
@@ -2536,7 +2536,7 @@
         "tags": [
             "cyber wars"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/15MaSayc28c/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/15MaSayc28c/maxresdefault.jpg",
         "title": "How Viruses Become Weapons",
         "vote": 20
     },
@@ -2705,7 +2705,7 @@
         "tags": [
             "security"
         ],
-        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNqXJpzUIGXk4eMky5oC8bp_N32zWA-Wc_HUBNgqxBTiqSHd6XfkcBOvGXaT2uYP3gIZu7h7pjQTQK4FC7Q-0vWlOb9NGj1YELA6XqB-_58_4HGMSqS5PDhLG8JlM8gPZxDhgyJU2ZCTaB6dyrI5TQfFPk5EiKWrJmXTAc-VEPL2vvfNuYDwtm13H_8Oq4/s790-rw-e365/cyberattack.jpg",
+        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNqXJpzUIGXk4eMky5oC8bp_N32zWA-Wc_HUBNgqxBTiqSHd6XfkcBOvGXaT2uYP3gIZu7h7pjQTQK4FC7Q-0vWlOb9NGj1YELA6XqB-_58_4HGMSqS5PDhLG8JlM8gPZxDhgyJU2ZCTaB6dyrI5TQfFPk5EiKWrJmXTAc-VEPL2vvfNuYDwtm13H_8Oq4/s1700-e365/cyberattack.jpg",
         "title": "Russian-Linked Hackers Breach 80+ Organizations via Roundcube Flaws",
         "vote": 10
     },
@@ -3226,7 +3226,7 @@
             "immigration",
             "inequality"
         ],
-        "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2025/09/wex_yoast_1200_v4.png?resize=1024,683",
+        "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2025/09/wex_yoast_1200_v4.png?resize=1200,683",
         "title": "Biden secretly dumped 320,000 \u2018inadmissible\u2019 illegal immigrants into US cities - Washington Examiner",
         "vote": 40
     },
@@ -3447,14 +3447,14 @@
         "language": "en-us",
         "link": "https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 61,
+        "page_rating_contents": 81,
         "page_rating_visits": 0,
         "page_rating_votes": 50,
         "permanent": false,
         "source__id": 228,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-        "status_code": 603,
+        "status_code": 403,
         "tags": [
             "big brother",
             "corporatocracy",
@@ -3640,7 +3640,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/wHStcY6_isc/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/wHStcY6_isc/maxresdefault.jpg",
         "title": "Insurance Up? Your car\u2019s snitching on you.",
         "vote": 0
     },
@@ -3686,8 +3686,8 @@
         "language": "en",
         "link": "https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19",
         "manual_status_code": 0,
-        "page_rating": 56,
-        "page_rating_contents": 86,
+        "page_rating": 55,
+        "page_rating_contents": 81,
         "page_rating_visits": 0,
         "page_rating_votes": 40,
         "permanent": false,
@@ -4032,21 +4032,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-04-03T18:45:31.743364+00:00",
-        "date_dead_since": "2025-10-19T05:35:07.901725+00:00",
+        "date_dead_since": null,
         "date_published": "2024-04-03T13:27:36+00:00",
         "description": "<p>Article URL: <a href=\"https://www.972mag.com/lavender-ai-israeli-army-gaza/\">https://www.972mag.com/lavender-ai-israeli-army-gaza/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=39918245\">https://news.ycombinator.com/item?id=39918245</a></p>\n<p>Points: 381</p>\n<p># Comments: 326</p>",
         "id": 223641,
         "language": "en-US",
         "link": "https://www.972mag.com/lavender-ai-israeli-army-gaza",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 50,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 30,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 603,
+        "status_code": 200,
         "tags": [
             "artificial intelligence",
             "hamas",

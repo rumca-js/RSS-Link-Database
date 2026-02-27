@@ -78,6 +78,7 @@
  - [https://www.telegraph.co.uk/news/2024/01/10/scotland-is-abandoning-children-to-trans-extremists](https://www.telegraph.co.uk/news/2024/01/10/scotland-is-abandoning-children-to-trans-extremists)
  - date_published: 2024-01-10T07:44:37+00:00
  - tags: ['family oppression', 'gender', 'the left wing', 'transgender']
+ - date_dead_since: 2026-02-26T18:22:11.025746+00:00
 
  ## Bottled water has 'up to 100 times' more bits of plastic than previously feared
  - [https://www.theregister.com/2024/01/10/water_nanoplastic_pollution](https://www.theregister.com/2024/01/10/water_nanoplastic_pollution)
@@ -300,7 +301,6 @@
  - [https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834](https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834)
  - date_published: 2024-01-26T00:31:13+00:00
  - tags: ['climate change']
- - date_dead_since: 2025-10-19T14:41:59.324998+00:00
 
  ## Using Google Search to find software can be risky
  - [https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky](https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky)
@@ -682,7 +682,6 @@
  - [https://www.972mag.com/lavender-ai-israeli-army-gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza)
  - date_published: 2024-04-03T13:27:36+00:00
  - tags: ['artificial intelligence', 'hamas', 'israel', 'lavender', 'palestine']
- - date_dead_since: 2025-10-19T05:35:07.901725+00:00
 
  ## ‘The machine did it coldly’: Israel used AI to identify 37,000 Hamas targets
  - [https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes](https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes)

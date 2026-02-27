@@ -228,5 +228,34 @@
         "thumbnail": "https://i2.ytimg.com/vi/ayHuriK5fWk/hqdefault.jpg",
         "title": "Epstein was a spy.. (here's proof)",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-10-19T22:25:48.413561+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-26T22:26:27.220901+00:00",
+        "description": null,
+        "id": 3852814,
+        "language": "en",
+        "link": "https://news.ycombinator.com/item?id=45638096",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 81,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "christianophobia",
+            "moderation"
+        ],
+        "thumbnail": null,
+        "title": "Bible and Quran apps flagged NSFW by F-Droid | Hacker News",
+        "vote": 0
     }
 ]
