@@ -6458,6 +6458,7 @@
  - [https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28](https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28)
  - date_published: 2023-07-28T13:28:25+00:00
  - tags: ['climate change', 'electric vehicles']
+ - date_dead_since: 2026-03-01T18:53:15.536925+00:00
 
  ## Flash Museum – explore more than 130k flash games and animations
  - [https://flashmuseum.org](https://flashmuseum.org)
@@ -6880,6 +6881,7 @@
  - [https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17](https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17)
  - date_published: 2023-08-17T05:31:04+00:00
  - tags: ['christianophobia', 'pakistan']
+ - date_dead_since: 2026-02-27T13:22:38.761195+00:00
 
  ## Petition to stop France from forcing browsers like Firefox to censor websites
  - [https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites](https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites)
@@ -7343,7 +7345,6 @@
  - [https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08)
  - date_published: 2023-09-06T18:58:35+00:00
  - tags: ['ad business', 'electric vehicles', 'privacy', 'surveillance', 'technofeudalism', 'tesla']
- - date_dead_since: 2025-06-12T10:02:30.756181+00:00
 
  ## Report says PR firm has been paying Rotten Tomatoes critics for positive reviews
  - [https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews)
@@ -7525,7 +7526,6 @@
  - [https://www.youtube.com/watch?v=HLTNXTbFRhM](https://www.youtube.com/watch?v=HLTNXTbFRhM)
  - date_published: 2023-09-16T00:00:00+00:00
  - tags: ['social media']
- - date_dead_since: 2025-10-20T09:26:36.292086+00:00
 
  ## Bechtel - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Bechtel](https://en.m.wikipedia.org/wiki/Bechtel)
@@ -8164,6 +8164,7 @@
  - [https://www.telegraph.co.uk/news/2023/11/18/bbc-hypocrisy-row-air-miles-emissions](https://www.telegraph.co.uk/news/2023/11/18/bbc-hypocrisy-row-air-miles-emissions)
  - date_published: 2023-11-18T14:54:39+00:00
  - tags: ['climate change', 'hypocrisy']
+ - date_dead_since: 2026-02-27T05:12:59.764210+00:00
 
  ## YouTube artificially slows down video load times when using Firefox
  - [https://reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down](https://reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down)
