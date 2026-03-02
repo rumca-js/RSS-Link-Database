@@ -5438,6 +5438,7 @@
  - [https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21)
  - date_published: 2023-06-21T23:35:09+00:00
  - tags: ['amazon']
+ - date_dead_since: 2026-03-01T19:20:17.003029+00:00
 
  ## Amazon cancels my account after exposing account lockout for "racist doorbell"
  - [https://www.youtube.com/watch?v=Kcohq313q00](https://www.youtube.com/watch?v=Kcohq313q00)

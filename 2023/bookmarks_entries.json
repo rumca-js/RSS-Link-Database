@@ -30456,7 +30456,7 @@
         "tags": [
             "who"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/3Mbby-n5wPE/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBJKDYwDw==&rs=AOn4CLC2eO0kbegLRJi_-TCHss4uvJQkmg",
+        "thumbnail": "https://i.ytimg.com/vi/3Mbby-n5wPE/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBJKDYwDw==&rs=AOn4CLCP3Ot6JXHik5xqrfLrn3x-I5U_yQ",
         "title": "WHO Funding EXPOSED By Former Director General \ud83d\ude33",
         "vote": 0
     },
@@ -31934,7 +31934,7 @@
             "blacksmith",
             "hobby"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/SkKCS0pO87I/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/SkKCS0pO87I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGggaChoMA8=&rs=AOn4CLAaZcu2nuTxjSRcwjy634KCFzjMbg",
         "title": "Jak zrobi\u0107 dobr\u0105 siekier\u0119? Porady kowala Romka: \"Ostrze wstawione r\u00f3wno w obuch tak jak strzeli\u0142\"",
         "vote": 0
     },
@@ -32198,7 +32198,7 @@
             "blackrock",
             "vanguard"
         ],
-        "thumbnail": "https://mr.cdn.ignitecdn.com/client_assets/thepostmillennial_com/media/picture/6492/17c2/3fb5/3b0f/d6a2/5d5b/original_varlay.jpg?1687295937",
+        "thumbnail": "https://mr.cdn.ignitecdn.com/client_assets/thepostmillennial_com/media/picture/6310/cf5b/3e49/100d/6296/5de8/article_PM_shared.jpg?1662046043",
         "title": "BREAKING: James O\u2019Keefe exposes BlackRock recruiter bragging about deciding people\u2019s fate, saying \u2018war is good for business\u2019 | The Post Millennial | thepostmillennial.com",
         "vote": 0
     },
@@ -32736,21 +32736,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:51:17.623349+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-03-01T19:20:17.003029+00:00",
         "date_published": "2023-06-21T23:35:09+00:00",
         "description": "<p>Article URL: <a href=\"https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/\">https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=36426239\">https://news.ycombinator.com/item?id=36426239</a></p>\n<p>Points: 38</p>\n<p># Comments: 5</p>",
         "id": 36209,
         "language": "en-US",
         "link": "https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 401,
         "tags": [
             "amazon"
         ],
@@ -32785,7 +32785,7 @@
             "corporatocracy",
             "technofeudalism"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/Kcohq313q00/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/Kcohq313q00/maxresdefault.jpg",
         "title": "Amazon cancels my account after exposing account lockout for \"racist doorbell\"",
         "vote": 0
     },
@@ -33081,7 +33081,7 @@
             "covid",
             "wuhan"
         ],
-        "thumbnail": "https://substackcdn.com/image/fetch/$s_!Uisk!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc95afa5-03b2-441d-be51-b252465caa8f_2514x1742.jpeg",
+        "thumbnail": "https://substackcdn.com/image/fetch/$s_!Uisk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc95afa5-03b2-441d-be51-b252465caa8f_2514x1742.jpeg",
         "title": "First People Sickened By COVID-19 Were Chinese Scientists At Wuhan Institute Of Virology, Say US Government Sources",
         "vote": 30
     },
@@ -33443,7 +33443,7 @@
             "android",
             "open source"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/-QSr5eKjMjA/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/-QSr5eKjMjA/maxresdefault.jpg",
         "title": "Android's slow creep towards being closed source continues on - open source elements deprecated",
         "vote": 10
     },
@@ -33491,8 +33491,8 @@
         "language": "en",
         "link": "https://www.reuters.com/sustainability/eu-calls-global-talks-climate-geoengineering-risks-2023-06-28",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 29,
+        "page_rating_contents": 81,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -33650,7 +33650,7 @@
             "cbdc",
             "digital euro"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/42vlkuxG_84/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/42vlkuxG_84/maxresdefault.jpg",
         "title": "Cyfrowe Euro z zaszytymi funkcjami! Zdziwisz si\u0119, kto o nich zadecyduje!",
         "vote": 0
     },
@@ -34263,7 +34263,7 @@
             "artificial intelligence",
             "privacy"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/F4WZ_k0vUDM/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/F4WZ_k0vUDM/maxresdefault.jpg",
         "title": "Nachricht von Ella | Without Consent",
         "vote": 0
     },
@@ -35150,7 +35150,7 @@
         "tags": [
             "electric vehicles"
         ],
-        "thumbnail": "https://i.cbc.ca/1.6104498.1682692870!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/ivy-charging-network-charger-two.jpg?im=Resize%3D620",
+        "thumbnail": "https://i.cbc.ca/ais/1.6104498,1682692881000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3839%2C2159%29%3BResize%3D620",
         "title": "Charger outages leave northern Ontario EV drivers stranded",
         "vote": 50
     },
@@ -35835,7 +35835,7 @@
             "racism",
             "science is dead"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/UXMrH0BMLqg/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYSSA4KH8wDw==&rs=AOn4CLDpv6nlvfbGDcxkZeDQtIscemfizw",
+        "thumbnail": "https://i.ytimg.com/vi/UXMrH0BMLqg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYSSA4KH8wDw==&rs=AOn4CLDmLQy9g4HXQuQPf3yZO5zaaRKacA",
         "title": "Student gets UNO reversed on question about white privilege",
         "vote": 0
     },
@@ -37962,13 +37962,13 @@
         "language": "en-US",
         "link": "https://thehill.com/homenews/senate/4118792-billionaire-leon-blacks-158m-payment-to-jeffrey-epstein-sparks-senate-investigation",
         "manual_status_code": 0,
-        "page_rating": 64,
-        "page_rating_contents": 91,
+        "page_rating": 54,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 50,
         "permanent": false,
         "source_url": "https://thehill.com/news/feed/",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "billionaires",
             "elite",
