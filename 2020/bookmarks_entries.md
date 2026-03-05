@@ -204,7 +204,6 @@
  - [https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html](https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html)
  - date_published: 2020-02-23T22:16:00+00:00
  - tags: ['aladdin', 'artificial intelligence', 'blackrock']
- - date_dead_since: 2025-08-14T09:33:12.264859+00:00
 
  ## Your smart speaker could be listening in on your conversations by accident
  - [https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations](https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations)
@@ -215,7 +214,6 @@
  - [https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html](https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html)
  - date_published: 2020-02-26T10:24:40+00:00
  - tags: ['paedophilia', 'peter nygard', 'prince andrew']
- - date_dead_since: 2025-08-14T09:16:53.234788+00:00
 
  ## Charlie's Angels — How Gender Obsession Can Ruin a Film | Anatomy Of A Failure
  - [https://www.youtube.com/watch?v=xeX4qvP5mGg](https://www.youtube.com/watch?v=xeX4qvP5mGg)
@@ -325,7 +323,6 @@
  - [https://www.ctvnews.ca/health/coronavirus/people-are-reporting-on-their-neighbours-over-covid-19-concerns-1.4872683](https://www.ctvnews.ca/health/coronavirus/people-are-reporting-on-their-neighbours-over-covid-19-concerns-1.4872683)
  - date_published: 2020-03-28T20:28:16+00:00
  - tags: ['canada', 'covid', 'snitch line']
- - date_dead_since: 2025-08-14T06:26:48.570159+00:00
 
  ## Are You a Slave to your Software Knowledge?
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
@@ -386,7 +383,6 @@
  - [https://www.newswars.com/leaked-amazon-whole-foods-docs-workforce-diversity-helps-prevent-unions](https://www.newswars.com/leaked-amazon-whole-foods-docs-workforce-diversity-helps-prevent-unions)
  - date_published: 2020-04-24T06:12:13+00:00
  - tags: ['corporatocracy', 'diversity', 'hypocrisy', 'inclusion']
- - date_dead_since: 2025-08-14T04:47:42.219519+00:00
 
  ## Zbigniew Brzeziński Obawia się Globalnego Przebudzenia
  - [https://bomega.pl/zbigniew-brzezinski-obawia-sie-globalnego-przebudzenia-konferencja-cfr](https://bomega.pl/zbigniew-brzezinski-obawia-sie-globalnego-przebudzenia-konferencja-cfr)
@@ -446,13 +442,11 @@
  - [https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password](https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password)
  - date_published: 2020-05-13T06:56:06+00:00
  - tags: ['authentication', 'security']
- - date_dead_since: 2025-08-14T03:18:04.892317+00:00
 
  ## More than 100,000 small businesses have permanently closed due to coronavirus, study estimates – The Hill
  - [https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently](https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently)
  - date_published: 2020-05-13T20:41:10+00:00
  - tags: ['covid', 'lockdown']
- - date_dead_since: 2025-08-14T03:07:47.107415+00:00
 
  ## Visa Applies For Digital Dollar Blockchain Patent
  - [https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63](https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63)
@@ -732,7 +726,6 @@
  - [https://cloverchronicle.com/2020/07/03/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all](https://cloverchronicle.com/2020/07/03/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all)
  - date_published: 2020-07-03T15:28:00+00:00
  - tags: ['4chan', 'jeffrey epstein', 'unverified']
- - date_dead_since: 2025-08-13T18:42:49.669899+00:00
 
  ## Deutsche Bank fined $150M for failing to flag Epstein's shady transactions
  - [https://www.cnn.com/2020/07/07/business/jeffrey-epstein-deutsche-bank-fine/index.html](https://www.cnn.com/2020/07/07/business/jeffrey-epstein-deutsche-bank-fine/index.html)
@@ -839,7 +832,6 @@
  - [https://www.thedefensepost.com/2020/07/21/gunmen-wedding-nigeria](https://www.thedefensepost.com/2020/07/21/gunmen-wedding-nigeria)
  - date_published: 2020-07-21T21:04:07+00:00
  - tags: ['christianophobia', 'nigeria']
- - date_dead_since: 2025-08-13T16:01:53.599796+00:00
 
  ## Shaming people who refuse to wear face masks isn’t a good look
  - [https://www.theguardian.com/commentisfree/2020/jul/22/shaming-people-who-refuse-to-wear-face-masks-isnt-a-good-look](https://www.theguardian.com/commentisfree/2020/jul/22/shaming-people-who-refuse-to-wear-face-masks-isnt-a-good-look)
@@ -1135,12 +1127,10 @@
  - [https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html](https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html)
  - date_published: 2020-09-02T21:12:40+00:00
  - tags: ['inequality', 'lgbt', 'socialism', 'the left wing']
- - date_dead_since: 2025-08-13T07:28:07.511239+00:00
 
  ## Hedonism, Asceticism and the Hermetic Answer
  - [https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer)
  - date_published: 2020-09-03T00:00:00+00:00
- - date_dead_since: 2025-08-13T07:19:14.066083+00:00
 
  ## Covid: Australian anti-lockdown suspect's arrest draws controversy - BBC News
  - [https://www.bbc.com/news/world-australia-54007824](https://www.bbc.com/news/world-australia-54007824)
@@ -1161,7 +1151,6 @@
  - [https://gamingstreet.com/unity-files-to-go-public-will-apple-now-buy-them](https://gamingstreet.com/unity-files-to-go-public-will-apple-now-buy-them)
  - date_published: 2020-09-07T08:15:56+00:00
  - tags: ['game engines', 'unity']
- - date_dead_since: 2025-08-13T06:23:07.594993+00:00
 
  ## Norway will prioritise lesbian, gay, bisexual and transgender refugees
  - [https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees](https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees)
@@ -1319,7 +1308,6 @@
  - [https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej](https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej)
  - date_published: 2020-10-04T21:09:53+00:00
  - tags: ['inequality', 'lgbt', 'margot', 'the left wing']
- - date_dead_since: 2025-08-13T02:03:11.850624+00:00
 
  ## A WeChat Ban Would End Their Lifeline - The New York Times
  - [https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html](https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html)
@@ -1425,7 +1413,6 @@
  - [https://www.bell-labs.com/institute/blog/introducing-homo-augmentus](https://www.bell-labs.com/institute/blog/introducing-homo-augmentus)
  - date_published: 2020-10-27T10:07:50+00:00
  - tags: ['transhumanism']
- - date_dead_since: 2025-08-12T22:38:19.717161+00:00
 
  ## RIAA's YouTube-DL Takedown Ticks Off Developers and GitHub's CEO * TorrentFreak
  - [https://torrentfreak.com/riaas-youtube-dl-takedown-ticks-of-developers-and-githubs-ceo-201027](https://torrentfreak.com/riaas-youtube-dl-takedown-ticks-of-developers-and-githubs-ceo-201027)
@@ -1471,7 +1458,6 @@
  - [https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi](https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi)
  - date_published: 2020-11-07T08:46:55+00:00
  - tags: ['children', 'lgbt', 'surrogacy', 'the left wing']
- - date_dead_since: 2025-08-12T21:17:24.430938+00:00
 
  ## Norway outlaws hate speech against trans people
  - [https://news.trust.org/item/20201110191107-tecjt](https://news.trust.org/item/20201110191107-tecjt)
@@ -1824,7 +1810,6 @@
  - [https://www.tvp.info/51409466/koronawirus-naukowcy-z-rpa-odkryli-nowa-mutacje-sars-cov-2](https://www.tvp.info/51409466/koronawirus-naukowcy-z-rpa-odkryli-nowa-mutacje-sars-cov-2)
  - date_published: 2020-12-19T06:25:12+00:00
  - tags: ['covid', 'mutation']
- - date_dead_since: 2025-08-12T07:19:36.918102+00:00
 
  ## How and Why I Stopped Buying New Laptops (2020)
  - [https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
@@ -1851,7 +1836,6 @@
  - [https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city](https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city)
  - date_published: 2020-12-21T12:04:50+00:00
  - tags: ['privacy', 'smart city']
- - date_dead_since: 2025-08-12T06:23:38.071126+00:00
 
  ## Biden receives first dose of Covid-19 vaccine on live television
  - [https://www.cnn.com/2020/12/21/politics/bidens-coronavirus-vaccination/index.html](https://www.cnn.com/2020/12/21/politics/bidens-coronavirus-vaccination/index.html)
@@ -1897,7 +1881,6 @@
  - [https://dcgross.com/a-new-google](https://dcgross.com/a-new-google)
  - date_published: 2020-12-23T09:31:57+00:00
  - tags: ['algorithms', 'dead internet', 'search engines']
- - date_dead_since: 2025-08-12T05:09:31.286770+00:00
 
  ## WHO Deletes Naturally Acquired Immunity from Its Website
  - [https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website](https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website)

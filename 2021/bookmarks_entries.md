@@ -14,7 +14,6 @@
  - [https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info](https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info)
  - date_published: 2021-01-02T06:44:36+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-08-12T02:59:30.840966+00:00
 
  ## House Democrats open 117th Congress with prayer ending 'amen and a-woman' - Washington Times
  - [https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-](https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-)
@@ -25,7 +24,6 @@
  - [https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new](https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new)
  - date_published: 2021-01-04T21:53:34+00:00
  - tags: ['gender', 'lgbt', 'newspeak', 'pronouns', 'social engineering', 'the left wing']
- - date_dead_since: 2025-08-12T02:33:31.799808+00:00
 
  ## New York Bill Would Let the State Put People in Detention if Deemed a 'Significant Threat to Public Health'
  - [https://reason.com/2021/01/05/new-york-bill-would-let-state-put-people-in-detention-public-health-threat-covid-19](https://reason.com/2021/01/05/new-york-bill-would-let-state-put-people-in-detention-public-health-threat-covid-19)
@@ -51,7 +49,6 @@
  - [https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat](https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat)
  - date_published: 2021-01-07T15:02:24+00:00
  - tags: ['deplatform', 'donald trump', 'january 6', 'snapchat', 'the right wing']
- - date_dead_since: 2025-08-12T02:08:42.202776+00:00
 
  ## Twitter permanently suspends President Donald Trump
  - [https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588](https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588)
@@ -261,7 +258,6 @@
  - [https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia](https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia)
  - date_published: 2021-02-03T14:03:36+00:00
  - tags: ['covid', 'covid mandates', 'segregation', 'vaccine']
- - date_dead_since: 2025-08-11T12:39:30.748415+00:00
 
  ## AOC faces backlash as critics point out she wasn't in Capitol building during riot | Fox News
  - [https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots](https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots)
@@ -574,7 +570,6 @@
  - [https://lukesmith.xyz/updates/deletion](https://lukesmith.xyz/updates/deletion)
  - date_published: 2021-03-26T00:00:00+00:00
  - tags: ['censorship', 'technofeudalism']
- - date_dead_since: 2025-08-11T07:48:32.520020+00:00
 
  ## How U.S. media lost the trust of the public
  - [https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622](https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622)
@@ -605,7 +600,6 @@
  - [https://www.honestaustin.com/2021/03/31/austin-murder-rate-111-percent](https://www.honestaustin.com/2021/03/31/austin-murder-rate-111-percent)
  - date_published: 2021-03-31T20:09:24+00:00
  - tags: ['defund the police']
- - date_dead_since: 2025-08-11T07:24:31.266476+00:00
 
  ## Twitter Is Enabling Saudi Arabia’s Brutal Crackdown on Dissent
  - [https://newrepublic.com/article/161995/twitter-saudi-arabia-mbs-dissident](https://newrepublic.com/article/161995/twitter-saudi-arabia-mbs-dissident)
@@ -690,7 +684,6 @@
  - [https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682](https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682)
  - date_published: 2021-04-13T07:20:43+00:00
  - tags: ['big pharma', 'covid', 'johnson and johnson', 'vaccine']
- - date_dead_since: 2025-08-11T06:33:31.873967+00:00
 
  ## Zaszczepieni preparatami mRNA bardziej podatni na inne warianty wirusa? Badania z Izraela niepokoją. Za wcześnie na picie szampana
  - [https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana](https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana)
@@ -716,7 +709,6 @@
  - [https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa](https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa)
  - date_published: 2021-04-14T21:41:09+00:00
  - tags: ['covid', 'fearmongering', 'media']
- - date_dead_since: 2025-08-11T06:03:30.747520+00:00
 
  ## CNN staffer tells Project Veritas network played up COVID-19 death toll for ratings
  - [https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings](https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings)
@@ -959,7 +951,6 @@
  - [https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus](https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus)
  - date_published: 2021-05-16T09:06:10+00:00
  - tags: ['anthony fauci', 'covid', 'transmission']
- - date_dead_since: 2025-08-11T02:34:36.753798+00:00
 
  ## Fauci: the vaccinated stop viral transmission, no need for masks
  - [https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission](https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission)
@@ -994,7 +985,6 @@
  - [https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html](https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html)
  - date_published: 2021-05-17T10:23:41+00:00
  - tags: ['bill gates', 'jeffrey epstein']
- - date_dead_since: 2025-08-11T02:08:30.907247+00:00
 
  ## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash)
@@ -1070,7 +1060,6 @@
  - [https://thehill.com/homenews/news/555657-facebook-reverses-policy-to-allow-posts-speculating-that-covid-19-was-made-in-a](https://thehill.com/homenews/news/555657-facebook-reverses-policy-to-allow-posts-speculating-that-covid-19-was-made-in-a)
  - date_published: 2021-05-26T19:36:37+00:00
  - tags: ['censorship', 'covid', 'facebook', 'lab leak', 'wuhan']
- - date_dead_since: 2025-08-11T01:03:31.438142+00:00
 
  ## Facebook lifts ban on posts claiming COVID-19 was man-made, amid revitalized origins debate - ABC News
  - [https://abcnews.go.com/Technology/facebook-lifts-ban-posts-claiming-covid-19-man/story?id=77931433](https://abcnews.go.com/Technology/facebook-lifts-ban-posts-claiming-covid-19-man/story?id=77931433)
@@ -1081,7 +1070,6 @@
  - [https://noqreport.com/2021/05/26/wuhan-lab-caught-deleting-files-proving-fauci-funding](https://noqreport.com/2021/05/26/wuhan-lab-caught-deleting-files-proving-fauci-funding)
  - date_published: 2021-05-26T20:27:54+00:00
  - tags: ['anthony fauci', 'covid', 'wuhan']
- - date_dead_since: 2025-08-11T00:53:33.346341+00:00
 
  ## The Takeover has Already Begun - A Secret Video Reveals All by @RICHARD GRANNON
  - [https://www.youtube.com/watch?v=npkZQGD7LOM](https://www.youtube.com/watch?v=npkZQGD7LOM)
@@ -1285,7 +1273,6 @@
  - [https://www.globalresearch.ca/more-blackrock-than-you-might-imagine/5748159](https://www.globalresearch.ca/more-blackrock-than-you-might-imagine/5748159)
  - date_published: 2021-06-20T19:15:23+00:00
  - tags: ['blackrock', 'great reset', 'world economic forum']
- - date_dead_since: 2025-08-10T22:09:36.239441+00:00
 
  ## The Lazarus heist: How North Korea almost pulled off a billion-dollar hack
  - [https://www.bbc.co.uk/news/stories-57520169](https://www.bbc.co.uk/news/stories-57520169)
@@ -1479,7 +1466,6 @@
  - [https://portal.abczdrowie.pl/prof-simon-jestem-zwolennikiem-radykalnych-metod](https://portal.abczdrowie.pl/prof-simon-jestem-zwolennikiem-radykalnych-metod)
  - date_published: 2021-07-11T20:05:32+00:00
  - tags: ['covid', 'fearmongering', 'propaganda']
- - date_dead_since: 2025-08-09T22:44:30.807261+00:00
 
  ## Elon Musk has a ticket to ride on Richard Branson’s spaceplane - The Verge
  - [https://www.theverge.com/2021/7/12/22573850/elon-musk-richard-branson-spaceplane-virgin-galactic](https://www.theverge.com/2021/7/12/22573850/elon-musk-richard-branson-spaceplane-virgin-galactic)
@@ -2287,7 +2273,6 @@
  ## Waypoint - The official Waymo blog: Welcoming our first riders in San Francisco
  - [https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html](https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html)
  - date_published: 2021-08-25T10:17:28+00:00
- - date_dead_since: 2025-08-09T04:05:36.907917+00:00
 
  ## Samsung Supports Retailers Affected By Looting With Innovative Television Block Function – Samsung Newsroom South Africa
  - [https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function](https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function)
@@ -2336,7 +2321,6 @@
  ## Hacker Claims Responsibility for T-Mobile Attack - Says: "Their Security is Awful"
  - [https://www.vpnranks.com/blog/hacker-claims-responsibility-for-t-mobile-attack-says-their-security-is-awful](https://www.vpnranks.com/blog/hacker-claims-responsibility-for-t-mobile-attack-says-their-security-is-awful)
  - date_published: 2021-08-27T17:35:51.438438+00:00
- - date_dead_since: 2025-08-09T02:53:36.405633+00:00
 
  ## “Worst cloud vulnerability you can imagine” discovered in Microsoft Azure | Ars Technica
  - [https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure](https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure)
@@ -2607,7 +2591,6 @@
  - [https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353](https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353)
  - date_published: 2021-09-13T06:55:27+00:00
  - tags: ['corporatocracy', 'elite', 'facebook', 'facebook files', 'inequality', 'manufacturing consent']
- - date_dead_since: 2024-10-22T03:48:44.384072+00:00
 
  ## Chris Corbett on Twitter: "Hey @StarbucksUK and @TrustArc if you get rid of the unnecessary timeouts there won't be any need for this processing "status". This only happens when you customise your privacy settings, can you explain that? Funny how some dark patterns are just accepted. https://t.co/qA231RjSeb" / Twitter
  - [https://twitter.com/pixelscript/status/1436664488913215490](https://twitter.com/pixelscript/status/1436664488913215490)
@@ -2880,7 +2863,6 @@
  - [https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji](https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji)
  - date_published: 2021-10-04T07:33:33+00:00
  - tags: ['covid', 'hate speech', 'poland', 'propaganda']
- - date_dead_since: 2025-08-08T19:08:29.530570+00:00
 
  ## Misgendering Is a Human Rights Violation, Canadian Court Rules | Them
  - [https://www.them.us/story/canadian-court-rules-misgendering-human-rights-violation](https://www.them.us/story/canadian-court-rules-misgendering-human-rights-violation)
@@ -2940,7 +2922,6 @@
  - [https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules](https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules)
  - date_published: 2021-10-06T12:04:50+00:00
  - tags: ['deplatform', 'tiktok', 'tim pool']
- - date_dead_since: 2025-08-08T18:28:57.508585+00:00
 
  ## Canada imposes COVID-19 vaccine mandate on federal workers, transportation | Reuters
  - [https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06](https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06)
@@ -3151,7 +3132,6 @@
  - [https://plotkibiznesowe.pl/2021/10/18/slynna-hiszpanska-autorka-bestsellerow-okazala-sie-trzema-mezczyznami](https://plotkibiznesowe.pl/2021/10/18/slynna-hiszpanska-autorka-bestsellerow-okazala-sie-trzema-mezczyznami)
  - date_published: 2021-10-18T20:31:39+00:00
  - tags: ['discrimination', 'feminism', 'inequality', 'trolling']
- - date_dead_since: 2025-08-08T14:53:30.049022+00:00
 
  ## Trainwreck claims he's made $360 million in 16 months by promoting gambling on his Twitch streams
  - [https://www.sportskeeda.com/esports/news-trainwreck-claims-made-360-million-promoting-gambling](https://www.sportskeeda.com/esports/news-trainwreck-claims-made-360-million-promoting-gambling)
@@ -3161,7 +3141,6 @@
  ## The Day My Script Killed 10,000 Phones in South America
  - [https://new.pythonforengineers.com/blog/the-day-i](https://new.pythonforengineers.com/blog/the-day-i)
  - date_published: 2021-10-19T10:20:29.410779+00:00
- - date_dead_since: 2025-08-08T14:49:30.143866+00:00
 
  ## In secret vaccine contracts with governments, Pfizer took hard line in push for profit, report says
  - [https://www.washingtonpost.com/world/2021/10/19/secret-vaccine-contracts-with-governments-pfizer-took-hard-line-push-profit-report-says](https://www.washingtonpost.com/world/2021/10/19/secret-vaccine-contracts-with-governments-pfizer-took-hard-line-push-profit-report-says)
@@ -3389,7 +3368,6 @@
  ## The metaverse is already here, it's called the internet - Can's blog
  - [https://canolcer.com/post/metaverse-is-already-here](https://canolcer.com/post/metaverse-is-already-here)
  - date_published: 2021-10-31T10:15:17.607872+00:00
- - date_dead_since: 2025-08-08T11:44:29.264721+00:00
 
  ## Central Bank Digital Currencies Explained
  - [https://www.youtube.com/watch?v=0u8eZcPnWeU](https://www.youtube.com/watch?v=0u8eZcPnWeU)
@@ -3863,7 +3841,6 @@
  - [https://frankspeech.com/article/media-bias-around-kyle-rittenhouse-case](https://frankspeech.com/article/media-bias-around-kyle-rittenhouse-case)
  - date_published: 2021-11-30T08:13:09+00:00
  - tags: ['black lives matter', 'blm', 'inequality', 'kyle rittenhouse', 'media bias']
- - date_dead_since: 2025-08-08T04:58:57.531401+00:00
 
  ## Ask HN: Has Google search become quantitatively worse? | Hacker News
  - [https://news.ycombinator.com/item?id=29392702](https://news.ycombinator.com/item?id=29392702)
@@ -4136,7 +4113,6 @@
  ## My Bose QC-35 II headphones suddenly burst into flames and left me with chemical burns
  - [https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html](https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html)
  - date_published: 2021-12-19T12:55:10.261953+00:00
- - date_dead_since: 2025-08-08T01:53:31.152737+00:00
 
  ## Lithuania evacuates its embassy in China | The Economist
  - [https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843](https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843)
@@ -4219,7 +4195,6 @@
  - [https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami](https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami)
  - date_published: 2021-12-23T11:02:46+00:00
  - tags: ['covid', 'fearmongering', 'propaganda']
- - date_dead_since: 2025-08-08T00:29:35.222759+00:00
 
  ## Covid fearmongering has consequences too | The Spectator
  - [https://www.spectator.co.uk/article/covid-fearmongering-has-consequences-too](https://www.spectator.co.uk/article/covid-fearmongering-has-consequences-too)

@@ -122,7 +122,6 @@
  - [https://zdrowie.radiozet.pl/medycyna/wiadomosci/Prokuratura-Krajowa-wszczela-sledztwo-w-sprawie-wadliwych-szczepionek](https://zdrowie.radiozet.pl/medycyna/wiadomosci/Prokuratura-Krajowa-wszczela-sledztwo-w-sprawie-wadliwych-szczepionek)
  - date_published: 2018-02-28T16:39:56+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-08-17T09:11:56.854520+00:00
 
  ## Who Owns the Data Your Car Collects?
  - [https://www.consumerreports.org/automotive-technology/who-owns-the-data-your-car-collects](https://www.consumerreports.org/automotive-technology/who-owns-the-data-your-car-collects)
@@ -148,7 +147,6 @@
  - [https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T](https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T)
  - date_published: 2018-03-13T11:23:25+00:00
  - tags: ['facebook', 'hate speech', 'myanmar', 'privacy']
- - date_dead_since: 2025-08-17T08:56:43.714144+00:00
 
  ## These Are The Concerns Slowly Killing Ad-Tech
  - [https://readwrite.com/concerns-slowly-killing-ad-tech](https://readwrite.com/concerns-slowly-killing-ad-tech)
@@ -279,7 +277,6 @@
  - [https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html](https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html)
  - date_published: 2018-04-12T10:01:48+00:00
  - tags: ['clean code', 'programming']
- - date_dead_since: 2025-08-17T07:32:49.082968+00:00
 
  ## Public Attention Forces Facebook To Retreat From Anti-Privacy Alliance With ISPs In California
  - [https://www.techdirt.com/2018/04/13/public-attention-forces-facebook-to-retreat-anti-privacy-alliance-with-isps-california](https://www.techdirt.com/2018/04/13/public-attention-forces-facebook-to-retreat-anti-privacy-alliance-with-isps-california)
@@ -701,7 +698,6 @@
  - [https://npg.org/library/press-releases/13380.html](https://npg.org/library/press-releases/13380.html)
  - date_published: 2018-10-25T07:32:56+00:00
  - tags: ['climate change', 'depopulation', 'feminism']
- - date_dead_since: 2025-08-16T17:17:45.647828+00:00
 
  ## Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)

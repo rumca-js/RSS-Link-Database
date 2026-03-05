@@ -376,7 +376,6 @@
  - [https://www.grunge.com/35035/secret-history-illuminati](https://www.grunge.com/35035/secret-history-illuminati)
  - date_published: 2017-08-28T13:30:16+00:00
  - tags: ['illuminati', 'secret societies']
- - date_dead_since: 2025-08-17T14:31:44.607880+00:00
 
  ## Now you, too, can disable Intel ME 'backdoor' thanks to the NSA | CSO Online
  - [https://www.csoonline.com/article/3220476/researchers-say-now-you-too-can-disable-intel-me-backdoor-thanks-to-the-nsa.html](https://www.csoonline.com/article/3220476/researchers-say-now-you-too-can-disable-intel-me-backdoor-thanks-to-the-nsa.html)
@@ -497,7 +496,6 @@
  - [https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations](https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations)
  - date_published: 2017-10-21T12:52:50+00:00
  - tags: ['israel']
- - date_dead_since: 2025-08-17T12:56:49.240230+00:00
 
  ## Eye Symbolism in Blade Runner 2049 Explained || Hidden Messages Analysis
  - [https://www.youtube.com/watch?v=jRSZd8xYaL4](https://www.youtube.com/watch?v=jRSZd8xYaL4)

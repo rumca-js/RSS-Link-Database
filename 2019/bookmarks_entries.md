@@ -401,7 +401,6 @@
  ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
  - date_published: 2019-07-06T07:21:17+00:00
- - date_dead_since: 2025-08-15T05:51:05.265993+00:00
 
  ## A parasitological evaluation of edible insects and their role in the transmission of parasitic diseases to humans and animals - PMC
  - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613697](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613697)
@@ -576,7 +575,6 @@
  - [https://ottawa.ctvnews.ca/ottawa-s-first-black-mass-has-protesters-seeing-red-1.4554309](https://ottawa.ctvnews.ca/ottawa-s-first-black-mass-has-protesters-seeing-red-1.4554309)
  - date_published: 2019-08-17T13:11:25+00:00
  - tags: ['black mass', 'satanic temple']
- - date_dead_since: 2025-08-15T02:17:44.461892+00:00
 
  ## Greta Thunberg and the plot to forge a climate warrior
  - [https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global](https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global)
@@ -891,7 +889,6 @@
  - [https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html](https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html)
  - date_published: 2019-11-05T20:56:43+00:00
  - tags: ['intolerance', 'lgbt', 'transgender']
- - date_dead_since: 2025-08-14T18:34:40.075115+00:00
 
  ## Why Rey is a Mary Sue and Luke Skywalker is Not
  - [https://www.youtube.com/watch?v=JN8Qm5o0oSY](https://www.youtube.com/watch?v=JN8Qm5o0oSY)

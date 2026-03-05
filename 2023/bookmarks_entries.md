@@ -2,7 +2,6 @@
  - [https://wow-hc.com](https://wow-hc.com)
  - date_published: 2023-01-01T00:00:00+00:00
  - tags: ['world of warcraft']
- - date_dead_since: 2025-10-06T13:05:57.513966+00:00
 
  ## The Twitter Files should disturb liberal critics of Elon Musk – and here’s why | Kenan Malik
  - [https://www.theguardian.com/commentisfree/2023/jan/01/the-twitter-files-should-disturb-liberal-critics-of-elon-musk-and-heres-why](https://www.theguardian.com/commentisfree/2023/jan/01/the-twitter-files-should-disturb-liberal-critics-of-elon-musk-and-heres-why)
@@ -153,7 +152,6 @@
  - [https://abcnews.go.com/International/wireStory/ireland-fines-meta-390m-euros-latest-privacy-crackdown-96181101](https://abcnews.go.com/International/wireStory/ireland-fines-meta-390m-euros-latest-privacy-crackdown-96181101)
  - date_published: 2023-01-04T15:35:01+00:00
  - tags: ['meta', 'privacy', 'tracking']
- - date_dead_since: 2024-10-12T13:25:34.242928+00:00
 
  ## Rep. Adam Schiff’s office asked Twitter to ban New York Post columnist Paul Sperry — Twitter Files
  - [https://reclaimthenet.org/adam-schiff-twitter-ban-paul-sperry](https://reclaimthenet.org/adam-schiff-twitter-ban-paul-sperry)
@@ -294,7 +292,6 @@
  - [https://ussanews.com/2023/01/07/satanic-pedophile-ring-shut-victims-in-oven-forced-them-to-kill-animals-filmed-them-being-gang-raped](https://ussanews.com/2023/01/07/satanic-pedophile-ring-shut-victims-in-oven-forced-them-to-kill-animals-filmed-them-being-gang-raped)
  - date_published: 2023-01-07T08:43:02+00:00
  - tags: ['children', 'satanism']
- - date_dead_since: 2025-03-11T16:37:43.854585+00:00
 
  ## Media społecznościowe stworzyły pokolenie "przewrażliwionych dzieci". To zagraża kapitalizmowi
  - [https://businessinsider.com.pl/lifestyle/media-spolecznosciowe-stworzyly-pokolenie-przewrazliwionych-dzieci-to-zagraza/kggs4w4](https://businessinsider.com.pl/lifestyle/media-spolecznosciowe-stworzyly-pokolenie-przewrazliwionych-dzieci-to-zagraza/kggs4w4)
@@ -305,7 +302,6 @@
  - [https://therationalist.substack.com/p/the-creator-economy-the-top-1-and](https://therationalist.substack.com/p/the-creator-economy-the-top-1-and)
  - date_published: 2023-01-07T13:22:53+00:00
  - tags: ['creator', 'creator economy', 'internet']
- - date_dead_since: 2024-10-12T10:31:36.154205+00:00
 
  ## UK police forces spend £66,000 on LGBT rainbow cars, shoelaces and flags
  - [https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags](https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags)
@@ -787,7 +783,6 @@
  - [https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse](https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse)
  - date_published: 2023-01-15T22:33:46+00:00
  - tags: ['covid', 'healthcare']
- - date_dead_since: 2025-03-11T01:38:12.964924+00:00
 
  ## The Internet Has Died
  - [https://www.youtube.com/watch?v=kL8rHf_idt0](https://www.youtube.com/watch?v=kL8rHf_idt0)
@@ -1584,7 +1579,6 @@
  - [https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice](https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice)
  - date_published: 2023-02-08T08:18:44+00:00
  - tags: ['big pharma', 'covid', 'pfizer', 'vaccine']
- - date_dead_since: 2024-10-09T22:55:16.766615+00:00
 
  ## Windows 11 Collects an Awful Lot of Telemetry About Your PC | Extremetech
  - [https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc](https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc)
@@ -1945,7 +1939,6 @@
  - [https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists](https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists)
  - date_published: 2023-02-20T09:27:34+00:00
  - tags: ['censorship', 'fahrenheit 451', 'racism', 'the left wing', 'white supremacy']
- - date_dead_since: 2024-10-08T21:38:38.715810+00:00
 
  ## AI is starting to pick who gets laid off
  - [https://www.washingtonpost.com/technology/2023/02/20/layoff-algorithms/?utm_source=bankier.pl&utm_medium=content&utm_campaign=article](https://www.washingtonpost.com/technology/2023/02/20/layoff-algorithms/?utm_source=bankier.pl&utm_medium=content&utm_campaign=article)
@@ -2111,7 +2104,6 @@
  - [https://biz.crast.net/a-woman-who-was-locked-out-of-her-apple-account-minutes-after-her-iphone-was-stolen-and-10000-was-taken-from-her-bank-account-says-apple-was-not-helpful-at-all](https://biz.crast.net/a-woman-who-was-locked-out-of-her-apple-account-minutes-after-her-iphone-was-stolen-and-10000-was-taken-from-her-bank-account-says-apple-was-not-helpful-at-all)
  - date_published: 2023-02-26T07:31:37+00:00
  - tags: ['apple', 'iphone', 'technofeudalism']
- - date_dead_since: 2024-10-08T06:42:03.003451+00:00
 
  ## James Bond books edited to remove racist references
  - [https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references](https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references)
@@ -2544,7 +2536,6 @@
  - [https://www.outkick.com/climate-expert-greta-thunberg-deletes-2018-tweet-saying-world-will-end-in-2023-because-the-world-has-not-ended](https://www.outkick.com/climate-expert-greta-thunberg-deletes-2018-tweet-saying-world-will-end-in-2023-because-the-world-has-not-ended)
  - date_published: 2023-03-11T19:54:05+00:00
  - tags: ['climate change', 'greta thunberg']
- - date_dead_since: 2024-10-07T22:43:47.035872+00:00
 
  ## Cerebral admits to sharing patient data with Meta, TikTok, and Google
  - [https://www.theverge.com/2023/3/11/23635518/cerebral-patient-data-meta-tiktok-google-pixel](https://www.theverge.com/2023/3/11/23635518/cerebral-patient-data-meta-tiktok-google-pixel)
@@ -3834,7 +3825,6 @@
  - [https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff](https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff)
  - date_published: 2023-04-30T11:59:00+00:00
  - tags: ['cia', 'jeffrey epstein']
- - date_dead_since: 2025-02-03T06:56:03.905269+00:00
 
  ## Example of why you should not use FaceID to unlock your phone
  - [https://mastodon.social/@runasand/110286780839680620](https://mastodon.social/@runasand/110286780839680620)
@@ -3865,7 +3855,6 @@
  - [https://www.marketwatch.com/press-release/bill-c-11-becomes-law-forcing-streamers-to-support-canadian-content-2023-05-01](https://www.marketwatch.com/press-release/bill-c-11-becomes-law-forcing-streamers-to-support-canadian-content-2023-05-01)
  - date_published: 2023-05-01T12:47:52+00:00
  - tags: ['bill c-11', 'canada']
- - date_dead_since: 2024-10-07T01:41:31.913219+00:00
 
  ## Why does nuclear power plant construction cost so much?
  - [https://progress.institute/nuclear-power-plant-construction-costs](https://progress.institute/nuclear-power-plant-construction-costs)
@@ -4006,7 +3995,6 @@
  - [https://abcnews.go.com/US/wireStory/uber-security-chief-sentenced-data-breach-cover-99095920](https://abcnews.go.com/US/wireStory/uber-security-chief-sentenced-data-breach-cover-99095920)
  - date_published: 2023-05-04T08:17:07+00:00
  - tags: ['data leak', 'hackers', 'uber']
- - date_dead_since: 2024-10-06T22:18:42.540131+00:00
 
  ## Google to abolish passwords for ‘passkeys’: Here’s what to know
  - [https://www.aljazeera.com/news/2023/5/4/google-to-abolish-passwords-for-passkeys-heres-what-to-know](https://www.aljazeera.com/news/2023/5/4/google-to-abolish-passwords-for-passkeys-heres-what-to-know)
@@ -4323,7 +4311,6 @@
  - [https://www.wsj.com/articles/jeffrey-epstein-noam-chomsky-leon-botstein-bard-ce5beb9d](https://www.wsj.com/articles/jeffrey-epstein-noam-chomsky-leon-botstein-bard-ce5beb9d)
  - date_published: 2023-05-17T09:30:00+00:00
  - tags: ['jeffrey epstein', 'leon botstein', 'noam chomsky']
- - date_dead_since: 2025-07-14T19:46:39.011739+00:00
 
  ## EU passes first regulatory framework for cryptocurrency • The Register
  - [https://www.theregister.com/2023/05/17/eu_passes_cryptocurrency_regs](https://www.theregister.com/2023/05/17/eu_passes_cryptocurrency_regs)
@@ -4354,7 +4341,6 @@
  - [https://www.thepublica.com/disney-to-produce-more-lgbtq-content-in-new-partnership-with-equalpride](https://www.thepublica.com/disney-to-produce-more-lgbtq-content-in-new-partnership-with-equalpride)
  - date_published: 2023-05-18T15:33:12+00:00
  - tags: ['disney', 'lgbt', 'the left wing', 'woke']
- - date_dead_since: 2025-03-06T18:48:05.502277+00:00
 
  ## The Great CPU Stagnation
  - [http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
@@ -4710,7 +4696,6 @@
  - [https://www.wsj.com/articles/jamie-dimon-says-he-never-discussed-jeffrey-epsteins-accounts-at-jpmorgan-jes-staley-says-dimon-did-b11f0da5](https://www.wsj.com/articles/jamie-dimon-says-he-never-discussed-jeffrey-epsteins-accounts-at-jpmorgan-jes-staley-says-dimon-did-b11f0da5)
  - date_published: 2023-05-31T11:14:00+00:00
  - tags: ['jamie dimon', 'jeffrey epstein', 'jes staley', 'jpmorgan']
- - date_dead_since: 2024-10-05T15:34:16.089789+00:00
 
  ## Iconic Torrent Site Rarbg Shuts Down, All Content Releases Stop
  - [https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531](https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531)
@@ -4801,7 +4786,6 @@
  - [https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
  - date_published: 2023-06-01T09:27:28+00:00
  - tags: ['government control', 'internet', 'open source', 'security', 'vulnerability']
- - date_dead_since: 2025-07-14T05:45:00.112541+00:00
 
  ## Privacy: One of the Most Fundamental Human Rights, yet Constantly Under Threat
  - [https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat](https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat)
@@ -4833,7 +4817,6 @@
  - [https://www.wsj.com/articles/spains-catholic-church-finds-church-personnel-abused-hundreds-3047140a](https://www.wsj.com/articles/spains-catholic-church-finds-church-personnel-abused-hundreds-3047140a)
  - date_published: 2023-06-02T15:14:00+00:00
  - tags: ['church scandal', 'religion', 'spain']
- - date_dead_since: 2024-10-05T13:24:13.664118+00:00
 
  ## Ministers’ had ‘chilling’ secret unit to curb lockdown dissent
  - [https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown](https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown)
@@ -5029,7 +5012,6 @@
  - [https://abcnews.go.com/International/wireStory/former-bytedance-executive-chinese-communist-party-tracked-hong-99894243](https://abcnews.go.com/International/wireStory/former-bytedance-executive-chinese-communist-party-tracked-hong-99894243)
  - date_published: 2023-06-07T12:22:52+00:00
  - tags: ['bytedance', 'china', 'technofeudalism']
- - date_dead_since: 2024-10-05T10:44:03.067460+00:00
 
  ## 10 years after Snowden's first leak, what have we learned?
  - [https://www.theregister.com/2023/06/07/10_years_after_snowden](https://www.theregister.com/2023/06/07/10_years_after_snowden)
@@ -5060,7 +5042,6 @@
  - [https://www.wsj.com/articles/cuba-to-host-secret-chinese-spy-base-focusing-on-u-s-b2fed0e0](https://www.wsj.com/articles/cuba-to-host-secret-chinese-spy-base-focusing-on-u-s-b2fed0e0)
  - date_published: 2023-06-08T11:00:00+00:00
  - tags: ['america', 'china', 'espionage']
- - date_dead_since: 2024-10-05T10:14:03.327393+00:00
 
  ## Nigeria: 168 zabitych w atakach na chrześcijańskie wsie - Chrześcijański Serwis Informacyjny
  - [https://chrzescijanin.pl/168-zabitych-w-atakach-na-chrzescijanskie-wsie](https://chrzescijanin.pl/168-zabitych-w-atakach-na-chrzescijanskie-wsie)
@@ -5257,7 +5238,6 @@
  - [https://www.wsj.com/articles/world-economic-forum-paper-reduce-cars-by-2050-davos-private-jets-climate-f0bb64b9](https://www.wsj.com/articles/world-economic-forum-paper-reduce-cars-by-2050-davos-private-jets-climate-f0bb64b9)
  - date_published: 2023-06-14T22:42:00+00:00
  - tags: ['climate change', 'davos', 'wef', 'world economic forum']
- - date_dead_since: 2024-10-05T07:08:51.370783+00:00
 
  ## Google Warns Employees About Chatbots—Including Its Own Bard—Out Of Privacy Concerns, Report Says
  - [https://www.forbes.com/sites/anafaguy/2023/06/15/google-warns-employees-about-chatbots-including-its-own-bard-out-of-privacy-concerns-report-says](https://www.forbes.com/sites/anafaguy/2023/06/15/google-warns-employees-about-chatbots-including-its-own-bard-out-of-privacy-concerns-report-says)
@@ -5534,7 +5514,6 @@
  - [https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
  - date_published: 2023-06-26T20:45:47+00:00
  - tags: ['android', 'anonymity', 'china', 'electric vehicles', 'espionage', 'privacy', 'tracking']
- - date_dead_since: 2024-10-05T03:24:45.483363+00:00
 
  ## Transgender People Have Higher Suicide Risk, Says Landmark Study from Denmark - The New York Times
  - [https://www.nytimes.com/2023/06/27/health/transgender-suicide-risk-denmark.html?smtyp=cur&smid=tw-nytimes](https://www.nytimes.com/2023/06/27/health/transgender-suicide-risk-denmark.html?smtyp=cur&smid=tw-nytimes)
@@ -5755,7 +5734,6 @@
  - [https://www.wsj.com/articles/a-key-ruling-against-social-media-censorship-missouri-v-biden-government-covid-9b457364](https://www.wsj.com/articles/a-key-ruling-against-social-media-censorship-missouri-v-biden-government-covid-9b457364)
  - date_published: 2023-07-05T16:21:00+00:00
  - tags: ['big brother', 'censorship', 'covid']
- - date_dead_since: 2024-10-04T10:02:02.069201+00:00
 
  ## Scams upon scams: The data-driven advertising grift
  - [https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift](https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift)
@@ -5811,7 +5789,6 @@
  - [https://projecteink.com/pages/about](https://projecteink.com/pages/about)
  - date_published: 2023-07-07T08:58:32+00:00
  - tags: ['project', 'selfhost']
- - date_dead_since: 2025-07-12T20:43:59.335909+00:00
 
  ## Sensorvault - Wikipedia
  - [https://en.wikipedia.org/wiki/Sensorvault](https://en.wikipedia.org/wiki/Sensorvault)
@@ -6088,7 +6065,6 @@
  - [https://abcnews.go.com/Technology/wireStory/meta-faces-100k-daily-fine-norway-regulator-privacy-101342705](https://abcnews.go.com/Technology/wireStory/meta-faces-100k-daily-fine-norway-regulator-privacy-101342705)
  - date_published: 2023-07-17T17:04:00+00:00
  - tags: ['meta', 'privacy']
- - date_dead_since: 2024-10-04T08:52:07.484197+00:00
 
  ## G/O media will make more AI-generated stories despite critics
  - [https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column](https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column)
@@ -6470,7 +6446,6 @@
  - [https://www.wsj.com/articles/government-vs-free-speech-deda9dce](https://www.wsj.com/articles/government-vs-free-speech-deda9dce)
  - date_published: 2023-07-28T19:16:00+00:00
  - tags: ['covid']
- - date_dead_since: 2024-10-03T08:50:13.493351+00:00
 
  ## Catholic diocese agrees to pay $100 million settlement to hundreds of abuse victims
  - [https://www.nbcnews.com/news/us-news/catholic-diocese-agrees-pay-100-million-settlement-hundreds-abuse-vict-rcna96904](https://www.nbcnews.com/news/us-news/catholic-diocese-agrees-pay-100-million-settlement-hundreds-abuse-vict-rcna96904)
@@ -6732,7 +6707,6 @@
  - [https://front-end.social/@fox/110846484782705013](https://front-end.social/@fox/110846484782705013)
  - date_published: 2023-08-08T00:15:44+00:00
  - tags: ['artificial intelligence', 'privacy', 'technofeudalism']
- - date_dead_since: 2024-10-03T04:32:45.250972+00:00
 
  ## Who ACTUALLY runs the world? (Documentary)
  - [https://www.youtube.com/watch?v=OcBynl35Cts](https://www.youtube.com/watch?v=OcBynl35Cts)
@@ -7228,7 +7202,6 @@
  - [https://gazoche.xyz/posts/boiling-frog](https://gazoche.xyz/posts/boiling-frog)
  - date_published: 2023-09-03T08:49:37+00:00
  - tags: ['corporatocracy', 'technofeudalism']
- - date_dead_since: 2025-07-08T01:43:57.459181+00:00
 
  ## A developer built a 'propaganda machine' using OpenAI tech to highlight the dangers of mass-produced AI disinformation
  - [https://www.businessinsider.com/developer-creates-ai-disinformation-system-using-openai-2023-9](https://www.businessinsider.com/developer-creates-ai-disinformation-system-using-openai-2023-9)
@@ -7335,7 +7308,6 @@
  - [https://www.wsj.com/world/china/china-bans-iphone-use-for-government-officials-at-work-635fe2f8](https://www.wsj.com/world/china/china-bans-iphone-use-for-government-officials-at-work-635fe2f8)
  - date_published: 2023-09-06T17:29:59+00:00
  - tags: ['china']
- - date_dead_since: 2024-10-02T19:42:18.600565+00:00
 
  ## *privacy not included | Shop smart and safe | Mozilla Foundation
  - [https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy)
@@ -7406,7 +7378,6 @@
  - [https://www.wsj.com/articles/eric-adams-migrant-crisis-will-destroy-new-york-city-kathy-hochul-greg-abbott-aba585d](https://www.wsj.com/articles/eric-adams-migrant-crisis-will-destroy-new-york-city-kathy-hochul-greg-abbott-aba585d)
  - date_published: 2023-09-07T22:27:00+00:00
  - tags: ['immigration']
- - date_dead_since: 2024-10-02T18:42:16.401142+00:00
 
  ## Righteous Among the Nations - Wikipedia
  - [https://en.wikipedia.org/wiki/Righteous_Among_the_Nations](https://en.wikipedia.org/wiki/Righteous_Among_the_Nations)
@@ -8039,7 +8010,6 @@
  - [https://www.wsj.com/articles/inside-jeffrey-epsteins-circle-7ae25452](https://www.wsj.com/articles/inside-jeffrey-epsteins-circle-7ae25452)
  - date_published: 2023-11-03T16:16:00+00:00
  - tags: ['jeffrey epstein']
- - date_dead_since: 2024-10-02T05:03:38.054735+00:00
 
  ## Brits make Amazon, Meta stop using third-party data to undercut rivals
  - [https://www.theregister.com/2023/11/04/amazon_meta_cma](https://www.theregister.com/2023/11/04/amazon_meta_cma)
@@ -8281,7 +8251,6 @@
  - [https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html](https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html)
  - date_published: 2023-12-01T00:16:08+00:00
  - tags: ['hamas', 'israel', 'palestine']
- - date_dead_since: 2025-10-20T02:41:42.218445+00:00
 
  ## Windsor police officer who donated to Ottawa convoy will learn his penalty in May | CBC News
  - [https://www.cbc.ca/news/canada/windsor/windsor-police-convoy-donation-1.6792348](https://www.cbc.ca/news/canada/windsor/windsor-police-convoy-donation-1.6792348)
@@ -8347,7 +8316,6 @@
  - [https://www.wsj.com/politics/national-security/the-u-s-governments-most-powerful-spying-tool-is-fighting-for-its-life-5c2516d5](https://www.wsj.com/politics/national-security/the-u-s-governments-most-powerful-spying-tool-is-fighting-for-its-life-5c2516d5)
  - date_published: 2023-12-09T21:06:56+00:00
  - tags: ['section 702', 'surveillance']
- - date_dead_since: 2024-10-02T02:49:30.308522+00:00
 
  ## Trust-Based Moderation Systems
  - [https://cblgh.org/trustnet](https://cblgh.org/trustnet)
@@ -8373,7 +8341,6 @@
  - [https://www.gulf-insider.com/israel-starts-pumping-seawater-into-gaza-tunnels-after-russia-warned-against-war-crime](https://www.gulf-insider.com/israel-starts-pumping-seawater-into-gaza-tunnels-after-russia-warned-against-war-crime)
  - date_published: 2023-12-13T06:43:30+00:00
  - tags: ['israel']
- - date_dead_since: 2024-10-02T02:39:27.177243+00:00
 
  ## Ex-Facebook diversity manager pleads guilty to bilking $4M from company
  - [https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds](https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds)

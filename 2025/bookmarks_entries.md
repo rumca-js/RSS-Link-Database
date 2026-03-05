@@ -135,7 +135,6 @@
  - [https://abcnews.go.com/US/wireStory/fema-halting-payments-migrant-housing-new-york-after-118670265](https://abcnews.go.com/US/wireStory/fema-halting-payments-migrant-housing-new-york-after-118670265)
  - date_published: 2025-02-10T19:08:29+00:00
  - tags: ['immigration']
- - date_dead_since: 2025-06-21T00:44:17.999892+00:00
 
  ## The UK’s war on encryption affects all of us
  - [https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption](https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption)
@@ -480,7 +479,6 @@
  - [https://www.nytimes.com/2025/06/04/business/jeffrey-epstein-peter-thiel-estate.html](https://www.nytimes.com/2025/06/04/business/jeffrey-epstein-peter-thiel-estate.html)
  - date_published: 2025-06-04T16:35:14+00:00
  - tags: ['jeffrey epstein', 'peter thiel']
- - date_dead_since: 2025-10-12T20:24:26.844171+00:00
 
  ## Self-hosting your own media considered harmful (updated)
  - [https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated)

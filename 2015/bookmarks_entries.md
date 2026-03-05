@@ -166,7 +166,6 @@
  - [https://thoughtcatalog.com/emily-goldstein/2015/05/get-rid-of-white-people](https://thoughtcatalog.com/emily-goldstein/2015/05/get-rid-of-white-people)
  - date_published: 2015-05-26T21:14:25+00:00
  - tags: ['hate speech', 'racism', 'socialism']
- - date_dead_since: 2024-09-27T20:32:33.125764+00:00
 
  ## 4 reasons YouTube still doesn't make a profit
  - [https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit](https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit)

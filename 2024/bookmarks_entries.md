@@ -582,7 +582,6 @@
  - [https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
  - date_published: 2024-03-11T09:00:50+00:00
  - tags: ['big brother', 'corporatocracy', 'electric vehicles', 'privacy', 'surveillance']
- - date_dead_since: 2025-10-19T07:42:03.800342+00:00
 
  ## Are We Watching the Internet Die?
  - [https://www.wheresyoured.at/are-we-watching-the-internet-die](https://www.wheresyoured.at/are-we-watching-the-internet-die)
@@ -1062,7 +1061,6 @@
  - [https://gazette.com/news/wex/democrats-using-google-search-ads-to-falsify-news-headlines-extends-past-harris-campaign/article_b7225077-e224-5387-9773-72e3acca68c9.html](https://gazette.com/news/wex/democrats-using-google-search-ads-to-falsify-news-headlines-extends-past-harris-campaign/article_b7225077-e224-5387-9773-72e3acca68c9.html)
  - date_published: 2024-08-15T10:00:00+00:00
  - tags: ['ad business', 'disinformation', 'elections', 'google', 'misinformation']
- - date_dead_since: 2025-09-14T10:14:38.696967+00:00
 
  ## Home
  - [https://theonion.com](https://theonion.com)
