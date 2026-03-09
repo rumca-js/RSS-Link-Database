@@ -4612,19 +4612,19 @@
         "language": "en-US",
         "link": "https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 341,
         "source_url": "https://www.theguardian.com/international/rss",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "israel",
             "manufacturing consent"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/1dfd4b0a573d5732d8b7b77ccd7fbbbb4518ce7e/0_10_2988_2390/master/2988.png?width=140&quality=85&auto=format&fit=max&s=3c13225db5a08ef087ff172150ac32ee",
+        "thumbnail": "https://i.guim.co.uk/img/media/1dfd4b0a573d5732d8b7b77ccd7fbbbb4518ce7e/0_10_2988_2390/master/2988.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff71fa309a8e29a00395aebccf637d41",
         "title": "Revealed: Israel demanded Google and Amazon use secret \u2018wink\u2019 to sidestep legal orders",
         "vote": 0
     },
