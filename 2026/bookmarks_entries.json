@@ -257,5 +257,34 @@
         "thumbnail": null,
         "title": "Bible and Quran apps flagged NSFW by F-Droid | Hacker News",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-03-09T06:59:48.921843+00:00",
+        "date_dead_since": "2026-03-09T07:00:22.386280+00:00",
+        "date_published": "2026-03-09T03:30:58+00:00",
+        "description": null,
+        "id": 4965082,
+        "language": null,
+        "link": "https://gigazine.net/gsc_news/en/20260309-dji-bugbounty-program",
+        "manual_status_code": 0,
+        "page_rating": 9,
+        "page_rating_contents": 0,
+        "page_rating_visits": 1,
+        "page_rating_votes": 10,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 404,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": null,
+        "title": null,
+        "vote": 10
     }
 ]

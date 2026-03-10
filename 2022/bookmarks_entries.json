@@ -1485,20 +1485,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:58:19.290537+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-03-09T22:11:17.149500+00:00",
         "date_published": "2022-01-13T13:07:14+00:00",
         "description": "Downing Street\u2019s controversial \u2018Nudge Unit\u2019 accused of exploiting scare tactics during Covid crisis",
         "id": 39575,
         "language": "en",
         "link": "https://www.telegraph.co.uk/politics/2022/01/13/downing-streets-controversial-nudge-unit-accused-exploiting",
         "manual_status_code": 0,
-        "page_rating": 67,
-        "page_rating_contents": 20,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 90,
         "permanent": false,
         "source_url": "https://www.telegraph.co.uk",
-        "status_code": 200,
+        "status_code": 402,
         "tags": [
             "covid",
             "fearmongering",
@@ -1644,7 +1644,7 @@
         "source_url": "https://stitcher.io",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://stitcher.io/blog/how-i-plan/meta.png",
+        "thumbnail": "https://stitcher.io/meta/meta_lg.png",
         "title": "How I plan - stitcher.io",
         "vote": 0
     },
@@ -1737,20 +1737,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:58:18.871291+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-03-09T22:09:53.379858+00:00",
         "date_published": "2022-01-14T14:53:50.584785+00:00",
         "description": "Updating a 50 terabyte PostgreSQL database",
         "id": 39565,
         "language": "en",
         "link": "https://www.adyen.com/blog/updating-a-50-terabyte-postgresql-database",
         "manual_status_code": 0,
-        "page_rating": 12,
-        "page_rating_contents": 40,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.adyen.com",
-        "status_code": 614,
+        "status_code": 404,
         "tags": [],
         "thumbnail": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiYWR5ZW5cL2ZpbGVcL25DRW5EUjFpRnFmQTh4MmdSMmFXLmpwZyJ9:adyen:OFhDAastPy5hH5ds1hcO2-KbZrwwz5Q8bLHpI6xAXo8",
         "title": "Updating a 50 terabyte PostgreSQL database - Adyen",
@@ -1858,7 +1858,7 @@
         "source_url": "https://stitcher.io",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://stitcher.io/blog/its-your-fault/meta.png",
+        "thumbnail": "https://stitcher.io/meta/meta_lg.png",
         "title": "\"It's your fault\" - stitcher.io",
         "vote": 0
     },
@@ -3241,7 +3241,7 @@
         "link": "https://kutv.com/news/nation-world/anti-vaccine-mandate-freedom-convoy-said-to-be-largest-ever-coronavirus-covid-canada-united-states-truck-mask-vaccinated-border-gofundme",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -3252,7 +3252,7 @@
             "covid",
             "freedom convoy"
         ],
-        "thumbnail": "https://kutv.com/resources/media/6d5cec17-e854-4524-a391-b44845a69256-semitruckdriving2.JPG",
+        "thumbnail": "https://kutv.com/resources/media/6d5cec17-e854-4524-a391-b44845a69256-jumbo16x9_semitruckdriving2.JPG?1643386909345",
         "title": "Anti-mandate 'Freedom Convoy' said to be largest truck convoy ever | KUTV",
         "vote": 0
     },
@@ -4152,7 +4152,7 @@
         "tags": [
             "motivation"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/ikp8StSFBZQ/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/ikp8StSFBZQ/maxresdefault.jpg",
         "title": "Jordan Peterson's FASCINATING Analysis On The Selfconscious Conditions (Which one are you?)",
         "vote": 0
     },
@@ -4494,13 +4494,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=XSWyfkkgCN0",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3Y_HaUqzTYABL2whcwGOKA",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "funny",
             "jordan peterson"
@@ -5078,7 +5078,7 @@
         "tags": [
             "big pharma"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/arrokG3wCdE/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/arrokG3wCdE/maxresdefault.jpg",
         "title": "John Abramson: Big Pharma | Lex Fridman Podcast #263",
         "vote": 0
     },
@@ -5106,7 +5106,7 @@
         "tags": [
             "dead internet"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/RFb1Ctnqw0E/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/RFb1Ctnqw0E/maxresdefault.jpg",
         "title": "The Dead Internet Theory 3",
         "vote": 0
     },
@@ -5180,13 +5180,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=ZdP1jlxHibc",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaJ_go3GJftsbQ1VDl12oHQ",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "motivation"
         ],
@@ -5328,7 +5328,7 @@
             "covid",
             "lockdown"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/-CucAwH3YQY/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/-CucAwH3YQY/maxresdefault.jpg",
         "title": "Victor Davis Hanson - How COVID Lockdowns Killed Small Businesses | Highlights Ep.38",
         "vote": 0
     },
@@ -5476,7 +5476,7 @@
             "google",
             "search engines"
         ],
-        "thumbnail": "https://substackcdn.com/image/fetch/$s_!42FY!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71530573-924e-462c-a9e4-0aeeb6a0c67c_800x800.jpeg",
+        "thumbnail": "https://substackcdn.com/image/fetch/$s_!42FY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71530573-924e-462c-a9e4-0aeeb6a0c67c_800x800.jpeg",
         "title": "Google Search Is Dying",
         "vote": 100
     },
@@ -5940,7 +5940,7 @@
             "math",
             "vortex math"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/6ZrO90AI0c8/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/6ZrO90AI0c8/maxresdefault.jpg",
         "title": "Tesla\u2019s 3-6-9 and Vortex Math: Is this really the key to the universe?",
         "vote": 0
     },
@@ -5970,7 +5970,7 @@
             "funny",
             "programming"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/s7wLYzRJt3s/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/s7wLYzRJt3s/maxresdefault.jpg",
         "title": "Interview with Senior C++ Developer",
         "vote": 0
     },
@@ -6182,7 +6182,7 @@
             "dead internet",
             "search engines"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/8xl2mWK9LsE/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/8xl2mWK9LsE/maxresdefault.jpg",
         "title": "Is Google Search Getting Less Accurate?",
         "vote": 0
     },
@@ -6444,7 +6444,7 @@
             "internet",
             "programming"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/eu8O2Suxo9A/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/eu8O2Suxo9A/maxresdefault.jpg",
         "title": "What Went Wrong With the World Wide Web?",
         "vote": 0
     },
@@ -6488,13 +6488,13 @@
         "language": "en",
         "link": "https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24",
         "manual_status_code": 0,
-        "page_rating": 27,
-        "page_rating_contents": 86,
+        "page_rating": 12,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FLLAJGMYV3VLPXDME4EVD2YJ2JE.jpg?auth=8d68712590df027c69d99cf2f3768fa9afee8baaa9a2328b3e476950a27fbb09&height=1005&width=1920&quality=80&smart=true",
         "title": "Ukraine war flashes neon warning lights for chips | Reuters",
@@ -6544,14 +6544,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=-b8TBPSTuiM",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 286,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCswH8ovgUp5Bdg-0_JTYFNw",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "world economic forum"
         ],
@@ -7513,7 +7513,7 @@
             "hollywood",
             "movies"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/Dnuqp4_K7ik/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/Dnuqp4_K7ik/hqdefault.jpg",
         "title": "Why Modern Movies Suck - They Teach Us Awful Lessons",
         "vote": 0
     },
@@ -7531,14 +7531,14 @@
         "language": "en-UK",
         "link": "https://www.youtube.com/watch?v=fHxV_YURY28",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 370,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxt2r57cLastdmrReiQJkEg",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "big pharma",
             "covid",
@@ -7614,13 +7614,13 @@
         "language": "en",
         "link": "https://www.reuters.com/world/europe/exclusive-facebook-instagram-temporarily-allow-calls-violence-against-russians-2022-03-10",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "censorship",
             "facebook",
@@ -7942,14 +7942,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=VPcYMgTYQs0",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 161,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "ddos",
             "hackers",
@@ -7987,7 +7987,7 @@
             "the left wing",
             "woke"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/WJzXUSl20kM/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/WJzXUSl20kM/maxresdefault.jpg",
         "title": "Secret behind Hollywood's power. And why they are afraid of the WOKE.",
         "vote": 0
     },
@@ -8339,7 +8339,7 @@
             "documentary",
             "history"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/_oqbLSisnME/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/_oqbLSisnME/maxresdefault.jpg",
         "title": "Man Born in 1853 Talks About Childhood in the 1860s- Enhanced Video & Audio [60 fps]",
         "vote": 0
     },
@@ -8489,7 +8489,7 @@
         "tags": [
             "content creation"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/A4SxKYCQxo0/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/A4SxKYCQxo0/maxresdefault.jpg",
         "title": "Why youtubers are leaving YouTube",
         "vote": 0
     },
@@ -8709,7 +8709,7 @@
             "vaccine",
             "war"
         ],
-        "thumbnail": "https://cdn.medonet.pl/1/dtMk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hNmU1MThjMmM4ZjNhYzQzNzI4ODlhM2UwMWU2NjVhZi5qcGeTlQMAH80D6M0CMpMFzQlgzQTslQfZc2h0dHBzOi8vY2RuLm1lZG9uZXQucGwvMS9xbjlrOWt1YUhSMGNITTZMeTlqWkc0dWJXVmtiMjVsZEM1d2JDOXBiV2N2Ykc5bmIxOXRaV1J2Ym1WMFh6RTFMbkJ1WjVHVkFnQmt3OFBlQUFLaE1BZWhNUVEIwgDeAAKhMAehMQQ",
+        "thumbnail": "https://cdn.medonet.pl/1/3NLk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hNmU1MThjMmM4ZjNhYzQzNzI4ODlhM2UwMWU2NjVhZi5qcGeTlQMAH80D6M0CMpMFzQlgzQTslQfZb2h0dHBzOi8vY2RuLm1lZG9uZXQucGwvMS8wVVdrOWtyYUhSMGNITTZMeTlqWkc0dWJXVmtiMjVsZEM1d2JDOXBiV2N2Ykc5bmIxOXRaV1J2Ym1WMExuQnVaNUdWQWdCa3c4UGVBQUtoTUFlaE1RUQjCAN4AAqEwB6ExBA",
         "title": "Ponad 2 mln Ukrai\u0144c\u00f3w trafi\u0142o do Polski, s\u0105 s\u0142abo wyszczepieni. Co dalej z epidemi\u0105?",
         "vote": 0
     },
@@ -8771,7 +8771,7 @@
             "documentary",
             "history"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/GUZ0jTU1o5s/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/GUZ0jTU1o5s/maxresdefault.jpg",
         "title": "1920s - A Trip Around The World in Color  [60fps, Remastered] w/sound design added",
         "vote": 0
     },
@@ -9126,13 +9126,13 @@
         "language": "en",
         "link": "https://www.reuters.com/technology/blackrocks-fink-says-russia-ukraine-crisis-could-accelerate-digital-currencies-2022-03-24",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "blackrock",
             "cbdc",
@@ -9473,7 +9473,7 @@
             "hollywood",
             "movies"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/l04RZVeJViI/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/l04RZVeJViI/hqdefault.jpg",
         "title": "Why Modern Movies Suck - Modern Actors",
         "vote": 0
     },
@@ -9624,13 +9624,13 @@
         "language": "en",
         "link": "https://www.reuters.com/technology/exclusive-us-warned-firms-about-russias-kaspersky-software-day-after-invasion-2022-03-31",
         "manual_status_code": 0,
-        "page_rating": 34,
-        "page_rating_contents": 86,
+        "page_rating": 19,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 10,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [],
         "thumbnail": "https://www.reuters.com/resizer/v2/T3M3265AUBPDNGDPXLSGJYSUIA.jpg?auth=3a1f973034fa719eee8ba2195490e56b9824890c2fe81a74eaffb9d71d378b1f&height=1005&width=1920&quality=80&smart=true",
         "title": "EXCLUSIVE U.S. warned firms about Russia's Kaspersky software day after invasion -sources",
@@ -12163,7 +12163,7 @@
             "ftx",
             "ponzie"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/C6nAxiym9oc/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/C6nAxiym9oc/maxresdefault.jpg",
         "title": "Crypto CEO Accidentally Describes Ponzi Scheme",
         "vote": 0
     },
@@ -12864,13 +12864,13 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=Lv5xHfZnk4s",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC70jZ84B6b0tY65pC1J15cw",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "subscription",
             "windows"
@@ -13648,14 +13648,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=D6QwK9EpN5M",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 344,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "all time",
             "internet"
@@ -13745,7 +13745,7 @@
             "the left wing",
             "what is a woman"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/42ivIRd9N8E/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/42ivIRd9N8E/maxresdefault.jpg",
         "title": "OFFICIAL TRAILER: \"WHAT IS A WOMAN?\"",
         "vote": 0
     },
@@ -14029,7 +14029,7 @@
         "source_url": "https://stitcher.io",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://stitcher.io/blog/dealing-with-deprecations/meta.png",
+        "thumbnail": "https://stitcher.io/meta/meta_lg.png",
         "title": "Dealing with deprecations - stitcher.io",
         "vote": 0
     },
@@ -14502,7 +14502,7 @@
         "source_url": "https://herman.bearblog.dev",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
+        "thumbnail": "https://herman.bearblog.dev/static/og-image.png",
         "title": "Big Fat Websites | \u1555( \u141b )\u1557 Herman's blog",
         "vote": 0
     },
@@ -17287,7 +17287,7 @@
         "source_url": "https://herman.bearblog.dev",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
+        "thumbnail": "https://herman.bearblog.dev/static/og-image.png",
         "title": "Observations on 6 years of journaling | \u1555( \u141b )\u1557 Herman's blog",
         "vote": 0
     },
@@ -18215,7 +18215,7 @@
         "source_url": "https://gordonc.bearblog.dev",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
+        "thumbnail": "https://gordonc.bearblog.dev/static/og-image.png",
         "title": "Why DRY is the most over-rated programming principle | Thoughts on Software",
         "vote": 0
     },
@@ -19693,7 +19693,7 @@
             "racism",
             "tolerance"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/Xr6k6a4CrG8/sd2.jpg?sqp=-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AZQDgALQBYoCDAgAEAEYWiBYKGUwDw==&rs=AOn4CLAOAW5mjjsvSEmH3855L9TFPBCoYA",
+        "thumbnail": "https://i.ytimg.com/vi/Xr6k6a4CrG8/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AZQDgALQBYoCDAgAEAEYWiBYKGUwDw==&rs=AOn4CLDgtIybW_P8JUizlLTI7Z055vZIBw",
         "title": "Notice the difference? #shorts",
         "vote": 20
     },
@@ -19843,20 +19843,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:56:47.519832+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-03-09T18:56:03.012427+00:00",
         "date_published": "2022-07-26T14:35:00+00:00",
         "description": "COVID-19 Ottawa: 2022 death toll surpasses 2021 total | CTV News",
         "id": 38933,
         "language": "en",
         "link": "https://ottawa.ctvnews.ca/ottawa-s-covid-19-death-toll-in-2022-surpasses-2021-total-1.6002795",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://ottawa.ctvnews.ca",
-        "status_code": 614,
+        "status_code": 404,
         "tags": [
             "canada",
             "covid",
@@ -20036,7 +20036,7 @@
             "free speech",
             "moderation"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/79pS5OXKTkU/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/79pS5OXKTkU/maxresdefault.jpg",
         "title": "Why Elon Musk Can\u2019t Save Free Speech",
         "vote": 0
     },
@@ -21441,13 +21441,13 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=8O_NvPpbsbw",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsIlJ9eYylZQcyfMOPNUz9w",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "dead internet",
             "internet",
@@ -21802,7 +21802,7 @@
         "page_rating_votes": 30,
         "permanent": false,
         "source_url": "https://www.globalresearch.ca",
-        "status_code": 614,
+        "status_code": 403,
         "tags": [
             "manufacturing consent",
             "trusted news initiative"
@@ -22173,14 +22173,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=7jH0w8Jdgjk",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 286,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCswH8ovgUp5Bdg-0_JTYFNw",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "corporations",
             "corporatocracy",
@@ -22884,7 +22884,7 @@
             "jeffrey epstein",
             "unverified"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/AfaEv3KvF3Y/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/AfaEv3KvF3Y/maxresdefault.jpg",
         "title": "4 Times 4chan Warned The Internet",
         "vote": 0
     },
@@ -23763,7 +23763,7 @@
             "corporatocracy",
             "net zero"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/WaLGsZseL3w/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/WaLGsZseL3w/maxresdefault.jpg",
         "title": "The dirty \"Net Zero\" carbon myth (that everyone believes)",
         "vote": 0
     },
@@ -26346,13 +26346,13 @@
         "language": "pl-PL",
         "link": "https://www.youtube.com/watch?v=XSOgcpRbrCo",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcvczmsieHPRsrpc3v7GUmg",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "singapore"
         ],
@@ -26616,7 +26616,7 @@
         "link": "https://slaynews.com/news/1249-athlete-heart-attacks-847-dead-since-last-year",
         "manual_status_code": 0,
         "page_rating": 35,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 5,
         "permanent": false,
@@ -26625,7 +26625,7 @@
         "tags": [
             "covid"
         ],
-        "thumbnail": "https://slaynews.com/wp-content/uploads/2022/09/athlete-heart-attacks-dead-last-year.jpg",
+        "thumbnail": "https://slaynews.com/wp-content/uploads/2021/10/slay-logo-og-1000.jpg",
         "title": "1249 Athlete Heart Attacks, 847 Dead, Since Last Year - Slay News",
         "vote": 5
     },
@@ -28951,14 +28951,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=81bMiEjYZ54",
         "manual_status_code": 0,
-        "page_rating": 27,
-        "page_rating_contents": 86,
+        "page_rating": 12,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/81bMiEjYZ54/maxresdefault.jpg",
         "title": "Soft White Underbelly demonetized by YouTube [video]",
@@ -29337,14 +29337,14 @@
         "language": "en-US",
         "link": "https://www.reuters.com/legal/us-appeals-court-rules-against-big-techs-ability-regulate-online-speech-2022-09-16",
         "manual_status_code": 0,
-        "page_rating": 27,
-        "page_rating_contents": 86,
+        "page_rating": 12,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [],
         "thumbnail": "https://www.reuters.com/resizer/v2/GQ66JSV4TVKSNGJQPNDBZ5SMUM.jpg?auth=3362ecf0d9a555aae970b61f57e7b104d3051e47d867fafbac41f556b88efa08&height=1005&width=1920&quality=80&smart=true",
         "title": "U.S. appeals court rejects big tech's right to regulate online speech",
@@ -32325,20 +32325,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:56:31.220696+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-03-09T18:23:12.955555+00:00",
         "date_published": "2022-09-26T04:00:00+00:00",
         "description": "What can I get for a heavily-used liver?",
         "id": 38538,
         "language": "en-US",
         "link": "https://www.codeproject.com/script/News/View.aspx?nwid=58996",
         "manual_status_code": 0,
-        "page_rating": 35,
-        "page_rating_contents": 40,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 30,
         "permanent": false,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
-        "status_code": 614,
+        "status_code": 603,
         "tags": [
             "ad business",
             "google",
@@ -34816,21 +34816,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:54:55.004402+00:00",
-        "date_dead_since": "2025-10-30T17:03:06.701582+00:00",
+        "date_dead_since": null,
         "date_published": "2022-10-04T00:00:00+00:00",
         "description": "\ud83d\udcfa Zapraszam do ogl\u0105dania\n\n\u2b07\ufe0fRozwi\u0144 opis\u2b07\ufe0f\n------------------------------------------------------------\n\ud83d\udc40 Uszi po godzinach: https://goo.gl/cdCFKe\n\ud83d\udc40 Hello World_: http://bit.ly/31BEhnv\n------------------------------------------------------------\n\u2709\ufe0f Ludzie listy pisz\u0105 \n\ud83d\udd8a\ufe0f uszi@protonmail.com\n------------------------------------------------------------\n\ud83d\udc7a Niecenzuralne i agresywne komentarze zostan\u0105 usuni\u0119te.  Jak ju\u017c musisz zakl\u0105\u0107 dawaj znaki (&*%@%).\n------------------------------------------------------------\n\ud83d\udcb2 Donate/ Darowizna\nPLN / SMS / Blik: http://bit.ly/3bsXtJj\nBTC: 174EmE88YFtvs6fuM8ZL5yYbik8hcaY6ud\n-------------------------------------------------------------\n\u2705 \u0179r\u00f3d\u0142a:\n1. https://bit.ly/3SVw9HX\n2. https://bit.ly/3fJJHbi\n3. https://bit.ly/3M4wXrC\n4. https://bit.ly/3RztvXm\n5. https://bit.ly/3q49n3Z\n6. https://bit.ly/3Aco77p\n7. https://bit.ly/3UZL3i9\n8. https://bit.ly/3Cx8BUg\n---------------------------------------------------------------\n\ud83c\udfb4 Do kola\u017cu wykorzystano grafik\u0119 autorstw",
         "id": 37546,
         "language": "pl-PL",
         "link": "https://www.youtube.com/watch?v=8If5X_KR6Pg",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 85,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 376,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwSv086EAByBY-Z7y-QR_cQ",
-        "status_code": 500,
+        "status_code": 200,
         "tags": [
             "science is dead"
         ],
@@ -36603,7 +36603,7 @@
             "ifixit",
             "planned obsolence"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/JBKF7rKB3zc/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/JBKF7rKB3zc/maxresdefault.jpg",
         "title": "How to DISASSEMBLE and REPAIR an LED lamp WITHOUT A SOLDERING IRON Do-it-yourself LED lamp repair",
         "vote": 0
     },
@@ -36794,13 +36794,13 @@
         "language": "pl-PL",
         "link": "https://www.youtube.com/watch?v=LdVgb8Q8BRY",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQF5FVlXD-WjPGxemIuI5Wg",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "davos",
             "klaus schwab",
@@ -37611,7 +37611,7 @@
             "science",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/U_c7CcVspfI/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgWCg0MA8=&rs=AOn4CLBRcteZKI8MYUlKyOyTQJsol11XPQ",
+        "thumbnail": "https://i.ytimg.com/vi/U_c7CcVspfI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgWCg0MA8=&rs=AOn4CLDRJhnCGe6ro3XghMjRWNNC1OKplQ",
         "title": "Woke doctor pledge replaces Hippocratic oath for Minnesota medical students",
         "vote": 0
     },
@@ -38220,13 +38220,13 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=N8t7npjutik",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJk3wsIuHRzCTdKUZykIK8A",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "cbdc",
             "technofeudalism"
@@ -38558,7 +38558,7 @@
             "jake tran",
             "social media"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/xp12iqINfQY/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/xp12iqINfQY/maxresdefault.jpg",
         "title": "Jake Tran Exploits His Audience And No One Cares",
         "vote": 0
     },
@@ -38932,14 +38932,14 @@
         "language": "en-US",
         "link": "https://www.reuters.com/business/retail-consumer/amazon-faces-1-bln-lawsuit-uk-favouring-its-own-products-2022-10-20",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "amazon",
             "big tech",
@@ -39025,13 +39025,13 @@
         "language": "pl-PL",
         "link": "https://www.youtube.com/watch?v=m7rmirduyZw",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLwNTXWEjVd2qIHLcXxQWxA",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "depopulation",
             "population"
@@ -39127,7 +39127,7 @@
             "cristian terhes",
             "vaccine"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/HnSnQor8zDY/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/HnSnQor8zDY/maxresdefault.jpg",
         "title": "Pfizer, blanked out pages",
         "vote": 0
     },
@@ -39704,14 +39704,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=XmkFoPV5DCg",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 145,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQDhxkSxZA6lxdeXE19aoRA",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "subscription",
             "technofeudalism"
@@ -41891,13 +41891,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "amazon",
             "artificial intelligence",
@@ -42973,14 +42973,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=M7DRDIwHa0E",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 68,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "china"
         ],
@@ -44528,13 +44528,13 @@
         "language": "en",
         "link": "https://www.reuters.com/business/cop/egypts-farmers-fear-rising-social-tensions-over-scarce-water-2022-10-31",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "climate change",
             "crisis",
@@ -44685,7 +44685,7 @@
         "tags": [
             "digital dementia"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/fVsCLKErPqE/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/fVsCLKErPqE/maxresdefault.jpg",
         "title": "\"I WISH I HAD MORE INTERNET FRIENDS.\" - Literally Nobody",
         "vote": 0
     },
@@ -45740,14 +45740,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=F2ngB-zjVmM",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 334,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "hollywood",
             "movies",
@@ -46453,7 +46453,7 @@
             "china",
             "socialism"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/lutHkJoBjrM/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/lutHkJoBjrM/maxresdefault.jpg",
         "title": "More Chinese can't stand the CCP as the planned economy returns to China",
         "vote": 0
     },
@@ -46471,14 +46471,14 @@
         "language": "en-US",
         "link": "https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "elon musk",
             "twitter"
@@ -47661,7 +47661,7 @@
             "github",
             "open source"
         ],
-        "thumbnail": "https://eu-central-1.graphassets.com/AsG3PkEACRzaKE6IwP64sz/8EB6ktlTjaRaGvyT9NYQ",
+        "thumbnail": "https://kitze.io/posts/github-stars-wont-pay-your-rent/opengraph-image-14xfpx?bd7e3518f11367ab",
         "title": "GitHub stars won't pay your rent",
         "vote": 0
     },
@@ -47692,7 +47692,7 @@
             "elon musk",
             "tesla"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/iEwxAJ0zgNE/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/iEwxAJ0zgNE/maxresdefault.jpg",
         "title": "How safe is Elon Musk's bet on Tesla in China? Tesla has adjusted its sales & service strategy",
         "vote": 0
     },
@@ -48404,7 +48404,7 @@
             "marxism",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/D5X0tAecfF4/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/D5X0tAecfF4/maxresdefault.jpg",
         "title": "How Marxism is Disguised as Woke Morality | Dr. Yoram Hazony | #305",
         "vote": 0
     },
@@ -49287,7 +49287,7 @@
             "mastodon",
             "selfhost"
         ],
-        "thumbnail": "https://stitcher.io/blog/you-cannot-find-me-on-mastodon/meta.png",
+        "thumbnail": "https://stitcher.io/meta/meta_lg.png",
         "title": "You cannot find me on Mastodon - stitcher.io",
         "vote": 0
     },
@@ -49509,7 +49509,7 @@
             "china",
             "planned economy"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/0KY29wZD1mg/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/0KY29wZD1mg/maxresdefault.jpg",
         "title": "Scary! CCP is to impose a communal lifestyle. A planned economy is about to go full swing",
         "vote": 0
     },
@@ -49815,7 +49815,7 @@
             "privacy",
             "smart home"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/qOjiCbxP5Lc/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/qOjiCbxP5Lc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHqCIAC0AWKAgwIABABGBMgSSh_MA8=&rs=AOn4CLDx8nF9Qgy8F8Zw3vrYds_Mi31MEA",
         "title": "Eufy leaking your \"private\" images/faces & names... to the cloud.",
         "vote": 0
     },
@@ -50020,7 +50020,7 @@
         "tags": [
             "cdbc"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/P20tDdxy_yc/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/P20tDdxy_yc/maxresdefault.jpg",
         "title": "The biggest threat to our financial freedom - CBDC",
         "vote": 0
     },
@@ -50251,13 +50251,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=48AOOynnmqU",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuQT7Vc3OjjZuGkqehNxb6w",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "algorithms",
             "dead internet",
@@ -51093,8 +51093,8 @@
         "language": "pl-PL",
         "link": "https://www.youtube.com/watch?v=5Fv-LKT_cEc",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 82,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -51107,7 +51107,7 @@
             "mark zuckerberg",
             "meta"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/5Fv-LKT_cEc/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/5Fv-LKT_cEc/maxresdefault.jpg",
         "title": "Fake Zuck to Congress: Thank You for Inaction on Big Tech Antitrust!",
         "vote": 0
     },
@@ -51627,7 +51627,7 @@
             "social credit",
             "vaccine passport"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/ON52n1Xa4I0/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgRyhDMA8=&rs=AOn4CLAQuEaS3ZTb_ZMoF6BP02VLtNOSOw",
+        "thumbnail": "https://i.ytimg.com/vi/ON52n1Xa4I0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgRyhDMA8=&rs=AOn4CLDULq8PQepHKpnnn-W3zjMlG149cw",
         "title": "Jordan Peterson: social credit systems in West \"highly probable\" thanks to our Covid response",
         "vote": 0
     },
@@ -52451,7 +52451,7 @@
             "propaganda",
             "the right wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/fzYj11qWb-M/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/fzYj11qWb-M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUyhMMA8=&rs=AOn4CLDRQU0ESqo8oy1oOPkB2QHAfr6vKA",
         "title": "LEGACY MEDIA is \"Extremely Dangerous to Our Democracy\"",
         "vote": 0
     },
@@ -53660,14 +53660,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=eDWq7-eP5sE",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 167,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "climate change"
         ],
@@ -53689,13 +53689,13 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=px4LkyuMs0I",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "economy",
             "inflation",
@@ -54282,7 +54282,7 @@
             "corporatocracy",
             "tencent"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/-_LH3m0FZdg/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/-_LH3m0FZdg/maxresdefault.jpg",
         "title": "How Tencent Is Changing Our World Forever",
         "vote": 0
     },
@@ -55243,13 +55243,13 @@
         "language": "en",
         "link": "https://www.reuters.com/business/wider-diversity-push-norway-proposes-40-gender-quota-large-unlisted-firms-2022-12-12",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "feminism",
             "norway",
@@ -57150,7 +57150,7 @@
             "privacy",
             "whatsapp"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/E1w-2WB2rIM/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/E1w-2WB2rIM/maxresdefault.jpg",
         "title": "How Does WhatsApp Make Money?",
         "vote": 0
     },
@@ -57627,13 +57627,13 @@
         "language": "en",
         "link": "https://www.reuters.com/business/sustainable-business/blackrock-plans-no-big-changes-esg-stance-despite-backlash-2022-12-19",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "blackrock",
             "esg"
@@ -59355,13 +59355,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=wXURFRSUS9U",
         "manual_status_code": 0,
-        "page_rating": 43,
-        "page_rating_contents": 86,
+        "page_rating": 29,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 20,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrvhNP_lWuPIP6QZzJmM-bw",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "christioanophobia",
             "orwell",
@@ -59589,7 +59589,7 @@
             "covid",
             "vaccine"
         ],
-        "thumbnail": "https://static.ffx.io/images/$zoom_0.1936%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_social_wm/l_text:PT%20Sans_41_bold_italic:%20from%20%2Cg_south_west%2Cy_84%2Cx_288%2Cco_rgb:0a1633/l_text:PT%20Sans_41_bold:%20%20%2Cg_south_west%2Cy_90%2Cx_375%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_83:%202022%20%2Cg_south_west%2Cy_15%2Cx_274%2Cco_rgb:0a1633/2576ae7a46c5a002ec293fa94ea9cddb280ea9dc",
+        "thumbnail": "https://static.ffx.io/images/$zoom_0.1936%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/t_metro_no_label_social_wm/l_text:PT%20Sans_25_bold_italic:%20from%20%2Cg_north_west%2Cy_7%2Cx_30%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_55:%202022%20%2Cg_north_west%2Cy_32%2Cx_20%2Cco_rgb:0a1633/2576ae7a46c5a002ec293fa94ea9cddb280ea9dc",
         "title": "Rogue antibody and mystery pathogen behind AstraZeneca blood clots: study",
         "vote": 0
     },
@@ -59680,7 +59680,7 @@
             "disney",
             "marvel"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/uQFWlrfhe8M/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/uQFWlrfhe8M/maxresdefault.jpg",
         "title": "Why Marvel Is Collapsing: The Coming Marvel Crisis",
         "vote": 0
     },
@@ -60849,7 +60849,7 @@
             "facial recognition",
             "technofeudalism"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/jWBTnrkz6lY/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/jWBTnrkz6lY/maxresdefault.jpg",
         "title": "Banned by Face Recognition?",
         "vote": 0
     },
@@ -61142,14 +61142,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=k9kXnm9uW5k",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "corporatocracy",
             "louis rossmann",

@@ -42,3 +42,8 @@
  - date_published: 2026-02-26T22:26:27.220901+00:00
  - tags: ['christianophobia', 'moderation']
 
+ - [https://gigazine.net/gsc_news/en/20260309-dji-bugbounty-program](https://gigazine.net/gsc_news/en/20260309-dji-bugbounty-program)
+ - date_published: 2026-03-09T03:30:58+00:00
+ - tags: ['privacy', 'surveillance']
+ - date_dead_since: 2026-03-09T07:00:22.386280+00:00
+

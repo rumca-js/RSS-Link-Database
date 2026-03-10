@@ -135,6 +135,7 @@
  - [https://abcnews.go.com/US/wireStory/fema-halting-payments-migrant-housing-new-york-after-118670265](https://abcnews.go.com/US/wireStory/fema-halting-payments-migrant-housing-new-york-after-118670265)
  - date_published: 2025-02-10T19:08:29+00:00
  - tags: ['immigration']
+ - date_dead_since: 2026-03-10T02:27:22.361931+00:00
 
  ## The UK’s war on encryption affects all of us
  - [https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption](https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption)

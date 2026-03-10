@@ -142,13 +142,11 @@
  - [https://www.youtube.com/watch?v=CYKeefzKGOI](https://www.youtube.com/watch?v=CYKeefzKGOI)
  - date_published: 2020-01-31T07:48:27+00:00
  - tags: ['covid', 'fearmongering', 'lab leak', 'propaganda', 'wuhan']
- - date_dead_since: 2025-02-10T12:20:08.752577+00:00
 
  ## Coronavirus has people keeling over in streets - TomoNews
  - [https://www.youtube.com/watch?v=Uf4-Vzf1CyM](https://www.youtube.com/watch?v=Uf4-Vzf1CyM)
  - date_published: 2020-02-03T00:00:00+00:00
  - tags: ['covid', 'propaganda']
- - date_dead_since: 2025-02-10T12:08:12.667832+00:00
 
  ## U.K. Educator Uses YouTube To Treat Panic Of Coronavirus Myths
  - [https://www.forbes.com/sites/johnscottlewinski/2020/02/07/uk-doctor-uses-youtube-to-treat-panic-of-coronavirus-myths](https://www.forbes.com/sites/johnscottlewinski/2020/02/07/uk-doctor-uses-youtube-to-treat-panic-of-coronavirus-myths)

@@ -238,6 +238,7 @@
  - [https://www.telegraph.co.uk/politics/2022/01/13/downing-streets-controversial-nudge-unit-accused-exploiting](https://www.telegraph.co.uk/politics/2022/01/13/downing-streets-controversial-nudge-unit-accused-exploiting)
  - date_published: 2022-01-13T13:07:14+00:00
  - tags: ['covid', 'fearmongering', 'nudge unit', 'oversight board']
+ - date_dead_since: 2026-03-09T22:11:17.149500+00:00
 
  ## Supreme Court Blocks Biden’s Vaccine Mandate for Large Employers - The New York Times
  - [https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html](https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html)
@@ -279,6 +280,7 @@
  ## Updating a 50 terabyte PostgreSQL database - Adyen
  - [https://www.adyen.com/blog/updating-a-50-terabyte-postgresql-database](https://www.adyen.com/blog/updating-a-50-terabyte-postgresql-database)
  - date_published: 2022-01-14T14:53:50.584785+00:00
+ - date_dead_since: 2026-03-09T22:09:53.379858+00:00
 
  ## Rozpad Rady Medycznej. 13 członków złożyło rezygnację - Wydarzenia w INTERIA.PL
  - [https://wydarzenia.interia.pl/raport-koronawirus-chiny/news-rozpad-rady-medycznej-13-czlonkow-zlozylo-wnioski-do-premier,nId,5769419](https://wydarzenia.interia.pl/raport-koronawirus-chiny/news-rozpad-rady-medycznej-13-czlonkow-zlozylo-wnioski-do-premier,nId,5769419)
@@ -3175,6 +3177,7 @@
  - [https://ottawa.ctvnews.ca/ottawa-s-covid-19-death-toll-in-2022-surpasses-2021-total-1.6002795](https://ottawa.ctvnews.ca/ottawa-s-covid-19-death-toll-in-2022-surpasses-2021-total-1.6002795)
  - date_published: 2022-07-26T14:35:00+00:00
  - tags: ['canada', 'covid', 'lockdown', 'science is dead']
+ - date_dead_since: 2026-03-09T18:56:03.012427+00:00
 
  ## Google's Nest Will Provide Data to Police Without a Warrant | PetaPixel
  - [https://petapixel.com/2022/07/27/googles-nest-will-provide-data-to-police-without-a-warrant](https://petapixel.com/2022/07/27/googles-nest-will-provide-data-to-police-without-a-warrant)
@@ -5171,6 +5174,7 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58996](https://www.codeproject.com/script/News/View.aspx?nwid=58996)
  - date_published: 2022-09-26T04:00:00+00:00
  - tags: ['ad business', 'google', 'malvertising']
+ - date_dead_since: 2026-03-09T18:23:12.955555+00:00
 
  ## USA: Około 100 nieletnich zdemolowało sklep. Agresywny tłum rozgoniła policja
  - [https://www.polsatnews.pl/wiadomosc/2022-09-26/usa-tlum-mlodych-osob-zdemolowal-sklep](https://www.polsatnews.pl/wiadomosc/2022-09-26/usa-tlum-mlodych-osob-zdemolowal-sklep)
@@ -5568,7 +5572,6 @@
  - [https://www.youtube.com/watch?v=8If5X_KR6Pg](https://www.youtube.com/watch?v=8If5X_KR6Pg)
  - date_published: 2022-10-04T00:00:00+00:00
  - tags: ['science is dead']
- - date_dead_since: 2025-10-30T17:03:06.701582+00:00
 
  ## VideoLAN has issued a legal notice to Indian Gov for banning their website
  - [https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india](https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india)

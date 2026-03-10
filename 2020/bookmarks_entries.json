@@ -201,7 +201,7 @@
             "free speech",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/WRbaQrb3Jhk/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/WRbaQrb3Jhk/maxresdefault.jpg",
         "title": "Joe Rogan on Ricky Gervais' Golden Globes Monologue",
         "vote": 0
     },
@@ -528,7 +528,7 @@
             "donald trump",
             "jeffrey epstein"
         ],
-        "thumbnail": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/production/public/QDURQMY3VZCD5NYGXVDAENGCIQ.jpg?_a=DATAg1eAZAA0",
+        "thumbnail": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/production/public/QDURQMY3VZCD5NYGXVDAENGCIQ.jpg?_a=DATAg1fkZAA0",
         "title": "2 lawyers on Trump defense team shared Epstein as a client",
         "vote": 70
     },
@@ -855,20 +855,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:02.910858+00:00",
-        "date_dead_since": "2025-02-10T12:20:08.752577+00:00",
+        "date_dead_since": null,
         "date_published": "2020-01-31T07:48:27+00:00",
         "description": "Coronavirus Outbreak: Man lies dead on a street in China",
         "id": 40274,
         "language": "en",
         "link": "https://www.youtube.com/watch?v=CYKeefzKGOI",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_gUM8rL-Lrg6O3adPW9K1g",
-        "status_code": 500,
+        "status_code": 200,
         "tags": [
             "covid",
             "fearmongering",
@@ -876,7 +876,7 @@
             "propaganda",
             "wuhan"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/CYKeefzKGOI/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/CYKeefzKGOI/maxresdefault.jpg",
         "title": "Coronavirus Outbreak: Man lies dead on a street in China",
         "vote": 0
     },
@@ -887,25 +887,25 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:02.800962+00:00",
-        "date_dead_since": "2025-02-10T12:08:12.667832+00:00",
+        "date_dead_since": null,
         "date_published": "2020-02-03T00:00:00+00:00",
         "description": "CHINA \u2014 As China continues to struggle containing the Wuhan coronavirus, videos have been emerging documenting the epidemic.",
         "id": 40272,
         "language": "en",
         "link": "https://www.youtube.com/watch?v=Uf4-Vzf1CyM",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 37,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 10,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCt-WqkTyKK1_70U4bb4k4lQ",
-        "status_code": 500,
+        "status_code": 200,
         "tags": [
             "covid",
             "propaganda"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/Uf4-Vzf1CyM/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/Uf4-Vzf1CyM/maxresdefault.jpg",
         "title": "Coronavirus has people keeling over in streets - TomoNews",
         "vote": 10
     },
@@ -1143,13 +1143,13 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=Ln1qbgZz_TQ",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRWyPm7MrfotIYF8A8MGV3g",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "all time",
             "dead internet",
@@ -1517,7 +1517,7 @@
             "ben shapiro",
             "social democracy"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/3xq-q6a9tCM/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/3xq-q6a9tCM/maxresdefault.jpg",
         "title": "Socialist Tells Ben Shapiro: Workers Should Own the Means of Production",
         "vote": 0
     },
@@ -1803,13 +1803,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=y8OnoxKotPQ",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgBVkKoOAr3ajSdFFLp13_A",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "funny"
         ],
@@ -1870,7 +1870,7 @@
             "covid",
             "tracking"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/Q5BFrDocPNs/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/Q5BFrDocPNs/maxresdefault.jpg",
         "title": "NYC's Footprint Amid The COVID-19 Outbreak",
         "vote": 0
     },
@@ -2173,7 +2173,7 @@
             "tedros adhanom",
             "who"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/XPSlqF5pjrw/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/XPSlqF5pjrw/maxresdefault.jpg",
         "title": "BRUTAL: 5 awful facts about WHO\u2019s Tedros Adhanom",
         "vote": 0
     },
@@ -2970,13 +2970,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/health-coronavirus-sweden-economy/swedish-economy-on-track-for-7-contraction-this-year-fin-min-idUSS3N29P01Z",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "covid",
             "lockdown",
@@ -3157,7 +3157,7 @@
             "free speech",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/iJOb9xHggS4/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/iJOb9xHggS4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEggVChyMA8=&rs=AOn4CLC31XhcZ_0KUSQVdHlv2m3F5Akl-A",
         "title": "Ricky Gervais \u2013 Golden Globes 2020 (Uncensored, HD)",
         "vote": 0
     },
@@ -3244,7 +3244,7 @@
         "source_url": "https://www.smh.com.au",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://static.ffx.io/images/$zoom_0.2881425281684349%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_347%2C$y_129/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_social_wm/l_text:PT%20Sans_41_bold_italic:%20from%20%2Cg_south_west%2Cy_84%2Cx_288%2Cco_rgb:0a1633/l_text:PT%20Sans_41_bold:%20%20%2Cg_south_west%2Cy_90%2Cx_375%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_83:%202020%20%2Cg_south_west%2Cy_15%2Cx_274%2Cco_rgb:0a1633/9eef93d4c619ae2aee0139666560980ffa95993e",
+        "thumbnail": "https://static.ffx.io/images/$zoom_0.2881425281684349%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_347%2C$y_129/t_crop_custom/q_86%2Cf_auto/t_metro_no_label_social_wm/l_text:PT%20Sans_25_bold_italic:%20from%20%2Cg_north_west%2Cy_7%2Cx_30%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_55:%202020%20%2Cg_north_west%2Cy_32%2Cx_20%2Cco_rgb:0a1633/9eef93d4c619ae2aee0139666560980ffa95993e",
         "title": "Coronavirus: Sweden's top epidemiologist Anders Tegnell admits mistakes with COVID-19 strategy",
         "vote": 0
     },
@@ -4702,7 +4702,7 @@
             "lgbt",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/dw9lmEp7Q6E/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/dw9lmEp7Q6E/maxresdefault.jpg",
         "title": "New BAFTA Gaming Standards are INSANE",
         "vote": 0
     },
@@ -4732,7 +4732,7 @@
             "wef",
             "world economic forum"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/LJTnkzl3K64/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/LJTnkzl3K64/hqdefault.jpg",
         "title": "WEF founder: Must prepare for an angrier world",
         "vote": 0
     },
@@ -4750,13 +4750,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/idUSKCN24F2N4",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "google",
             "privacy",
@@ -5259,13 +5259,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "big pharma",
             "covid",
@@ -5301,7 +5301,7 @@
             "netflix",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/HxbOM6swuTg/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/HxbOM6swuTg/maxresdefault.jpg",
         "title": "INSANE: Netflix Pushes Trans Propaganda On KIDS Show; Shapiro Responds",
         "vote": 0
     },
@@ -6002,7 +6002,7 @@
         "tags": [
             "books"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/asvhBpSSDbA/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/asvhBpSSDbA/maxresdefault.jpg",
         "title": "How To Read MORE!",
         "vote": 0
     },
@@ -6050,13 +6050,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=yITK_Bm78mI",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIveFvW-ARp_B_RckhweNJw",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "black lives matter",
             "extremism",
@@ -6093,7 +6093,7 @@
             "carbon footprint",
             "climate change"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/1J9LOqiXdpE/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/1J9LOqiXdpE/maxresdefault.jpg",
         "title": "Why your 'Carbon Footprint' Is A Lie | Climate Town",
         "vote": 0
     },
@@ -6204,13 +6204,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/health-coronavirus-germany-vaccine-idUSKBN2661KP",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "big pharma",
             "biontech",
@@ -7038,7 +7038,7 @@
             "jeffrey epstein",
             "unverified"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/bLsCoqwpvCw/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/bLsCoqwpvCw/hqdefault.jpg",
         "title": "4Chan /x/ Board - Epstein's employee exposes all that happened (repost)",
         "vote": 0
     },
@@ -7346,7 +7346,7 @@
             "inequality",
             "patriarchy"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/wTHgMxQEoPI/hqdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/wTHgMxQEoPI/hqdefault.jpg",
         "title": "The Patriarchy Paradox",
         "vote": 0
     },
@@ -7374,7 +7374,7 @@
         "tags": [
             "motivation"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/7zRGEDBkIMU/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/7zRGEDBkIMU/maxresdefault.jpg",
         "title": "Why I Live a Simple Life",
         "vote": 0
     },
@@ -7607,7 +7607,7 @@
             "activism",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/Hsx49IYGmpo/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/Hsx49IYGmpo/maxresdefault.jpg",
         "title": "Co tu si\u0119 dzieje?",
         "vote": 0
     },
@@ -7787,7 +7787,7 @@
             "aldous huxley",
             "brave new world"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/67fm4D5Ii6E/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/67fm4D5Ii6E/maxresdefault.jpg",
         "title": "Aldous Huxley - The Most Brutally Honest 8 Minutes Of Your Life!",
         "vote": 0
     },
@@ -8146,7 +8146,7 @@
         "tags": [
             "motivation"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/o7w5r5PfBKo/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/o7w5r5PfBKo/maxresdefault.jpg",
         "title": "How to Trick Your Brain to Like Doing Hard Things \u2013 Atomic Habits by James Clear",
         "vote": 0
     },
@@ -8196,14 +8196,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=OiOAPu-sfOI",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 158,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoOjH8D2XAgjzQlneM2W0EQ",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "america",
             "big pharma"
@@ -8238,7 +8238,7 @@
             "facebook",
             "privacy"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/PbqLcEsm1qE/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/PbqLcEsm1qE/maxresdefault.jpg",
         "title": "Jak facebook amazon monopolizuj\u0105 dane osobowe. Giganty technologiczne i nowy porz\u0105dek \u015bwiata.WWR#112",
         "vote": 0
     },
@@ -8486,7 +8486,7 @@
             "iphone",
             "search engines"
         ],
-        "thumbnail": "https://media.npr.org/assets/img/2020/10/22/gettyimages-1227678555_wide-e34487d4af41cc925d5b073ecacbf5eeef919a62.jpg?s=1400&c=100&f=jpeg",
+        "thumbnail": "https://media.npr.org/assets/img/2020/10/22/gettyimages-1227678555_wide-e34487d4af41cc925d5b073ecacbf5eeef919a62.jpg?s=1400&c=85&f=jpeg",
         "title": "Google Paid Apple Billions To Dominate Search On iPhones, Justice Department Says : NPR",
         "vote": 100
     },
@@ -8773,13 +8773,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "homosexuality",
             "inequality",
@@ -9249,13 +9249,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "covid",
             "masks"
@@ -9492,13 +9492,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/uk-health-coronavirus-astrazeneca-contra-idUKKBN2841FA",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "astrazeneca",
             "covid",
@@ -9522,13 +9522,13 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=ylTCTcSM09Y",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 82,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrbOGpnOudmETQ0WZkyvD8g",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "covid",
             "lockdown"
@@ -9642,14 +9642,14 @@
         "language": "en-EN",
         "link": "https://www.youtube.com/watch?v=iSGu_P185s4",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 174,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2_KC8lshtCyiLApy27raYw",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "digital media",
             "subscription",
@@ -10660,7 +10660,7 @@
             "motivation",
             "stoicism"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/0oVsLkPqXWo/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/0oVsLkPqXWo/maxresdefault.jpg",
         "title": "12 Stoic Lessons That Will Immediately Change Your Life \u2013 Ryan Holiday",
         "vote": 0
     },
@@ -11212,14 +11212,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=vJ1cfb-5pHQ",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 76,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "big tech",
             "google",
@@ -11467,7 +11467,7 @@
             "pronouns",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/CTTYwhZ7948/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/CTTYwhZ7948/maxresdefault.jpg",
         "title": "We're Raising Our Kids With No Gender | MY EXTRAORDINARY FAMILY",
         "vote": 10
     },
@@ -11544,13 +11544,13 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=c9p9NE4Pji0",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCENRvVys9nMpQpENGeL8NEg",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "psychology",
             "science",
@@ -11826,7 +11826,7 @@
             "games",
             "luke smith"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/L5xd5yejPBE/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/L5xd5yejPBE/maxresdefault.jpg",
         "title": "Why am I so Anti-Video Gaymes?",
         "vote": 0
     }

@@ -273,7 +273,6 @@
  - [https://www.youtube.com/watch?v=90EFjsG-nws](https://www.youtube.com/watch?v=90EFjsG-nws)
  - date_published: 2021-02-06T00:00:00+00:00
  - tags: ['disinformation', 'facebook', 'myanmar']
- - date_dead_since: 2024-09-26T22:46:02.829415+00:00
 
  ## Interner E-Mail-Verkehr: Innenministerium spannte Wissenschaftler ein - WELT
  - [https://www.welt.de/politik/deutschland/article225864597/Interner-E-Mail-Verkehr-Innenministerium-spannte-Wissenschaftler-ein.html](https://www.welt.de/politik/deutschland/article225864597/Interner-E-Mail-Verkehr-Innenministerium-spannte-Wissenschaftler-ein.html)
@@ -2803,7 +2802,6 @@
  - [https://www.youtube.com/watch?v=JyjRCuF9pd8](https://www.youtube.com/watch?v=JyjRCuF9pd8)
  - date_published: 2021-09-29T00:00:00+00:00
  - tags: ['archive', 'documentary', 'history']
- - date_dead_since: 2024-09-26T11:32:44.162150+00:00
 
  ## The BBC’s radical new data plan takes aim at Netflix | WIRED UK
  - [https://www.wired.co.uk/article/bbc-data-personalisation](https://www.wired.co.uk/article/bbc-data-personalisation)
@@ -3271,7 +3269,6 @@
  - [https://www.youtube.com/watch?v=7xjFuPschD8](https://www.youtube.com/watch?v=7xjFuPschD8)
  - date_published: 2021-10-25T00:00:00+00:00
  - tags: ['motivation', 'quotes']
- - date_dead_since: 2024-09-26T08:56:50.626165+00:00
 
  ## BlackRock CEO Larry Fink’s Family Tree Was A Mystery Until Now
  - [https://www.coreysdigs.com/u-s/blackrock-ceo-larry-finks-family-tree-was-a-mystery-until-now](https://www.coreysdigs.com/u-s/blackrock-ceo-larry-finks-family-tree-was-a-mystery-until-now)
@@ -3321,7 +3318,6 @@
  - [https://www.youtube.com/watch?v=VpTW2AJE9MQ](https://www.youtube.com/watch?v=VpTW2AJE9MQ)
  - date_published: 2021-10-28T00:00:00+00:00
  - tags: ['kyle rittenhouse']
- - date_dead_since: 2025-02-07T16:21:00.912121+00:00
 
  ## Architect Resigns in Protest over UCSB Mega-Dorm - The Santa Barbara Independent
  - [https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm](https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm)
@@ -3654,7 +3650,6 @@
  - [https://www.youtube.com/watch?v=CLRforUVW48](https://www.youtube.com/watch?v=CLRforUVW48)
  - date_published: 2021-11-18T00:00:00+00:00
  - tags: ['england', 'immigration']
- - date_dead_since: 2025-02-07T12:42:52.448803+00:00
 
  ## It’s Time To Break Up With Our Gas Stoves | Climate Town
  - [https://www.youtube.com/watch?v=hX2aZUav-54](https://www.youtube.com/watch?v=hX2aZUav-54)
@@ -3952,6 +3947,7 @@
  - [https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears](https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears)
  - date_published: 2021-12-07T22:37:20+00:00
  - tags: ['fbi', 'jeffrey epstein']
+ - date_dead_since: 2026-03-09T22:25:46.181326+00:00
 
  ## Dziwne rozbieżności w danych o zgonach na COVID-19. Region regionowi nierówny
  - [https://businessinsider.com.pl/wiadomosci/dziwne-rozbieznosci-w-danych-o-zgonach-na-covid-19-region-regionowi-nierowny/qdrsy0w](https://businessinsider.com.pl/wiadomosci/dziwne-rozbieznosci-w-danych-o-zgonach-na-covid-19-region-regionowi-nierowny/qdrsy0w)
