@@ -207,7 +207,7 @@
             "israel",
             "palestine"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/tk8g9GIIiuQ/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/tk8g9GIIiuQ/hqdefault.jpg",
         "title": "BALFOUR 100",
         "vote": 10
     },
@@ -363,7 +363,7 @@
             "propaganda",
             "social media"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/34LGPIXvU5M/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/34LGPIXvU5M/hqdefault.jpg",
         "title": "Noam Chomsky - The 5 Filters of the Mass Media Machine",
         "vote": 0
     },
@@ -536,20 +536,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:59:23.565074+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-03-10T03:56:17.670841+00:00",
         "date_published": "2017-03-09T08:46:05+00:00",
         "description": "Security experts say 'Vault 7' leak describes common, public hacks",
         "id": 39913,
         "language": "en-US",
         "link": "https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://money.cnn.com",
-        "status_code": 614,
+        "status_code": 503,
         "tags": [
             "iot",
             "privacy",
@@ -679,7 +679,7 @@
         "tags": [
             "land ownership"
         ],
-        "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/09/20110309_2011_11the-world_w.jpg?1761861053",
+        "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/09/20110309_2011_11the-world_w.jpg?1773114934",
         "title": "Who owns the world?",
         "vote": 10
     },
@@ -852,7 +852,7 @@
         "tags": [
             "art"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/w_MSFkZHNi4/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/w_MSFkZHNi4/maxresdefault.jpg",
         "title": "DOUBLE KING",
         "vote": 0
     },
@@ -1541,7 +1541,7 @@
             "chiptune",
             "music"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/AOQxEnb9tzM/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/AOQxEnb9tzM/maxresdefault.jpg",
         "title": "Amiga 500 - Miami Chase Music Intro",
         "vote": 0
     },
@@ -1582,21 +1582,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:59:14.223133+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-03-10T03:53:13.281810+00:00",
         "date_published": "2017-06-27T13:24:36+00:00",
         "description": "European antitrust regulators slapped Google with a record \u20ac2.4 billion ($2.7 billion) fine on Tuesday.",
         "id": 39886,
         "language": "en-US",
         "link": "http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html",
         "manual_status_code": 0,
-        "page_rating": 9,
-        "page_rating_contents": 20,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 59,
         "source_url": "http://rss.cnn.com/rss/edition.rss",
-        "status_code": 614,
+        "status_code": 503,
         "tags": [
             "algorithms",
             "big tech",
@@ -1945,7 +1945,7 @@
             "the left wing",
             "transgender"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/IdjdNgvF42o/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/IdjdNgvF42o/hqdefault.jpg",
         "title": "Joe Rogan & Ben Shapiro on the Transgender Movement, Men vs. Women in Sports",
         "vote": 0
     },
@@ -2456,7 +2456,7 @@
             "depopulation",
             "population"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/Dbo6uvJBtZg/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/Dbo6uvJBtZg/maxresdefault.jpg",
         "title": "Dennis Meadows Interview p4/4 (A 'peaceful collapse' & many revolutions...)",
         "vote": 0
     },
@@ -2518,7 +2518,7 @@
             "james damore",
             "joe rogan"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/VIW2OBOzu7Y/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/VIW2OBOzu7Y/hqdefault.jpg",
         "title": "Joe Rogan - James Damore on the Backlash from the Google Memo Controversy",
         "vote": 0
     },
@@ -2547,7 +2547,7 @@
             "feminism",
             "jordan peterson"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/Zy4a8T45GiQ/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/Zy4a8T45GiQ/hqdefault.jpg",
         "title": "Jordan Peterson: Why You Won't Have a Career",
         "vote": 0
     },
@@ -2576,7 +2576,7 @@
             "movies",
             "prometheus"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/UsEs1PwpU8Y/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/UsEs1PwpU8Y/maxresdefault.jpg",
         "title": "Ridley Scott Tells the REAL REASON Why David Hates Humans and Engineers",
         "vote": 0
     },
@@ -2634,7 +2634,7 @@
             "jordan peterson",
             "political correctness"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/f5rUPatnXSE/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/f5rUPatnXSE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCQgQSh_MA8=&rs=AOn4CLCXcpjpsU9p94V7HoWJVdTnVAuNow",
         "title": "Jordan Peterson | Political Correctness and Postmodernism",
         "vote": 0
     },
@@ -2728,7 +2728,7 @@
             "reality",
             "simulation"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/tlTKTTt47WE/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/tlTKTTt47WE/maxresdefault.jpg",
         "title": "Is Reality Real? The Simulation Argument",
         "vote": 0
     },
@@ -2817,7 +2817,7 @@
         "tags": [
             "privacy"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/qk3HNcNOqRA/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/qk3HNcNOqRA/maxresdefault.jpg",
         "title": "ILE JEST WARTA TWOJA PRYWATNO\u015a\u0106?",
         "vote": 0
     },
@@ -2848,7 +2848,7 @@
             "lgbt",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/4jef2C4T1_A/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/4jef2C4T1_A/hqdefault.jpg",
         "title": "Jordan Peterson - Gay Marriage",
         "vote": 0
     },
@@ -2943,7 +2943,7 @@
             "blade runner",
             "movies"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/VqDO9LyvXPQ/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/VqDO9LyvXPQ/maxresdefault.jpg",
         "title": "Blade Runner 2049: Do Memories Make Us Human? \u2013 Wisecrack Quick Take",
         "vote": 0
     },
@@ -3059,7 +3059,7 @@
             "movies",
             "symbolism"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/jRSZd8xYaL4/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/jRSZd8xYaL4/maxresdefault.jpg",
         "title": "Eye Symbolism in Blade Runner 2049 Explained || Hidden Messages Analysis",
         "vote": 0
     },
@@ -3116,7 +3116,7 @@
             "cinemas",
             "movies"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/oj8JK6c5x3M/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/oj8JK6c5x3M/maxresdefault.jpg",
         "title": "Anthony Mackie Explains Why Hollywood Movies Suck Now",
         "vote": 0
     },
@@ -3165,13 +3165,13 @@
         "language": "en-EN",
         "link": "https://www.youtube.com/watch?v=gcQk3qM3Ok0",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsoZWD7Uagg2yv3YcQ3zqBA",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "blade runner",
             "movies"
@@ -3204,7 +3204,7 @@
         "tags": [
             "motivation"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/NX2ep5fCJZ8/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/NX2ep5fCJZ8/maxresdefault.jpg",
         "title": "Jordan Peterson on the meaning of life for men. MUST WATCH",
         "vote": 0
     },
@@ -3324,7 +3324,7 @@
             "movies",
             "prometheus"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/kSp07bwW1tA/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/kSp07bwW1tA/maxresdefault.jpg",
         "title": "Who Created Engineers ? Origins Explained || Theories",
         "vote": 0
     },
@@ -3387,7 +3387,7 @@
             "monopoly",
             "power"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/WWDmelZxgoI/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/WWDmelZxgoI/maxresdefault.jpg",
         "title": "10 Reasons You Should Be AFRAID of GOOGLE",
         "vote": 0
     },
@@ -3448,7 +3448,7 @@
             "psychology",
             "society"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/e9dZQelULDk/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/e9dZQelULDk/maxresdefault.jpg",
         "title": "Happiness",
         "vote": 0
     },

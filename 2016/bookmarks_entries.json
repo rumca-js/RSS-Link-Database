@@ -389,7 +389,7 @@
             "programming",
             "vulnerability"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/1S0aBV-Waeo/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/1S0aBV-Waeo/maxresdefault.jpg",
         "title": "Running a Buffer Overflow Attack - Computerphile",
         "vote": 0
     },
@@ -419,7 +419,7 @@
             "music",
             "technology"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/IvUU8joBb1Q/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/IvUU8joBb1Q/maxresdefault.jpg",
         "title": "Wintergatan - Marble Machine (music instrument using 2000 marbles)",
         "vote": 0
     },
@@ -697,7 +697,7 @@
             "chiptune",
             "music"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/CUZZ4O66CW8/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/CUZZ4O66CW8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCsgXihlMA8=&rs=AOn4CLD4K7I4j-tlhYeQgVwc1QIUT8XMZQ",
         "title": "Commodore Amiga -=music tribute=-",
         "vote": 0
     },
@@ -730,7 +730,7 @@
             "privacy",
             "tracking"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/6SARo5HtjkQ/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/6SARo5HtjkQ/hqdefault.jpg",
         "title": "Social Autopsy! - Ending Anonymity Online [BAD IDEA]",
         "vote": 0
     },
@@ -866,13 +866,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=k0bQuzp9Iss",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVaWPGAQtNEWQEvb7d5jQrw",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "chiptune",
             "music"
@@ -995,7 +995,7 @@
             "marshall mcluhan",
             "surveillance"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/ULI3x8WIxus/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/ULI3x8WIxus/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE8gZShZMA8=&rs=AOn4CLBzughbfwqewO1ySfjjYLtjS-qfwg",
         "title": "Marshall McLuhan 1977 Interview - Violence as a Quest for Identity",
         "vote": 0
     },
@@ -1279,13 +1279,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/idUSKCN0ZH4LM",
         "manual_status_code": 0,
-        "page_rating": 37,
-        "page_rating_contents": 86,
+        "page_rating": 22,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 10,
         "permanent": false,
         "source_url": "https://www.reuters.com/article/idUSKCN0ZH4LM",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "catholic",
             "church scandal"
@@ -1542,27 +1542,27 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:58:49.274888+00:00",
-        "date_dead_since": "2025-02-13T10:49:45.682554+00:00",
+        "date_dead_since": null,
         "date_published": "2016-08-04T00:00:00+00:00",
         "description": "Racism in the United States has been a major issue since the colonial era and the slave era. Legally sanctioned racism imposed a heavy burden on Native Americans, African Americans, Asian Americans, and Latin Americans. European Americans (particularly Anglo Americans) were privileged by law in matters of literacy, immigration, voting rights, citizenship, land acquisition, and criminal procedure over periods of time extending from the 17th century to the 1960s. Many non-Protestant European immigrant groups, particularly American Jews, Irish Americans, Italian Americans, as well as other immigrants from elsewhere, suffered xenophobic exclusion and other forms of discrimination in American society.\n\nMajor racially structured institutions included slavery, Indian Wars, Native American reservations, segregation, residential schools (for Native Americans), and internment camps. Formal racial discrimination was largely banned in the mid-20th century, and came to be perceived as socially una",
         "id": 39755,
         "language": "en",
         "link": "https://www.youtube.com/watch?v=cCW58RCgqOQ",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOgQVjZAVjwwHKOuBnpqqhg",
-        "status_code": 500,
+        "status_code": 200,
         "tags": [
             "archive",
             "documentary",
             "history",
             "racism"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/cCW58RCgqOQ/hqdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/cCW58RCgqOQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-AoAC8AGKAgwIABABGGUgZShlMA8=&rs=AOn4CLB6Tx5LrFNNtOaA8bmIOvU2QPQoeQ",
         "title": "Racism in America Small Town 1950s Case Study Documentary Film",
         "vote": 0
     },
@@ -1890,7 +1890,7 @@
             "clockwork orange",
             "movies"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/ZvK9PEcqiLo/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/ZvK9PEcqiLo/maxresdefault.jpg",
         "title": "A Clockwork Orange - What it all Meant",
         "vote": 0
     },
@@ -1920,7 +1920,7 @@
             "c++",
             "programming"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/zBkNBP00wJE/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/zBkNBP00wJE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE8gZShPMA8=&rs=AOn4CLDFg8jWcZam4keDbfGNFTIP_bFjsQ",
         "title": "CppCon 2016: Jason Turner \u201cRich Code for Tiny Computers: A Simple Commodore 64 Game in C++17\u201d",
         "vote": 0
     },
@@ -1950,7 +1950,7 @@
             "blm",
             "hypocrisy"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/SL8f5iWrzN0/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/SL8f5iWrzN0/maxresdefault.jpg",
         "title": "Black Lives Matter vs All Lives Matter Supporters (Social Experiment)",
         "vote": 0
     },
@@ -2009,7 +2009,7 @@
             "social democracy",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/CIvtiNpKEY0/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AG-BoAC1AOKAgwIABABGGUgSyhYMA8=&rs=AOn4CLB9jM8kz5EGlPbhxtaYvLElbH1mNw",
+        "thumbnail": "https://i.ytimg.com/vi/CIvtiNpKEY0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-BoAC1AOKAgwIABABGGUgSyhYMA8=&rs=AOn4CLAnOdwNV0El7r3q0ymYcIlpdVHGCw",
         "title": "Elon Musk Explains Why SpaceX Only Hires Americans | Inverse",
         "vote": 0
     },
@@ -2160,7 +2160,7 @@
             "privacy",
             "tracking"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/YrIKY8Ot97o/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/YrIKY8Ot97o/maxresdefault.jpg",
         "title": "Anonymity: The Greatest Weapon Against Oppression - Learn Liberty",
         "vote": 0
     },
@@ -2333,14 +2333,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=fLJBzhcSWTk",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 353,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7IcJI8PUf5Z3zKxnZvTBog",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "democracy"
         ],

@@ -239,7 +239,7 @@
             "sexism",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/XM-HJT8_esM/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/XM-HJT8_esM/maxresdefault.jpg",
         "title": "#Equality",
         "vote": 0
     },
@@ -296,7 +296,7 @@
             "chiptune",
             "music"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/5TPs9inJabM/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/5TPs9inJabM/hqdefault.jpg",
         "title": "Fury Of The Furries OST - The Forest",
         "vote": 0
     },
@@ -498,7 +498,7 @@
         "tags": [
             "rothschild"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/I65LfGNo1A8/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHWBIAC4AOKAgwIABABGGUgWyhQMA8=&rs=AOn4CLAiuaRhOz_2Yw00JooJ_-s1t28jzg",
+        "thumbnail": "https://i.ytimg.com/vi/I65LfGNo1A8/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHWBIAC4AOKAgwIABABGGUgWyhQMA8=&rs=AOn4CLCRLeT4WpO-d-jKHVfWGoBAK7e68A",
         "title": "The Rothschilds and Waddesdon",
         "vote": 0
     },
@@ -593,7 +593,7 @@
             "pandemic",
             "ted"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/6Af6b_wyiwI/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/6Af6b_wyiwI/maxresdefault.jpg",
         "title": "Bill Gates: The next outbreak? We\u2019re not ready | TED",
         "vote": 0
     },
@@ -652,7 +652,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/-1jAOJHvll0/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gJygcMA8=&rs=AOn4CLBFzgGVJfKGke1p1d66qck8b-doHg",
+        "thumbnail": "https://i.ytimg.com/vi/-1jAOJHvll0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gJygcMA8=&rs=AOn4CLCaVBl0sUIhKX6PMAH4Z31o0QQBaA",
         "title": "Glenn Greenwald: \"Edward Snowden and the Secrets of the National Security State\"",
         "vote": 0
     },
@@ -714,7 +714,7 @@
             "religion",
             "religion knowledge"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/wFP0VX1pugE/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/wFP0VX1pugE/maxresdefault.jpg",
         "title": "ks. Piotr Pawlukiewicz -  Ma\u0142\u017ce\u0144stwo, labirynt czy droga do nieba?",
         "vote": 0
     },
@@ -732,13 +732,13 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=5dNbWGaaxWM",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "political correctness",
             "propaganda",
@@ -958,7 +958,7 @@
         "tags": [
             "motivation"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/JhckVlgYZJE/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/JhckVlgYZJE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUyg_MA8=&rs=AOn4CLBjVCpQ7braKzMG6GhEdrS_wf0kxA",
         "title": "A old man's advice",
         "vote": 0
     },
@@ -1000,20 +1000,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:25.825689+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-03-10T23:13:42.298181+00:00",
         "date_published": "2015-05-26T21:14:25+00:00",
         "description": "Diversity is indeed white genocide. And white genocide is exactly what the world needs more than anything else.",
         "id": 40702,
         "language": "en-US",
         "link": "https://thoughtcatalog.com/emily-goldstein/2015/05/get-rid-of-white-people",
         "manual_status_code": 0,
-        "page_rating": 48,
-        "page_rating_contents": 60,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 40,
         "permanent": false,
         "source_url": "https://thoughtcatalog.com/emily-goldstein/2015/05/get-rid-of-white-people",
-        "status_code": 614,
+        "status_code": 404,
         "tags": [
             "hate speech",
             "racism",
@@ -1072,7 +1072,7 @@
         "page_rating_votes": 40,
         "permanent": false,
         "source_url": "https://archive.ph",
-        "status_code": 614,
+        "status_code": 429,
         "tags": [
             "bots",
             "platforma obywatelska",
@@ -1109,7 +1109,7 @@
         "tags": [
             "chiptune"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/OSJ0rW0d5AY/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/OSJ0rW0d5AY/maxresdefault.jpg",
         "title": "8-bit Music Chiptune RELOADED",
         "vote": 0
     },
@@ -1347,7 +1347,7 @@
             "movies",
             "nolan"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/67e_jl4flpE/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWyhdMA8=&rs=AOn4CLCxwSNPSUk7Z326_bcUQc4sT3Esdw",
+        "thumbnail": "https://i.ytimg.com/vi/67e_jl4flpE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWyhdMA8=&rs=AOn4CLBCzsaIrK-rzT3FwHOpAmuLz2WQXw",
         "title": "Memento Explanation by Christopher Nolan - True Genius - Must Watch",
         "vote": 0
     },
@@ -1395,13 +1395,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-usa-surveillance-watchdog-idUSBRE98Q14G20130927",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "big brother",
             "nsa",
@@ -1498,7 +1498,7 @@
             "religion",
             "religion knowledge"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/Df9J68y2YeA/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/Df9J68y2YeA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVyhUMA8=&rs=AOn4CLBbrQNZucMMWoCkaqf76u1VToieNA",
         "title": "Adam Szustak OP: \u015awiadectwo [PL\\ENG]",
         "vote": 0
     },
@@ -1528,7 +1528,7 @@
             "immigration",
             "white genocide"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/8ERmOpZrKtw/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/8ERmOpZrKtw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYihQMA8=&rs=AOn4CLD_np1CE4PUxTpA3zYkp7iEQNteIA",
         "title": "American activist Barbara Lerner Spectre calls for destruction of European ethnic societies",
         "vote": 0
     },
@@ -1559,7 +1559,7 @@
             "ukraine",
             "war"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/JrMiSQAGOS4/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/JrMiSQAGOS4/maxresdefault.jpg",
         "title": "Why is Ukraine the West's Fault? Featuring John Mearsheimer",
         "vote": 0
     },
@@ -1588,7 +1588,7 @@
             "chiptune",
             "music"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/MSaohyJ_E2w/hqdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/MSaohyJ_E2w/hqdefault.jpg",
         "title": "Pinball Dreams (PC/DOS) 1992, 21th Century Entertainment, Spidersoft",
         "vote": 0
     },
@@ -1653,7 +1653,7 @@
             "propaganda",
             "social media"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/tTBWfkE7BXU/hqdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/tTBWfkE7BXU/hqdefault.jpg",
         "title": "Noam Chomsky - Manufacturing Consent",
         "vote": 0
     },
@@ -1700,13 +1700,13 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=8Q-3qwEDyPM",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1mFW0Nibo8d6eh9_abm31w",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "disinformation",
             "edward bernays",
@@ -1775,7 +1775,7 @@
             "nwo",
             "secret societies"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/HwpgfgAbxYM/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCFxJgE2-qeQOu8rGRFQ4bn_eWnkg",
+        "thumbnail": "https://i.ytimg.com/vi/HwpgfgAbxYM/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLDkxx_w0FU6v4kgQ-YMCkwbnHkC5g",
         "title": "Prezydent Kennedy o tajnych stowarzyszeniach i \u015bwiatowym spisku",
         "vote": 0
     },
@@ -1793,13 +1793,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=iKcWu0tsiZM",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClBzWLRnI_Itn2W5c7J9sYQ",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "indoctrination",
             "the left wing"

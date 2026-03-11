@@ -87,6 +87,7 @@
  - [https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks](https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks)
  - date_published: 2017-03-09T08:46:05+00:00
  - tags: ['iot', 'privacy', 'smart home', 'tracking']
+ - date_dead_since: 2026-03-10T03:56:17.670841+00:00
 
  ## What is the WikiLeaks Vault 7 release about CIA TV snooping powers and what is the Weeping Angel virus Samsung hack? | The Sun
  - [https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia](https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia)
@@ -261,6 +262,7 @@
  - [http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html](http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html)
  - date_published: 2017-06-27T13:24:36+00:00
  - tags: ['algorithms', 'big tech', 'corporatocracy', 'dark design', 'fine', 'google', 'search engines', 'technofeudalism']
+ - date_dead_since: 2026-03-10T03:53:13.281810+00:00
 
  ## 'NotPetya' malware attacks could warrant retaliation, says Nato researcher
  - [https://www.theguardian.com/technology/2017/jul/03/notpetya-malware-attacks-ukraine-warrant-retaliation-nato-researcher-tomas-minarik](https://www.theguardian.com/technology/2017/jul/03/notpetya-malware-attacks-ukraine-warrant-retaliation-nato-researcher-tomas-minarik)

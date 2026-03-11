@@ -526,6 +526,7 @@
  - [http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html](http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html)
  - date_published: 2018-08-21T04:26:57+00:00
  - tags: ['big tech', 'google', 'privacy', 'surveillance']
+ - date_dead_since: 2026-03-10T03:06:17.262456+00:00
 
  ## I recorded user behaviour on my competitor’s websites (2018)
  - [https://dejanmarketing.com/competitor-hack](https://dejanmarketing.com/competitor-hack)
