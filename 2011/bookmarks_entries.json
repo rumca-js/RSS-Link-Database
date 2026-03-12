@@ -210,7 +210,7 @@
         "tags": [
             "art"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/WQO-aOdJLiw/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/WQO-aOdJLiw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFsgZSg_MA8=&rs=AOn4CLCREis8Urcj5jfU-Sna5KEfeUYxzQ",
         "title": "Baaa",
         "vote": 0
     },
@@ -435,13 +435,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-italy-libya-lampedusa-idUSTRE77P23U20110826",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "immigration",
             "muammar gaddafi"
@@ -496,13 +496,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-wallstreet-protests-origins-idUSTRE79C1YN20111014",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "billionaires",
             "occupy wall street",

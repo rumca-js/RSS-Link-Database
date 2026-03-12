@@ -140,7 +140,7 @@
             "aaron swartz",
             "internet"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/-OhyBJxg9RA/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/-OhyBJxg9RA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgVShlMA8=&rs=AOn4CLAGH3-UlK8ephF6HaoO_dEZkH1hsA",
         "title": "Aaron Swartz Excerpts",
         "vote": 0
     },
@@ -169,7 +169,7 @@
             "chiptune",
             "music"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/nFp_2eJlfYg/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/nFp_2eJlfYg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGOCIAC0AWKAgwIABABGH8gEyhPMA8=&rs=AOn4CLDTr8LSAeEbI-gw-teugZGAVWEvkg",
         "title": "Most awesome 8-bit song ever, now in HD",
         "vote": 0
     },
@@ -307,14 +307,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=B4TWN54KqfQ",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 109,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "blackrock",
             "wall street"
@@ -337,13 +337,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=kEBW8A3bw-Q",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQnWIt2N1hnWszI2d-j-6Aw",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "chiptune",
             "music"
@@ -548,13 +548,13 @@
         "language": "en",
         "link": "https://archive.nytimes.com/www.nytimes.com/interactive/2013/09/05/us/documents-reveal-nsa-campaign-against-encryption.html",
         "manual_status_code": 0,
-        "page_rating": 89,
-        "page_rating_contents": 86,
+        "page_rating": 74,
+        "page_rating_contents": 40,
         "page_rating_visits": 2,
         "page_rating_votes": 90,
         "permanent": false,
         "source_url": "https://archive.nytimes.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "anonymity",
             "big brother",
@@ -593,7 +593,7 @@
             "chiptune",
             "music"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/mc1KWRllaI4/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/mc1KWRllaI4/maxresdefault.jpg",
         "title": "Amiga music: Yo! Joe! (compilation - Dolby Headphone)",
         "vote": 0
     },
@@ -650,7 +650,7 @@
         "tags": [
             "religion"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/sXXR7USA3Tk/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/sXXR7USA3Tk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgTSg3MA8=&rs=AOn4CLAFTbwBXWmkKtnLUCl9HO-vHPZZ8w",
         "title": "Quo vadis? ...czyli o \u017cyciowym powo\u0142aniu z ks. Piotrem Pawlukiewiczem",
         "vote": 20
     },
@@ -1291,7 +1291,7 @@
         "tags": [
             "music"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/mauV2NdCs60/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/mauV2NdCs60/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD4gRyh_MA8=&rs=AOn4CLCXn8QrhF6PlK1wycUqV9iwEBPMSw",
         "title": "Lorn - Sega Sunset",
         "vote": 0
     },
@@ -1372,13 +1372,13 @@
         "language": "en-GB",
         "link": "https://www.reuters.com/article/china-internet-idINDEE98806R20130909",
         "manual_status_code": 0,
-        "page_rating": 37,
-        "page_rating_contents": 86,
+        "page_rating": 22,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 10,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "china",
             "disinformation",
@@ -1496,13 +1496,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "feminism",
             "norway",
@@ -1587,8 +1587,8 @@
         "language": "en",
         "link": "https://www.justice.gov/opa/pr/johnson-johnson-pay-more-22-billion-resolve-criminal-and-civil-investigations",
         "manual_status_code": 0,
-        "page_rating": 63,
-        "page_rating_contents": 86,
+        "page_rating": 48,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 50,
         "permanent": false,
@@ -1617,13 +1617,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=9fvETktnaRw",
         "manual_status_code": 0,
-        "page_rating": 50,
-        "page_rating_contents": 86,
+        "page_rating": 35,
+        "page_rating_contents": 40,
         "page_rating_visits": 2,
         "page_rating_votes": 30,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5hWk56PCwg1D11kDgtMg_w",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "motivation"
         ],
@@ -1709,13 +1709,13 @@
         "language": "en-EN",
         "link": "https://www.youtube.com/watch?v=MdzlCZ69APc",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBpH9uGYnjck8xHuD3xH1qQ",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "fountain",
             "movies"
@@ -1797,13 +1797,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-usa-security-rsa-idUSBRE9BJ1C220131220",
         "manual_status_code": 0,
-        "page_rating": 89,
-        "page_rating_contents": 86,
+        "page_rating": 74,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 90,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "big brother",
             "crypto wars",

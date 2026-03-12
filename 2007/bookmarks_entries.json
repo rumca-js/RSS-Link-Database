@@ -215,13 +215,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-security-wikipedia-idUSN1642896020070816",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "cia",
             "fbi",
@@ -346,7 +346,7 @@
             "aaron russo",
             "conspiracy theory"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/LSGZ4Hkdyg4/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgSyg7MA8=&rs=AOn4CLAG2G9XNSFzf8iKagJNYnuSPZNEow",
+        "thumbnail": "https://i.ytimg.com/vi/LSGZ4Hkdyg4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgSyg7MA8=&rs=AOn4CLAaL3D0QnaohAkkFm1UF1xSsFjWBw",
         "title": "Aaron Russo Interview",
         "vote": 0
     },
@@ -484,13 +484,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=p-mVa7D-ZPY",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClwnpftZMC5LL0b44tyIhzg",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "music"
         ],

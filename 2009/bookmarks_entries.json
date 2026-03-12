@@ -43,13 +43,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-flu-mexico-sb-idUSTRE53S93K20090429",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "mexico",
             "pandemic",
@@ -219,14 +219,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=GSMCRD35ch4",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 407,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9Ntx-EF3LzKY1nQ5rTUP2g",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "art"
         ],
@@ -259,7 +259,7 @@
             "chiptune",
             "music"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/4qsWFFuYZYI/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/4qsWFFuYZYI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gFCgTMA8=&rs=AOn4CLBG6ClyrPZuClIdKoHUefna7nrKsg",
         "title": "LEGO - 8-bit trip",
         "vote": 0
     },
@@ -376,7 +376,7 @@
         "tags": [
             "random"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/ubvV498pyIM/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/ubvV498pyIM/maxresdefault.jpg",
         "title": "No Doubt - It's My Life (Edited)",
         "vote": 0
     },

@@ -310,13 +310,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-mozilla-ceo-resignation/mozilla-ceo-resigns-opposition-to-gay-marriage-drew-fire-idUSBREA321Y320140403",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "censorship",
             "intolerance",
@@ -559,13 +559,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=pxBQLFLei70",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVb99H41VIb3n8U1-cHhvw",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "motivation"
         ],
@@ -630,7 +630,7 @@
         "tags": [
             "motivation"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/V80-gPkpH6M/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/V80-gPkpH6M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgRyhGMA8=&rs=AOn4CLBM6ruZpiaZ7GC46mvgBrVPZzuTXg",
         "title": "Jim Carrey at MIU: Commencement Address at the 2014 Graduation  (EN, FR, ES, RU, GR,...)",
         "vote": 0
     },
@@ -741,13 +741,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=vETonlaTZ4c",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfkp6AUuCwbVCyqQiefja9g",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "chiptune",
             "music"
@@ -828,8 +828,8 @@
         "language": "en-EN",
         "link": "https://www.youtube.com/watch?v=TVwKjGbz60k",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 82,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -959,7 +959,7 @@
             "snowflakes",
             "social justice warriors"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/JZ017D_JOPY/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AGMBYAC4AOKAgwIABABGH8gNSgpMA8=&rs=AOn4CLBTFzXTeqxoZ1yHNoBT8Shapq3DSg",
+        "thumbnail": "https://i.ytimg.com/vi/JZ017D_JOPY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGMBYAC4AOKAgwIABABGH8gNSgpMA8=&rs=AOn4CLBpW-w-B-dEIe3fKA3EIV-CAhgROg",
         "title": "Linus Torvalds on his insults: respect should be earned.",
         "vote": 0
     },
@@ -989,7 +989,7 @@
             "privacy",
             "tracking"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/_kBlH-DQsEg/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/_kBlH-DQsEg/maxresdefault.jpg",
         "title": "2030: Privacy's Dead. What happens next?",
         "vote": 0
     },
@@ -1180,7 +1180,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/XiGwAvd5mvM/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/XiGwAvd5mvM/maxresdefault.jpg",
         "title": "Citizenfour Official Trailer 1 (2014) - Edward Snowden Documentary HD",
         "vote": 0
     },
@@ -1239,7 +1239,7 @@
             "propaganda",
             "social engineering"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/q8R9MDt4jEc/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/q8R9MDt4jEc/maxresdefault.jpg",
         "title": "7 Propaganda Techniques Used on You Every Day",
         "vote": 0
     },

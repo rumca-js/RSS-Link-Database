@@ -52,7 +52,7 @@
         "tags": [
             "music"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/y82euAFSg7U/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgWChPMA8=&rs=AOn4CLDbPFTL6Y-WpW0ydJdzvXkykVdXYg",
+        "thumbnail": "https://i.ytimg.com/vi/y82euAFSg7U/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgWChPMA8=&rs=AOn4CLAwXWuaKq5sGryKlekPkQoq8d5mHg",
         "title": "Fallout 2 - The Tribute",
         "vote": 0
     },
@@ -212,7 +212,7 @@
             "police",
             "university"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/d-7o9xYp7eE/hqdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/d-7o9xYp7eE/hqdefault.jpg",
         "title": "Regend University Of Law: Don't Talk to the Police",
         "vote": 50
     },
@@ -442,13 +442,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-google-censorship-idUSBRE85H0S220120618",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "big brother",
             "censorship",
@@ -559,13 +559,13 @@
         "language": "en",
         "link": "https://www.reuters.com/article/us-pfizer-settlement-idUSBRE8760WM20120807",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "big pharma",
             "manufacturing consent",
@@ -630,7 +630,7 @@
             "chiptune",
             "music"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/eclMFa0mD1c/maxresdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/eclMFa0mD1c/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgTyh_MA8=&rs=AOn4CLD7pxmQ0Otxr53iPWDwby3t8ReYFg",
         "title": "Amiga Music: Jogeir Liljedahl Compilation #1",
         "vote": 0
     },
