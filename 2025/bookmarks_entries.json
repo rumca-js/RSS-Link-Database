@@ -1011,7 +1011,7 @@
             "depopulation",
             "kissinger"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/National_Security_Study_Memorandum_200.pdf/page1-927px-National_Security_Study_Memorandum_200.pdf.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/National_Security_Study_Memorandum_200.pdf/page1-960px-National_Security_Study_Memorandum_200.pdf.jpg",
         "title": "National Security Study Memorandum 200 - Wikipedia",
         "vote": 0
     },
@@ -4649,11 +4649,11 @@
         "permanent": false,
         "source__id": 347,
         "source_url": "https://theintercept.com/feed/?lang=en",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "israel"
         ],
-        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/10/GettyImages-2195569259-1-1-e1761954262272.jpg?w=440&h=440&crop=1",
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/11/YouTube-deletes-Pal-accounts.jpg?fit=2000%2C1000&w=1200&h=800",
         "title": "YouTube Quietly Erased More Than 700 Videos Documenting Israeli Human Rights Violations",
         "vote": 0
     },

@@ -28,6 +28,11 @@
  - date_published: 2026-01-31T07:21:59+00:00
  - tags: ['jeffrey epstein']
 
+ ## The DJI Romo robovac had security so poor, this man remotely accessed thousands of them
+ - [https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt](https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt)
+ - date_published: 2026-02-14T08:00:00+00:00
+ - tags: ['privacy']
+
  ## Martial arts robots dazzle at 2026 Spring Festival Gala #CoolChina #springfestival2026
  - [https://www.youtube.com/watch?v=mUmlv814aJo](https://www.youtube.com/watch?v=mUmlv814aJo)
  - date_published: 2026-02-16T05:41:58+00:00
@@ -46,4 +51,14 @@
  - date_published: 2026-03-09T03:30:58+00:00
  - tags: ['privacy', 'surveillance']
  - date_dead_since: 2026-03-09T07:00:22.386280+00:00
+
+ ## Jeffrey Epstein’s Prison Guard Googled Him an Hour Before Sex Offender’s Body Was Found, DOJ Documents Show
+ - [https://people.com/jeffrey-epstein-prison-guard-googled-him-right-before-body-was-found-11921678](https://people.com/jeffrey-epstein-prison-guard-googled-him-right-before-body-was-found-11921678)
+ - date_published: 2026-03-14T07:12:07.774122+00:00
+ - tags: ['jeffrey epstein']
+
+ ## DHS wants more biometric data - even from citizens
+ - [https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data](https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data)
+ - date_published: 2026-03-15T00:36:01.676292+00:00
+ - tags: ['biometric']
 
