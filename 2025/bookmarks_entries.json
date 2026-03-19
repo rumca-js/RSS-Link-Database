@@ -1116,14 +1116,14 @@
         "language": "en-US",
         "link": "https://thehill.com/opinion/international/5155350-youtube-promoting-pro-china",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 346,
         "source_url": "https://thehill.com/feed",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "china",
             "corporatocracy"

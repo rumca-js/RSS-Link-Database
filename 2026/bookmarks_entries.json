@@ -370,5 +370,34 @@
         "thumbnail": "https://regmedia.co.uk/2023/03/29/shutterstock_identity.jpg",
         "title": "DHS wants more biometric data - even from citizens",
         "vote": 10
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-11-08T03:22:27.218506+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T03:23:22.741567+00:00",
+        "description": "Breaking news from around the world.",
+        "id": 4015279,
+        "language": "en-US",
+        "link": "https://www.disclose.tv/id/wrbhq1fa5c",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "israel",
+            "manufacturing consent"
+        ],
+        "thumbnail": "https://img.haarets.co.il/bs/0000019a-540e-db4c-a5fb-dfafea590000/08/38/8673cdba4367a38d6ca146e0faf0/287276-2.jpg?cmsprod=&height=630&precrop=2200,1279,x0,y138&width=1200",
+        "title": "Israel dumps millions into US influence targeting evangelicals in churches and ChatGPT",
+        "vote": 0
     }
 ]
