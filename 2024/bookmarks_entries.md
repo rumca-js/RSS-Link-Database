@@ -356,6 +356,7 @@
  - [https://www.telegraph.co.uk/world-news/2024/01/29/french-farmer-protests-latest-paris](https://www.telegraph.co.uk/world-news/2024/01/29/french-farmer-protests-latest-paris)
  - date_published: 2024-01-29T14:22:06+00:00
  - tags: ['france', 'strike']
+ - date_dead_since: 2026-03-20T13:24:04.191612+00:00
 
  ## NSA Admits Buying American Browsing Records From Shady Markets
  - [https://www.hackread.com/nsa-buy-american-browsing-records-shady-markets](https://www.hackread.com/nsa-buy-american-browsing-records-shady-markets)
@@ -552,11 +553,13 @@
  - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
  - date_published: 2024-03-05T00:00:00+00:00
  - tags: ['gender']
+ - date_dead_since: 2026-03-20T07:49:36.563489+00:00
 
  ## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
  - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
  - date_published: 2024-03-05T00:00:00+00:00
  - tags: ['diversity', 'propaganda', 'racism']
+ - date_dead_since: 2026-03-20T07:58:18.103361+00:00
 
  ## Why disturbing leaks from US gender group WPATH ring alarm bells in the NHS | Hannah Barnes
  - [https://www.theguardian.com/commentisfree/2024/mar/09/disturbing-leaks-from-us-gender-group-wpath-ring-alarm-bells-in-nhs](https://www.theguardian.com/commentisfree/2024/mar/09/disturbing-leaks-from-us-gender-group-wpath-ring-alarm-bells-in-nhs)

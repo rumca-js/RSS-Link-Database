@@ -48541,8 +48541,8 @@
         "language": "pl",
         "link": "https://www.pap.pl/aktualnosci/polityk-postrzelony-w-twarz-w-centrum-madrytu",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
@@ -48551,7 +48551,7 @@
         "tags": [
             "christianophobia"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://www.pap.pl/sites/default/files/styles/open_article/public/202311/epa10966436.jpg?itok=ws_9q4V0",
         "title": "https://www.pap.pl/aktualnosci/polityk-postrzelony-w-twarz-w-centrum-madrytu",
         "vote": 0
     },
@@ -48631,13 +48631,13 @@
         "language": "en",
         "link": "https://www.bloomberg.com/news/articles/2023-11-12/south-africa-s-too-white-farms-lose-eu-uk-access-city-press#xj4y7vzkg",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.bloomberg.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "inequality",
             "racism",
@@ -48812,13 +48812,13 @@
         "language": "en-US",
         "link": "https://www.eurasiareview.com/17112023-the-ben-gurion-canal-israels-potential-revolutionary-alternative-to-suez-analysis",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.eurasiareview.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "ben gurion canal",
             "israel"
@@ -49276,7 +49276,7 @@
             "artificial intelligence",
             "pentagon"
         ],
-        "thumbnail": "https://dims.apnews.com/dims4/default/af8e62f/2147483647/strip/true/crop/5063x2848+0+264/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2Fbf%2F05eefe339b9b2b767f6a77200c0e%2F01a19ae6ec0b451a85cf81f10fc5ff34",
+        "thumbnail": "https://dims.apnews.com/dims4/default/2d2e13d/2147483647/strip/true/crop/5063x3374+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2Fbf%2F05eefe339b9b2b767f6a77200c0e%2F01a19ae6ec0b451a85cf81f10fc5ff34",
         "title": "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons",
         "vote": 0
     },
@@ -49640,7 +49640,7 @@
             "crowdfunding",
             "freedom convoy"
         ],
-        "thumbnail": "https://i.cbc.ca/ais/1.6412463,1704735734000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C267%2C5184%2C2916%29%3BResize%3D620",
+        "thumbnail": "https://i.cbc.ca/ais/1.6412463,1763158030429/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C267%2C5184%2C2916%29%3BResize%3D620",
         "title": "Windsor police officer who donated to Ottawa convoy will learn his penalty in May | CBC News",
         "vote": 0
     },
@@ -51046,7 +51046,7 @@
             "pronouns",
             "the left wing"
         ],
-        "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2023/10/240be69d9893b848888fadd13e783265-scaled.jpg?resize=1024,683",
+        "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2023/10/240be69d9893b848888fadd13e783265-scaled.jpg?resize=1200,683",
         "title": "Law requires California police to use suspect's pronouns upon release of mugshot",
         "vote": 0
     },
