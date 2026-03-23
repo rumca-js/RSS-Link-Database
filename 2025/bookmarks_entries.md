@@ -69,6 +69,11 @@
  - tags: ['censorship', 'covid', 'debanking', 'technofeudalism']
  - date_dead_since: 2026-02-20T15:20:21.383724+00:00
 
+ ## 'The First Time After 2000 Years': Israel's Biblical Red Heifers Attract World Attention
+ - [https://cbn.com/news/israel/first-time-after-2000-years-israels-biblical-red-heifers-attract-world-attention](https://cbn.com/news/israel/first-time-after-2000-years-israels-biblical-red-heifers-attract-world-attention)
+ - date_published: 2025-01-28T07:25:49+00:00
+ - tags: ['israel']
+
  ## California Law Enforcement Misused State Databases More Than 7,000 Times in 2023
  - [https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
  - date_published: 2025-01-28T08:30:16+00:00
