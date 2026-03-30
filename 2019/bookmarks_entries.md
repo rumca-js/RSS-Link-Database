@@ -505,6 +505,7 @@
  - [https://unlimitedhangout.com/2019/08/investigative-series/mega-group-maxwells-and-mossad-the-spy-story-at-the-heart-of-the-jeffrey-epstein-scandal](https://unlimitedhangout.com/2019/08/investigative-series/mega-group-maxwells-and-mossad-the-spy-story-at-the-heart-of-the-jeffrey-epstein-scandal)
  - date_published: 2019-08-07T16:45:45+00:00
  - tags: ['jeffrey epstein']
+ - date_dead_since: 2026-03-29T23:33:00.345353+00:00
 
  ## Free speech and privacy on the wane across the world
  - [https://www.theguardian.com/global-development/2019/aug/08/free-speech-and-privacy-on-the-wane-across-the-world](https://www.theguardian.com/global-development/2019/aug/08/free-speech-and-privacy-on-the-wane-across-the-world)

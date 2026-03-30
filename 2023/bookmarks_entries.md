@@ -3824,6 +3824,7 @@
  - [https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff](https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff)
  - date_published: 2023-04-30T11:59:00+00:00
  - tags: ['cia', 'jeffrey epstein']
+ - date_dead_since: 2026-03-29T23:31:02.462010+00:00
 
  ## Example of why you should not use FaceID to unlock your phone
  - [https://mastodon.social/@runasand/110286780839680620](https://mastodon.social/@runasand/110286780839680620)
@@ -4184,6 +4185,7 @@
  - [https://www.sharedrop.io](https://www.sharedrop.io)
  - date_published: 2023-05-13T18:41:46+00:00
  - tags: ['project', 'selfhost']
+ - date_dead_since: 2026-03-29T23:54:47.064528+00:00
 
  ## The Pandemic May Be Over But UK Mobile Networks Are Still Monitoring Population Movement
  - [https://reclaimthenet.org/uk-mobile-networks-are-still-monitoring-population-movement](https://reclaimthenet.org/uk-mobile-networks-are-still-monitoring-population-movement)
@@ -4695,6 +4697,7 @@
  - [https://www.wsj.com/articles/jamie-dimon-says-he-never-discussed-jeffrey-epsteins-accounts-at-jpmorgan-jes-staley-says-dimon-did-b11f0da5](https://www.wsj.com/articles/jamie-dimon-says-he-never-discussed-jeffrey-epsteins-accounts-at-jpmorgan-jes-staley-says-dimon-did-b11f0da5)
  - date_published: 2023-05-31T11:14:00+00:00
  - tags: ['jamie dimon', 'jeffrey epstein', 'jes staley', 'jpmorgan']
+ - date_dead_since: 2026-03-29T23:30:24.249204+00:00
 
  ## Iconic Torrent Site Rarbg Shuts Down, All Content Releases Stop
  - [https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531](https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531)
@@ -5312,6 +5315,7 @@
  - [https://www.ft.com/content/2710193e-0188-4269-ba56-166c6effa234](https://www.ft.com/content/2710193e-0188-4269-ba56-166c6effa234)
  - date_published: 2023-06-19T22:11:39+00:00
  - tags: ['jeffrey epstein', 'manufacturing comsent']
+ - date_dead_since: 2026-03-29T23:29:47.545061+00:00
 
  ## Don't Use Mocks
  - [https://joeblu.com/blog/2023_06_mocks](https://joeblu.com/blog/2023_06_mocks)
@@ -6159,6 +6163,7 @@
  - [https://interpeer.io/blog/2023/07/google-vs-the-open-web](https://interpeer.io/blog/2023/07/google-vs-the-open-web)
  - date_published: 2023-07-21T07:38:27+00:00
  - tags: ['web environment integrity']
+ - date_dead_since: 2026-03-30T01:46:23.709792+00:00
 
  ## Leon Black Agreed to Pay $62.5 Million to Settle Epstein-Related Claims - The New York Times
  - [https://www.nytimes.com/2023/07/21/business/leon-black-settlement-jeffrey-epstein-claims.html](https://www.nytimes.com/2023/07/21/business/leon-black-settlement-jeffrey-epstein-claims.html)
@@ -6229,6 +6234,7 @@
  - [https://news.ycombinator.com/item?id=36817305](https://news.ycombinator.com/item?id=36817305)
  - date_published: 2023-07-23T07:44:18+00:00
  - tags: ['web environment integrity', 'webscraping']
+ - date_dead_since: 2026-03-30T02:05:19.452071+00:00
 
  ## PSA: Ubisoft is deleting "inactive accounts" and the games those accounts have bought
  - [https://www.techradar.com/gaming/psa-ubisoft-is-deleting-inactive-accounts-and-the-games-those-accounts-have-bought](https://www.techradar.com/gaming/psa-ubisoft-is-deleting-inactive-accounts-and-the-games-those-accounts-have-bought)
@@ -6239,6 +6245,7 @@
  - [https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
  - date_published: 2023-07-24T00:01:48+00:00
  - tags: ['cooper davis act', 'crypto wars', 'privacy', 'surveillance']
+ - date_dead_since: 2026-03-30T02:02:55.205601+00:00
 
  ## Is global warming behind Greece's wildfires? | The Spectator
  - [https://www.spectator.co.uk/article/is-global-warming-behind-greeces-wildfires/?utm_medium=email&utm_source=CampaignMonitor_Editorial&utm_campaign=LNCH%20%2020230724%20%20House%20Ads%20%20SM+CID_0776dd8250bddc49e15a401e12e5979d](https://www.spectator.co.uk/article/is-global-warming-behind-greeces-wildfires/?utm_medium=email&utm_source=CampaignMonitor_Editorial&utm_campaign=LNCH%20%2020230724%20%20House%20Ads%20%20SM+CID_0776dd8250bddc49e15a401e12e5979d)
@@ -6274,6 +6281,7 @@
  - [https://www.theguardian.com/us-news/2023/jul/25/jp-morgan-jeffrey-epstein-us-virgin-islands](https://www.theguardian.com/us-news/2023/jul/25/jp-morgan-jeffrey-epstein-us-virgin-islands)
  - date_published: 2023-07-25T12:48:10+00:00
  - tags: ['jeffrey epstein', 'jpmorgan']
+ - date_dead_since: 2026-03-30T01:56:35.786024+00:00
 
  ## Researchers find deliberate backdoor in police radio encryption algorithm
  - [https://arstechnica.com/?p=1956349](https://arstechnica.com/?p=1956349)
@@ -6284,6 +6292,7 @@
  - [https://httptoolkit.com/blog/apple-private-access-tokens-attestation](https://httptoolkit.com/blog/apple-private-access-tokens-attestation)
  - date_published: 2023-07-25T14:00:00+00:00
  - tags: ['apple', 'corporatocracy', 'crypto wars', 'technofeudalism', 'web environment integrity', 'wei']
+ - date_dead_since: 2026-03-30T01:54:47.034805+00:00
 
  ## Billionaire Leon Black's $158M payment to Jeffrey Epstein sparks Senate investigation
  - [https://thehill.com/homenews/senate/4118792-billionaire-leon-blacks-158m-payment-to-jeffrey-epstein-sparks-senate-investigation](https://thehill.com/homenews/senate/4118792-billionaire-leon-blacks-158m-payment-to-jeffrey-epstein-sparks-senate-investigation)
@@ -6319,26 +6328,31 @@
  - [https://gohugo.io](https://gohugo.io)
  - date_published: 2023-07-26T06:31:40+00:00
  - tags: ['selfhost']
+ - date_dead_since: 2026-03-30T01:49:55.873757+00:00
 
  ## nginx
  - [https://nginx.org/en](https://nginx.org/en)
  - date_published: 2023-07-26T06:33:21+00:00
  - tags: ['selfhost']
+ - date_dead_since: 2026-03-30T01:49:16.681641+00:00
 
  ## Welcome! - The Apache HTTP Server Project
  - [https://httpd.apache.org](https://httpd.apache.org)
  - date_published: 2023-07-26T06:33:58+00:00
  - tags: ['apache', 'selfhost']
+ - date_dead_since: 2026-03-30T01:48:11.182603+00:00
 
  ## Lobsters - invitation mechanism
  - [https://lobste.rs/about#invitations](https://lobste.rs/about#invitations)
  - date_published: 2023-07-26T07:13:44+00:00
  - tags: ['selfhost']
+ - date_dead_since: 2026-03-30T01:47:00.865302+00:00
 
  ## Lawsuit alleges billionaire Leon Black raped autistic teen at Epstein's townhouse
  - [https://www.nbcnews.com/news/us-news/lawsuit-accuses-billionaire-leon-black-raping-autistic-teenager-jeffre-rcna96373](https://www.nbcnews.com/news/us-news/lawsuit-accuses-billionaire-leon-black-raping-autistic-teenager-jeffre-rcna96373)
  - date_published: 2023-07-26T11:02:39+00:00
  - tags: ['billionaires', 'elite', 'jeffrey epstein', 'leon black']
+ - date_dead_since: 2026-03-30T01:45:44.565536+00:00
 
  ## Engineering Blogs
  - [https://engineeringblogs.xyz](https://engineeringblogs.xyz)
@@ -6354,6 +6368,7 @@
  - [https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
  - date_published: 2023-07-26T12:59:05+00:00
  - tags: ['crypto wars', 'online safety bill', 'privacy', 'surveillance']
+ - date_dead_since: 2026-03-30T01:32:17.942180+00:00
 
  ## Why it’s impossible to compete with Google Search
  - [https://www.theverge.com/23802382/search-engine-google-neeva-android](https://www.theverge.com/23802382/search-engine-google-neeva-android)
@@ -6369,6 +6384,7 @@
  - [https://www.dailymail.co.uk/news/article-12337223/Former-JPMorgan-exec-Jes-Staley-casually-joked-Jeffrey-Epsteins-taste-underage-girls-executives-emails-reveal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12337223/Former-JPMorgan-exec-Jes-Staley-casually-joked-Jeffrey-Epsteins-taste-underage-girls-executives-emails-reveal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-07-26T18:47:23+00:00
  - tags: ['jeffrey epstein', 'jes staley', 'jpmorgan']
+ - date_dead_since: 2026-03-30T01:42:55.718343+00:00
 
  ## 'My Childhood Was RUINED:' Detransitioner Chloe Cole Talks About Trans Procedures
  - [https://www.youtube.com/watch?v=DSGgR3W_jjg](https://www.youtube.com/watch?v=DSGgR3W_jjg)
@@ -6379,6 +6395,7 @@
  - [https://philaverse.substack.com/p/report-pix-surpasses-credit-and-debit](https://philaverse.substack.com/p/report-pix-surpasses-credit-and-debit)
  - date_published: 2023-07-27T01:37:04+00:00
  - tags: ['brasil', 'cbdc']
+ - date_dead_since: 2026-03-30T01:42:16.566514+00:00
 
  ## Climate Worries Are More Exhausting Than the Heat Itself | Opinion
  - [https://www.newsweek.com/climate-worries-are-more-exhausting-heat-itself-opinion-1815635](https://www.newsweek.com/climate-worries-are-more-exhausting-heat-itself-opinion-1815635)
@@ -6389,6 +6406,7 @@
  - [https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
  - date_published: 2023-07-27T11:03:36+00:00
  - tags: ['fbi', 'surveillance']
+ - date_dead_since: 2026-03-30T00:12:07.602735+00:00
 
  ## Google's browser security plan slammed as dangerous, terrible, DRM for websites
  - [https://www.theregister.com/2023/07/27/google_web_environment_integrity](https://www.theregister.com/2023/07/27/google_web_environment_integrity)
@@ -6399,6 +6417,7 @@
  - [https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole)
  - date_published: 2023-07-27T20:31:24+00:00
  - tags: ['espionage', 'manufacturing consent', 'surveillance']
+ - date_dead_since: 2026-03-30T01:28:04.950948+00:00
 
  ## Quick!
  - [https://www.youtube.com/watch?v=OEtV3QlPUaU](https://www.youtube.com/watch?v=OEtV3QlPUaU)
@@ -6409,16 +6428,19 @@
  - [https://www.emilkirkegaard.com/p/how-to-find-scientific-literature](https://www.emilkirkegaard.com/p/how-to-find-scientific-literature)
  - date_published: 2023-07-28T04:29:09+00:00
  - tags: ['books', 'science']
+ - date_dead_since: 2026-03-30T01:38:33.617359+00:00
 
  ## mRNA Covid jabs have caused silent heart damage to tens of millions of people, a shocking new study suggests
  - [https://alexberenson.substack.com/p/mrna-covid-jabs-have-caused-silent](https://alexberenson.substack.com/p/mrna-covid-jabs-have-caused-silent)
  - date_published: 2023-07-28T09:22:23+00:00
  - tags: ['covid', 'moderna', 'vaccine']
+ - date_dead_since: 2026-03-30T01:37:57.304253+00:00
 
  ## Virginia Giuffre - Wikipedia
  - [https://en.wikipedia.org/wiki/Virginia_Giuffre](https://en.wikipedia.org/wiki/Virginia_Giuffre)
  - date_published: 2023-07-28T11:11:04+00:00
  - tags: ['jeffrey epstein', 'virginia giuffre']
+ - date_dead_since: 2026-03-30T01:37:17.981572+00:00
 
  ## All Names – Epstein's Black Book
  - [https://epsteinsblackbook.com/all-names](https://epsteinsblackbook.com/all-names)
@@ -6440,16 +6462,19 @@
  - [https://flashmuseum.org](https://flashmuseum.org)
  - date_published: 2023-07-28T15:25:59+00:00
  - tags: ['flash', 'internet', 'web10']
+ - date_dead_since: 2026-03-30T01:36:39.663758+00:00
 
  ## Government vs. Free Speech
  - [https://www.wsj.com/articles/government-vs-free-speech-deda9dce](https://www.wsj.com/articles/government-vs-free-speech-deda9dce)
  - date_published: 2023-07-28T19:16:00+00:00
  - tags: ['covid']
+ - date_dead_since: 2026-03-30T01:35:29.633571+00:00
 
  ## Catholic diocese agrees to pay $100 million settlement to hundreds of abuse victims
  - [https://www.nbcnews.com/news/us-news/catholic-diocese-agrees-pay-100-million-settlement-hundreds-abuse-vict-rcna96904](https://www.nbcnews.com/news/us-news/catholic-diocese-agrees-pay-100-million-settlement-hundreds-abuse-vict-rcna96904)
  - date_published: 2023-07-28T19:53:52+00:00
  - tags: ['church scandal', 'religion']
+ - date_dead_since: 2026-03-30T01:34:50.020496+00:00
 
  ## Ring is having a major outage
  - [https://status.ring.com](https://status.ring.com)
@@ -6460,6 +6485,7 @@
  - [https://reclaimthenet.org/uk-counter-disinformation-unit-spy-agencies-inception](https://reclaimthenet.org/uk-counter-disinformation-unit-spy-agencies-inception)
  - date_published: 2023-07-28T22:13:06+00:00
  - tags: ['big brother', 'disinformation unit', 'espionage', 'miniatury of truty', 'misinformation']
+ - date_dead_since: 2026-03-30T01:29:52.844145+00:00
 
  ## Jeffrey Epstein - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Jeffrey_Epstein](https://en.m.wikipedia.org/wiki/Jeffrey_Epstein)
@@ -6470,21 +6496,25 @@
  - [https://koshka.love/babel/irc-forever.html](https://koshka.love/babel/irc-forever.html)
  - date_published: 2023-07-29T10:12:18+00:00
  - tags: ['irc', 'selfhost']
+ - date_dead_since: 2026-03-30T01:29:14.767319+00:00
 
  ## Make the Web Great Again
  - [https://koshka.love/mwwwga.html](https://koshka.love/mwwwga.html)
  - date_published: 2023-07-29T11:39:55+00:00
  - tags: ['blog', 'internet', 'web10']
+ - date_dead_since: 2026-03-30T01:24:51.715072+00:00
 
  ## Bystroushaak's blog
  - [https://blog.rfox.eu](https://blog.rfox.eu)
  - date_published: 2023-07-29T15:15:11+00:00
  - tags: ['blog']
+ - date_dead_since: 2026-03-30T01:22:10.046150+00:00
 
  ## Home Office secretly backs facial recognition technology to curb shoplifting
  - [https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting](https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting)
  - date_published: 2023-07-29T16:11:38+00:00
  - tags: ['biometrics', 'facial recognition']
+ - date_dead_since: 2026-03-30T01:21:30.362017+00:00
 
  ## Włochy zawieszają świadczenie dla 170 tys. obywateli. Prawie pięć lat nie pracowali, ale to koniec | Biznes na Next.Gazeta.pl
  - [https://next.gazeta.pl/next/7,151003,30024617,wlochy-zawieszaja-swiadczenie-dla-170-tys-obywateli-prawie.html](https://next.gazeta.pl/next/7,151003,30024617,wlochy-zawieszaja-swiadczenie-dla-170-tys-obywateli-prawie.html)
@@ -6495,6 +6525,7 @@
  - [https://pl.m.wikipedia.org/wiki/Wojna_o_krow%C4%99](https://pl.m.wikipedia.org/wiki/Wojna_o_krow%C4%99)
  - date_published: 2023-07-30T19:49:15+00:00
  - tags: ['history']
+ - date_dead_since: 2026-03-30T01:20:05.061588+00:00
 
  ## MacBook Pro 2021 Has ‘Reduced Useability’ Because Of New Apple Software Lockdown
  - [https://www.forbes.com/sites/jaymcgregor/2023/07/31/macbook-pro-2021--2022-have-reduced-useability-because-of-new-software-lockdown](https://www.forbes.com/sites/jaymcgregor/2023/07/31/macbook-pro-2021--2022-have-reduced-useability-because-of-new-software-lockdown)
@@ -6510,6 +6541,7 @@
  - [https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4](https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4)
  - date_published: 2023-07-31T04:00:33+00:00
  - tags: ['climate change', 'esg']
+ - date_dead_since: 2026-03-30T01:02:06.077873+00:00
 
  ## Meta Forced to Reveal Anonymous Facebook User's Identity Over Defamatory Posts
  - [https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity)
@@ -6520,16 +6552,19 @@
  - [https://tedhope.substack.com/p/the-coming-cinema-apocalypse](https://tedhope.substack.com/p/the-coming-cinema-apocalypse)
  - date_published: 2023-07-31T21:04:18+00:00
  - tags: ['movies', 'subscribtions', 'technofeudalism']
+ - date_dead_since: 2026-03-30T01:17:35.033554+00:00
 
  ## TikTok Bans Rockstar Ronnie Radke for Unfiltered Commentary on Transgender Issues
  - [https://reclaimthenet.org/tiktok-bans-rockstar-ronnie-radke](https://reclaimthenet.org/tiktok-bans-rockstar-ronnie-radke)
  - date_published: 2023-07-31T23:41:07+00:00
  - tags: ['censorship', 'science is dead']
+ - date_dead_since: 2026-03-30T01:16:31.277328+00:00
 
  ## I'm Betting on HTML
  - [https://catskull.net/html.html](https://catskull.net/html.html)
  - date_published: 2023-08-01T00:00:00+00:00
  - tags: ['selfhost', 'web10']
+ - date_dead_since: 2026-03-30T01:10:22.977658+00:00
 
  ## Arizona driver says he was 'trapped' in hot Tesla after battery died
  - [https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died](https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died)
@@ -6545,11 +6580,13 @@
  - [https://torrentfreak.com/putin-outlaws-anonymity-user-id-verification-for-online-services-vpn-bypass-advice-a-crime-230801](https://torrentfreak.com/putin-outlaws-anonymity-user-id-verification-for-online-services-vpn-bypass-advice-a-crime-230801)
  - date_published: 2023-08-01T13:06:28+00:00
  - tags: ['anonymity', 'digital id', 'privacy']
+ - date_dead_since: 2026-03-30T01:14:10.777959+00:00
 
  ## JPMorgan handled Jeffrey Epstein's $1.1M in payments to 'women and girls' AFTER the bank said it shut his accounts because he was a convicted sex offender, lawsuit claims
  - [https://www.dailymail.co.uk/news/article-12361315/JPMorgan-handled-Jeffrey-Epsteins-1-1M-payments-women-girls-bank-said-shut-accounts-convicted-sex-offender-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12361315/JPMorgan-handled-Jeffrey-Epsteins-1-1M-payments-women-girls-bank-said-shut-accounts-convicted-sex-offender-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-08-01T17:21:22+00:00
  - tags: ['jeffrey epstein', 'jpmorgan']
+ - date_dead_since: 2026-03-30T01:10:59.280359+00:00
 
  ## Transform Your Android Device into a Linux Desktop
  - [https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
@@ -6565,6 +6602,7 @@
  - [https://pages.github.com](https://pages.github.com)
  - date_published: 2023-08-02T09:06:06+00:00
  - tags: ['github', 'selfhost']
+ - date_dead_since: 2026-03-30T01:08:16.868064+00:00
 
  ## South America is living one of the climate extreme events
  - [https://twitter.com/extremetemps/status/1686485331539820545](https://twitter.com/extremetemps/status/1686485331539820545)
@@ -6580,11 +6618,13 @@
  - [https://www.michaelpsenger.com/p/the-unwitting-coup-was-the-response](https://www.michaelpsenger.com/p/the-unwitting-coup-was-the-response)
  - date_published: 2023-08-02T11:39:13+00:00
  - tags: ['big brother', 'covid']
+ - date_dead_since: 2026-03-30T01:04:47.892257+00:00
 
  ## How Normiefication Causes Everything to Go to the Dogs
  - [https://koshka.love/babel/normiefication.html](https://koshka.love/babel/normiefication.html)
  - date_published: 2023-08-02T13:08:54+00:00
  - tags: ['enshittification', 'internet', 'web20']
+ - date_dead_since: 2026-03-30T01:04:11.328785+00:00
 
  ## Pluralistic: Forcing your computer to rat you out (02 August 2023)
  - [https://pluralistic.net/2023/08/02/self-incrimination](https://pluralistic.net/2023/08/02/self-incrimination)
@@ -6646,6 +6686,7 @@
  - [https://keygenmusic.tk/#](https://keygenmusic.tk/#)
  - date_published: 2023-08-04T10:03:02+00:00
  - tags: ['chiptune']
+ - date_dead_since: 2026-03-30T00:54:41.817793+00:00
 
  ## ‘PayPal needs to embrace free speech if it wants to operate in UK’
  - [https://www.telegraph.co.uk/news/2023/08/04/paypal-free-speech-operate-uk](https://www.telegraph.co.uk/news/2023/08/04/paypal-free-speech-operate-uk)
@@ -6666,36 +6707,43 @@
  - [https://thepeoplesvoice.tv/pfizer-admits-employees-were-given-special-batch-of-vaccine-different-to-rest-of-population](https://thepeoplesvoice.tv/pfizer-admits-employees-were-given-special-batch-of-vaccine-different-to-rest-of-population)
  - date_published: 2023-08-05T13:27:00+00:00
  - tags: ['inequality', 'pfizer']
+ - date_dead_since: 2026-03-30T00:50:35.328686+00:00
 
  ## Just Normal Web Things
  - [https://heather-buchel.com/blog/2023/07/just-normal-web-things](https://heather-buchel.com/blog/2023/07/just-normal-web-things)
  - date_published: 2023-08-05T16:07:40+00:00
  - tags: ['web10', 'web20', 'web30']
+ - date_dead_since: 2026-03-30T00:51:15.041895+00:00
 
  ## Goodhart's law - Wikipedia
  - [https://en.wikipedia.org/wiki/Goodhart%27s_law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
  - date_published: 2023-08-06T09:41:28+00:00
  - tags: ['managment']
+ - date_dead_since: 2026-03-30T00:49:10.901979+00:00
 
  ## Pomocnik Allegro - Chrome Web Store
  - [https://chrome.google.com/webstore/detail/pomocnik-allegro/mppahmgdcnapaalefnpnfoekkpggkkol?hl=pl](https://chrome.google.com/webstore/detail/pomocnik-allegro/mppahmgdcnapaalefnpnfoekkpggkkol?hl=pl)
  - date_published: 2023-08-06T14:15:37+00:00
  - tags: ['browser extension']
+ - date_dead_since: 2026-03-30T00:48:34.752927+00:00
 
  ## Why I Find Bullshit Work Intolerable
  - [https://shubhamjain.co/2023/08/06/bullshit-work-intolerable](https://shubhamjain.co/2023/08/06/bullshit-work-intolerable)
  - date_published: 2023-08-06T16:46:59+00:00
  - tags: ['management']
+ - date_dead_since: 2026-03-30T00:47:20.266403+00:00
 
  ## Father dies in house fire after 'lithium battery pack charging an e-bike sparked blaze'
  - [https://www.dailymail.co.uk/news/article-12378547/Father-dies-house-fire-lithium-battery-pack-charging-e-bike-sparked-blaze.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12378547/Father-dies-house-fire-lithium-battery-pack-charging-e-bike-sparked-blaze.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-08-06T17:20:29+00:00
  - tags: ['electric vehicles']
+ - date_dead_since: 2026-03-30T00:47:56.594023+00:00
 
  ## Low-cost Smartwatch powered by ESP32 module
  - [https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module)
  - date_published: 2023-08-07T18:59:03+00:00
  - tags: ['project', 'smart watch']
+ - date_dead_since: 2026-03-30T00:44:40.925454+00:00
 
  ## "It's Not Natural" - Why Are 20% of Kids Suddenly LGBTQ?
  - [https://www.youtube.com/watch?v=v3z4-lFckZ8](https://www.youtube.com/watch?v=v3z4-lFckZ8)
@@ -6706,6 +6754,7 @@
  - [https://front-end.social/@fox/110846484782705013](https://front-end.social/@fox/110846484782705013)
  - date_published: 2023-08-08T00:15:44+00:00
  - tags: ['artificial intelligence', 'privacy', 'technofeudalism']
+ - date_dead_since: 2026-03-30T00:45:51.457676+00:00
 
  ## Who ACTUALLY runs the world? (Documentary)
  - [https://www.youtube.com/watch?v=OcBynl35Cts](https://www.youtube.com/watch?v=OcBynl35Cts)
@@ -6716,11 +6765,13 @@
  - [https://ithardware.pl/aktualnosci/auta_wodorowe_sa_super_naprawa_kosztuje_2_razy_wiecej_niz_cale_auto_a_zywotnosc_to_10_lat-28709.html](https://ithardware.pl/aktualnosci/auta_wodorowe_sa_super_naprawa_kosztuje_2_razy_wiecej_niz_cale_auto_a_zywotnosc_to_10_lat-28709.html)
  - date_published: 2023-08-09T08:30:50+00:00
  - tags: ['electric vehicles']
+ - date_dead_since: 2026-03-30T00:43:30.256283+00:00
 
  ## Australian Banks Restricting Cash Raises CBDC Fears
  - [https://reclaimthenet.org/australian-banks-restricting-cash-raises-cbdc-fears](https://reclaimthenet.org/australian-banks-restricting-cash-raises-cbdc-fears)
  - date_published: 2023-08-09T14:50:03+00:00
  - tags: ['cbdc', 'digital money']
+ - date_dead_since: 2026-03-30T00:42:52.364572+00:00
 
  ## Universal & Google Reportedly in Licensing Talks About AI Voice Cloning – Billboard
  - [https://www.billboard.com/pro/universal-music-google-ai-voice-cloning-licensing-talks-umg-wmg](https://www.billboard.com/pro/universal-music-google-ai-voice-cloning-licensing-talks-umg-wmg)
@@ -6731,11 +6782,13 @@
  - [https://www.nbcnews.com/nbc-out/out-news/massachusetts-couple-denied-foster-care-application-lgbtq-views-compla-rcna99339](https://www.nbcnews.com/nbc-out/out-news/massachusetts-couple-denied-foster-care-application-lgbtq-views-compla-rcna99339)
  - date_published: 2023-08-10T09:44:04+00:00
  - tags: ['christianophobia', 'inequality', 'lgbt', 'the left wing']
+ - date_dead_since: 2026-03-30T00:42:11.186504+00:00
 
  ## The Yandex Leak: How a Russian Search Giant Uses Consumer Data
  - [https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
  - date_published: 2023-08-10T10:20:01+00:00
  - tags: ['anonymitl', 'big brother', 'data leak', 'privacy', 'russia', 'search engines', 'surveillance', 'yandex']
+ - date_dead_since: 2026-03-30T00:41:33.789876+00:00
 
  ## The Internet is not forever after all: CNET deletes old articles to game Google | Ars Technica
  - [https://arstechnica.com/information-technology/2023/08/the-internet-is-not-forever-after-all-cnet-deletes-old-articles-to-game-google](https://arstechnica.com/information-technology/2023/08/the-internet-is-not-forever-after-all-cnet-deletes-old-articles-to-game-google)
@@ -6746,6 +6799,7 @@
  - [https://victoria.dev/blog/create-a-self-hosted-chat-service-with-your-own-matrix-server](https://victoria.dev/blog/create-a-self-hosted-chat-service-with-your-own-matrix-server)
  - date_published: 2023-08-11T06:45:11+00:00
  - tags: ['matrix', 'selfhost']
+ - date_dead_since: 2026-03-30T00:40:15.345529+00:00
 
  ## Microsoft finds vulnerabilities it says could be used to shut down power plants
  - [https://arstechnica.com/security/2023/08/microsoft-finds-vulnerabilities-it-says-could-be-used-to-shut-down-power-plants](https://arstechnica.com/security/2023/08/microsoft-finds-vulnerabilities-it-says-could-be-used-to-shut-down-power-plants)
@@ -6761,11 +6815,13 @@
  - [https://www.aljazeera.com/news/2023/8/12/king-of-jordan-approves-draconian-cybercrime-law](https://www.aljazeera.com/news/2023/8/12/king-of-jordan-approves-draconian-cybercrime-law)
  - date_published: 2023-08-12T20:03:42+00:00
  - tags: ['big brother', 'censorship', 'cyber-crime bill', 'free speech', 'government control', 'hate speech', 'jordan']
+ - date_dead_since: 2026-03-30T00:39:38.409573+00:00
 
  ## A Blog Post with Every HTML Element
  - [https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element)
  - date_published: 2023-08-12T22:19:37+00:00
  - tags: ['html']
+ - date_dead_since: 2026-03-30T00:39:02.181803+00:00
 
  ## Brave's Independent Search Engine Is Finally Good
  - [https://www.youtube.com/watch?v=Uu1Gc3GM7CM](https://www.youtube.com/watch?v=Uu1Gc3GM7CM)
@@ -6781,11 +6837,13 @@
  - [https://en.m.wikipedia.org/wiki/QAnon](https://en.m.wikipedia.org/wiki/QAnon)
  - date_published: 2023-08-13T06:30:39+00:00
  - tags: ['qanon']
+ - date_dead_since: 2026-03-30T00:36:36.371379+00:00
 
  ## Modern flat Earth beliefs - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Modern_flat_Earth_beliefs](https://en.m.wikipedia.org/wiki/Modern_flat_Earth_beliefs)
  - date_published: 2023-08-13T06:50:08+00:00
  - tags: ['flat earth']
+ - date_dead_since: 2026-03-30T00:36:00.205543+00:00
 
  ## They Bypass YouTube Video Download Throttling
  - [https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling)
@@ -6826,6 +6884,7 @@
  - [https://foundation.mozilla.org/en/privacynotincluded/nissan](https://foundation.mozilla.org/en/privacynotincluded/nissan)
  - date_published: 2023-08-15T18:57:54+00:00
  - tags: ['ad business', 'privacy', 'surveillance', 'technofeudalism']
+ - date_dead_since: 2026-03-30T00:24:18.539941+00:00
 
  ## Naomi Watts, Megan Fox i Charlize Theron na zdjęciach z… synami
  - [https://twitter.com/BuonaSera1916/status/1691406601012289536?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1691406601012289536%7Ctwgr%5Ec0284957550f77a7041ab6e15a00f15994cdb8c4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwykop.pl%2Flink%2F7186149%2Fnowa-moda-wsrod-pato-celebrytek-miec-dziecko-trans](https://twitter.com/BuonaSera1916/status/1691406601012289536?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1691406601012289536%7Ctwgr%5Ec0284957550f77a7041ab6e15a00f15994cdb8c4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwykop.pl%2Flink%2F7186149%2Fnowa-moda-wsrod-pato-celebrytek-miec-dziecko-trans)
@@ -6845,6 +6904,7 @@
  - [https://www.dailymail.co.uk/sciencetech/article-12413139/ChatGPT-DOES-left-wing-bias-Scientists-confirm-AI-bots-responses-favour-Democrats-Labour-Party-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-12413139/ChatGPT-DOES-left-wing-bias-Scientists-confirm-AI-bots-responses-favour-Democrats-Labour-Party-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-08-16T23:01:46+00:00
  - tags: ['artificial intelligence', 'chatgpt']
+ - date_dead_since: 2026-03-30T00:22:55.389310+00:00
 
  ## Znikająca Hiszpania
  - [https://forsal.pl/gospodarka/demografia/artykuly/9220831,znikajaca-hiszpania.html](https://forsal.pl/gospodarka/demografia/artykuly/9220831,znikajaca-hiszpania.html)
@@ -6861,16 +6921,19 @@
  - [https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites](https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites)
  - date_published: 2023-08-17T08:23:22+00:00
  - tags: ['censorship', 'france', 'free speech', 'government control', 'sren bill']
+ - date_dead_since: 2026-03-30T00:19:12.705294+00:00
 
  ## ‘You’re Not Saving Jack S***’: Joe Rogan Unloads On Climate Activists
  - [https://www.dailywire.com/news/youre-not-saving-jack-s-joe-rogan-unloads-on-climate-activists](https://www.dailywire.com/news/youre-not-saving-jack-s-joe-rogan-unloads-on-climate-activists)
  - date_published: 2023-08-17T13:37:12+00:00
  - tags: ['climate change', 'global warming', 'pollution']
+ - date_dead_since: 2026-03-30T00:18:31.548667+00:00
 
  ## 90% of Great Lakes water samples have unsafe microplastic levels – report
  - [https://www.theguardian.com/environment/2023/aug/17/great-lakes-water-microplastic-pollution-contamination](https://www.theguardian.com/environment/2023/aug/17/great-lakes-water-microplastic-pollution-contamination)
  - date_published: 2023-08-17T14:00:18+00:00
  - tags: ['microplastic', 'pollution']
+ - date_dead_since: 2026-03-30T00:16:28.208163+00:00
 
  ## Pro-life UK man charged for praying by abortion clinic has ‘chilling’ warning for US: It could happen to you
  - [https://www.foxnews.com/media/pro-life-uk-man-charged-praying-abortion-clinic-chilling-warning-us-could-happen-you](https://www.foxnews.com/media/pro-life-uk-man-charged-praying-abortion-clinic-chilling-warning-us-could-happen-you)
@@ -6886,6 +6949,7 @@
  - [https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic)
  - date_published: 2023-08-18T02:47:21+00:00
  - tags: ['microplastic', 'pollution']
+ - date_dead_since: 2026-03-30T00:13:26.467968+00:00
 
  ## UK birth slump dubbed ‘good for planet’
  - [https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet](https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet)
@@ -6906,11 +6970,13 @@
  - [https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/News_and_notes](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/News_and_notes)
  - date_published: 2023-08-18T17:59:06+00:00
  - tags: ['wikipedia']
+ - date_dead_since: 2026-03-30T00:10:42.029842+00:00
 
  ## Israeli police arrest and brand Palestinian with ‘Star of David’: Report
  - [https://www.aljazeera.com/news/2023/8/18/israeli-police-arrest-and-brand-palestinian-with-star-of-david-report](https://www.aljazeera.com/news/2023/8/18/israeli-police-arrest-and-brand-palestinian-with-star-of-david-report)
  - date_published: 2023-08-18T20:25:09+00:00
  - tags: ['israel']
+ - date_dead_since: 2026-03-30T00:09:30.251964+00:00
 
  ## Why the U.S Economy is Collapsing: The Coming Economic Crisis
  - [https://www.youtube.com/watch?v=BvFAt3IK7z8](https://www.youtube.com/watch?v=BvFAt3IK7z8)
@@ -6931,6 +6997,7 @@
  - [https://edition.cnn.com/2023/08/20/politics/conservatives-verbal-combat-blake-cec/index.html](https://edition.cnn.com/2023/08/20/politics/conservatives-verbal-combat-blake-cec/index.html)
  - date_published: 2023-08-20T10:00:41+00:00
  - tags: ['language', 'propaganda', 'social engineering', 'woke']
+ - date_dead_since: 2026-03-30T00:04:29.770755+00:00
 
  ## CitizenFour | Documentary
  - [https://www.youtube.com/watch?v=PoY_GboFMjc](https://www.youtube.com/watch?v=PoY_GboFMjc)
@@ -6946,11 +7013,13 @@
  - [https://reclaimthenet.org/the-un-is-building-a-digital-army](https://reclaimthenet.org/the-un-is-building-a-digital-army)
  - date_published: 2023-08-21T17:42:13+00:00
  - tags: ['censorship', 'disinformation', 'moderation', 'united nations']
+ - date_dead_since: 2026-03-30T00:02:45.712791+00:00
 
  ## Meta Pays Supposedly Independent Australian “Fact-Checkers” 800 Dollars Per Fact-Check
  - [https://reclaimthenet.org/meta-pays-supposedly-independent-australian-fact-checkers-800-dollars-per-fact-check](https://reclaimthenet.org/meta-pays-supposedly-independent-australian-fact-checkers-800-dollars-per-fact-check)
  - date_published: 2023-08-21T18:49:20+00:00
  - tags: ['fact check']
+ - date_dead_since: 2026-03-30T00:02:02.472406+00:00
 
  ## RELEASE: After years of opposition, Apple calls for passage of Right to Repair in California
  - [https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california](https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california)
@@ -6961,16 +7030,19 @@
  - [https://www.rp.pl/transport/art38995261-bolt-zacznie-nagrywac-polakow-projekt-budzi-kontrowersje](https://www.rp.pl/transport/art38995261-bolt-zacznie-nagrywac-polakow-projekt-budzi-kontrowersje)
  - date_published: 2023-08-24T01:16:30.138756+00:00
  - tags: ['bolt', 'poland', 'privacy', 'surveillance', 'technofeudalism']
+ - date_dead_since: 2026-03-30T00:00:31.189699+00:00
 
  ## Web Scraping for Me, but Not for Thee
  - [https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
  - date_published: 2023-08-24T15:23:38+00:00
  - tags: ['web scraping']
+ - date_dead_since: 2026-03-29T23:52:50.184673+00:00
 
  ## LANDrop – Drop any files to any devices on your LAN
  - [https://landrop.app](https://landrop.app)
  - date_published: 2023-08-24T20:03:36.812017+00:00
  - tags: ['project', 'selfhost']
+ - date_dead_since: 2026-03-29T23:59:37.301196+00:00
 
  ## Watch all episodes of The Chosen for free
  - [https://watch.thechosen.tv](https://watch.thechosen.tv)
@@ -6986,6 +7058,7 @@
  - [https://www.theguardian.com/technology/2023/aug/25/new-york-times-cnn-and-abc-block-openais-gptbot-web-crawler-from-scraping-content](https://www.theguardian.com/technology/2023/aug/25/new-york-times-cnn-and-abc-block-openais-gptbot-web-crawler-from-scraping-content)
  - date_published: 2023-08-25T00:31:40+00:00
  - tags: ['chatgpt', 'openai']
+ - date_dead_since: 2026-03-29T23:58:18.799450+00:00
 
  ## Greece wildfires: 79 people arrested for arson
  - [https://www.bbc.co.uk/news/uk-66612781?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-66612781?at_medium=RSS&at_campaign=KARANGA)
@@ -7001,6 +7074,7 @@
  - [https://www.sciencedaily.com/releases/2023/08/230825122044.htm#:~:text=PFAS%20were%20found%20in%20the,to%20water%2C%20heat%20and%20stains.](https://www.sciencedaily.com/releases/2023/08/230825122044.htm#:~:text=PFAS%20were%20found%20in%20the,to%20water%2C%20heat%20and%20stains.)
  - date_published: 2023-08-25T17:18:31+00:00
  - tags: ['pollution']
+ - date_dead_since: 2026-03-29T23:53:39.332957+00:00
 
  ## Study: Carbon offsets aren’t doing their job, overstate impact
  - [https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact)
@@ -7011,11 +7085,13 @@
  - [https://nationworldnews.com/the-chicken-at-mcdonalds-isnt-even-half-a-chicken-insiders-reveal-the-trick](https://nationworldnews.com/the-chicken-at-mcdonalds-isnt-even-half-a-chicken-insiders-reveal-the-trick)
  - date_published: 2023-08-26T17:43:46+00:00
  - tags: ['food']
+ - date_dead_since: 2026-03-29T23:52:11.942568+00:00
 
  ## 90% of “eco-friendly” paper straws contain traces of toxic forever chemicals
  - [https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals](https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals)
  - date_published: 2023-08-26T20:39:30.853939+00:00
  - tags: ['pollution']
+ - date_dead_since: 2026-03-29T23:51:33.178213+00:00
 
  ## Vampyre Cosmetics Cuts Ties With Alice Cooper After Anti-Trans Comments – Billboard
  - [https://www.billboard.com/music/music-news/alice-cooper-vampyre-cosmetics-collection-trans-comments-1235401594](https://www.billboard.com/music/music-news/alice-cooper-vampyre-cosmetics-collection-trans-comments-1235401594)
@@ -7036,6 +7112,7 @@
  - [https://www.amazon.com/Coddling-American-Mind-Intentions-Generation/dp/0735224897](https://www.amazon.com/Coddling-American-Mind-Intentions-Generation/dp/0735224897)
  - date_published: 2023-08-28T07:14:21+00:00
  - tags: ['book', 'science is dead']
+ - date_dead_since: 2026-03-29T23:48:58.469163+00:00
 
  ## Rozpieszczony umysł. Jak dobre intencje i złe idee skazują pokolenia na porażkę - Jonathan Haidt, Greg Lukianoff | Książka w Lubimyczytac.pl - Opinie, oceny, ceny
  - [https://lubimyczytac.pl/ksiazka/5050676/rozpieszczony-umysl-jak-dobre-intencje-i-zle-idee-skazuja-pokolenia-na-porazke](https://lubimyczytac.pl/ksiazka/5050676/rozpieszczony-umysl-jak-dobre-intencje-i-zle-idee-skazuja-pokolenia-na-porazke)
@@ -7046,11 +7123,13 @@
  - [https://en.wikipedia.org/wiki/12_Rules_for_Life](https://en.wikipedia.org/wiki/12_Rules_for_Life)
  - date_published: 2023-08-28T07:19:41+00:00
  - tags: ['book']
+ - date_dead_since: 2026-03-29T23:48:20.289396+00:00
 
  ## Louisiana Man Arrested By SWAT Team For Facebook Joke About COVID-19 Wins Case
  - [https://reclaimthenet.org/louisiana-man-arrested-for-facebook-joke-about-covid-19-wins-case](https://reclaimthenet.org/louisiana-man-arrested-for-facebook-joke-about-covid-19-wins-case)
  - date_published: 2023-08-28T15:17:38+00:00
  - tags: ['censorship', 'covid', 'facebook']
+ - date_dead_since: 2026-03-29T23:47:13.665284+00:00
 
  ## Google’s Surveillance
  - [https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth)
@@ -7071,6 +7150,7 @@
  - [https://www.theguardian.com/us-news/2023/aug/28/maui-wildfires-hawaiian-electric-company](https://www.theguardian.com/us-news/2023/aug/28/maui-wildfires-hawaiian-electric-company)
  - date_published: 2023-08-29T00:45:53+00:00
  - tags: ['hawaii']
+ - date_dead_since: 2026-03-29T23:45:57.310129+00:00
 
  ## Grumpy Website
  - [https://grumpy.website](https://grumpy.website)
@@ -7081,6 +7161,7 @@
  - [https://en.wikipedia.org/wiki/Edmond_James_de_Rothschild](https://en.wikipedia.org/wiki/Edmond_James_de_Rothschild)
  - date_published: 2023-08-29T13:48:13+00:00
  - tags: ['billionaires', 'edmond de rothschild', 'rothschild']
+ - date_dead_since: 2026-03-29T23:44:08.409555+00:00
 
  ## Child safety bills are reshaping the internet for everyone
  - [https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent](https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent)
@@ -7091,11 +7172,13 @@
  - [https://www.aljazeera.com/features/2017/5/23/the-nakba-did-not-start-or-end-in-1948](https://www.aljazeera.com/features/2017/5/23/the-nakba-did-not-start-or-end-in-1948)
  - date_published: 2023-08-29T14:03:35+00:00
  - tags: ['israel', 'nakba', 'palestine']
+ - date_dead_since: 2026-03-29T23:43:30.885136+00:00
 
  ## Rothschild family - Wikipedia
  - [https://en.wikipedia.org/wiki/Rothschild_family](https://en.wikipedia.org/wiki/Rothschild_family)
  - date_published: 2023-08-29T14:22:31+00:00
  - tags: ['billionaires', 'rothschild']
+ - date_dead_since: 2026-03-29T23:42:54.685908+00:00
 
  ## Study: Sweden's 'Laissez Faire' Pandemic Policies Paid Off
  - [https://reason.com/2023/08/29/study-swedens-laissez-faire-pandemic-policies-paid-off](https://reason.com/2023/08/29/study-swedens-laissez-faire-pandemic-policies-paid-off)
@@ -7106,16 +7189,19 @@
  - [https://edition.cnn.com/2023/08/29/us/wyoming-kappa-kappa-gamma-lawsuit-transgender-woman-reaj/index.html](https://edition.cnn.com/2023/08/29/us/wyoming-kappa-kappa-gamma-lawsuit-transgender-woman-reaj/index.html)
  - date_published: 2023-08-29T20:17:35+00:00
  - tags: ['america', 'the left wing', 'transgender']
+ - date_dead_since: 2026-03-29T23:36:16.421515+00:00
 
  ## India’s communications ‘backdoor’ attracts surveillance companies
  - [https://www.ft.com/content/adf1cbae-4217-4d7d-9271-8bec41a56fb4](https://www.ft.com/content/adf1cbae-4217-4d7d-9271-8bec41a56fb4)
  - date_published: 2023-08-30T01:20:15.336190+00:00
  - tags: ['anonymity', 'big brother', 'corporatocracy', 'india', 'privacy', 'surveillance', 'tech control']
+ - date_dead_since: 2026-03-29T23:27:17.777637+00:00
 
  ## Amiga Systems Programming in 2023
  - [https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023)
  - date_published: 2023-08-30T07:36:04+00:00
  - tags: ['amiga']
+ - date_dead_since: 2026-03-29T23:07:04.789397+00:00
 
  ## Apple: Using cash is “clearly reckless”
  - [https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc](https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc)
@@ -7136,6 +7222,7 @@
  - [https://www.rp.pl/covid19/art39028671-astrazeneca-i-pfizer-biontech-maja-klopoty-sypia-sie-pozwy-o-skutki-uboczne-szczepionek-na-covid-19](https://www.rp.pl/covid19/art39028671-astrazeneca-i-pfizer-biontech-maja-klopoty-sypia-sie-pozwy-o-skutki-uboczne-szczepionek-na-covid-19)
  - date_published: 2023-08-30T16:00:26.952834+00:00
  - tags: ['astrazeneca', 'covid', 'pfizer', 'vaccine']
+ - date_dead_since: 2026-03-29T23:25:14.776698+00:00
 
  ## No human remains found 2 years after claims of ‘mass graves’ in Canada
  - [https://nypost.com/2023/08/31/still-no-evidence-of-mass-graves-of-indigenous-children-in-canada](https://nypost.com/2023/08/31/still-no-evidence-of-mass-graves-of-indigenous-children-in-canada)
@@ -7156,11 +7243,13 @@
  - [https://reclaimthenet.org/xs-new-privacy-policy-gives-itself-permission-to-collect-biometric-data](https://reclaimthenet.org/xs-new-privacy-policy-gives-itself-permission-to-collect-biometric-data)
  - date_published: 2023-08-31T18:37:20+00:00
  - tags: ['biometrics', 'technofeudalism']
+ - date_dead_since: 2026-03-29T23:24:35.707072+00:00
 
  ## JPMorgan allegedly processed more than $1bn for Epstein over 16 years
  - [https://www.theguardian.com/us-news/2023/aug/31/jeffrey-epstein-jpmorgan-1-billion-us-virgin-islands](https://www.theguardian.com/us-news/2023/aug/31/jeffrey-epstein-jpmorgan-1-billion-us-virgin-islands)
  - date_published: 2023-09-01T01:42:50+00:00
  - tags: ['jeffrey epstein']
+ - date_dead_since: 2026-03-29T23:23:55.901499+00:00
 
  ## As Hurricane Idalia caused flooding, some electric vehicles exposed to saltwater caught fire - CBS News
  - [https://www.cbsnews.com/news/hurricane-idalia-electric-car-caught-fire-tesla](https://www.cbsnews.com/news/hurricane-idalia-electric-car-caught-fire-tesla)
@@ -7171,6 +7260,7 @@
  - [https://www.annas-archive.org](https://www.annas-archive.org)
  - date_published: 2023-09-01T10:52:08+00:00
  - tags: ['library', 'open data', 'open source']
+ - date_dead_since: 2026-03-29T23:21:57.540376+00:00
 
  ## Controversy erupts in Jefferson County after the teachers union tells educators to destroy evidence of student surveys regarding gender identity - CBS Colorado
  - [https://www.cbsnews.com/colorado/news/colorado-controversy-erupts-jefferson-county-teachers-union-educators-destroy-evidence-student-surveys-gender-identity](https://www.cbsnews.com/colorado/news/colorado-controversy-erupts-jefferson-county-teachers-union-educators-destroy-evidence-student-surveys-gender-identity)
@@ -7186,11 +7276,13 @@
  - [https://www.silentlunch.net/p/a-studys-bombshell-finding-that-has](https://www.silentlunch.net/p/a-studys-bombshell-finding-that-has)
  - date_published: 2023-09-01T17:24:32+00:00
  - tags: ['covid', 'mandates', 'social distancing']
+ - date_dead_since: 2026-03-29T23:19:52.195440+00:00
 
  ## Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company
  - [https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company](https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company)
  - date_published: 2023-09-02T17:03:20+00:00
  - tags: ['facial recognition', 'manufacturing consent']
+ - date_dead_since: 2026-03-29T23:19:16.344412+00:00
 
  ## Woody Allen on Dylan and Ronan, Being Canceled and His New Movie - Variety
  - [https://variety.com/2023/film/global/woody-allen-dylan-ronan-being-canceled-new-movie-1235712494](https://variety.com/2023/film/global/woody-allen-dylan-ronan-being-canceled-new-movie-1235712494)
@@ -7201,6 +7293,7 @@
  - [https://gazoche.xyz/posts/boiling-frog](https://gazoche.xyz/posts/boiling-frog)
  - date_published: 2023-09-03T08:49:37+00:00
  - tags: ['corporatocracy', 'technofeudalism']
+ - date_dead_since: 2026-03-29T23:18:39.434100+00:00
 
  ## A developer built a 'propaganda machine' using OpenAI tech to highlight the dangers of mass-produced AI disinformation
  - [https://www.businessinsider.com/developer-creates-ai-disinformation-system-using-openai-2023-9](https://www.businessinsider.com/developer-creates-ai-disinformation-system-using-openai-2023-9)
@@ -7221,11 +7314,13 @@
  - [https://www.timesofisrael.com/netanyahu-again-vows-to-build-long-touted-fence-along-border-with-jordan](https://www.timesofisrael.com/netanyahu-again-vows-to-build-long-touted-fence-along-border-with-jordan)
  - date_published: 2023-09-03T20:42:42+00:00
  - tags: ['immigration', 'israel']
+ - date_dead_since: 2026-03-29T23:16:37.085766+00:00
 
  ## BBC bosses under pressure to explain why news report about convicted paedophile who sent sexual messages to 14-year-old boy was edited to remove mentions of his drag queen career
  - [https://www.dailymail.co.uk/news/article-12476901/BBC-bosses-pressure-explain-news-report-convicted-paedophile-sent-sexual-messages-14-year-old-boy-edited-remove-mentions-drag-queen-career.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12476901/BBC-bosses-pressure-explain-news-report-convicted-paedophile-sent-sexual-messages-14-year-old-boy-edited-remove-mentions-drag-queen-career.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-09-03T23:47:02+00:00
  - tags: ['drag queen', 'lgbt', 'the left wing']
+ - date_dead_since: 2026-03-29T23:15:58.817539+00:00
 
  ## RSS Feed Generator, News Feed Builder - New Sloth
  - [https://newsloth.com/product/feed-builder](https://newsloth.com/product/feed-builder)
@@ -7246,21 +7341,25 @@
  - [https://www.freshrss.org](https://www.freshrss.org)
  - date_published: 2023-09-04T10:11:35+00:00
  - tags: ['link aggregation', 'rss', 'rss client', 'selfhost']
+ - date_dead_since: 2026-03-29T23:12:43.412402+00:00
 
  ## LGBT chemicals conspiracy theory - Wikipedia
  - [https://en.wikipedia.org/wiki/LGBT_chemicals_conspiracy_theory](https://en.wikipedia.org/wiki/LGBT_chemicals_conspiracy_theory)
  - date_published: 2023-09-04T11:40:46+00:00
  - tags: ['conspiracy theory', 'depopulation', 'pollution']
+ - date_dead_since: 2026-03-29T23:12:07.385145+00:00
 
  ## Protests between Eritrean migrants turn violent in Israel
  - [https://www.nbcnews.com/now/video/protests-between-eritrean-migrants-turn-violent-in-israel-192258117579](https://www.nbcnews.com/now/video/protests-between-eritrean-migrants-turn-violent-in-israel-192258117579)
  - date_published: 2023-09-05T01:28:37+00:00
  - tags: ['eritrea', 'immigration', 'israel']
+ - date_dead_since: 2026-03-29T23:09:28.537322+00:00
 
  ## Anti-pattern - Wikipedia
  - [https://en.wikipedia.org/wiki/Anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern)
  - date_published: 2023-09-05T06:17:08+00:00
  - tags: ['anti-patterns', 'pattern', 'programming']
+ - date_dead_since: 2026-03-29T23:08:51.270486+00:00
 
  ## Freedom Convoy Truckers Trial Sparks Calls for 'Uprising'
  - [https://www.newsweek.com/freedom-convoy-trucker-trial-sparks-calls-uprising-1824646](https://www.newsweek.com/freedom-convoy-trucker-trial-sparks-calls-uprising-1824646)
@@ -7271,6 +7370,7 @@
  - [https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation)
  - date_published: 2023-09-05T13:42:57+00:00
  - tags: ['android', 'technofeudalism']
+ - date_dead_since: 2026-03-29T23:06:28.316632+00:00
 
  ## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
  - [https://patricktbrown.org](https://patricktbrown.org)
@@ -7281,6 +7381,7 @@
  - [https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
  - date_published: 2023-09-06T02:00:00+00:00
  - tags: ['electric vehicles', 'enshittification', 'privacy', 'surveillance', 'technofeudalism']
+ - date_dead_since: 2026-03-29T23:04:17.489261+00:00
 
  ## Google Chrome pushes browser history-based ad targeting
  - [https://www.theregister.com/2023/09/06/google_privacy_popup_chrome](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome)
@@ -7296,7 +7397,6 @@
  - [https://euro.dayfr.com/world/794851.html](https://euro.dayfr.com/world/794851.html)
  - date_published: 2023-09-06T15:54:27+00:00
  - tags: ['euthanasia']
- - date_dead_since: 2025-02-27T15:33:16.024005+00:00
 
  ## Online Safety Bill: encrypted messages to be saved - for now
  - [https://www.techradar.com/computing/cyber-security/online-safety-bill-encrypted-messages-to-be-saved-for-now](https://www.techradar.com/computing/cyber-security/online-safety-bill-encrypted-messages-to-be-saved-for-now)
@@ -7307,11 +7407,13 @@
  - [https://www.wsj.com/world/china/china-bans-iphone-use-for-government-officials-at-work-635fe2f8](https://www.wsj.com/world/china/china-bans-iphone-use-for-government-officials-at-work-635fe2f8)
  - date_published: 2023-09-06T17:29:59+00:00
  - tags: ['china']
+ - date_dead_since: 2026-03-29T22:59:50.626427+00:00
 
  ## *privacy not included | Shop smart and safe | Mozilla Foundation
  - [https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy)
  - date_published: 2023-09-06T18:56:19+00:00
  - tags: ['ad business', 'electric vehicles', 'privacy', 'surveillance', 'technofeudalism']
+ - date_dead_since: 2026-03-29T22:59:11.841807+00:00
 
  ## Tesla hit with class action lawsuit over alleged privacy intrusion | Reuters
  - [https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08)
@@ -7322,6 +7424,7 @@
  - [https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews)
  - date_published: 2023-09-06T20:45:37+00:00
  - tags: ['corporatocracy', 'manufacturing consent']
+ - date_dead_since: 2026-03-29T22:54:49.909931+00:00
 
  ## Ekonomiści zaniepokojeni tempem zadłużania się kraju. "Sytuacja jest dramatyczna"
  - [https://www.bankier.pl/wiadomosc/Ekonomisci-zaniepokojeni-tempem-zadluzania-sie-kraju-Sytuacja-jest-dramatyczna-8606849.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ekonomisci-zaniepokojeni-tempem-zadluzania-sie-kraju-Sytuacja-jest-dramatyczna-8606849.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -7332,16 +7435,19 @@
  - [https://www.foxla.com/news/after-school-satan-club-lancaster-library-protests](https://www.foxla.com/news/after-school-satan-club-lancaster-library-protests)
  - date_published: 2023-09-07T06:21:51+00:00
  - tags: ['satanic temple', 'satanism']
+ - date_dead_since: 2026-03-29T22:57:53.286062+00:00
 
  ## Trilateral Commission - Wikipedia
  - [https://en.wikipedia.org/wiki/Trilateral_Commission](https://en.wikipedia.org/wiki/Trilateral_Commission)
  - date_published: 2023-09-07T06:52:18+00:00
  - tags: ['trilateral commission']
+ - date_dead_since: 2026-03-29T22:57:17.776383+00:00
 
  ## Council on Foreign Relations - Wikipedia
  - [https://en.wikipedia.org/wiki/Council_on_Foreign_Relations](https://en.wikipedia.org/wiki/Council_on_Foreign_Relations)
  - date_published: 2023-09-07T07:03:18+00:00
  - tags: ['council on foreign relations']
+ - date_dead_since: 2026-03-29T22:56:41.352836+00:00
 
  ## 5 Best Noam Chomsky Books (2023) - Which Are a Must-Read?
  - [https://www.ereads.com/noam-chomsky](https://www.ereads.com/noam-chomsky)
@@ -7352,36 +7458,43 @@
  - [https://www.zzzuckerberg.com](https://www.zzzuckerberg.com)
  - date_published: 2023-09-07T09:04:54+00:00
  - tags: ['corporatocracy', 'eula', 'terms of service']
+ - date_dead_since: 2026-03-29T22:55:25.973962+00:00
 
  ## How Big Tech Got So Damn Big
  - [https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt)
  - date_published: 2023-09-07T11:00:00+00:00
  - tags: ['big tech', 'corporatocracy', 'network effect']
+ - date_dead_since: 2026-03-29T22:49:16.041898+00:00
 
  ## Discovery shines light on Church's protection of Jews during Nazi persecution
  - [https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html](https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html)
  - date_published: 2023-09-07T14:19:00+00:00
  - tags: ['righteous among the nations']
+ - date_dead_since: 2026-03-29T22:52:26.872424+00:00
 
  ## New Report Reveals Hollywood PR Firm Bunker 15 Paid For Positive Reviews To Manipulate Rotten Tomatoes Scores Of Bad Movies - Bounding Into Comics
  - [https://boundingintocomics.com/2023/09/07/new-report-reveals-hollywood-pr-firm-bunker-15-paid-for-positive-reviews-to-manipulate-rotten-tomatoes-scores-of-bad-movies](https://boundingintocomics.com/2023/09/07/new-report-reveals-hollywood-pr-firm-bunker-15-paid-for-positive-reviews-to-manipulate-rotten-tomatoes-scores-of-bad-movies)
  - date_published: 2023-09-07T20:32:57+00:00
  - tags: ['manufacturing consent', 'movies']
+ - date_dead_since: 2026-03-29T22:54:14.475906+00:00
 
  ## Elon Musk ordered Starlink to be turned off during Ukraine offensive, book says
  - [https://www.theguardian.com/technology/2023/sep/07/elon-musk-ordered-starlink-turned-off-ukraine-offensive-biography](https://www.theguardian.com/technology/2023/sep/07/elon-musk-ordered-starlink-turned-off-ukraine-offensive-biography)
  - date_published: 2023-09-07T22:14:11+00:00
  - tags: ['billionaires', 'elon musk', 'ukraine']
+ - date_dead_since: 2026-03-29T22:53:38.338723+00:00
 
  ## New York's Migrant Meltdown
  - [https://www.wsj.com/articles/eric-adams-migrant-crisis-will-destroy-new-york-city-kathy-hochul-greg-abbott-aba585d](https://www.wsj.com/articles/eric-adams-migrant-crisis-will-destroy-new-york-city-kathy-hochul-greg-abbott-aba585d)
  - date_published: 2023-09-07T22:27:00+00:00
  - tags: ['immigration']
+ - date_dead_since: 2026-03-29T22:53:02.486363+00:00
 
  ## Righteous Among the Nations - Wikipedia
  - [https://en.wikipedia.org/wiki/Righteous_Among_the_Nations](https://en.wikipedia.org/wiki/Righteous_Among_the_Nations)
  - date_published: 2023-09-08T11:34:19+00:00
  - tags: ['holocaust', 'righteous among the nations']
+ - date_dead_since: 2026-03-29T22:50:37.395540+00:00
 
  ## Tim Burton on cancel culture and his Beetlejuice sequel: ‘I used to think about society as like the angry villagers in Frankenstein’ | The Independent
  - [https://www.independent.co.uk/arts-entertainment/art/features/tim-burton-beetlejuice-2-johnny-depp-disney-b2406538.html](https://www.independent.co.uk/arts-entertainment/art/features/tim-burton-beetlejuice-2-johnny-depp-disney-b2406538.html)
@@ -7412,6 +7525,7 @@
  - [https://gizmodo.com/twitter-shadowban-the-new-york-times-nyt-elon-musk-1850825002](https://gizmodo.com/twitter-shadowban-the-new-york-times-nyt-elon-musk-1850825002)
  - date_published: 2023-09-11T16:02:15+00:00
  - tags: ['censorship', 'shadowban']
+ - date_dead_since: 2026-03-29T22:44:01.813638+00:00
 
  ## Threads blocks searches related to covid and vaccines amid surge
  - [https://www.washingtonpost.com/technology/2023/09/11/threads-covid-coronavirus-searches-blocked](https://www.washingtonpost.com/technology/2023/09/11/threads-covid-coronavirus-searches-blocked)
@@ -7427,6 +7541,7 @@
  - [https://www.theguardian.com/environment/2023/sep/12/world-bank-spent-billions-of-dollars-backing-fossil-fuels-in-2022-study-finds](https://www.theguardian.com/environment/2023/sep/12/world-bank-spent-billions-of-dollars-backing-fossil-fuels-in-2022-study-finds)
  - date_published: 2023-09-12T04:00:25+00:00
  - tags: ['climate change']
+ - date_dead_since: 2026-03-29T22:41:30.238293+00:00
 
  ## Unapologetic California mayor goes viral after being spanked with paddle by drag queen
  - [https://nypost.com/2023/09/12/burbank-mayor-konstantine-anthony-spanked-by-drag-queen](https://nypost.com/2023/09/12/burbank-mayor-konstantine-anthony-spanked-by-drag-queen)
@@ -7452,11 +7567,13 @@
  - [https://www.computerenhance.com/p/game-development-post-unity](https://www.computerenhance.com/p/game-development-post-unity)
  - date_published: 2023-09-14T00:19:07+00:00
  - tags: ['game engines', 'technofeudalism', 'unity']
+ - date_dead_since: 2026-03-29T22:40:07.632886+00:00
 
  ## How mobile apps illegally share your personal data
  - [https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
  - date_published: 2023-09-14T08:32:31+00:00
  - tags: ['privacy', 'surveillance']
+ - date_dead_since: 2026-03-29T22:38:43.730933+00:00
 
  ## "Alphabet Mafia" - Candace Owens Destroys LGBTQ Hypocrisy
  - [https://www.youtube.com/watch?v=V5woypekyQk](https://www.youtube.com/watch?v=V5woypekyQk)
@@ -7467,6 +7584,7 @@
  - [https://www.theguardian.com/media/2023/sep/15/social-media-firms-not-ready-to-tackle-misinformation-during-global-elections](https://www.theguardian.com/media/2023/sep/15/social-media-firms-not-ready-to-tackle-misinformation-during-global-elections)
  - date_published: 2023-09-15T05:00:53+00:00
  - tags: ['misinformation', 'moderation', 'social media']
+ - date_dead_since: 2026-03-29T22:38:04.706860+00:00
 
  ## GitHub - MarginaliaSearch/MarginaliaSearch: Internet search engine for text-oriented websites. Indexing the small, old and weird web.
  - [https://github.com/MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch)
@@ -7502,6 +7620,7 @@
  - [https://en.m.wikipedia.org/wiki/Bechtel](https://en.m.wikipedia.org/wiki/Bechtel)
  - date_published: 2023-09-16T18:36:15+00:00
  - tags: ['bechtel', 'billionaires']
+ - date_dead_since: 2026-03-29T22:33:51.199820+00:00
 
  ## Americas richest 10% is responsible for 40% of its planet heating pollution
  - [https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000190](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000190)
@@ -7512,6 +7631,7 @@
  - [https://en.m.wikipedia.org/wiki/Andy_and_Bill's_law](https://en.m.wikipedia.org/wiki/Andy_and_Bill's_law)
  - date_published: 2023-09-17T06:20:04+00:00
  - tags: ['bloatware', 'hardware', 'programming', 'software']
+ - date_dead_since: 2026-03-29T22:32:30.742210+00:00
 
  ## Polskie finanse zagrożone. Fundujemy sobie wysoki deficyt budżetowy i skokowy wzrost długu
  - [https://biznes.interia.pl/gospodarka/news-polski-dlug-gwaltownie-rosnie-wkrotce-moze-przekroczyc-pozio,nId,7027813](https://biznes.interia.pl/gospodarka/news-polski-dlug-gwaltownie-rosnie-wkrotce-moze-przekroczyc-pozio,nId,7027813)
@@ -7539,6 +7659,7 @@
  - [https://mrereports.substack.com/p/your-wifi-can-see-you](https://mrereports.substack.com/p/your-wifi-can-see-you)
  - date_published: 2023-09-19T02:24:13+00:00
  - tags: ['privacy', 'surveillance']
+ - date_dead_since: 2026-03-29T22:29:58.629345+00:00
 
  ## Online child safety law blocked after Calif. argued face scans not that invasive
  - [https://arstechnica.com/tech-policy/2023/09/online-child-safety-law-blocked-after-calif-argued-face-scans-not-that-invasive](https://arstechnica.com/tech-policy/2023/09/online-child-safety-law-blocked-after-calif-argued-face-scans-not-that-invasive)
@@ -7549,6 +7670,7 @@
  - [https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
  - date_published: 2023-09-19T12:50:14+00:00
  - tags: ['crypto wars', 'online safety bill', 'privacy', 'surveillance']
+ - date_dead_since: 2026-03-29T22:25:08.481358+00:00
 
  ## The UK passes massive online safety bill
  - [https://www.theverge.com/2023/9/19/23880919/uk-passes-massive-online-safety-bill](https://www.theverge.com/2023/9/19/23880919/uk-passes-massive-online-safety-bill)
@@ -7559,6 +7681,7 @@
  - [https://www.theguardian.com/technology/2023/sep/19/elon-musk-neuralink-human-trials-brain-implant](https://www.theguardian.com/technology/2023/sep/19/elon-musk-neuralink-human-trials-brain-implant)
  - date_published: 2023-09-20T01:03:19+00:00
  - tags: ['neuralink']
+ - date_dead_since: 2026-03-29T22:28:00.974371+00:00
 
  ## Księża zorganizowali imprezę z męską prostytutką. Interweniowało pogotowie, a potem policja
  - [https://sosnowiec.wyborcza.pl/sosnowiec/7,93867,30208685,ksieza-zorganizowali-impreze-z-meska-prostytutka-interweniowalo.html](https://sosnowiec.wyborcza.pl/sosnowiec/7,93867,30208685,ksieza-zorganizowali-impreze-z-meska-prostytutka-interweniowalo.html)
@@ -7589,6 +7712,7 @@
  - [https://www.theguardian.com/world/2023/sep/21/a-hidden-universe-of-suffering-the-palestinian-children-sent-to-jail](https://www.theguardian.com/world/2023/sep/21/a-hidden-universe-of-suffering-the-palestinian-children-sent-to-jail)
  - date_published: 2023-09-21T04:00:40+00:00
  - tags: ['israel', 'palestine']
+ - date_dead_since: 2026-03-29T22:23:51.753021+00:00
 
  ## The Age of the Grift Shift
  - [https://tante.cc/2023/09/21/the-age-of-the-grift-shift](https://tante.cc/2023/09/21/the-age-of-the-grift-shift)
@@ -7599,16 +7723,19 @@
  - [https://www.dailymail.co.uk/news/article-12547983/New-York-City-migrants-crisis-LA-Miami-Houston.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12547983/New-York-City-migrants-crisis-LA-Miami-Houston.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-09-22T06:10:28+00:00
  - tags: ['immigration']
+ - date_dead_since: 2026-03-29T22:22:43.793375+00:00
 
  ## Investigation: 78% of carbon offset projects globally are “likely junk“
  - [https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless)
  - date_published: 2023-09-22T16:26:06+00:00
  - tags: ['climate change']
+ - date_dead_since: 2026-03-29T22:15:44.445783+00:00
 
  ## Philips Hue will force users to upload their data to Hue cloud
  - [https://www.home-assistant.io/blog/2023/09/22/philips-hue-force-users-upload-data-to-cloud](https://www.home-assistant.io/blog/2023/09/22/philips-hue-force-users-upload-data-to-cloud)
  - date_published: 2023-09-22T18:04:53+00:00
  - tags: ['privacy', 'smart home', 'technofeudalism']
+ - date_dead_since: 2026-03-29T22:20:55.328467+00:00
 
  ## Why Canada is Collapsing: The Woke Nightmare
  - [https://www.youtube.com/watch?v=tgbvGjPt-iI](https://www.youtube.com/watch?v=tgbvGjPt-iI)
@@ -7674,6 +7801,7 @@
  - [https://www.rp.pl/polityka/art39180861-walka-z-covid-19-w-polsce-raport-nik-zarzuca-wladzy-daleko-idaca-niegospodarnosc](https://www.rp.pl/polityka/art39180861-walka-z-covid-19-w-polsce-raport-nik-zarzuca-wladzy-daleko-idaca-niegospodarnosc)
  - date_published: 2023-09-28T10:42:30+00:00
  - tags: ['covid', 'vaccine']
+ - date_dead_since: 2026-03-29T22:06:41.820774+00:00
 
  ## GitHub - benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine
  - [https://github.com/benbusby/whoogle-search](https://github.com/benbusby/whoogle-search)
@@ -7709,21 +7837,25 @@
  - [https://www.wired.com/story/google-antitrust-lawsuit-search-results](https://www.wired.com/story/google-antitrust-lawsuit-search-results)
  - date_published: 2023-10-02T12:00:00+00:00
  - tags: ['search engines']
+ - date_dead_since: 2026-03-29T21:59:23.171409+00:00
 
  ## UK passport images database could be used to catch shoplifters
  - [https://www.theguardian.com/uk-news/2023/oct/02/uk-passport-images-database-could-be-used-to-catch-shoplifters](https://www.theguardian.com/uk-news/2023/oct/02/uk-passport-images-database-could-be-used-to-catch-shoplifters)
  - date_published: 2023-10-02T18:28:50+00:00
  - tags: ['biometrics', 'facial recognition']
+ - date_dead_since: 2026-03-29T21:58:44.286218+00:00
 
  ## Local-first software: You own your data, in spite of the cloud (2019)
  - [https://www.inkandswitch.com/local-first](https://www.inkandswitch.com/local-first)
  - date_published: 2023-10-02T19:49:05+00:00
  - tags: ['selfhost']
+ - date_dead_since: 2026-03-29T21:58:07.797871+00:00
 
  ## Watch Out for Malicious Ads on Bing Chat
  - [https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698](https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698)
  - date_published: 2023-10-03T15:30:00+00:00
  - tags: ['ad business']
+ - date_dead_since: 2026-03-29T21:57:29.591307+00:00
 
  ## Google User Data Is Police's Top Shortcut for Solving Crimes
  - [https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
@@ -7734,6 +7866,7 @@
  - [https://redirect.invidious.io](https://redirect.invidious.io)
  - date_published: 2023-10-04T06:18:31+00:00
  - tags: ['selfhost', 'youtube']
+ - date_dead_since: 2026-03-29T21:56:04.965589+00:00
 
  ## Reasons not to use Google
  - [https://stallman.org/google.html](https://stallman.org/google.html)
@@ -7754,6 +7887,7 @@
  - [https://dotat.at/@/2023-05-26-whence-time.html](https://dotat.at/@/2023-05-26-whence-time.html)
  - date_published: 2023-10-05T13:42:37+00:00
  - tags: ['computers', 'hardware']
+ - date_dead_since: 2026-03-29T21:50:13.907557+00:00
 
  ## The Truth is Always Made of Details
  - [https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details)
@@ -7774,11 +7908,13 @@
  - [https://en.m.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism](https://en.m.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)
  - date_published: 2023-10-06T15:23:06+00:00
  - tags: ['book']
+ - date_dead_since: 2026-03-29T21:48:11.119586+00:00
 
  ## 23andMe scraping incident leaked data on 1.3M users
  - [https://therecord.media/scraping-incident-genetic-testing-site](https://therecord.media/scraping-incident-genetic-testing-site)
  - date_published: 2023-10-06T20:08:52+00:00
  - tags: ['23andme', 'data leak', 'privacy', 'vulnerability']
+ - date_dead_since: 2026-03-29T21:47:34.137801+00:00
 
  ## Microsoft 365 admins warned of new Google anti-spam rules
  - [https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules](https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules)
@@ -7799,16 +7935,19 @@
  - [https://pakobserver.net/palestine-death-toll-climbs-to-950-as-israel-raining-phosphorous-bombs-on-gaza](https://pakobserver.net/palestine-death-toll-climbs-to-950-as-israel-raining-phosphorous-bombs-on-gaza)
  - date_published: 2023-10-11T10:00:08+00:00
  - tags: ['israel']
+ - date_dead_since: 2026-03-29T21:44:50.024836+00:00
 
  ## Henry Kissinger on Hamas attacks fallout: Germany let in too many foreigners
  - [https://www.politico.eu/article/henry-kissinger-germany-let-in-way-too-many-foreigners](https://www.politico.eu/article/henry-kissinger-germany-let-in-way-too-many-foreigners)
  - date_published: 2023-10-11T21:25:40+00:00
  - tags: ['immigration']
+ - date_dead_since: 2026-03-29T21:44:11.371414+00:00
 
  ## Youtuber, przemoc, zagrożenie - lekcja z Pandora gate
  - [https://epedagogika.pl/top-tematy/czy-znany-youtuber-moze-byc-zagrozeniem-jaka-lekcja-na-temat-przemocy-w-sieci-plynie-z-afery-pandora-gate-7359.html](https://epedagogika.pl/top-tematy/czy-znany-youtuber-moze-byc-zagrozeniem-jaka-lekcja-na-temat-przemocy-w-sieci-plynie-z-afery-pandora-gate-7359.html)
  - date_published: 2023-10-12T06:10:52+00:00
  - tags: ['pandora gate', 'youtube']
+ - date_dead_since: 2026-03-29T21:43:33.905949+00:00
 
  ## Hamas was created by Israeli and US intelligence services to counteract Yasser Arafat, Ron Paul explains   – NaturalNews.com
  - [https://www.naturalnews.com/2023-10-12-hamas-created-israel-yasser-arafat-ron-paul.html](https://www.naturalnews.com/2023-10-12-hamas-created-israel-yasser-arafat-ron-paul.html)
@@ -7824,26 +7963,31 @@
  - [https://en.wikipedia.org/wiki/Kish%C5%8Dtenketsu](https://en.wikipedia.org/wiki/Kish%C5%8Dtenketsu)
  - date_published: 2023-10-12T14:36:55+00:00
  - tags: ['movies']
+ - date_dead_since: 2026-03-29T21:42:15.131264+00:00
 
  ## Hero's journey - Wikipedia
  - [https://en.wikipedia.org/wiki/Hero%27s_journey](https://en.wikipedia.org/wiki/Hero%27s_journey)
  - date_published: 2023-10-12T14:37:27+00:00
  - tags: ['movies']
+ - date_dead_since: 2026-03-29T21:41:35.973533+00:00
 
  ## Dan Harmon Story Circle: The 8-Step Storytelling Shortcut
  - [https://blog.reedsy.com/guide/story-structure/dan-harmon-story-circle](https://blog.reedsy.com/guide/story-structure/dan-harmon-story-circle)
  - date_published: 2023-10-12T14:39:36+00:00
  - tags: ['movies']
+ - date_dead_since: 2026-03-29T21:40:57.470885+00:00
 
  ## Israel-Gaza war in maps and charts: Live Tracker
  - [https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker](https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker)
  - date_published: 2023-10-12T15:00:17+00:00
  - tags: ['israel', 'palestine', 'war']
+ - date_dead_since: 2026-03-29T21:40:19.693308+00:00
 
  ## ‘Call me’: FCA releases messages between former Barclays boss and Jeffrey Epstein
  - [https://www.theguardian.com/business/2023/oct/12/call-me-fca-releases-messages-between-former-barclays-boss-and-jeffrey-epstein](https://www.theguardian.com/business/2023/oct/12/call-me-fca-releases-messages-between-former-barclays-boss-and-jeffrey-epstein)
  - date_published: 2023-10-12T18:21:35+00:00
  - tags: ['jeffrey epstein', 'jes staley']
+ - date_dead_since: 2026-03-29T21:39:44.115693+00:00
 
  ## The Education Propaganda Machine
  - [https://www.youtube.com/watch?v=U9AZbROlOdk](https://www.youtube.com/watch?v=U9AZbROlOdk)
@@ -7859,21 +8003,25 @@
  - [https://www.ft.com/content/7b9505ac-94c3-4688-a84d-cbecbf4f1f3b](https://www.ft.com/content/7b9505ac-94c3-4688-a84d-cbecbf4f1f3b)
  - date_published: 2023-10-13T10:00:29+00:00
  - tags: ['jeffrey epstein', 'jes staley']
+ - date_dead_since: 2026-03-29T23:28:31.685418+00:00
 
  ## Aurora Store | F-Droid - Free and Open Source Android App Repository
  - [https://f-droid.org/packages/com.aurora.store](https://f-droid.org/packages/com.aurora.store)
  - date_published: 2023-10-13T12:30:23+00:00
  - tags: ['lineageos']
+ - date_dead_since: 2026-03-29T21:37:50.259159+00:00
 
  ## An Intelligent Wikipedia
  - [https://matt-rickard.com/an-intelligent-wikipedia](https://matt-rickard.com/an-intelligent-wikipedia)
  - date_published: 2023-10-14T13:30:26+00:00
  - tags: ['wikipedia']
+ - date_dead_since: 2026-03-29T21:37:11.548953+00:00
 
  ## Undermining Democracy: The EU Commission's Controversial Push for Surveillance
  - [https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
  - date_published: 2023-10-14T14:16:46+00:00
  - tags: ['big brother', 'government control', 'privacy', 'surveillance']
+ - date_dead_since: 2026-03-29T21:36:32.805708+00:00
 
  ## End-Time Prophecy: Why is the Third Temple so Important? | Messianic Bible
  - [https://free.messianicbible.com/feature/end-time-prophecy-why-is-the-third-temple-so-important](https://free.messianicbible.com/feature/end-time-prophecy-why-is-the-third-temple-so-important)
@@ -7884,6 +8032,7 @@
  - [https://en.wikipedia.org/wiki/Third_Temple](https://en.wikipedia.org/wiki/Third_Temple)
  - date_published: 2023-10-14T20:48:05+00:00
  - tags: ['israel', 'third temple']
+ - date_dead_since: 2026-03-29T21:35:09.371173+00:00
 
  ## Don't use DISTINCT as a "join-fixer"
  - [https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer)
@@ -7909,6 +8058,7 @@
  - [https://www.pcmag.com/news/google-will-soon-scan-sideloaded-android-apps-for-malicious-code](https://www.pcmag.com/news/google-will-soon-scan-sideloaded-android-apps-for-malicious-code)
  - date_published: 2023-10-19T06:08:12+00:00
  - tags: ['google', 'technofeudalism']
+ - date_dead_since: 2026-03-29T21:31:02.337769+00:00
 
  ## I'm banned for life from advertising on Meta. Because I teach Python.
  - [https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python)
@@ -7919,6 +8069,7 @@
  - [https://www.planet-today.com/2023/10/london-mayor-signs-order-forcing.html?m=1](https://www.planet-today.com/2023/10/london-mayor-signs-order-forcing.html?m=1)
  - date_published: 2023-10-19T06:44:30+00:00
  - tags: ['climate change', 'planetarny health diet']
+ - date_dead_since: 2026-03-29T21:30:25.398351+00:00
 
  ## Israeli attacks wipe out entire families in Gaza
  - [https://www.amnesty.org/en/latest/news/2023/10/damning-evidence-of-war-crimes-as-israeli-attacks-wipe-out-entire-families-in-gaza](https://www.amnesty.org/en/latest/news/2023/10/damning-evidence-of-war-crimes-as-israeli-attacks-wipe-out-entire-families-in-gaza)
@@ -7929,11 +8080,13 @@
  - [https://github.com/Stability-AI/StableDiffusion](https://github.com/Stability-AI/StableDiffusion)
  - date_published: 2023-10-21T06:51:43+00:00
  - tags: ['artificial intelligence', 'stable diffusion']
+ - date_dead_since: 2026-03-29T21:28:27.213687+00:00
 
  ## https://www.perplexity.ai
  - [https://www.perplexity.ai](https://www.perplexity.ai)
  - date_published: 2023-10-23T07:50:10+00:00
  - tags: ['artificial intelligence', 'search engine']
+ - date_dead_since: 2026-03-29T21:27:49.544524+00:00
 
  ## Syphilis - Annual Epidemiological Report 2021
  - [https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2021](https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2021)
@@ -7949,11 +8102,13 @@
  - [https://www.aljazeera.com/news/2023/10/25/israel-to-refuse-visas-to-un-officials-after-guterres-speech-on-gaza-war](https://www.aljazeera.com/news/2023/10/25/israel-to-refuse-visas-to-un-officials-after-guterres-speech-on-gaza-war)
  - date_published: 2023-10-25T06:21:05+00:00
  - tags: ['israel']
+ - date_dead_since: 2026-03-29T21:25:14.450306+00:00
 
  ## Nowe badanie: Szczepionki na COVID i grypę zwiększają ryzyko udaru u seniorów
  - [https://www.rp.pl/covid19/art39326731-nowe-badanie-szczepionki-na-covid-i-grype-zwiekszaja-ryzyko-udaru-u-seniorow](https://www.rp.pl/covid19/art39326731-nowe-badanie-szczepionki-na-covid-i-grype-zwiekszaja-ryzyko-udaru-u-seniorow)
  - date_published: 2023-10-26T07:49:36+00:00
  - tags: ['covid']
+ - date_dead_since: 2026-03-29T21:24:38.617423+00:00
 
  ## The UK’s Controversial Online Safety Act Is Now Law
  - [https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law)
@@ -7964,6 +8119,7 @@
  - [https://www.rt.com/news/585966-israel-accuses-amnesty-international-antisemitism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585966-israel-accuses-amnesty-international-antisemitism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
  - date_published: 2023-10-27T14:41:44+00:00
  - tags: ['israel']
+ - date_dead_since: 2026-03-29T21:24:00.740282+00:00
 
  ## Pytania o elektryczną rewolucję. Koncerny mówią o poważnym problemie
  - [https://motoryzacja.interia.pl/raport-samochody-elektryczne/news-to-juz-koniec-trendu-na-elektryki-koncerny-mowia-o-powaznym-,nId,7113222](https://motoryzacja.interia.pl/raport-samochody-elektryczne/news-to-juz-koniec-trendu-na-elektryki-koncerny-mowia-o-powaznym-,nId,7113222)
@@ -8009,6 +8165,7 @@
  - [https://www.wsj.com/articles/inside-jeffrey-epsteins-circle-7ae25452](https://www.wsj.com/articles/inside-jeffrey-epsteins-circle-7ae25452)
  - date_published: 2023-11-03T16:16:00+00:00
  - tags: ['jeffrey epstein']
+ - date_dead_since: 2026-03-29T23:27:54.188706+00:00
 
  ## Brits make Amazon, Meta stop using third-party data to undercut rivals
  - [https://www.theregister.com/2023/11/04/amazon_meta_cma](https://www.theregister.com/2023/11/04/amazon_meta_cma)
@@ -8315,6 +8472,7 @@
  - [https://www.wsj.com/politics/national-security/the-u-s-governments-most-powerful-spying-tool-is-fighting-for-its-life-5c2516d5](https://www.wsj.com/politics/national-security/the-u-s-governments-most-powerful-spying-tool-is-fighting-for-its-life-5c2516d5)
  - date_published: 2023-12-09T21:06:56+00:00
  - tags: ['section 702', 'surveillance']
+ - date_dead_since: 2026-03-29T21:23:24.445722+00:00
 
  ## Trust-Based Moderation Systems
  - [https://cblgh.org/trustnet](https://cblgh.org/trustnet)
@@ -8340,6 +8498,7 @@
  - [https://www.gulf-insider.com/israel-starts-pumping-seawater-into-gaza-tunnels-after-russia-warned-against-war-crime](https://www.gulf-insider.com/israel-starts-pumping-seawater-into-gaza-tunnels-after-russia-warned-against-war-crime)
  - date_published: 2023-12-13T06:43:30+00:00
  - tags: ['israel']
+ - date_dead_since: 2026-03-29T21:22:08.903400+00:00
 
  ## Ex-Facebook diversity manager pleads guilty to bilking $4M from company
  - [https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds](https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds)

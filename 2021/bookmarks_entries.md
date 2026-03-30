@@ -39,6 +39,7 @@
  - [https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack)
  - date_published: 2021-01-06T22:36:04+00:00
  - tags: ['america', 'civil war']
+ - date_dead_since: 2026-03-29T23:11:31.016914+00:00
 
  ## Known Antifa members posed as pro-Trump to infiltrate Capitol riot: sources
  - [https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources](https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources)
@@ -2590,6 +2591,7 @@
  - [https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353](https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353)
  - date_published: 2021-09-13T06:55:27+00:00
  - tags: ['corporatocracy', 'elite', 'facebook', 'facebook files', 'inequality', 'manufacturing consent']
+ - date_dead_since: 2026-03-29T21:19:49.274794+00:00
 
  ## Chris Corbett on Twitter: "Hey @StarbucksUK and @TrustArc if you get rid of the unnecessary timeouts there won't be any need for this processing "status". This only happens when you customise your privacy settings, can you explain that? Funny how some dark patterns are just accepted. https://t.co/qA231RjSeb" / Twitter
  - [https://twitter.com/pixelscript/status/1436664488913215490](https://twitter.com/pixelscript/status/1436664488913215490)

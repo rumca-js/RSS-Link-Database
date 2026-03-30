@@ -42,6 +42,7 @@
  - [https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747](https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747)
  - date_published: 2025-01-20T12:13:18+00:00
  - tags: ['anthony fauci', 'joe biden']
+ - date_dead_since: 2026-03-29T22:13:38.885692+00:00
 
  ## $500m-valued Suno hit with new copyright lawsuit from Germany’s GEMA - Music Business Worldwide
  - [https://www.musicbusinessworldwide.com/500m-valued-suno-hit-with-new-copyright-lawsuit-from-germanys-gema](https://www.musicbusinessworldwide.com/500m-valued-suno-hit-with-new-copyright-lawsuit-from-germanys-gema)
@@ -220,21 +221,25 @@
  - [https://www.zdnet.com/article/a-new-android-feature-is-scanning-your-photos-for-sensitive-content-how-to-stop-it](https://www.zdnet.com/article/a-new-android-feature-is-scanning-your-photos-for-sensitive-content-how-to-stop-it)
  - date_published: 2025-02-25T17:10:00+00:00
  - tags: ['google', 'privacy', 'surveillance', 'technofeudalism']
+ - date_dead_since: 2026-03-29T21:54:39.184584+00:00
 
  ## Apple responds to its voice-to-text feature writing 'Trump' when a user says 'racist'
  - [https://www.tweaktown.com/news/103523/apple-responds-to-its-voice-text-feature-writing-trump-when-user-says-racist/index.html](https://www.tweaktown.com/news/103523/apple-responds-to-its-voice-text-feature-writing-trump-when-user-says-racist/index.html)
  - date_published: 2025-02-25T20:07:03+00:00
  - tags: ['donald trump', 'manufacturing consent']
+ - date_dead_since: 2026-03-29T22:09:14.605578+00:00
 
  ## Former OpenAI board member tells all about Altman’s ousting
  - [https://www.cio.com/article/2130365/former-openai-board-member-tells-all-about-altmans-ousting.html](https://www.cio.com/article/2130365/former-openai-board-member-tells-all-about-altmans-ousting.html)
  - date_published: 2025-02-26T01:00:00+00:00
  - tags: ['sam altman']
+ - date_dead_since: 2026-03-29T22:20:16.441637+00:00
 
  ## France is about to pass the worst surveillance law in the EU. We must stop them now! | Tuta
  - [https://tuta.com/blog/france-surveillance-nacrotrafic-law](https://tuta.com/blog/france-surveillance-nacrotrafic-law)
  - date_published: 2025-02-27T00:00:00+00:00
  - tags: ['crypto wars', 'france']
+ - date_dead_since: 2026-03-29T22:48:36.643225+00:00
 
  ## Apple AI tool transcribed the word 'racist' as 'Trump'
  - [https://www.bbc.co.uk/news/articles/c5ymvjjqzmeo](https://www.bbc.co.uk/news/articles/c5ymvjjqzmeo)
@@ -369,6 +374,7 @@
  - [https://www.euractiv.com/section/eet/news/europes-90-climate-target-for-2040-under-pressure-as-delays-add-up](https://www.euractiv.com/section/eet/news/europes-90-climate-target-for-2040-under-pressure-as-delays-add-up)
  - date_published: 2025-03-21T06:00:25+00:00
  - tags: ['climate change']
+ - date_dead_since: 2026-03-30T00:27:41.555168+00:00
 
  ## I won't connect my dishwasher to your stupid cloud
  - [https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud)
@@ -554,11 +560,13 @@
  - [https://www.thetimes.com/us/american-politics/article/epstein-client-list-to-be-released-files-xcl267j7k](https://www.thetimes.com/us/american-politics/article/epstein-client-list-to-be-released-files-xcl267j7k)
  - date_published: 2025-07-08T06:17:59.064944+00:00
  - tags: ['jeffrey epstein']
+ - date_dead_since: 2026-03-29T23:34:16.352062+00:00
 
  ## Jeffrey Epstein victim’s diary ‘contradicts’ FBI blackmail claims
  - [https://www.thetimes.com/article/6b098b76-8b43-4f0e-8f9d-b998531f3986](https://www.thetimes.com/article/6b098b76-8b43-4f0e-8f9d-b998531f3986)
  - date_published: 2025-07-08T06:45:58.170394+00:00
  - tags: ['jeffrey epstein']
+ - date_dead_since: 2026-03-29T23:39:22.534011+00:00
 
  ## Jeffrey Epstein victim’s diary ‘contradicts’ FBI blackmail claims
  - [https://web.archive.org/web/20250707230520/https://www.thetimes.com/article/6b098b76-8b43-4f0e-8f9d-b998531f3986](https://web.archive.org/web/20250707230520/https://www.thetimes.com/article/6b098b76-8b43-4f0e-8f9d-b998531f3986)

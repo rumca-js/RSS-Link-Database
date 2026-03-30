@@ -6,6 +6,7 @@
  - [https://www.gnu.org/philosophy/right-to-read.en.html](https://www.gnu.org/philosophy/right-to-read.en.html)
  - date_published: 1997-09-06T16:15:52+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism']
+ - date_dead_since: 2026-03-29T23:02:52.797542+00:00
 
  ## The currency of the new economy won't be money, but attention (1997)
  - [https://www.wired.com/1997/12/es-attention](https://www.wired.com/1997/12/es-attention)

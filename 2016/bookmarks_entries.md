@@ -123,6 +123,7 @@
  - [https://eavi.eu/explainer-pros-cons-adblocking](https://eavi.eu/explainer-pros-cons-adblocking)
  - date_published: 2016-04-26T13:44:50+00:00
  - tags: ['ad business']
+ - date_dead_since: 2026-03-29T21:38:29.261731+00:00
 
  ## Why The Female-Led Ghostbusters Reboot Failed At The Box Office
  - [https://tvovermind.com/why-the-ghostbusters-reboot-failed-at-the-box-office-failed](https://tvovermind.com/why-the-ghostbusters-reboot-failed-at-the-box-office-failed)
@@ -197,6 +198,7 @@
  - [https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger)
  - date_published: 2016-06-21T14:14:11+00:00
  - tags: ['debugger', 'programming']
+ - date_dead_since: 2026-03-30T00:49:55.505780+00:00
 
  ## Mark Zuckerberg Covers His Webcam With Tape. You Should, Too.
  - [https://slate.com/technology/2016/06/mark-zuckerberg-covers-his-webcam-with-tape-but-he-shouldn-t-have-to.html](https://slate.com/technology/2016/06/mark-zuckerberg-covers-his-webcam-with-tape-but-he-shouldn-t-have-to.html)

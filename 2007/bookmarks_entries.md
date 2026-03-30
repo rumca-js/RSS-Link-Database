@@ -31,6 +31,7 @@
  ## Winning through piracy -- Microsoft in China
  - [https://www.theguardian.com/technology/blog/2007/jul/18/winningthrough](https://www.theguardian.com/technology/blog/2007/jul/18/winningthrough)
  - date_published: 2007-07-18T11:28:25+00:00
+ - date_dead_since: 2026-03-29T23:08:13.222340+00:00
 
  ## CIA, FBI computers used for Wikipedia edits | Reuters
  - [https://www.reuters.com/article/us-security-wikipedia-idUSN1642896020070816](https://www.reuters.com/article/us-security-wikipedia-idUSN1642896020070816)

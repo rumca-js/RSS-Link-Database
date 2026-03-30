@@ -739,6 +739,7 @@
  - [https://www.netflix.com/title/80224905](https://www.netflix.com/title/80224905)
  - date_published: 2020-07-08T06:29:00+00:00
  - tags: ['jeffrey epstein']
+ - date_dead_since: 2026-03-29T23:36:52.268409+00:00
 
  ## Climate Change Is An Absolute Nightmare - This Is Why
  - [https://www.youtube.com/watch?v=uqwvf6R1_QY](https://www.youtube.com/watch?v=uqwvf6R1_QY)
@@ -794,6 +795,7 @@
  - [https://www.cnbc.com/2020/07/16/us-coronavirus-data-has-already-disappeared-after-trump-administration-shifted-control-from-cdc-to-hhs.html](https://www.cnbc.com/2020/07/16/us-coronavirus-data-has-already-disappeared-after-trump-administration-shifted-control-from-cdc-to-hhs.html)
  - date_published: 2020-07-16T13:31:16+00:00
  - tags: ['covid']
+ - date_dead_since: 2026-03-29T22:02:49.193193+00:00
 
  ## Disappearance of covid-19 data from CDC website spurs outcry
  - [https://www.washingtonpost.com/health/2020/07/16/coronavirus-hospitalization-data-outcry](https://www.washingtonpost.com/health/2020/07/16/coronavirus-hospitalization-data-outcry)
