@@ -265,6 +265,7 @@
  - [https://therecord.media/belgium-investigation-alleged-china-cyber-espionage-vsse](https://therecord.media/belgium-investigation-alleged-china-cyber-espionage-vsse)
  - date_published: 2025-03-03T18:36:31+00:00
  - tags: ['belgia', 'china', 'hackers', 'vulnerability']
+ - date_dead_since: 2026-03-30T03:04:28.489744+00:00
 
  ## How Google tracks Android device users before they've even opened an app
  - [https://www.theregister.com/2025/03/04/google_android](https://www.theregister.com/2025/03/04/google_android)
@@ -285,6 +286,7 @@
  - [https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows](https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows)
  - date_published: 2025-03-05T05:01:16+00:00
  - tags: ['climate change', 'co2', 'corporatocracy']
+ - date_dead_since: 2026-03-30T07:26:15.960771+00:00
 
  ## State of The Dead Internet
  - [https://www.youtube.com/watch?v=GELgKl_Wow8](https://www.youtube.com/watch?v=GELgKl_Wow8)
@@ -602,6 +604,7 @@
  - [https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified](https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified)
  - date_published: 2025-07-11T16:23:55+00:00
  - tags: ['jeffrey epstein']
+ - date_dead_since: 2026-03-30T03:03:47.164553+00:00
 
  ## Jeffrey Epstein News Just Got Crazier
  - [https://www.youtube.com/watch?v=YKBw3W4oDoo](https://www.youtube.com/watch?v=YKBw3W4oDoo)

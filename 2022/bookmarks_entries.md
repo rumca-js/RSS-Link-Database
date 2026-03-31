@@ -597,6 +597,7 @@
  - [https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy)
  - date_published: 2022-02-01T05:32:34+00:00
  - tags: ['programming']
+ - date_dead_since: 2026-03-30T03:56:20.497560+00:00
 
  ## Facebook says Apple iOS privacy change will result in $10 billion revenue hit this year
  - [https://www.cnbc.com/2022/02/02/facebook-says-apple-ios-privacy-change-will-cost-10-billion-this-year.html](https://www.cnbc.com/2022/02/02/facebook-says-apple-ios-privacy-change-will-cost-10-billion-this-year.html)
@@ -878,6 +879,7 @@
  - [https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave](https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave)
  - date_published: 2022-02-15T15:22:22+00:00
  - tags: ['depopulation', 'society', 'the left wing']
+ - date_dead_since: 2026-03-30T20:09:27.212340+00:00
 
  ## Google Search Is Dying
  - [https://dkb.io/post/google-search-is-dying](https://dkb.io/post/google-search-is-dying)
@@ -1089,6 +1091,7 @@
  - [https://en.wikipedia.org/wiki/Project_2025](https://en.wikipedia.org/wiki/Project_2025)
  - date_published: 2022-03-02T23:01:11+00:00
  - tags: ['donald trump', 'project 2025']
+ - date_dead_since: 2026-03-30T02:21:50.241196+00:00
 
  ## SPAs were a mistake | Go Make Things
  - [https://gomakethings.com/spas-were-a-mistake](https://gomakethings.com/spas-were-a-mistake)
