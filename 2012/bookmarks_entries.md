@@ -118,6 +118,7 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - [https://www.theguardian.com/technology/2012/sep/11/minnesota-woman-songs-illegally-downloaded](https://www.theguardian.com/technology/2012/sep/11/minnesota-woman-songs-illegally-downloaded)
  - date_published: 2012-09-11T21:10:00+00:00
  - tags: ['piracy']
+ - date_dead_since: 2026-03-31T06:44:54.285628+00:00
 
  ## Decline of bees forces China’s apple farmers to pollinate by hand
  - [https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand](https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand)

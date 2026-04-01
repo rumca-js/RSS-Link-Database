@@ -307,6 +307,7 @@
  - [https://www.theguardian.com/technology/2018/apr/17/facebook-people-first-ever-mark-zuckerberg-harvard](https://www.theguardian.com/technology/2018/apr/17/facebook-people-first-ever-mark-zuckerberg-harvard)
  - date_published: 2018-04-17T07:01:30+00:00
  - tags: ['facebook', 'mark zuckerberg']
+ - date_dead_since: 2026-03-31T21:28:17.106539+00:00
 
  ## A Google update just created a big problem for anti-censorship tools
  - [https://www.theverge.com/2018/4/18/17253784/google-domain-fronting-discontinued-signal-tor-vpn](https://www.theverge.com/2018/4/18/17253784/google-domain-fronting-discontinued-signal-tor-vpn)

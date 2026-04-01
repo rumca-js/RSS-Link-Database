@@ -1234,6 +1234,7 @@
  - [https://www.cnbc.com/2024/10/05/china-linked-security-breach-targeted-us-wiretap-systems-wsj-reports.html](https://www.cnbc.com/2024/10/05/china-linked-security-breach-targeted-us-wiretap-systems-wsj-reports.html)
  - date_published: 2024-10-05T16:18:11+00:00
  - tags: ['privacy', 'surveillance']
+ - date_dead_since: 2026-03-31T11:58:23.714610+00:00
 
  ## Salt Typhoon Hack Shows There's No Security Backdoor That's Only For The "Good Guys"
  - [https://www.eff.org/deeplinks/2024/10/salt-typhoon-hack-shows-theres-no-security-backdoor-thats-only-good-guys](https://www.eff.org/deeplinks/2024/10/salt-typhoon-hack-shows-theres-no-security-backdoor-thats-only-good-guys)

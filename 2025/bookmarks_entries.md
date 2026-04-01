@@ -297,6 +297,7 @@
  - [https://www.dropsitenews.com/p/microsoft-azure-israel-top-customer-ai-cloud?link_id=4&can_id=e75bb10909edf521c6363d3b56c86337&source=email-microsoft-has-blood-on-its-hands-2&email_referrer=email_2640424&email_subject=microsoft-has-blood-on-its-hands](https://www.dropsitenews.com/p/microsoft-azure-israel-top-customer-ai-cloud?link_id=4&can_id=e75bb10909edf521c6363d3b56c86337&source=email-microsoft-has-blood-on-its-hands-2&email_referrer=email_2640424&email_subject=microsoft-has-blood-on-its-hands)
  - date_published: 2025-03-06T11:04:47+00:00
  - tags: ['israel']
+ - date_dead_since: 2026-03-31T10:08:27.886751+00:00
 
  ## These Words Are Disappearing in the New Trump Administration
  - [https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html](https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html)
@@ -347,6 +348,7 @@
  - [https://www.ft.com/content/64a2345e-3961-4d5d-ae04-82d933fa5a2c](https://www.ft.com/content/64a2345e-3961-4d5d-ae04-82d933fa5a2c)
  - date_published: 2025-03-12T05:00:01+00:00
  - tags: ['palantir']
+ - date_dead_since: 2026-03-31T11:24:13.684698+00:00
 
  ## Amazon forest felled to build road for climate summit
  - [https://www.bbc.com/news/articles/c9vy191rgn1o](https://www.bbc.com/news/articles/c9vy191rgn1o)
