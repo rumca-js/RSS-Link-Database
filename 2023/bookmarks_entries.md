@@ -3643,16 +3643,19 @@
  - [https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)
  - date_published: 2023-04-21T17:57:25+00:00
  - tags: ['antarctic', 'climate change']
+ - date_dead_since: 2026-04-01T13:37:42.335452+00:00
 
  ## Fire Mark Zuckerberg
  - [https://ez.substack.com/p/fire-mark-zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
  - date_published: 2023-04-21T18:29:21+00:00
  - tags: ['facebook', 'mark zuckerberg', 'meta']
+ - date_dead_since: 2026-04-01T13:19:13.352687+00:00
 
  ## Greenhouse gas emissions - Our World in Data
  - [https://ourworldindata.org/greenhouse-gas-emissions](https://ourworldindata.org/greenhouse-gas-emissions)
  - date_published: 2023-04-23T07:03:27+00:00
  - tags: ['climate change', 'science']
+ - date_dead_since: 2026-04-01T13:13:25.799950+00:00
 
  ## Chinese Censorship Is Quietly Rewriting the Covid-19 Story
  - [https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html](https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html)
@@ -3663,6 +3666,7 @@
  - [https://www.timesofisrael.com/israel-police-use-of-nso-spyware-set-to-be-probed-by-knesset-subcommittee](https://www.timesofisrael.com/israel-police-use-of-nso-spyware-set-to-be-probed-by-knesset-subcommittee)
  - date_published: 2023-04-23T09:50:31+00:00
  - tags: ['espionage', 'israel', 'pegasus', 'surveillance']
+ - date_dead_since: 2026-04-01T12:54:21.535364+00:00
 
  ## Lockdown’s cancer bomb may soon be worse than Covid itself
  - [https://www.telegraph.co.uk/news/2023/04/24/lockdowns-cancer-bomb-may-soon-be-worse-than-covid-itself](https://www.telegraph.co.uk/news/2023/04/24/lockdowns-cancer-bomb-may-soon-be-worse-than-covid-itself)
@@ -3673,16 +3677,19 @@
  - [https://adage.com/article/marketing-news-strategy/bud-light-dylan-mulvaney-sales-drop-induces-panic-brand/2489971](https://adage.com/article/marketing-news-strategy/bud-light-dylan-mulvaney-sales-drop-induces-panic-brand/2489971)
  - date_published: 2023-04-23T11:38:33+00:00
  - tags: ['go woke go broke', 'the left wing']
+ - date_dead_since: 2026-04-01T12:32:10.826948+00:00
 
  ## Mastodon Is Doomed
  - [https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed)
  - date_published: 2023-04-24T00:00:00+00:00
  - tags: ['decentralisation', 'fediverse', 'mastodon']
+ - date_dead_since: 2026-04-01T10:42:40.438235+00:00
 
  ## 85% of business leaders would let a robot make their decisions
  - [https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions](https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions)
  - date_published: 2023-04-24T04:00:00+00:00
  - tags: ['artificial intelligence']
+ - date_dead_since: 2026-04-01T12:21:51.859370+00:00
 
  ## UK Threatens End-to-End Encryption
  - [https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
@@ -3693,11 +3700,13 @@
  - [https://www.understandingai.org/p/software-didnt-eat-the-world](https://www.understandingai.org/p/software-didnt-eat-the-world)
  - date_published: 2023-04-24T16:44:30+00:00
  - tags: ['artificial intelligence']
+ - date_dead_since: 2026-04-01T11:48:23.019000+00:00
 
  ## Pfizer Quietly Financed Groups Lobbying for COVID Vaccine Mandates
  - [https://www.leefang.com/p/pfizer-quietly-financed-groups-lobbying](https://www.leefang.com/p/pfizer-quietly-financed-groups-lobbying)
  - date_published: 2023-04-24T20:06:32+00:00
  - tags: ['covid', 'covid mandates', 'covid money', 'pfizer']
+ - date_dead_since: 2026-04-01T11:38:34.545805+00:00
 
  ## after ten years, John Deere FINALLY lost
  - [https://www.youtube.com/watch?v=4gZwaIjpZB0](https://www.youtube.com/watch?v=4gZwaIjpZB0)
@@ -3718,11 +3727,13 @@
  - [https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html](https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html)
  - date_published: 2023-04-25T07:08:00+00:00
  - tags: ['anti-vax', 'covid', 'the right wing', 'vaccine']
+ - date_dead_since: 2026-04-01T11:32:21.999969+00:00
 
  ## Amazon reviews are being written by AI chatbots
  - [https://www.cnbc.com/2023/04/25/amazon-reviews-are-being-written-by-ai-chatbots.html](https://www.cnbc.com/2023/04/25/amazon-reviews-are-being-written-by-ai-chatbots.html)
  - date_published: 2023-04-25T14:45:09+00:00
  - tags: ['amazon', 'artificial intelligence', 'dead internet']
+ - date_dead_since: 2026-04-01T11:18:20.001899+00:00
 
  ## Justin Trudeau accused of rewriting history by claiming he never forced anyone to get vaccinated
  - [https://www.foxnews.com/media/justin-trudeau-accused-rewriting-history-claiming-never-forced-anyone-get-vaccinated](https://www.foxnews.com/media/justin-trudeau-accused-rewriting-history-claiming-never-forced-anyone-get-vaccinated)
@@ -3733,6 +3744,7 @@
  - [https://jeromeaparis.substack.com/p/the-real-lesson-about-the-end-of](https://jeromeaparis.substack.com/p/the-real-lesson-about-the-end-of)
  - date_published: 2023-04-26T09:30:54+00:00
  - tags: ['atom', 'climate change', 'germany']
+ - date_dead_since: 2026-04-01T11:08:24.363122+00:00
 
  ## Prokuratura "nie ma 100-proc. pewności", że handlarz bronią od respiratorów nie żyje
  - [https://wyborcza.pl/7,75398,29702938,prokuratura-nie-ma-100-proc-pewnosci-ze-handlarz-bronia.html#S.MT-K.C-B.1-L.1.duzy](https://wyborcza.pl/7,75398,29702938,prokuratura-nie-ma-100-proc-pewnosci-ze-handlarz-bronia.html#S.MT-K.C-B.1-L.1.duzy)
@@ -3749,6 +3761,7 @@
  - [https://apnews.com/article/brazil-telegram-suspension-social-media-school-violence-d72acaacd3c1b4d07c2c4fcb094f4ce6](https://apnews.com/article/brazil-telegram-suspension-social-media-school-violence-d72acaacd3c1b4d07c2c4fcb094f4ce6)
  - date_published: 2023-04-27T01:44:59+00:00
  - tags: ['big brother', 'crypto wars', 'telegram', 'the right wing']
+ - date_dead_since: 2026-04-01T10:25:25.152958+00:00
 
  ## Przepisy covidowe niekonstytucyjne. Eksperci: nie powinny już funkcjonować
         
@@ -3776,6 +3789,7 @@
  - [https://www.palladiummag.com/2023/04/27/britain-is-dead](https://www.palladiummag.com/2023/04/27/britain-is-dead)
  - date_published: 2023-04-28T03:51:31+00:00
  - tags: ['england']
+ - date_dead_since: 2026-04-01T09:07:06.417548+00:00
 
  ## Reddit - laurene powell jobs and ghistlaine maxwell
  - [https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine](https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine)
@@ -3786,16 +3800,19 @@
  - [https://www.cnbc.com/2023/04/28/chinese-hackers-outnumber-fbi-cyber-staff-50-to-1-director-wray-says.html](https://www.cnbc.com/2023/04/28/chinese-hackers-outnumber-fbi-cyber-staff-50-to-1-director-wray-says.html)
  - date_published: 2023-04-28T15:07:30+00:00
  - tags: ['china']
+ - date_dead_since: 2026-04-01T10:11:15.749137+00:00
 
  ## How The FBI Helps Ukrainian Intelligence Hunt ‘Disinformation’ On Social Media
  - [https://www.leefang.com/p/how-the-fbi-helps-ukrainian-intelligence](https://www.leefang.com/p/how-the-fbi-helps-ukrainian-intelligence)
  - date_published: 2023-04-28T20:01:42+00:00
  - tags: ['disinformation', 'fbi', 'social media', 'ukraine', 'war']
+ - date_dead_since: 2026-04-01T10:10:38.099434+00:00
 
  ## WEF calls on leaders to make “good use” of mass data collection
  - [https://reclaimthenet.org/wef-calls-on-leaders-to-make-good-use-of-mass-data-collection](https://reclaimthenet.org/wef-calls-on-leaders-to-make-good-use-of-mass-data-collection)
  - date_published: 2023-04-28T20:55:58+00:00
  - tags: ['surveillance', 'world economic forum']
+ - date_dead_since: 2026-04-01T09:20:01.177683+00:00
 
  ## Internet in a Box
  - [https://internet-in-a-box.org](https://internet-in-a-box.org)
@@ -3806,6 +3823,7 @@
  - [https://reclaimthenet.org/telegram-ceo-tells-brazils-government-its-censorship-demands-are-impossible](https://reclaimthenet.org/telegram-ceo-tells-brazils-government-its-censorship-demands-are-impossible)
  - date_published: 2023-04-29T15:08:17+00:00
  - tags: ['big brother', 'brasil', 'censorship', 'crypto wars', 'privacy', 'surveillance', 'telegram']
+ - date_dead_since: 2026-04-01T08:53:15.512744+00:00
 
  ## Get The TLDR Of Any YouTube Video
  - [https://www.you-tldr.com](https://www.you-tldr.com)
@@ -3816,11 +3834,13 @@
  - [https://www.androidauthority.com/google-open-ecosystem-lock-3315205](https://www.androidauthority.com/google-open-ecosystem-lock-3315205)
  - date_published: 2023-04-29T18:00:43+00:00
  - tags: ['monopoly', 'selfhost', 'walled garden']
+ - date_dead_since: 2026-04-01T08:32:37.925668+00:00
 
  ## Criticizing China’s lockdowns are a “microaggression” and should be reported through online portal, UK university says
  - [https://reclaimthenet.org/microaggression-reported-through-online-portal-uk-university](https://reclaimthenet.org/microaggression-reported-through-online-portal-uk-university)
  - date_published: 2023-04-29T19:24:25+00:00
  - tags: ['censorship', 'china', 'england', 'hate speech', 'lockdown', 'zero covid']
+ - date_dead_since: 2026-04-01T08:23:15.017373+00:00
 
  ## Epstein's Private Calendar Reveals Prominent Names, Including CIA Chief, Goldman's Top Lawyer
  - [https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff](https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff)
@@ -3832,6 +3852,7 @@
  - [https://mastodon.social/@runasand/110286780839680620](https://mastodon.social/@runasand/110286780839680620)
  - date_published: 2023-04-30T14:22:50+00:00
  - tags: ['facial recognition', 'privacy']
+ - date_dead_since: 2026-04-01T08:18:00.190052+00:00
 
  ## AI has hacked the operating system of human civilisation
  - [https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
@@ -3842,21 +3863,25 @@
  - [https://paulkingsnorth.substack.com/p/the-universal](https://paulkingsnorth.substack.com/p/the-universal)
  - date_published: 2023-04-30T19:23:44+00:00
  - tags: ['artificial intelligence', 'internet']
+ - date_dead_since: 2026-04-01T08:03:23.830805+00:00
 
  ## Indian government bans 14 messenger apps including Element, Briar and Threema
  - [https://news.abplive.com/technology/india-ban-messaging-messenger-apps-mobile-pakistan-terrorism-connection-crypviser-enigma-safeswiss-bchat-1599074](https://news.abplive.com/technology/india-ban-messaging-messenger-apps-mobile-pakistan-terrorism-connection-crypviser-enigma-safeswiss-bchat-1599074)
  - date_published: 2023-05-01T04:51:24+00:00
  - tags: ['censorship', 'crypto wars', 'government control', 'india']
+ - date_dead_since: 2026-04-01T07:53:39.988199+00:00
 
  ## Court Protects Redditors' Right to Anonymous Speech in Piracy Case * TorrentFreak
  - [https://torrentfreak.com/court-protects-redditors-right-to-anonymous-speech-in-piracy-case-230501](https://torrentfreak.com/court-protects-redditors-right-to-anonymous-speech-in-piracy-case-230501)
  - date_published: 2023-05-01T08:37:16+00:00
  - tags: ['anonymity', 'big brother', 'censorship', 'free speech', 'government control']
+ - date_dead_since: 2026-04-01T07:37:09.079555+00:00
 
  ## Bill C-11 Becomes Law, Forcing Streamers To Support Canadian Content - MarketWatch
  - [https://www.marketwatch.com/press-release/bill-c-11-becomes-law-forcing-streamers-to-support-canadian-content-2023-05-01](https://www.marketwatch.com/press-release/bill-c-11-becomes-law-forcing-streamers-to-support-canadian-content-2023-05-01)
  - date_published: 2023-05-01T12:47:52+00:00
  - tags: ['bill c-11', 'canada']
+ - date_dead_since: 2026-04-01T07:18:27.024298+00:00
 
  ## Why does nuclear power plant construction cost so much?
  - [https://progress.institute/nuclear-power-plant-construction-costs](https://progress.institute/nuclear-power-plant-construction-costs)
@@ -3867,26 +3892,31 @@
  - [https://www.privacyguides.org/en](https://www.privacyguides.org/en)
  - date_published: 2023-05-01T20:00:52+00:00
  - tags: ['privacy']
+ - date_dead_since: 2026-04-01T07:08:08.430583+00:00
 
  ## The EARN IT bill is back. We've killed it twice, let's do it again
  - [https://tutanota.com/blog/posts/earn-it-barr-encryption](https://tutanota.com/blog/posts/earn-it-barr-encryption)
  - date_published: 2023-05-02T00:00:00+00:00
  - tags: ['big brother', 'earn it act', 'government control', 'surveillance']
+ - date_dead_since: 2026-04-01T02:34:18.884439+00:00
 
  ## Dr. John Campbell Suspended from YouTube for 'Medical Misinformation' | Hacker News
  - [https://news.ycombinator.com/item?id=35791530](https://news.ycombinator.com/item?id=35791530)
  - date_published: 2023-05-02T08:55:09+00:00
  - tags: ['censorship', 'covid', 'dr. john campbell', 'misinformation', 'youtube']
+ - date_dead_since: 2026-04-01T06:43:02.301813+00:00
 
  ## Hate speech bill advances in Ireland amid fears it would silence J.K. Rowling and the Church | Catholic News Agency
  - [https://www.catholicnewsagency.com/news/254219/hate-speech-bill-advances-in-ireland-amid-fears-it-would-silence-jk-rowling-catholicand-the-catholic-church](https://www.catholicnewsagency.com/news/254219/hate-speech-bill-advances-in-ireland-amid-fears-it-would-silence-jk-rowling-catholicand-the-catholic-church)
  - date_published: 2023-05-02T09:45:03+00:00
  - tags: ['big brother', 'bill 2022', 'censorship', 'government control', 'ireland']
+ - date_dead_since: 2026-04-01T06:36:38.500934+00:00
 
  ## New Tool Shows if Your Car Might Be Tracking You, Selling Your Data
  - [https://www.vice.com/en/article/n7enex/tool-shows-if-car-selling-data-privacy4cars-vehicle-privacy-report](https://www.vice.com/en/article/n7enex/tool-shows-if-car-selling-data-privacy4cars-vehicle-privacy-report)
  - date_published: 2023-05-02T12:00:00+00:00
  - tags: ['electric vehicles', 'privacy', 'surveillance', 'technofeudalism']
+ - date_dead_since: 2026-04-01T05:52:16.736090+00:00
 
  ## IBM plans to replace 7,800 jobs with AI over time, pauses hiring certain positions
  - [https://arstechnica.com/?p=1935937](https://arstechnica.com/?p=1935937)
@@ -3902,26 +3932,31 @@
  - [https://reclaimthenet.org/irelands-plan-to-criminalize-hate-speech](https://reclaimthenet.org/irelands-plan-to-criminalize-hate-speech)
  - date_published: 2023-05-02T17:19:04+00:00
  - tags: ['bill 2022', 'censorship', 'government control', 'ireland']
+ - date_dead_since: 2026-04-01T06:18:02.673214+00:00
 
  ## Elon Musk Dunks on ‘Woke’ Vice’s Looming Bankruptcy
  - [https://www.thedailybeast.com/elon-musk-dunks-on-woke-vices-looming-bankruptcy](https://www.thedailybeast.com/elon-musk-dunks-on-woke-vices-looming-bankruptcy)
  - date_published: 2023-05-02T19:56:00+00:00
  - tags: ['go woke go broke', 'the left wing', 'vice']
+ - date_dead_since: 2026-04-01T06:03:09.146099+00:00
 
  ## AI could create religions to control humans, warns Sapiens author Harari
  - [https://www.thetimes.co.uk/article/ai-will-could-religions-to-to-control-humans-warns-sapiens-author-harari-fhbzgbv7b](https://www.thetimes.co.uk/article/ai-will-could-religions-to-to-control-humans-warns-sapiens-author-harari-fhbzgbv7b)
  - date_published: 2023-05-02T22:24:57+00:00
  - tags: ['artificial intelligence', 'yuval noah harari']
+ - date_dead_since: 2026-04-01T05:43:31.369203+00:00
 
  ## Somehow AutoHotKey is kinda good now
  - [https://www.hillelwayne.com/post/ahk-v2](https://www.hillelwayne.com/post/ahk-v2)
  - date_published: 2023-05-03T00:00:00+00:00
  - tags: ['autohotkey']
+ - date_dead_since: 2026-04-01T04:03:01.748947+00:00
 
  ## Immunologist is investigated by University for liking vaccine skeptic tweets, gender surgery criticism
  - [https://reclaimthenet.org/dr-mark-tykocinski-for-liking-vaccine-skeptic-tweets](https://reclaimthenet.org/dr-mark-tykocinski-for-liking-vaccine-skeptic-tweets)
  - date_published: 2023-05-03T01:42:29+00:00
  - tags: ['censorship', 'social media']
+ - date_dead_since: 2026-04-01T05:33:14.316373+00:00
 
  ## De-dollarization is happening at a ‘stunning’ pace
  - [https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
@@ -3932,11 +3967,13 @@
  - [https://www.theguardian.com/global-development/2023/may/03/six-libyans-face-death-penalty-for-converting-to-christianity](https://www.theguardian.com/global-development/2023/may/03/six-libyans-face-death-penalty-for-converting-to-christianity)
  - date_published: 2023-05-03T05:00:05+00:00
  - tags: ['christianophobia']
+ - date_dead_since: 2026-04-01T05:17:02.854055+00:00
 
  ## Donald Trump seeks to move New York hush money criminal case to federal court | CNN Politics
  - [https://edition.cnn.com/2023/05/04/politics/trump-bragg-hearing/index.html](https://edition.cnn.com/2023/05/04/politics/trump-bragg-hearing/index.html)
  - date_published: 2023-05-03T07:19:30+00:00
  - tags: ['donald trump']
+ - date_dead_since: 2026-04-01T05:11:51.322497+00:00
 
  ## Even Gmail has blue verification checks now
  - [https://www.engadget.com/even-gmail-has-blue-verification-checks-now-200234105.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABPBUOhlfJGcPk6_3u-z81M42rhafKZekv7CplC1EPeUC6XU4PoaZGPnIOzrpkU5m9ypA71MrvLmM336WYodL5tQDFadkzZf_G1P5Jl036S_SGTBYh6d-NqyzHb6xEVqIX1SVT2TasHNILLA8r9bNOh9lrOuOMmeYpt-2sJM0lqd](https://www.engadget.com/even-gmail-has-blue-verification-checks-now-200234105.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABPBUOhlfJGcPk6_3u-z81M42rhafKZekv7CplC1EPeUC6XU4PoaZGPnIOzrpkU5m9ypA71MrvLmM336WYodL5tQDFadkzZf_G1P5Jl036S_SGTBYh6d-NqyzHb6xEVqIX1SVT2TasHNILLA8r9bNOh9lrOuOMmeYpt-2sJM0lqd)
@@ -3957,6 +3994,7 @@
  - [https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
  - date_published: 2023-05-03T13:36:24+00:00
  - tags: ['dyi', 'framework']
+ - date_dead_since: 2026-04-01T04:22:42.348252+00:00
 
  ## Google, Microsoft CEOs Called to AI Meeting at White House
  - [https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02)
@@ -3987,21 +4025,25 @@
  - [https://www.theguardian.com/technology/2023/may/04/google-rolls-out-passkey-technology-in-beginning-of-the-end-for-passwords](https://www.theguardian.com/technology/2023/may/04/google-rolls-out-passkey-technology-in-beginning-of-the-end-for-passwords)
  - date_published: 2023-05-04T07:28:57+00:00
  - tags: ['biometric', 'google', 'passwords', 'privacy']
+ - date_dead_since: 2026-04-01T03:53:11.590734+00:00
 
  ## OpenAI’s Losses Doubled to $540 Million as It Developed ChatGPT — The Information
  - [https://www.theinformation.com/articles/openais-losses-doubled-to-540-million-as-it-developed-chatgpt](https://www.theinformation.com/articles/openais-losses-doubled-to-540-million-as-it-developed-chatgpt)
  - date_published: 2023-05-04T07:33:07+00:00
  - tags: ['artificial intelligence', 'chatgpt', 'openai']
+ - date_dead_since: 2026-04-01T03:47:25.426789+00:00
 
  ## Ex-Uber security chief sentenced for data-breach cover-up - ABC News
  - [https://abcnews.go.com/US/wireStory/uber-security-chief-sentenced-data-breach-cover-99095920](https://abcnews.go.com/US/wireStory/uber-security-chief-sentenced-data-breach-cover-99095920)
  - date_published: 2023-05-04T08:17:07+00:00
  - tags: ['data leak', 'hackers', 'uber']
+ - date_dead_since: 2026-04-01T03:38:03.512512+00:00
 
  ## Google to abolish passwords for ‘passkeys’: Here’s what to know
  - [https://www.aljazeera.com/news/2023/5/4/google-to-abolish-passwords-for-passkeys-heres-what-to-know](https://www.aljazeera.com/news/2023/5/4/google-to-abolish-passwords-for-passkeys-heres-what-to-know)
  - date_published: 2023-05-04T08:53:50+00:00
  - tags: ['biometric', 'google', 'passwords', 'privacy']
+ - date_dead_since: 2026-04-01T03:32:14.369060+00:00
 
  ## Google “We have no moat, and neither does OpenAI”
  - [https://www.semianalysis.com/p/google-we-have-no-moat-and-neither](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
@@ -4012,6 +4054,7 @@
  - [https://en.wikipedia.org/wiki/Digital_Markets_Act](https://en.wikipedia.org/wiki/Digital_Markets_Act)
  - date_published: 2023-05-04T13:19:32+00:00
  - tags: ['digital markets act']
+ - date_dead_since: 2026-04-01T03:18:36.241833+00:00
 
  ## Europeans drain billions from banks, fed up with shrinking savings
  - [https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04](https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04)
@@ -4022,21 +4065,25 @@
  - [https://en.wikipedia.org/wiki/Pascal%27s_wager](https://en.wikipedia.org/wiki/Pascal%27s_wager)
  - date_published: 2023-05-04T14:11:27+00:00
  - tags: ['religion']
+ - date_dead_since: 2026-04-01T03:08:09.157617+00:00
 
  ## JPMorgan Chase is warned to back off political and ideological censorship
  - [https://reclaimthenet.org/jpmorgan-chase-is-warned-to-back-off-political-and-ideological-censorship](https://reclaimthenet.org/jpmorgan-chase-is-warned-to-back-off-political-and-ideological-censorship)
  - date_published: 2023-05-04T23:42:34+00:00
  - tags: ['censorship', 'corporatocracy', 'jpmorgan']
+ - date_dead_since: 2026-04-01T02:42:14.184941+00:00
 
  ## List of Islamist terrorist attacks - Wikipedia
  - [https://en.wikipedia.org/wiki/List_of_Islamist_terrorist_attacks](https://en.wikipedia.org/wiki/List_of_Islamist_terrorist_attacks)
  - date_published: 2023-05-05T07:40:34+00:00
  - tags: ['extremism', 'islam', 'religion', 'terrorism']
+ - date_dead_since: 2026-04-01T02:24:22.360763+00:00
 
  ## India bans Element – the flagship client for the Matrix network
  - [https://element.io/blog/india-bans-flagship-client-for-the-matrix-network](https://element.io/blog/india-bans-flagship-client-for-the-matrix-network)
  - date_published: 2023-05-05T09:00:13+00:00
  - tags: ['crypto wars', 'element', 'government control', 'india', 'privacy']
+ - date_dead_since: 2026-04-01T02:18:34.540411+00:00
 
  ## Prof. Lew-Starowicz: stale mam do czynienia ze złą diagnostyką. 80 proc. dorosłych porzuca pragnienie zmiany płci | Polska Agencja Prasowa SA
  - [https://www.pap.pl/aktualnosci/news%2C1568660%2Cprof-lew-starowicz-stale-mam-do-czynienia-ze-zla-diagnostyka-80-proc](https://www.pap.pl/aktualnosci/news%2C1568660%2Cprof-lew-starowicz-stale-mam-do-czynienia-ze-zla-diagnostyka-80-proc)

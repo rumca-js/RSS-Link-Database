@@ -1932,6 +1932,7 @@
  - [https://prism-break.org/en](https://prism-break.org/en)
  - date_published: 2021-08-02T07:57:09+00:00
  - tags: ['selfhost', 'surveillance']
+ - date_dead_since: 2026-04-01T07:27:14.965353+00:00
 
  ## The push for a "PBS for the internet" - Axios
  - [https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html](https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html)
@@ -2918,6 +2919,7 @@
  - [https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels)
  - date_published: 2021-10-06T08:34:57+00:00
  - tags: ['biometric', 'facial recognition']
+ - date_dead_since: 2026-04-01T11:58:08.986968+00:00
 
  ## Tim Pool Permanently BANNED By TikTok, Likely Due To Hosting Alex Jones, Who Broke No Rules
  - [https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules](https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules)
