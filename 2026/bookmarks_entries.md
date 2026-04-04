@@ -67,3 +67,8 @@
  - date_published: 2026-03-18T03:23:22.741567+00:00
  - tags: ['israel', 'manufacturing consent']
 
+ - [https://gigazine.net/gsc_news/en/20260403-pirate-france](https://gigazine.net/gsc_news/en/20260403-pirate-france)
+ - date_published: 2026-04-03T13:17:31.694129+00:00
+ - tags: ['piracy']
+ - date_dead_since: 2026-04-03T13:17:31.787171+00:00
+

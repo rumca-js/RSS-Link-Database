@@ -399,5 +399,33 @@
         "thumbnail": "https://img.haarets.co.il/bs/0000019a-540e-db4c-a5fb-dfafea590000/08/38/8673cdba4367a38d6ca146e0faf0/287276-2.jpg?cmsprod=&height=630&precrop=2200,1279,x0,y138&width=1200",
         "title": "Israel dumps millions into US influence targeting evangelicals in churches and ChatGPT",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-04-03T13:17:15.995534+00:00",
+        "date_dead_since": "2026-04-03T13:17:31.787171+00:00",
+        "date_published": "2026-04-03T13:17:31.694129+00:00",
+        "description": null,
+        "id": 5157437,
+        "language": null,
+        "link": "https://gigazine.net/gsc_news/en/20260403-pirate-france",
+        "manual_status_code": 0,
+        "page_rating": 9,
+        "page_rating_contents": 0,
+        "page_rating_visits": 2,
+        "page_rating_votes": 10,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 603,
+        "tags": [
+            "piracy"
+        ],
+        "thumbnail": null,
+        "title": null,
+        "vote": 10
     }
 ]
