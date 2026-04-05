@@ -1238,6 +1238,7 @@
  - [https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots](https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots)
  - date_published: 2023-01-28T18:52:04+00:00
  - tags: ['open source']
+ - date_dead_since: 2026-04-05T01:57:49.662512+00:00
 
  ## What Are 'Dark Factories,' and Do They Exist?
  - [https://www.grainger.com/know-how/industry/manufacturing/kh-what-is-a-dark-factory](https://www.grainger.com/know-how/industry/manufacturing/kh-what-is-a-dark-factory)
@@ -1459,6 +1460,7 @@
  - [https://iapp.org/news/a/dutch-dpa-says-central-passport-database-entails-major-privacy-risks](https://iapp.org/news/a/dutch-dpa-says-central-passport-database-entails-major-privacy-risks)
  - date_published: 2023-02-02T17:05:23+00:00
  - tags: ['centralization', 'digital id', 'digital passport', 'vulnerability']
+ - date_dead_since: 2026-04-05T01:31:23.006840+00:00
 
  ## AI tool ChatGPT is accused of bias after writing poem about Biden but refusing to create one for Trump
  - [https://reclaimthenet.org/chatgpt-trump-biden-poem](https://reclaimthenet.org/chatgpt-trump-biden-poem)
@@ -1579,6 +1581,7 @@
  - [https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice](https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice)
  - date_published: 2023-02-08T08:18:44+00:00
  - tags: ['big pharma', 'covid', 'pfizer', 'vaccine']
+ - date_dead_since: 2026-04-05T01:15:22.219965+00:00
 
  ## Windows 11 Collects an Awful Lot of Telemetry About Your PC | Extremetech
  - [https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc](https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc)
@@ -1839,6 +1842,7 @@
  - [https://www.tasnimnews.com/en/news/2023/02/16/2854650/sweden-s-top-cop-has-no-explanation-why-country-is-overrun-with-crime](https://www.tasnimnews.com/en/news/2023/02/16/2854650/sweden-s-top-cop-has-no-explanation-why-country-is-overrun-with-crime)
  - date_published: 2023-02-16T00:00:00+00:00
  - tags: ['crime', 'immigration', 'sweden']
+ - date_dead_since: 2026-04-05T00:36:57.420851+00:00
 
  ## Dutch chip firm ASML says former China employee stole data
  - [https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html](https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html)
@@ -1939,6 +1943,7 @@
  - [https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists](https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists)
  - date_published: 2023-02-20T09:27:34+00:00
  - tags: ['censorship', 'fahrenheit 451', 'racism', 'the left wing', 'white supremacy']
+ - date_dead_since: 2026-04-05T00:24:33.677745+00:00
 
  ## AI is starting to pick who gets laid off
  - [https://www.washingtonpost.com/technology/2023/02/20/layoff-algorithms/?utm_source=bankier.pl&utm_medium=content&utm_campaign=article](https://www.washingtonpost.com/technology/2023/02/20/layoff-algorithms/?utm_source=bankier.pl&utm_medium=content&utm_campaign=article)
@@ -1954,6 +1959,7 @@
  - [https://antoniomelonio.substack.com/p/the-age-of-advertising-must-come](https://antoniomelonio.substack.com/p/the-age-of-advertising-must-come)
  - date_published: 2023-02-20T22:31:31+00:00
  - tags: ['ad business', 'internet']
+ - date_dead_since: 2026-04-05T00:22:36.010270+00:00
 
  ## What is a 15-minute city and why is the idea so controversial?
  - [https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial](https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial)
@@ -2105,6 +2111,7 @@
  - [https://biz.crast.net/a-woman-who-was-locked-out-of-her-apple-account-minutes-after-her-iphone-was-stolen-and-10000-was-taken-from-her-bank-account-says-apple-was-not-helpful-at-all](https://biz.crast.net/a-woman-who-was-locked-out-of-her-apple-account-minutes-after-her-iphone-was-stolen-and-10000-was-taken-from-her-bank-account-says-apple-was-not-helpful-at-all)
  - date_published: 2023-02-26T07:31:37+00:00
  - tags: ['apple', 'iphone', 'technofeudalism']
+ - date_dead_since: 2026-04-05T00:06:34.902791+00:00
 
  ## James Bond books edited to remove racist references
  - [https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references](https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references)
@@ -2536,6 +2543,7 @@
  - [https://www.outkick.com/climate-expert-greta-thunberg-deletes-2018-tweet-saying-world-will-end-in-2023-because-the-world-has-not-ended](https://www.outkick.com/climate-expert-greta-thunberg-deletes-2018-tweet-saying-world-will-end-in-2023-because-the-world-has-not-ended)
  - date_published: 2023-03-11T19:54:05+00:00
  - tags: ['climate change', 'greta thunberg']
+ - date_dead_since: 2026-04-04T23:17:58.787791+00:00
 
  ## Cerebral admits to sharing patient data with Meta, TikTok, and Google
  - [https://www.theverge.com/2023/3/11/23635518/cerebral-patient-data-meta-tiktok-google-pixel](https://www.theverge.com/2023/3/11/23635518/cerebral-patient-data-meta-tiktok-google-pixel)
@@ -2696,6 +2704,7 @@
  - [https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code)
  - date_published: 2023-03-17T04:39:19+00:00
  - tags: ['artificial intelligence', 'chatgpt', 'gpt-4', 'programming']
+ - date_dead_since: 2026-04-04T22:58:13.655398+00:00
 
  ## Musk says Twitter will make tweet recommendation algorithm code open source on March 31 | Shacknews
  - [https://www.shacknews.com/article/134640/musk-twitter-open-source-code-recommended-tweets-march-31](https://www.shacknews.com/article/134640/musk-twitter-open-source-code-recommended-tweets-march-31)
@@ -2831,6 +2840,7 @@
  - [https://cointelegraph.com/news/the-world-could-be-facing-a-dark-future-thanks-to-cbdcs](https://cointelegraph.com/news/the-world-could-be-facing-a-dark-future-thanks-to-cbdcs)
  - date_published: 2023-03-24T06:21:32+00:00
  - tags: ['cbdc', 'government control', 'technofeudalism']
+ - date_dead_since: 2026-04-04T22:42:05.649550+00:00
 
  ## An Android app started secretly recording users almost a year after it was listed on Google Play
  - [https://www.theverge.com/2023/5/24/23736180/irecorder-android-google-play-spying-security-risk](https://www.theverge.com/2023/5/24/23736180/irecorder-android-google-play-spying-security-risk)

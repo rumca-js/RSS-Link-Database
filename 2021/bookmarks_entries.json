@@ -7262,13 +7262,13 @@
         "language": "pl",
         "link": "https://cybernews.com/security/rockyou2021-alltime-largest-password-compilation-leaked",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://cybernews.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "data leak"
         ],
