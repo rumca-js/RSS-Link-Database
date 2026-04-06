@@ -783,6 +783,7 @@
  - [https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse](https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse)
  - date_published: 2023-01-15T22:33:46+00:00
  - tags: ['covid', 'healthcare']
+ - date_dead_since: 2026-04-05T03:04:04.861644+00:00
 
  ## The Internet Has Died
  - [https://www.youtube.com/watch?v=kL8rHf_idt0](https://www.youtube.com/watch?v=kL8rHf_idt0)

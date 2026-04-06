@@ -149,6 +149,7 @@
  - [https://money.cnn.com/2016/05/25/technology/mark-zuckerberg-palo-alto-house/index.html](https://money.cnn.com/2016/05/25/technology/mark-zuckerberg-palo-alto-house/index.html)
  - date_published: 2016-05-25T11:24:52+00:00
  - tags: ['mark zuckerberg', 'privacy']
+ - date_dead_since: 2026-04-05T02:23:24.251407+00:00
 
  ## 'Windows 10 nagware: You can't click X. Make a date OR ELSE' • The Register
  - [https://www.theregister.com/2016/06/01/windows_10_nagware_no_way_out](https://www.theregister.com/2016/06/01/windows_10_nagware_no_way_out)
