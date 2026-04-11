@@ -72,3 +72,12 @@
  - tags: ['piracy']
  - date_dead_since: 2026-04-03T13:17:31.787171+00:00
 
+ - [https://www.reuters.com/world/middle-east/trump-says-a-whole-civilization-will-die-tonight-if-iran-does-not-make-deal-2026-04-07](https://www.reuters.com/world/middle-east/trump-says-a-whole-civilization-will-die-tonight-if-iran-does-not-make-deal-2026-04-07)
+ - date_published: 2026-04-10T06:10:06.012771+00:00
+ - tags: ['donald trump', 'iran', 'israel']
+
+ ## Why is there so little trust in the world? | Yuval Noah Harari
+ - [https://www.youtube.com/shorts/B3ZMV8dP8zo](https://www.youtube.com/shorts/B3ZMV8dP8zo)
+ - date_published: 2026-04-10T10:50:28.445053+00:00
+ - tags: ['algorithms', 'social engineering', 'social media']
+
