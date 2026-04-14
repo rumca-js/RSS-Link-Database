@@ -81,3 +81,8 @@
  - date_published: 2026-04-10T10:50:28.445053+00:00
  - tags: ['algorithms', 'social engineering', 'social media']
 
+ ## Three Oaths - Wikipedia
+ - [https://en.wikipedia.org/wiki/Three_Oaths](https://en.wikipedia.org/wiki/Three_Oaths)
+ - date_published: 2026-04-13T16:00:51+00:00
+ - tags: ['israel']
+

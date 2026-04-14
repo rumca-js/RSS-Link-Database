@@ -387,7 +387,7 @@
             "bitcoin",
             "crypto"
         ],
-        "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-01/87abf85b-9769-4bbd-bc21-57e660ebb26f.jpg",
+        "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2023-01/87abf85b-9769-4bbd-bc21-57e660ebb26f.jpg",
         "title": "Bitcoin core developer claims to have lost 200 BTC in hack",
         "vote": 0
     },
@@ -519,21 +519,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:54:09.364749+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-04-13T23:49:04.551532+00:00",
         "date_published": "2023-01-03T13:41:25+00:00",
         "description": "<p>Article URL: <a href=\"https://startafuckingblog.com/\">https://startafuckingblog.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=34231152\">https://news.ycombinator.com/item?id=34231152</a></p>\n<p>Points: 27</p>\n<p># Comments: 7</p>",
         "id": 37193,
         "language": "en-US",
         "link": "https://startafuckingblog.com",
         "manual_status_code": 0,
-        "page_rating": 33,
-        "page_rating_contents": 95,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 603,
         "tags": [
             "blog",
             "selfhost"
@@ -841,7 +841,7 @@
             "european union",
             "germany"
         ],
-        "thumbnail": "https://ocdn.eu/pulscms-transforms/1/gMjktkuTURBXy9kNTZkMjk1Yy1hMzRiLTQyMTUtOWIyZS01NjkxNzA1NWNiYTUuanBlZ5GTBc0EsM0CdA",
+        "thumbnail": "https://ocdn.eu/pulscms/MDA_/ff7cdf806d732f96168fb0f36ffca773.png",
         "title": "Niemcy dok\u0142adaj\u0105 do bud\u017cetu UE 25 mld euro, a otrzymuj\u0105 132 mld euro rocznie",
         "vote": 0
     },
@@ -904,7 +904,7 @@
             "co2",
             "germany"
         ],
-        "thumbnail": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/YLSL4KQU5NE53DAMVBC3V3O6RI.jpg?_a=DATAg1eAZAA0",
+        "thumbnail": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/YLSL4KQU5NE53DAMVBC3V3O6RI.jpg?_a=DATAg1fkZAA0",
         "title": "Germany likely missed climate target again, activists angry",
         "vote": 0
     },
@@ -915,21 +915,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:54:08.442999+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-04-13T22:56:09.766467+00:00",
         "date_published": "2023-01-04T15:35:01+00:00",
         "description": "Irish regulators have hit Facebook parent Meta with hundreds of millions in fines for online privacy violations and banned the company from forcing European users to agree to personalized ads based on their online activity",
         "id": 37180,
         "language": "en-US",
         "link": "https://abcnews.go.com/International/wireStory/ireland-fines-meta-390m-euros-latest-privacy-crackdown-96181101",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 9,
         "source_url": "http://feeds.abcnews.com/abcnews/topstories",
-        "status_code": 614,
+        "status_code": 404,
         "tags": [
             "meta",
             "privacy",
@@ -981,14 +981,14 @@
         "language": "en-US",
         "link": "https://www.engadget.com/apple-france-fine-app-store-targeted-ads-211750930.html?src=rss",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 104,
         "source_url": "https://www.engadget.com/rss.xml",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "privacy"
         ],
@@ -1264,7 +1264,7 @@
             "science is dead",
             "the left wing"
         ],
-        "thumbnail": "https://dw-wp-production.imgix.net/2023/01/GettyImages-1153622242-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.10.0",
+        "thumbnail": "https://dw-wp-production.imgix.net/2023/01/GettyImages-1153622242-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
         "title": "No Biological Evidence For \u2018Gender Identity\u2019 Exists, Group Of Scientists, Researchers Says",
         "vote": 0
     },
@@ -1326,7 +1326,7 @@
             "smart home",
             "youtube"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/020d7ec7b659e554a786b700b625d8c9f00bee19441ebe59fc1999d80df2a6cc/Owez/yark",
+        "thumbnail": "https://opengraph.githubassets.com/615c20527694780154c8fb50efe35e38e7cbe837745f6855ad919258ebd0cc09/Owez/yark",
         "title": "Advanced and easy YouTube archiver now stable",
         "vote": 0
     },
@@ -1780,7 +1780,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://ussanews.com",
-        "status_code": 614,
+        "status_code": 403,
         "tags": [
             "children",
             "satanism"
@@ -1826,21 +1826,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:54:06.127895+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-04-13T17:56:01.978050+00:00",
         "date_published": "2023-01-07T13:22:53+00:00",
         "description": "<p>Article URL: <a href=\"https://therationalist.substack.com/p/the-creator-economy-the-top-1-and\">https://therationalist.substack.com/p/the-creator-economy-the-top-1-and</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=34287747\">https://news.ycombinator.com/item?id=34287747</a></p>\n<p>Points: 20</p>\n<p># Comments: 18</p>",
         "id": 37153,
         "language": "en-US",
         "link": "https://therationalist.substack.com/p/the-creator-economy-the-top-1-and",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 614,
+        "status_code": 404,
         "tags": [
             "creator",
             "creator economy",
@@ -1864,8 +1864,8 @@
         "language": "en-GB",
         "link": "https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 13,
+        "page_rating_contents": 33,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -2027,7 +2027,7 @@
             "facebook",
             "social media"
         ],
-        "thumbnail": "https://dims.apnews.com/dims4/default/8ef2b9e/2147483647/strip/true/crop/2000x1125+0+438/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F35f68fb7d2e54f5e93d767ce072a094c%2F2000.jpeg",
+        "thumbnail": "https://dims.apnews.com/dims4/default/924e509/2147483647/strip/true/crop/2000x1333+0+334/resize/980x653!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F35f68fb7d2e54f5e93d767ce072a094c%2F2000.jpeg",
         "title": "Seattle schools sue tech giants over social media harm",
         "vote": 0
     },
@@ -2453,7 +2453,7 @@
         "tags": [
             "programming"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/fd90b338da5d746bd09e1b5b02f89bd80a47152963c11634dddef5b415b279b4/SpartanJ/ecode",
+        "thumbnail": "https://opengraph.githubassets.com/4cd0ebb73108fc982af9475e1d793b2eb3f809565dab75408c33a3385aa6ab39/SpartanJ/ecode",
         "title": "Show HN: Ecode \u2013 A minimalist and fast open-source code editor",
         "vote": 0
     },
@@ -2471,14 +2471,14 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 227,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "carbon",
             "climate change",
@@ -2849,7 +2849,7 @@
             "django",
             "programming"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/982fc9a88d674cbefa1e301e1d04663cca4a9bd0151e2e4fb5503b91a906045e/HackSoftware/Django-Styleguide",
+        "thumbnail": "https://opengraph.githubassets.com/69fa3e482939aa59dfec0ee83043a25210604a6a4acae7b9936497eb8860dd10/HackSoftware/Django-Styleguide",
         "title": "Django Styleguide",
         "vote": 0
     },

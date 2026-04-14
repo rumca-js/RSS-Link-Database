@@ -87,6 +87,7 @@
  - [https://startafuckingblog.com](https://startafuckingblog.com)
  - date_published: 2023-01-03T13:41:25+00:00
  - tags: ['blog', 'selfhost']
+ - date_dead_since: 2026-04-13T23:49:04.551532+00:00
 
  ## Proposed Electric Vehicle Mandate Will Cost at Least $99 Billion: Environment Canada
  - [https://www.theepochtimes.com/proposed-electric-vehicle-mandate-will-cost-at-least-99-billion-environment-canada_4958736.html](https://www.theepochtimes.com/proposed-electric-vehicle-mandate-will-cost-at-least-99-billion-environment-canada_4958736.html)
@@ -152,6 +153,7 @@
  - [https://abcnews.go.com/International/wireStory/ireland-fines-meta-390m-euros-latest-privacy-crackdown-96181101](https://abcnews.go.com/International/wireStory/ireland-fines-meta-390m-euros-latest-privacy-crackdown-96181101)
  - date_published: 2023-01-04T15:35:01+00:00
  - tags: ['meta', 'privacy', 'tracking']
+ - date_dead_since: 2026-04-13T22:56:09.766467+00:00
 
  ## Rep. Adam Schiff’s office asked Twitter to ban New York Post columnist Paul Sperry — Twitter Files
  - [https://reclaimthenet.org/adam-schiff-twitter-ban-paul-sperry](https://reclaimthenet.org/adam-schiff-twitter-ban-paul-sperry)
@@ -302,6 +304,7 @@
  - [https://therationalist.substack.com/p/the-creator-economy-the-top-1-and](https://therationalist.substack.com/p/the-creator-economy-the-top-1-and)
  - date_published: 2023-01-07T13:22:53+00:00
  - tags: ['creator', 'creator economy', 'internet']
+ - date_dead_since: 2026-04-13T17:56:01.978050+00:00
 
  ## UK police forces spend £66,000 on LGBT rainbow cars, shoelaces and flags
  - [https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags](https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags)
