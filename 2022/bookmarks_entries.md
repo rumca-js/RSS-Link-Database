@@ -9355,6 +9355,7 @@
  - [https://abcnews.go.com/Health/wireStory/police-seize-covid-19-tech-expand-global-surveillance-95584064](https://abcnews.go.com/Health/wireStory/police-seize-covid-19-tech-expand-global-surveillance-95584064)
  - date_published: 2022-12-20T21:54:01+00:00
  - tags: ['covid', 'surveillance']
+ - date_dead_since: 2026-04-14T18:25:04.493991+00:00
 
  ## Documents Show Zuckerberg Knew of Cambridge Analytica Earlier Than He Admitted
  - [https://gizmodo.com/mark-zuckerberg-facebook-meta-cambridge-analytica-1849916617](https://gizmodo.com/mark-zuckerberg-facebook-meta-cambridge-analytica-1849916617)
@@ -9385,6 +9386,7 @@
  - [https://www.ic3.gov/Media/Y2022/PSA221221](https://www.ic3.gov/Media/Y2022/PSA221221)
  - date_published: 2022-12-21T06:28:29+00:00
  - tags: ['ad business', 'vulnerability']
+ - date_dead_since: 2026-04-14T17:27:03.200053+00:00
 
  ## George Soros nonprofits gave tens of millions to anti-police groups and initiatives in 2021, tax forms show
  - [https://www.foxnews.com/politics/george-soros-nonprofits-dished-tens-millions-anti-police-groups-initiatives-2021-tax-forms-show](https://www.foxnews.com/politics/george-soros-nonprofits-dished-tens-millions-anti-police-groups-initiatives-2021-tax-forms-show)
@@ -9571,6 +9573,7 @@
  - [https://www.forbes.com/sites/emilybaker-white/2022/12/23/lawmakers-outrage-tiktok-spied-on-journalists](https://www.forbes.com/sites/emilybaker-white/2022/12/23/lawmakers-outrage-tiktok-spied-on-journalists)
  - date_published: 2022-12-23T00:00:00+00:00
  - tags: ['china', 'surveillance', 'tiktok']
+ - date_dead_since: 2026-04-14T10:50:26.078824+00:00
 
  ## UK woman arrested for silently praying across from abortion clinic: ‘Terrifying’ | New York Post
  - [https://www.youtube.com/watch?v=wXURFRSUS9U](https://www.youtube.com/watch?v=wXURFRSUS9U)
@@ -9916,6 +9919,7 @@
  - [https://abcnews.go.com/Business/wireStory/google-pay-indiana-20-million-resolve-privacy-suit-95988766](https://abcnews.go.com/Business/wireStory/google-pay-indiana-20-million-resolve-privacy-suit-95988766)
  - date_published: 2022-12-30T21:14:51+00:00
  - tags: ['google', 'privacy', 'tracking']
+ - date_dead_since: 2026-04-14T03:00:45.068131+00:00
 
  ## Bring back personal blogging
  - [https://www.theverge.com/23513418/bring-back-personal-blogging](https://www.theverge.com/23513418/bring-back-personal-blogging)
@@ -9931,6 +9935,7 @@
  - [https://abcnews.go.com/US/wireStory/appeals-court-rules-transgender-man-bathroom-case-96020070](https://abcnews.go.com/US/wireStory/appeals-court-rules-transgender-man-bathroom-case-96020070)
  - date_published: 2022-12-31T23:36:47+00:00
  - tags: ['gender', 'the left wing', 'transgender']
+ - date_dead_since: 2026-04-14T02:14:27.261465+00:00
 
  ## WOW HARDCORE
  - [https://wow-hc.com](https://wow-hc.com)
