@@ -1,0 +1,30 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-04-15T07:59:45.613576+00:00",
+        "date_dead_since": null,
+        "date_published": "1815-04-14T21:22:22+00:00",
+        "description": "",
+        "id": 5255743,
+        "language": "en",
+        "link": "https://en.wikipedia.org/wiki/Nathan_Mayer_Rothschild",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 82,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "rothschild"
+        ],
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Nathan_Rothschild.jpg",
+        "title": "Nathan Mayer Rothschild - Wikipedia",
+        "vote": 0
+    }
+]

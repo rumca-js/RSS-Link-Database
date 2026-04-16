@@ -179,6 +179,15 @@
  - date_published: 2017-04-14T17:27:41+00:00
  - tags: ['nsa', 'shadow brokers', 'surveillance', 'vulnerability']
 
+ ## "My Family Created Israel": The Rothschilds And Birth Of A Nation
+ - [https://www.ndtv.com/world-news/my-family-created-israel-the-rothschilds-and-birth-of-a-nation-8932664](https://www.ndtv.com/world-news/my-family-created-israel-the-rothschilds-and-birth-of-a-nation-8932664)
+ - date_published: 2017-04-15T08:05:47+00:00
+
+ ## Hard to Find 2017 Interview w/ Jacob Rothschild About Israel & Balfour Declaration
+ - [https://www.youtube.com/watch?v=05p2ogSapi8](https://www.youtube.com/watch?v=05p2ogSapi8)
+ - date_published: 2017-04-15T08:07:34+00:00
+ - tags: ['rothschild']
+
  ## The dirty tricks that demonise George Soros | Nick Cohen
  - [https://www.theguardian.com/commentisfree/2017/apr/15/dirty-tricks-demonise-george-soros](https://www.theguardian.com/commentisfree/2017/apr/15/dirty-tricks-demonise-george-soros)
  - date_published: 2017-04-15T23:05:15+00:00

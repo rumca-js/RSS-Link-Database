@@ -86,3 +86,8 @@
  - date_published: 2026-04-13T16:00:51+00:00
  - tags: ['israel']
 
+ ## Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds
+ - [https://www.bbc.com/news/articles/c937wldkkw8o](https://www.bbc.com/news/articles/c937wldkkw8o)
+ - date_published: 2026-04-15T04:58:25+00:00
+ - tags: ['homosexuality', 'immigration']
+

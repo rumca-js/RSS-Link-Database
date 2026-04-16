@@ -7396,12 +7396,6 @@
  - date_published: 2023-08-29T06:57:03.786337+00:00
  - tags: ['programming', 'ui']
 
- ## Edmond James de Rothschild - Wikipedia
- - [https://en.wikipedia.org/wiki/Edmond_James_de_Rothschild](https://en.wikipedia.org/wiki/Edmond_James_de_Rothschild)
- - date_published: 2023-08-29T13:48:13+00:00
- - tags: ['billionaires', 'edmond de rothschild', 'rothschild']
- - date_dead_since: 2026-03-29T23:44:08.409555+00:00
-
  ## Child safety bills are reshaping the internet for everyone
  - [https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent](https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent)
  - date_published: 2023-08-29T14:00:00+00:00
@@ -7417,7 +7411,6 @@
  - [https://en.wikipedia.org/wiki/Rothschild_family](https://en.wikipedia.org/wiki/Rothschild_family)
  - date_published: 2023-08-29T14:22:31+00:00
  - tags: ['billionaires', 'rothschild']
- - date_dead_since: 2026-03-29T23:42:54.685908+00:00
 
  ## Study: Sweden's 'Laissez Faire' Pandemic Policies Paid Off
  - [https://reason.com/2023/08/29/study-swedens-laissez-faire-pandemic-policies-paid-off](https://reason.com/2023/08/29/study-swedens-laissez-faire-pandemic-policies-paid-off)

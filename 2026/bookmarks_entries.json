@@ -515,5 +515,35 @@
         "thumbnail": null,
         "title": "Three Oaths - Wikipedia",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-04-15T05:28:48.853417+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T04:58:25+00:00",
+        "description": "The BBC exposes a shadow industry charging migrants thousands of pounds to help them cheat the asylum system.",
+        "id": 5255000,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c937wldkkw8o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 27,
+        "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
+        "status_code": 0,
+        "tags": [
+            "homosexuality",
+            "immigration"
+        ],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a9/live/c1497170-3824-11f1-8606-05fe34b06e1b.png",
+        "title": "Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds",
+        "vote": 0
     }
 ]
