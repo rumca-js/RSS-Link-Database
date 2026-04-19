@@ -8369,6 +8369,7 @@
  - [https://abcnews.go.com/International/wireStory/spain-starts-new-code-avoid-sexism-ads-kids-94212927](https://abcnews.go.com/International/wireStory/spain-starts-new-code-avoid-sexism-ads-kids-94212927)
  - date_published: 2022-12-02T08:46:25+00:00
  - tags: ['gender', 'indoctrination', 'sexism', 'spain', 'the left wing']
+ - date_dead_since: 2026-04-19T00:36:58.232425+00:00
 
  ## The reasons search seems to be getting worse
  - [https://seths.blog/2022/12/the-reasons-search-is-getting-worse](https://seths.blog/2022/12/the-reasons-search-is-getting-worse)
@@ -8384,6 +8385,7 @@
  - [https://www.activistpost.com/2022/12/china-mandates-social-credit-system-for-social-media-will-track-likes-on-harmful-content.html](https://www.activistpost.com/2022/12/china-mandates-social-credit-system-for-social-media-will-track-likes-on-harmful-content.html)
  - date_published: 2022-12-02T11:17:25+00:00
  - tags: ['china', 'social credit', 'social media', 'surveillance']
+ - date_dead_since: 2026-04-18T23:00:27.882108+00:00
 
  ## FBI met weekly with Big Tech ahead of the 2020 election, agent testifies
  - [https://www.foxnews.com/politics/fbi-weekly-big-tech-ahead-2020-election-agent-testifies](https://www.foxnews.com/politics/fbi-weekly-big-tech-ahead-2020-election-agent-testifies)
@@ -8684,6 +8686,7 @@
  - [https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html](https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html)
  - date_published: 2022-12-08T23:54:01+00:00
  - tags: ['covid', 'covid collateral damage']
+ - date_dead_since: 2026-04-18T19:15:29.598128+00:00
 
  ## Win for privacy: Facebook tracking is illegal in Europe
  - [https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe)
