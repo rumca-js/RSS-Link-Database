@@ -6701,6 +6701,7 @@
  - [https://www.activistpost.com/2022/10/us-citizens-were-given-secret-covid-decree-violation-scores.html](https://www.activistpost.com/2022/10/us-citizens-were-given-secret-covid-decree-violation-scores.html)
  - date_published: 2022-10-26T08:40:21+00:00
  - tags: ['big brother', 'big tech', 'covid', 'privacy', 'social score', 'surveillance', 'tracking']
+ - date_dead_since: 2026-04-20T01:44:57.265740+00:00
 
  ## Chinese stock markets plunge as Xi Jinping begins third term as leader
  - [https://www.dailymail.co.uk/news/article-11356255/Chinese-stock-markets-plunge-Xi-Jinping-begins-term-leader.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11356255/Chinese-stock-markets-plunge-Xi-Jinping-begins-term-leader.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -6917,6 +6918,7 @@
  - [https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)
  - date_published: 2022-10-28T07:21:00+00:00
  - tags: ['markdown', 'programming']
+ - date_dead_since: 2026-04-20T00:31:05.900758+00:00
 
  ## Mark Zuckerberg is lost in the abyss of a struggling metaverse
  - [https://www.lemonde.fr/en/pixels/article/2022/10/28/mark-zuckerberg-is-lost-in-the-abyss-of-a-struggling-metaverse_6002091_13.html](https://www.lemonde.fr/en/pixels/article/2022/10/28/mark-zuckerberg-is-lost-in-the-abyss-of-a-struggling-metaverse_6002091_13.html)
@@ -7065,6 +7067,7 @@
  - [https://giza.mused.org/en](https://giza.mused.org/en)
  - date_published: 2022-10-30T08:55:05+00:00
  - tags: ['egypt', 'project']
+ - date_dead_since: 2026-04-19T22:05:18.233891+00:00
 
  ## Italy to reinstate health workers who did not comply with COVID vaccine mandates
  - [https://www.foxnews.com/world/italy-reinstate-health-workers-suspended-not-complying-covid-vaccine-mandates](https://www.foxnews.com/world/italy-reinstate-health-workers-suspended-not-complying-covid-vaccine-mandates)
@@ -7543,6 +7546,7 @@
  - [https://adnamerica.com/en/united-states/tiktok-ships-opium-version-world-and-less-addictive-app-chinese-audience](https://adnamerica.com/en/united-states/tiktok-ships-opium-version-world-and-less-addictive-app-chinese-audience)
  - date_published: 2022-11-07T15:49:52+00:00
  - tags: ['china', 'propaganda', 'social engineering', 'social media']
+ - date_dead_since: 2026-04-19T17:42:16.143875+00:00
 
  ## Your Organization should run its own Mastodon server
  - [https://martinfowler.com/articles/your-org-run-mastodon.html](https://martinfowler.com/articles/your-org-run-mastodon.html)
@@ -7573,6 +7577,7 @@
  - [https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-8435106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-8435106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2022-11-08T05:00:00+00:00
  - tags: ['joe biden']
+ - date_dead_since: 2026-04-19T17:35:22.726099+00:00
 
  ## Afera we francuskim kościele. 11 biskupów "zamieszanych" w przemoc seksualną
  - [https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna](https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna)
@@ -7860,6 +7865,7 @@
  ## Even a global recession may not crush inflation
  - [https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation](https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation)
  - date_published: 2022-11-16T13:05:11+00:00
+ - date_dead_since: 2026-04-19T16:42:09.679510+00:00
 
  ## 82% of Open-Source Projects Suffer from Tool Rot
  - [https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2](https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2)
@@ -7979,6 +7985,7 @@
  - [https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents](https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents)
  - date_published: 2022-11-22T08:30:10+00:00
  - tags: ['internet', 'internet rot', 'wikileaks']
+ - date_dead_since: 2026-04-19T06:24:25.921568+00:00
 
  ## Mycroft – open source voice assistant
  - [https://mycroft.ai](https://mycroft.ai)
