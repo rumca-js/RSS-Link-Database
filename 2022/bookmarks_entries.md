@@ -5473,6 +5473,7 @@
  - [https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum](https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum)
  - date_published: 2022-09-30T23:53:09+00:00
  - tags: ['family', 'father']
+ - date_dead_since: 2026-04-21T00:49:36.370196+00:00
 
  ## Two-thirds of U.S. adults do not plan on getting COVID boosters
  - [https://www.foxnews.com/health/two-thirds-us-adults-do-not-plan-getting-covid-boosters](https://www.foxnews.com/health/two-thirds-us-adults-do-not-plan-getting-covid-boosters)
@@ -6420,6 +6421,7 @@
  - [https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html)
  - date_published: 2022-10-22T22:24:40+00:00
  - tags: ['raspberry pi', 'selfhost']
+ - date_dead_since: 2026-04-20T08:36:20.813956+00:00
 
  ## Elite NYC private schools make parents sign 'anti-racist' commitment, attend 'anti-racist training'
  - [https://www.foxnews.com/us/elite-nyc-private-schools-make-parents-sign-anti-racist-commitment-attend-anti-racist-training](https://www.foxnews.com/us/elite-nyc-private-schools-make-parents-sign-anti-racist-commitment-attend-anti-racist-training)
@@ -6646,6 +6648,7 @@
  ## Stock futures fall after Alphabet reports earnings miss
  - [https://biztoc.com/p/8ywu3duf?ref=rss&rd=1](https://biztoc.com/p/8ywu3duf?ref=rss&rd=1)
  - date_published: 2022-10-25T23:00:00+00:00
+ - date_dead_since: 2026-04-20T04:36:32.920300+00:00
 
  ## Chinese students filmed shouting at Japanese student, blocking his presentation on Taiwan at a UK university
  - [https://www.reddit.com/r/worldnews/comments/ydmczv/chinese_students_filmed_shouting_at_japanese](https://www.reddit.com/r/worldnews/comments/ydmczv/chinese_students_filmed_shouting_at_japanese)
@@ -6665,6 +6668,7 @@
  ## Making a change to SQLite source code
  - [https://brunocalza.me/making-a-change-to-sqlite-source-code](https://brunocalza.me/making-a-change-to-sqlite-source-code)
  - date_published: 2022-10-26T03:56:25+00:00
+ - date_dead_since: 2026-04-20T04:14:33.357608+00:00
 
  ## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
