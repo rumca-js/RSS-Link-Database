@@ -4233,6 +4233,7 @@
  ## Hackers can now sneak malware into the GIFs you share
  - [https://www.digitaltrends.com/computing/hackers-sneak-malware-into-gifs](https://www.digitaltrends.com/computing/hackers-sneak-malware-into-gifs)
  - date_published: 2022-09-09T10:16:02+00:00
+ - date_dead_since: 2026-04-21T21:46:44.118080+00:00
 
  ## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
  - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
@@ -4276,6 +4277,7 @@
  ## Regarding the eSIM-only iPhone 14 models in the U.S.
  - [https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us](https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us)
  - date_published: 2022-09-09T23:05:04+00:00
+ - date_dead_since: 2026-04-21T21:50:53.128302+00:00
 
  ## FBI Hiding Potentially Explosive Records On Jeffrey Epstein, Internet Sleuth Claims After FOIA Denial
  - [https://www.dailywire.com/news/fbi-hiding-potentially-explosive-records-on-jeffrey-epstein-internet-sleuth-claims-after-foia-denial](https://www.dailywire.com/news/fbi-hiding-potentially-explosive-records-on-jeffrey-epstein-internet-sleuth-claims-after-foia-denial)
@@ -4364,7 +4366,6 @@
  ## Rodzice masowo odmawiają obowiązkowych szczepień. Padł rekord
  - [https://www.wykop.pl/link/6813711/rodzice-masowo-odmawiaja-obowiazkowych-szczepien-padl-rekord](https://www.wykop.pl/link/6813711/rodzice-masowo-odmawiaja-obowiazkowych-szczepien-padl-rekord)
  - date_published: 2022-09-12T16:29:02+00:00
- - date_dead_since: 2025-12-12T20:17:58.651054+00:00
 
  ## Google now owns the firm that found SolarWinds
  - [https://www.theverge.com/2022/9/12/23349213/google-mandiant-acquisition-cloud-security-threat-intelligence](https://www.theverge.com/2022/9/12/23349213/google-mandiant-acquisition-cloud-security-threat-intelligence)
@@ -5137,6 +5138,7 @@
  - [https://www.bankier.pl/wiadomosc/10-milionow-dzieci-na-swiecie-stracilo-rodzica-lub-opiekuna-w-wyniku-COVID-19-8408616.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/10-milionow-dzieci-na-swiecie-stracilo-rodzica-lub-opiekuna-w-wyniku-COVID-19-8408616.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2022-09-25T09:00:00+00:00
  - tags: ['covid']
+ - date_dead_since: 2026-04-21T06:56:00.984357+00:00
 
  ## Niemcy: Rząd tworzy setki fałszywych kont „prawicowo-ekstremistycznych” w mediach społecznościowych
  - [https://ithardware.pl/aktualnosci/niemcy_rzad_tworzy_setki_falszywych_kont_prawicowo_ekstremistycznych_w_mediach_spolecznosciowych-23491.html](https://ithardware.pl/aktualnosci/niemcy_rzad_tworzy_setki_falszywych_kont_prawicowo_ekstremistycznych_w_mediach_spolecznosciowych-23491.html)
