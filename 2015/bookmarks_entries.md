@@ -61,6 +61,7 @@
  ## a brief history of one line fixes
  - [https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
  - date_published: 2015-02-03T21:58:32+00:00
+ - date_dead_since: 2026-04-23T01:07:57.585241+00:00
 
  ## The World's Email Encryption Software Relies on One Guy, Who is Going Broke — ProPublica
  - [https://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke](https://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke)

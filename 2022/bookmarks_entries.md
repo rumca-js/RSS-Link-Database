@@ -2698,6 +2698,7 @@
  ## Don't Put All Your Code In Internal | Ido Perlmuter
  - [https://ido50.net/rants/dont-put-all-your-code-in-internal](https://ido50.net/rants/dont-put-all-your-code-in-internal)
  - date_published: 2022-06-17T13:54:11.142802+00:00
+ - date_dead_since: 2026-04-23T01:43:36.005757+00:00
 
  ## The driving enthusiast’s dilemma with electric cars | Ars Technica
  - [https://arstechnica.com/cars/2022/06/the-driving-enthusiasts-dilemma-about-electric-cars](https://arstechnica.com/cars/2022/06/the-driving-enthusiasts-dilemma-about-electric-cars)
@@ -2757,6 +2758,7 @@
  ## Crafting Interpreters: A Review
  - [https://chidiwilliams.com/post/crafting-interpreters-a-review](https://chidiwilliams.com/post/crafting-interpreters-a-review)
  - date_published: 2022-06-23T07:14:08.784166+00:00
+ - date_dead_since: 2026-04-23T01:10:04.247760+00:00
 
  ## Teens Are Getting Sick From Products With High THC Levels - The New York Times
  - [https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html](https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html)
@@ -2996,6 +2998,7 @@
  - [https://home-affairs.ec.europa.eu/news/citizens-and-businesses-have-spoken-corruption-remains-serious-problem-eu-countries-2022-07-13_en](https://home-affairs.ec.europa.eu/news/citizens-and-businesses-have-spoken-corruption-remains-serious-problem-eu-countries-2022-07-13_en)
  - date_published: 2022-07-13T14:19:04+00:00
  - tags: ['corruption', 'manufacturing consent', 'politics']
+ - date_dead_since: 2026-04-22T20:50:05.289002+00:00
 
  ## Unity is merging with a company who made a malware installer | PC Gamer
  - [https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer)
@@ -3214,7 +3217,6 @@
  - [https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take)
  - date_published: 2022-07-29T07:21:23+00:00
  - tags: ['microsoft', 'palladium', 'pluton', 'secure boot', 'tpm', 'web environment integrity']
- - date_dead_since: 2025-12-13T17:23:57.163952+00:00
 
  ## Bristol Drag queen children's story hour disrupted by protests - BBC News
  - [https://www.bbc.com/news/uk-england-bristol-62335147](https://www.bbc.com/news/uk-england-bristol-62335147)
@@ -3265,6 +3267,7 @@
  - [https://guernseypress.com/news/uk-news/2022/09/02/gas-prices-to-push-up-farmers-fertiliser-costs-by-nearly-2bn](https://guernseypress.com/news/uk-news/2022/09/02/gas-prices-to-push-up-farmers-fertiliser-costs-by-nearly-2bn)
  - date_published: 2022-08-02T20:58:08+00:00
  - tags: ['agriculture']
+ - date_dead_since: 2026-04-22T16:34:35.562069+00:00
 
  ## Financial Regulation: Between Policy and Politics
  - [https://www.youtube.com/watch?v=RotcD7OREP4&time_continue=871](https://www.youtube.com/watch?v=RotcD7OREP4&time_continue=871)
@@ -3295,6 +3298,7 @@
  ## Textualize.io - Blog - 7 things I've learned building a modern TUI framework
  - [https://www.textualize.io/blog/posts/7-things-about-terminals](https://www.textualize.io/blog/posts/7-things-about-terminals)
  - date_published: 2022-08-04T09:16:03.046160+00:00
+ - date_dead_since: 2026-04-22T15:36:18.481282+00:00
 
  ## MEMEX - Botspam Apocalypse [ 2022-08-03 ]
  - [https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi](https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi)
@@ -3530,6 +3534,7 @@
  - [https://thecountersignal.com/bill-gates-lavished-the-media-with-319-million-in-funding](https://thecountersignal.com/bill-gates-lavished-the-media-with-319-million-in-funding)
  - date_published: 2022-08-22T10:19:55+00:00
  - tags: ['bill gates', 'covid', 'media']
+ - date_dead_since: 2026-04-22T11:41:03.170409+00:00
 
  ## The downfall of smart TVs: From promises of seamless viewing to ad tool on steroids
  - [https://adguard.com/en/blog/smart-tv-ad-blocking.html](https://adguard.com/en/blog/smart-tv-ad-blocking.html)
@@ -3611,12 +3616,12 @@
  - [https://newsrescue.com/google-quickly-resets-screens-results-for-mass-formation-psychosis-after-bombshell-dr-malone-joe-rogan-interview](https://newsrescue.com/google-quickly-resets-screens-results-for-mass-formation-psychosis-after-bombshell-dr-malone-joe-rogan-interview)
  - date_published: 2022-08-24T12:04:49.986383+00:00
  - tags: ['censorship', 'dr. malone', 'google', 'joe rogan', 'mass formation psychosis']
+ - date_dead_since: 2026-04-22T10:32:47.881878+00:00
 
  ## How Social Media Affects Our Behavior
  - [https://socialpsych.blogs.pace.edu/2017/12/12/how-social-media-affects-our-behavior](https://socialpsych.blogs.pace.edu/2017/12/12/how-social-media-affects-our-behavior)
  - date_published: 2022-08-24T12:04:50.005772+00:00
  - tags: ['skinner box', 'social media']
- - date_dead_since: 2025-12-13T10:19:09.607276+00:00
 
  ## What is Smart City Surveillance?
  - [https://www.briefcam.com/resources/blog/what-is-smart-city-surveillance](https://www.briefcam.com/resources/blog/what-is-smart-city-surveillance)
