@@ -1361,6 +1361,7 @@
  - [https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe](https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe)
  - date_published: 2022-03-19T20:15:46+00:00
  - tags: ['coudenhove-kalergi', 'depopulation', 'genocide', 'immigration', 'the right wing']
+ - date_dead_since: 2026-04-24T01:45:48.397533+00:00
 
  ## Please put units in names
  - [https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
@@ -1443,6 +1444,7 @@
  ## “Protestware”: A Slippery Slope | codeshaunted
  - [https://codeshaunted.com/2022/03/23/protestware-a-slippery-slope.html](https://codeshaunted.com/2022/03/23/protestware-a-slippery-slope.html)
  - date_published: 2022-03-24T16:54:58.501165+00:00
+ - date_dead_since: 2026-04-24T00:29:41.102151+00:00
 
  ## Leaked opinion of the Commission sets off alarm bells for mass surveillance of private communications - European Digital Rights (EDRi)
  - [https://edri.org/our-work/leaked-opinion-of-the-commission-sets-off-alarm-bells-for-mass-surveillance-of-private-communications](https://edri.org/our-work/leaked-opinion-of-the-commission-sets-off-alarm-bells-for-mass-surveillance-of-private-communications)
@@ -2024,6 +2026,7 @@
  ## The Niche Programmer
  - [https://ano.ee/blog/the-niche-programmer](https://ano.ee/blog/the-niche-programmer)
  - date_published: 2022-05-02T09:55:39.653885+00:00
+ - date_dead_since: 2026-04-23T14:34:51.546254+00:00
 
  ## Lenovo ThinkPad P1 Gen3 Review (with Linux) | Ernestas Narmontas
  - [https://ernestas.me/lenovo-thinkpad-p1-gen3](https://ernestas.me/lenovo-thinkpad-p1-gen3)
@@ -2103,6 +2106,7 @@
  ## How I Accidentally Deleted 7TB of Videos Before Going To Production
  - [https://blog.thevinter.com/posts/vimeo](https://blog.thevinter.com/posts/vimeo)
  - date_published: 2022-05-05T18:52:40.665823+00:00
+ - date_dead_since: 2026-04-23T13:20:47.970904+00:00
 
  ## WordPress sites getting hacked ‘within seconds’ of TLS certificates being issued | The Daily Swig
  - [https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued](https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued)
@@ -2258,6 +2262,7 @@
  - [https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
  - date_published: 2022-05-19T07:50:35.730045+00:00
  - tags: ['dead internet', 'google', 'search engines']
+ - date_dead_since: 2026-04-23T09:06:08.137816+00:00
 
  ## Jeffrey Sachs Presents Evidence of Possible Lab Origin of Covid-19
  - [https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs](https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs)
@@ -2282,6 +2287,7 @@
  - [https://www.citizensjournal.us/fda-dumps-more-pfizer-documents-why-were-so-many-adverse-events-reported-as-unrelated-to-vaccine](https://www.citizensjournal.us/fda-dumps-more-pfizer-documents-why-were-so-many-adverse-events-reported-as-unrelated-to-vaccine)
  - date_published: 2022-05-20T07:51:24+00:00
  - tags: ['big pharma', 'covid', 'fda', 'pfizer', 'vaccine']
+ - date_dead_since: 2026-04-23T08:40:58.618054+00:00
 
  ## Predatory community
  - [https://blog.mollywhite.net/predatory-community/#fnref:fn1](https://blog.mollywhite.net/predatory-community/#fnref:fn1)
@@ -2429,6 +2435,7 @@
  ## Why is Front-End Development So Unstable?
  - [https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable)
  - date_published: 2022-05-30T21:07:00.874723+00:00
+ - date_dead_since: 2026-04-23T06:29:46.757707+00:00
 
  ## NIH, Wuhan were working on monkeypox
  - [https://www.youtube.com/watch?v=4E6cD-VWhQY](https://www.youtube.com/watch?v=4E6cD-VWhQY)
@@ -2519,6 +2526,7 @@
  - [https://raypatrick.xyz/blog/2022/06/03/marriage-is-not-to-make-you-happy](https://raypatrick.xyz/blog/2022/06/03/marriage-is-not-to-make-you-happy)
  - date_published: 2022-06-03T14:04:31+00:00
  - tags: ['hedonism', 'marriage', 'religion', 'religion knowledge']
+ - date_dead_since: 2026-04-23T05:05:12.534263+00:00
 
  ## Dear Spotify. Can we just get a table of songs?
  - [https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs)
