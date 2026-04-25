@@ -4114,6 +4114,7 @@
  ## My Bose QC-35 II headphones suddenly burst into flames and left me with chemical burns
  - [https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html](https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html)
  - date_published: 2021-12-19T12:55:10.261953+00:00
+ - date_dead_since: 2026-04-25T01:55:27.239949+00:00
 
  ## Lithuania evacuates its embassy in China | The Economist
  - [https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843](https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843)
@@ -4196,6 +4197,7 @@
  - [https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami](https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami)
  - date_published: 2021-12-23T11:02:46+00:00
  - tags: ['covid', 'fearmongering', 'propaganda']
+ - date_dead_since: 2026-04-25T00:31:31.175265+00:00
 
  ## Covid fearmongering has consequences too | The Spectator
  - [https://www.spectator.co.uk/article/covid-fearmongering-has-consequences-too](https://www.spectator.co.uk/article/covid-fearmongering-has-consequences-too)
@@ -4264,6 +4266,7 @@
  ## Italian Courts Find Open Source Software Terms Enforceable | If This Be Treason
  - [http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable](http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable)
  - date_published: 2021-12-28T10:19:20.123970+00:00
+ - date_dead_since: 2026-04-24T23:30:35.309550+00:00
 
  ## Brute-forcing 22 trillion parameters in AoC 2021-24
  - [https://www.mattkeeter.com/blog/2021-12-27-brute](https://www.mattkeeter.com/blog/2021-12-27-brute)

@@ -25,6 +25,7 @@
  - [https://fathers.com/the-extent-of-fatherlessness](https://fathers.com/the-extent-of-fatherlessness)
  - date_published: 2022-01-02T08:35:34+00:00
  - tags: ['family', 'fatherlessness']
+ - date_dead_since: 2026-04-24T21:44:51.939892+00:00
 
  ## Why I’m Using HTTP Basic Auth in 2022 | Joel Dare
  - [https://joeldare.com/why-im-using-http-basic-auth-in-2022.html](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
@@ -94,6 +95,7 @@
  ## I Miss RSS - Wilcosky
  - [https://www.wilcosky.com/d/20-i-miss-rss](https://www.wilcosky.com/d/20-i-miss-rss)
  - date_published: 2022-01-06T15:02:30.251051+00:00
+ - date_dead_since: 2026-04-24T20:10:29.215096+00:00
 
  ## Posłowie PiS zaprzeczali lub wyśmiewali temat Pegasusa. Kaczyński potwierdził posiadanie - rp.pl
  - [https://www.rp.pl/polityka/art19262671-poslowie-pis-zaprzeczali-lub-wysmiewali-temat-pegasusa-kaczynski-potwierdzil-posiadanie](https://www.rp.pl/polityka/art19262671-poslowie-pis-zaprzeczali-lub-wysmiewali-temat-pegasusa-kaczynski-potwierdzil-posiadanie)
@@ -249,6 +251,7 @@
  - [https://www.anewseducation.com/post/transgender-healthcare-in-the-uk](https://www.anewseducation.com/post/transgender-healthcare-in-the-uk)
  - date_published: 2022-01-13T21:03:00.249337+00:00
  - tags: ['england', 'gender', 'the left wing', 'transgender']
+ - date_dead_since: 2026-04-24T17:23:32.552986+00:00
 
  ## Don’t use the Unlicense, an inferior license with an atrocious name - an article by Chris Morgan
  - [https://chrismorgan.info/blog/unlicense](https://chrismorgan.info/blog/unlicense)
@@ -431,6 +434,7 @@
  - [https://www.fox4now.com/news/national/dr-anthony-fauci-is-the-highest-paid-us-government-employee](https://www.fox4now.com/news/national/dr-anthony-fauci-is-the-highest-paid-us-government-employee)
  - date_published: 2022-01-24T08:59:38+00:00
  - tags: ['anthony fauci', 'covid']
+ - date_dead_since: 2026-04-24T15:00:12.027745+00:00
 
  ## Gartner Predicts Hyperscalers’ Carbon Emissions Will Drive Cloud Purchase Decisions by 2025
  - [https://www.gartner.com/en/newsroom/press-releases/2022-01-24-gartner-predicts-hyperscalers-carbon-emissions-will-drive-cloud-purchase-decsions-by-2025](https://www.gartner.com/en/newsroom/press-releases/2022-01-24-gartner-predicts-hyperscalers-carbon-emissions-will-drive-cloud-purchase-decsions-by-2025)
@@ -608,6 +612,7 @@
  - [https://www.tvp.info/58272688/ksiadz-z-filmu-sekielskich-prawomocnie-uniewinniony-wyrok-ws-adama-s](https://www.tvp.info/58272688/ksiadz-z-filmu-sekielskich-prawomocnie-uniewinniony-wyrok-ws-adama-s)
  - date_published: 2022-02-02T11:50:12+00:00
  - tags: ['church scandal', 'religion']
+ - date_dead_since: 2026-04-24T12:10:09.077247+00:00
 
  ## Career Advice Nobody Gave Me: Never Ignore a Recruiter | by Alex Chesser | Feb, 2022 | Index
  - [https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)
@@ -904,6 +909,7 @@
  ## Kash Goudarzi
  - [https://kg.dev/thoughts/i-love-you-hn-but-youre-toxic](https://kg.dev/thoughts/i-love-you-hn-but-youre-toxic)
  - date_published: 2022-02-16T08:38:11.602721+00:00
+ - date_dead_since: 2026-04-24T07:59:23.585162+00:00
 
  ## Ask HN: Should we own the free stuff we pay for? | Hacker News
  - [https://news.ycombinator.com/item?id=30345201](https://news.ycombinator.com/item?id=30345201)
@@ -934,6 +940,7 @@
  ## Reddit can’t build a better search engine - Rukshan's Blog
  - [https://ruky.me/2022/02/17/reddit-can-build-a-better-search-engine](https://ruky.me/2022/02/17/reddit-can-build-a-better-search-engine)
  - date_published: 2022-02-18T09:42:22.048954+00:00
+ - date_dead_since: 2026-04-24T07:30:29.815283+00:00
 
  ## Windows 11 Pro will soon require a Microsoft Account
  - [https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection](https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection)
@@ -1005,6 +1012,7 @@
  - [https://kg.dev/thoughts/be-anonymous](https://kg.dev/thoughts/be-anonymous)
  - date_published: 2022-02-21T08:25:50.913362+00:00
  - tags: ['anonymity', 'privacy', 'tracking']
+ - date_dead_since: 2026-04-24T07:05:46.486069+00:00
 
  ## Things that used to be hard and are now easy
  - [https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy)
@@ -1121,6 +1129,7 @@
  ## using www-authenticate for user authentication
  - [https://saucecode.bar/posts/06-using-www-authenticate.html](https://saucecode.bar/posts/06-using-www-authenticate.html)
  - date_published: 2022-03-04T16:35:04.826216+00:00
+ - date_dead_since: 2026-04-24T05:06:09.111984+00:00
 
  ## You Don’t Really Ever Own an EV – Review Geek
  - [https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev](https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev)
