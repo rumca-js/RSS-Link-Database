@@ -2865,6 +2865,7 @@
  - [https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji](https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji)
  - date_published: 2021-10-04T07:33:33+00:00
  - tags: ['covid', 'hate speech', 'poland', 'propaganda']
+ - date_dead_since: 2026-04-25T19:09:23.753769+00:00
 
  ## Misgendering Is a Human Rights Violation, Canadian Court Rules | Them
  - [https://www.them.us/story/canadian-court-rules-misgendering-human-rights-violation](https://www.them.us/story/canadian-court-rules-misgendering-human-rights-violation)
@@ -3045,6 +3046,7 @@
  - [https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering](https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering)
  - date_published: 2021-10-13T13:03:47+00:00
  - tags: ['big brother', 'government', 'propaganda', 'social engineering', 'social media']
+ - date_dead_since: 2026-04-25T16:07:00.219063+00:00
 
  ## Apple silently fixes iOS zero-day, asks bug reporter to keep quiet
  - [https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet](https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet)
@@ -3135,6 +3137,7 @@
  - [https://plotkibiznesowe.pl/2021/10/18/slynna-hiszpanska-autorka-bestsellerow-okazala-sie-trzema-mezczyznami](https://plotkibiznesowe.pl/2021/10/18/slynna-hiszpanska-autorka-bestsellerow-okazala-sie-trzema-mezczyznami)
  - date_published: 2021-10-18T20:31:39+00:00
  - tags: ['discrimination', 'feminism', 'inequality', 'trolling']
+ - date_dead_since: 2026-04-25T14:56:21.933934+00:00
 
  ## Trainwreck claims he's made $360 million in 16 months by promoting gambling on his Twitch streams
  - [https://www.sportskeeda.com/esports/news-trainwreck-claims-made-360-million-promoting-gambling](https://www.sportskeeda.com/esports/news-trainwreck-claims-made-360-million-promoting-gambling)
@@ -3144,6 +3147,7 @@
  ## The Day My Script Killed 10,000 Phones in South America
  - [https://new.pythonforengineers.com/blog/the-day-i](https://new.pythonforengineers.com/blog/the-day-i)
  - date_published: 2021-10-19T10:20:29.410779+00:00
+ - date_dead_since: 2026-04-25T14:50:36.867365+00:00
 
  ## In secret vaccine contracts with governments, Pfizer took hard line in push for profit, report says
  - [https://www.washingtonpost.com/world/2021/10/19/secret-vaccine-contracts-with-governments-pfizer-took-hard-line-push-profit-report-says](https://www.washingtonpost.com/world/2021/10/19/secret-vaccine-contracts-with-governments-pfizer-took-hard-line-push-profit-report-says)
@@ -3369,6 +3373,7 @@
  ## The metaverse is already here, it's called the internet - Can's blog
  - [https://canolcer.com/post/metaverse-is-already-here](https://canolcer.com/post/metaverse-is-already-here)
  - date_published: 2021-10-31T10:15:17.607872+00:00
+ - date_dead_since: 2026-04-25T11:45:43.045982+00:00
 
  ## Central Bank Digital Currencies Explained
  - [https://www.youtube.com/watch?v=0u8eZcPnWeU](https://www.youtube.com/watch?v=0u8eZcPnWeU)
@@ -3841,6 +3846,7 @@
  - [https://frankspeech.com/article/media-bias-around-kyle-rittenhouse-case](https://frankspeech.com/article/media-bias-around-kyle-rittenhouse-case)
  - date_published: 2021-11-30T08:13:09+00:00
  - tags: ['black lives matter', 'blm', 'inequality', 'kyle rittenhouse', 'media bias']
+ - date_dead_since: 2026-04-25T05:00:11.273122+00:00
 
  ## Ask HN: Has Google search become quantitatively worse? | Hacker News
  - [https://news.ycombinator.com/item?id=29392702](https://news.ycombinator.com/item?id=29392702)
@@ -4013,7 +4019,6 @@
  - [https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego](https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego)
  - date_published: 2021-12-14T07:05:12+00:00
  - tags: ['big pharma', 'covid', 'pfizer', 'vaccine']
- - date_dead_since: 2025-08-08T03:08:28.506729+00:00
 
  ## Politician says Germany should ban Telegram unless it tackles extremist content
  - [https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html](https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html)
