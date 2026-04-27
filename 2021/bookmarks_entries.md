@@ -1467,6 +1467,7 @@
  - [https://portal.abczdrowie.pl/prof-simon-jestem-zwolennikiem-radykalnych-metod](https://portal.abczdrowie.pl/prof-simon-jestem-zwolennikiem-radykalnych-metod)
  - date_published: 2021-07-11T20:05:32+00:00
  - tags: ['covid', 'fearmongering', 'propaganda']
+ - date_dead_since: 2026-04-26T22:45:21.764027+00:00
 
  ## Elon Musk has a ticket to ride on Richard Branson’s spaceplane - The Verge
  - [https://www.theverge.com/2021/7/12/22573850/elon-musk-richard-branson-spaceplane-virgin-galactic](https://www.theverge.com/2021/7/12/22573850/elon-musk-richard-branson-spaceplane-virgin-galactic)
@@ -1823,6 +1824,7 @@
  ## Moving SciPy to the Meson build system | Quansight Labs
  - [https://labs.quansight.org/blog/2021/07/moving-scipy-to-meson](https://labs.quansight.org/blog/2021/07/moving-scipy-to-meson)
  - date_published: 2021-07-25T18:00:00+00:00
+ - date_dead_since: 2026-04-26T10:34:36.788702+00:00
 
  ## Tomasz Trela - Antyszczepionkowcy
  - [https://twitter.com/poselTTrela/status/1419758808906223623?s=20](https://twitter.com/poselTTrela/status/1419758808906223623?s=20)
@@ -2275,6 +2277,7 @@
  ## Waypoint - The official Waymo blog: Welcoming our first riders in San Francisco
  - [https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html](https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html)
  - date_published: 2021-08-25T10:17:28+00:00
+ - date_dead_since: 2026-04-26T04:06:56.657954+00:00
 
  ## Samsung Supports Retailers Affected By Looting With Innovative Television Block Function – Samsung Newsroom South Africa
  - [https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function](https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function)
@@ -2323,6 +2326,7 @@
  ## Hacker Claims Responsibility for T-Mobile Attack - Says: "Their Security is Awful"
  - [https://www.vpnranks.com/blog/hacker-claims-responsibility-for-t-mobile-attack-says-their-security-is-awful](https://www.vpnranks.com/blog/hacker-claims-responsibility-for-t-mobile-attack-says-their-security-is-awful)
  - date_published: 2021-08-27T17:35:51.438438+00:00
+ - date_dead_since: 2026-04-26T02:54:23.616759+00:00
 
  ## “Worst cloud vulnerability you can imagine” discovered in Microsoft Azure | Ars Technica
  - [https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure](https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure)
