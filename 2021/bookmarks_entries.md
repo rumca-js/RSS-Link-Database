@@ -985,6 +985,7 @@
  - [https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html](https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html)
  - date_published: 2021-05-17T10:23:41+00:00
  - tags: ['bill gates', 'jeffrey epstein']
+ - date_dead_since: 2026-04-28T12:39:33.496635+00:00
 
  ## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash)

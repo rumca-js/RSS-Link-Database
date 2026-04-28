@@ -5747,7 +5747,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://thehill.com",
-        "status_code": 614,
+        "status_code": 403,
         "tags": [
             "anthony fauci",
             "covid",
@@ -5943,20 +5943,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:50:12.472637+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-04-28T12:39:33.496635+00:00",
         "date_published": "2021-05-17T10:23:41+00:00",
         "description": "Billy Boy and Jeffrey Epstein Traded Advice on Bill's 'Toxic' Marriage & Jeff's Pedo Image Rehab, During Secretive 'Men's Club' Gatherings",
         "id": 35320,
         "language": "en-US",
         "link": "https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html",
         "manual_status_code": 0,
-        "page_rating": 22,
-        "page_rating_contents": 60,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://humansbefree.com",
-        "status_code": 614,
+        "status_code": 404,
         "tags": [
             "bill gates",
             "jeffrey epstein"
@@ -5980,7 +5980,7 @@
         "link": "https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -5994,7 +5994,7 @@
             "wef",
             "world economic forum"
         ],
-        "thumbnail": "https://nationalfile.com/wp-content/uploads/2021/05/wef-delete-tweet.jpg",
+        "thumbnail": "https://nationalfile.com/og-image.png",
         "title": "World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of \u2018Jobs Reset,\u2019 Deletes Tweet After Backlash",
         "vote": 0
     },
@@ -6322,7 +6322,7 @@
             "jeffrey epstein",
             "microsoft"
         ],
-        "thumbnail": "https://unlimitedhangout.com/wp-content/uploads/2021/05/gates-epstein-e1621962594625.jpg",
+        "thumbnail": "https://unlimitedhangout.com/wp-content/uploads/2021/05/Epstein_Microsoft-1024x573.jpg",
         "title": "The Cover-Up Continues: The Truth About Bill Gates, Microsoft, and Jeffrey Epstein",
         "vote": 0
     },
@@ -6410,7 +6410,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://thehill.com",
-        "status_code": 614,
+        "status_code": 403,
         "tags": [
             "censorship",
             "covid",
@@ -6473,7 +6473,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://noqreport.com",
-        "status_code": 614,
+        "status_code": 403,
         "tags": [
             "anthony fauci",
             "covid",
@@ -6813,7 +6813,7 @@
             "facebook",
             "lab leak"
         ],
-        "thumbnail": "https://media.townhall.com/cdn/hodl/2018/303/23c7a842-e6a0-4641-b339-53a43558f026.jpg",
+        "thumbnail": "https://media.townhall.com/cdn/hodl/2018/303/23c7a842-e6a0-4641-b339-53a43558f026-1200x630.jpg",
         "title": "We Now Know Why Facebook May Have Censored the Lab Leak Theory",
         "vote": 0
     },
@@ -6937,7 +6937,7 @@
             "the left wing",
             "usa"
         ],
-        "thumbnail": "https://media.npr.org/assets/img/2021/06/02/gettyimages-90748537_wide-f7797892bd55fbaa7953a4ace1211e6f67328f62.jpg?s=1400&c=100&f=jpeg",
+        "thumbnail": "https://media.npr.org/assets/img/2021/06/02/gettyimages-90748537_wide-f7797892bd55fbaa7953a4ace1211e6f67328f62.jpg?s=1400&c=85&f=jpeg",
         "title": "A Virginia Teacher Was Put On Leave After Opposing New Rights For Trans Students",
         "vote": 0
     },
@@ -7428,7 +7428,7 @@
             "covid",
             "surveillance"
         ],
-        "thumbnail": "https://cdn2.opendemocracy.net/media/images/2DEM48A_1.2e16d0ba.fill-1200x630.jpg",
+        "thumbnail": "https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/size/w1200/2026/04/2DEM48A_1-1776250588289.jpg",
         "title": "Judge slams Michael Gove\u2019s office as openDemocracy wins transparency court case | openDemocracy",
         "vote": 0
     },
@@ -7720,7 +7720,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.globalresearch.ca",
-        "status_code": 614,
+        "status_code": 403,
         "tags": [
             "blackrock",
             "great reset",
@@ -8031,7 +8031,7 @@
             "covid",
             "vaccine"
         ],
-        "thumbnail": "https://substackcdn.com/image/fetch/$s_!w9wE!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc551a8c-6ad7-42f7-9d8d-debffecf2fb8_750x1334.png",
+        "thumbnail": "https://substackcdn.com/image/fetch/$s_!w9wE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc551a8c-6ad7-42f7-9d8d-debffecf2fb8_750x1334.png",
         "title": "Vaccines: Reasons for Concern - by Alex Berenson",
         "vote": 0
     },
@@ -8367,7 +8367,7 @@
             "church scandal",
             "religion"
         ],
-        "thumbnail": "https://media.npr.org/assets/img/2021/07/01/ap21165041671525_wide-b0895ea6fd36578a562da988096cc165945d92cc.jpg?s=1400&c=100&f=jpeg",
+        "thumbnail": "https://media.npr.org/assets/img/2021/07/01/ap21165041671525_wide-b0895ea6fd36578a562da988096cc165945d92cc.jpg?s=1400&c=85&f=jpeg",
         "title": "Canadian Indigenous Group Says More Graves Found At New Site : NPR",
         "vote": 0
     },
@@ -8504,13 +8504,13 @@
         "language": "en",
         "link": "https://www.nytimes.com/2021/07/14/technology/facebook-data.html",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "crowdtangle",
             "facebook",
@@ -8713,7 +8713,7 @@
         "tags": [
             "movies"
         ],
-        "thumbnail": "https://media.npr.org/assets/img/2021/07/08/gettyimages-1327484050_wide-98c9a92c417b7dfdc4494a2bf5ce227753556345.jpg?s=1400&c=100&f=jpeg",
+        "thumbnail": "https://media.npr.org/assets/img/2021/07/08/gettyimages-1327484050_wide-98c9a92c417b7dfdc4494a2bf5ce227753556345.jpg?s=1400&c=85&f=jpeg",
         "title": "Why Media Mogul Barry Diller Thinks The Movie Business Is Dead : NPR",
         "vote": 0
     },
