@@ -90,7 +90,6 @@
  - [https://www.forbes.com/sites/arielcohen/2021/01/11/bill-gates-backed-climate-solution-gains-traction-but-concerns-linger](https://www.forbes.com/sites/arielcohen/2021/01/11/bill-gates-backed-climate-solution-gains-traction-but-concerns-linger)
  - date_published: 2021-01-11T00:00:00+00:00
  - tags: ['atmosphere', 'bill gates', 'climate change', 'sun-dimming']
- - date_dead_since: 2025-12-20T01:14:21.910681+00:00
 
  ## Władzę nad światem przejmuje Big Tech. Czy to już koniec wolności słowa?
  - [https://geekweek.interia.pl/styl-zycia/news-wladze-nad-swiatem-przejmuje-big-tech-czy-to-juz-koniec-woln,nId,5547055](https://geekweek.interia.pl/styl-zycia/news-wladze-nad-swiatem-przejmuje-big-tech-czy-to-juz-koniec-woln,nId,5547055)
@@ -259,6 +258,7 @@
  - [https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia](https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia)
  - date_published: 2021-02-03T14:03:36+00:00
  - tags: ['covid', 'covid mandates', 'segregation', 'vaccine']
+ - date_dead_since: 2026-04-28T13:58:14.290439+00:00
 
  ## AOC faces backlash as critics point out she wasn't in Capitol building during riot | Fox News
  - [https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots](https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots)
@@ -388,7 +388,6 @@
  - [https://naszapolska.pl/2021/02/28/segregacja-sanitarna-na-swiecie-w-izraelu-dziala-od-tygodnia-a-w-innych-krajach](https://naszapolska.pl/2021/02/28/segregacja-sanitarna-na-swiecie-w-izraelu-dziala-od-tygodnia-a-w-innych-krajach)
  - date_published: 2021-02-28T00:00:00+00:00
  - tags: ['covid', 'covid mandates', 'israel', 'segregation', 'vaccine']
- - date_dead_since: 2025-12-19T09:55:07.311553+00:00
 
  ## ‘No hospitalisations and no deaths’: All three US vaccines ‘highly efficacious’, Fauci says
  - [https://www.independent.co.uk/news/world/americas/us-politics/vaccine-covid-fauci-deaths-b1808878.html](https://www.independent.co.uk/news/world/americas/us-politics/vaccine-covid-fauci-deaths-b1808878.html)
@@ -570,6 +569,7 @@
  - [https://lukesmith.xyz/updates/deletion](https://lukesmith.xyz/updates/deletion)
  - date_published: 2021-03-26T00:00:00+00:00
  - tags: ['censorship', 'technofeudalism']
+ - date_dead_since: 2026-04-28T13:28:16.993756+00:00
 
  ## How U.S. media lost the trust of the public
  - [https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622](https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622)
@@ -600,6 +600,7 @@
  - [https://www.honestaustin.com/2021/03/31/austin-murder-rate-111-percent](https://www.honestaustin.com/2021/03/31/austin-murder-rate-111-percent)
  - date_published: 2021-03-31T20:09:24+00:00
  - tags: ['defund the police']
+ - date_dead_since: 2026-04-28T13:23:41.721007+00:00
 
  ## Twitter Is Enabling Saudi Arabia’s Brutal Crackdown on Dissent
  - [https://newrepublic.com/article/161995/twitter-saudi-arabia-mbs-dissident](https://newrepublic.com/article/161995/twitter-saudi-arabia-mbs-dissident)
@@ -625,6 +626,7 @@
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,173952,26952224,prof-krzysztof-simon-o-liczbie-zgonow-blyskawicznie-dazymy.html](https://wiadomosci.gazeta.pl/wiadomosci/7,173952,26952224,prof-krzysztof-simon-o-liczbie-zgonow-blyskawicznie-dazymy.html)
  - date_published: 2021-04-06T20:01:07+00:00
  - tags: ['covid', 'propaganda']
+ - date_dead_since: 2026-04-28T13:20:20.423327+00:00
 
  ## Zwolnienie pracownika za brak szczepienia na COVID-19
  - [https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19](https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19)
@@ -684,6 +686,7 @@
  - [https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682](https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682)
  - date_published: 2021-04-13T07:20:43+00:00
  - tags: ['big pharma', 'covid', 'johnson and johnson', 'vaccine']
+ - date_dead_since: 2026-04-28T13:17:01.187558+00:00
 
  ## Zaszczepieni preparatami mRNA bardziej podatni na inne warianty wirusa? Badania z Izraela niepokoją. Za wcześnie na picie szampana
  - [https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana](https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana)
@@ -709,6 +712,7 @@
  - [https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa](https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa)
  - date_published: 2021-04-14T21:41:09+00:00
  - tags: ['covid', 'fearmongering', 'media']
+ - date_dead_since: 2026-04-28T13:13:24.044245+00:00
 
  ## CNN staffer tells Project Veritas network played up COVID-19 death toll for ratings
  - [https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings](https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings)
