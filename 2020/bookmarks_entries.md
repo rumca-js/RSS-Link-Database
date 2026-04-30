@@ -1308,6 +1308,7 @@
  - [https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej](https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej)
  - date_published: 2020-10-04T21:09:53+00:00
  - tags: ['inequality', 'lgbt', 'margot', 'the left wing']
+ - date_dead_since: 2026-04-30T02:05:42.811288+00:00
 
  ## A WeChat Ban Would End Their Lifeline - The New York Times
  - [https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html](https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html)
@@ -1413,6 +1414,7 @@
  - [https://www.bell-labs.com/institute/blog/introducing-homo-augmentus](https://www.bell-labs.com/institute/blog/introducing-homo-augmentus)
  - date_published: 2020-10-27T10:07:50+00:00
  - tags: ['transhumanism']
+ - date_dead_since: 2026-04-29T22:39:12.458510+00:00
 
  ## RIAA's YouTube-DL Takedown Ticks Off Developers and GitHub's CEO * TorrentFreak
  - [https://torrentfreak.com/riaas-youtube-dl-takedown-ticks-of-developers-and-githubs-ceo-201027](https://torrentfreak.com/riaas-youtube-dl-takedown-ticks-of-developers-and-githubs-ceo-201027)
@@ -1458,11 +1460,13 @@
  - [https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi](https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi)
  - date_published: 2020-11-07T08:46:55+00:00
  - tags: ['children', 'lgbt', 'surrogacy', 'the left wing']
+ - date_dead_since: 2026-04-29T21:18:23.467854+00:00
 
  ## Norway outlaws hate speech against trans people
  - [https://news.trust.org/item/20201110191107-tecjt](https://news.trust.org/item/20201110191107-tecjt)
  - date_published: 2020-11-10T22:01:46+00:00
  - tags: ['censorship', 'hate speech', 'lgbt', 'norway', 'the left wing', 'transgender']
+ - date_dead_since: 2026-04-29T21:10:29.347489+00:00
 
  ## Prezes Pfizera sprzedał swoje akcje w dniu ogłoszenia sukcesu badań nad szczepionką. Zarobił 5,6 mln dol.
  - [https://businessinsider.com.pl/wiadomosci/prezes-pfizera-sprzedal-swoje-akcje-w-dniu-ogloszenia-sukcesu-badan-nad-szczepionka/y1ccgzn](https://businessinsider.com.pl/wiadomosci/prezes-pfizera-sprzedal-swoje-akcje-w-dniu-ogloszenia-sukcesu-badan-nad-szczepionka/y1ccgzn)
@@ -1810,6 +1814,7 @@
  - [https://www.tvp.info/51409466/koronawirus-naukowcy-z-rpa-odkryli-nowa-mutacje-sars-cov-2](https://www.tvp.info/51409466/koronawirus-naukowcy-z-rpa-odkryli-nowa-mutacje-sars-cov-2)
  - date_published: 2020-12-19T06:25:12+00:00
  - tags: ['covid', 'mutation']
+ - date_dead_since: 2026-04-29T07:21:17.182676+00:00
 
  ## How and Why I Stopped Buying New Laptops (2020)
  - [https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
@@ -1881,6 +1886,7 @@
  - [https://dcgross.com/a-new-google](https://dcgross.com/a-new-google)
  - date_published: 2020-12-23T09:31:57+00:00
  - tags: ['algorithms', 'dead internet', 'search engines']
+ - date_dead_since: 2026-04-29T05:10:04.444941+00:00
 
  ## WHO Deletes Naturally Acquired Immunity from Its Website
  - [https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website](https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website)

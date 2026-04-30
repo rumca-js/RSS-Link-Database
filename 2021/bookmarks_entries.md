@@ -14,6 +14,7 @@
  - [https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info](https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info)
  - date_published: 2021-01-02T06:44:36+00:00
  - tags: ['covid', 'vaccine']
+ - date_dead_since: 2026-04-29T03:00:36.684457+00:00
 
  ## House Democrats open 117th Congress with prayer ending 'amen and a-woman' - Washington Times
  - [https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-](https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-)

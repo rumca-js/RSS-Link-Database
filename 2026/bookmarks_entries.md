@@ -91,3 +91,8 @@
  - date_published: 2026-04-15T04:58:25+00:00
  - tags: ['homosexuality', 'immigration']
 
+ ## Greece to ban anonymity on social media
+ - [https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media](https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media)
+ - date_published: 2026-04-28T16:24:00+00:00
+ - tags: ['privacy', 'surveillance']
+

@@ -55,7 +55,7 @@
             "poland",
             "vaccine"
         ],
-        "thumbnail": "https://cdn.wiadomosci.onet.pl/1/HRQk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iMWYwZTI5MGM4YzBiNjc3MDgzZTFlYjEyMDQ5MGFkNC5qcGeTlQMAzNLNGkDNDsSTBc0EsM0CdpUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA",
+        "thumbnail": "https://cdn.wiadomosci.onet.pl/1/Qnvk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iMWYwZTI5MGM4YzBiNjc3MDgzZTFlYjEyMDQ5MGFkNC5qcGeTlQMAzNLNGkDNDsSTBc0JYM0E7JUH2YxodHRwczovL2Nkbi53aWFkb21vc2NpLm9uZXQucGwvMS91YnBrOWs3YUhSMGNITTZMeTlqWkc0dWQybGhaRzl0YjNOamFTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmZDJsaFpHOXRiM05qYVM1d2JtZVJsUUlBWk1QRDNnQUNvVEFIb1RFRQjCAN4AAqEwB6ExBA",
         "title": "Koronawirus. Niedzielski: rozwa\u017camy ograniczenia dla niezaszczepionych\n        \n        - Wiadomo\u015bci",
         "vote": 0
     },
@@ -66,20 +66,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:49:34.622555+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-04-29T03:00:36.684457+00:00",
         "date_published": "2021-01-02T06:44:36+00:00",
         "description": "Koronawirus. Szczepionka dla celebryt\u00f3w: Wiktor Zborowski, Krzysztof Materna, Andrzej Seweryn i Maria Seweryn. Kontrowersje ju\u017c nie tylko wok\u00f3\u0142 Jandy i Millera | TVP Info - tvp.info",
         "id": 34627,
         "language": "pl",
         "link": "https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.tvp.info",
-        "status_code": 614,
+        "status_code": 404,
         "tags": [
             "covid",
             "vaccine"
@@ -102,13 +102,13 @@
         "language": "en-US",
         "link": "https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.washingtontimes.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "newspeak",
             "the left wing"
@@ -137,7 +137,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://thehill.com",
-        "status_code": 614,
+        "status_code": 403,
         "tags": [
             "gender",
             "lgbt",
@@ -286,7 +286,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://thehill.com",
-        "status_code": 614,
+        "status_code": 403,
         "tags": [
             "deplatform",
             "donald trump",

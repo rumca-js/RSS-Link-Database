@@ -545,5 +545,35 @@
         "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a9/live/c1497170-3824-11f1-8606-05fe34b06e1b.png",
         "title": "Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "01-_-",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-04-28T17:33:21.036678+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T16:24:00+00:00",
+        "description": "<p>Article URL: <a href=\"https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/\">https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936616\">https://news.ycombinator.com/item?id=47936616</a></p>\n<p>Points: 58</p>\n<p># Comments: 38</p>",
+        "id": 5368909,
+        "language": "en-US",
+        "link": "https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 141,
+        "source_url": "https://hnrss.org/frontpage",
+        "status_code": 0,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": null,
+        "title": "Greece to ban anonymity on social media",
+        "vote": 0
     }
 ]
