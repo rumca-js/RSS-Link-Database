@@ -479,6 +479,7 @@
  - [https://www.tokfm.pl/Tokfm/7,103087,25965883,brat-ministra-szumowskiego-tlumaczy-sie-z-afery-z-maseczkami.html](https://www.tokfm.pl/Tokfm/7,103087,25965883,brat-ministra-szumowskiego-tlumaczy-sie-z-afery-z-maseczkami.html)
  - date_published: 2020-05-22T20:28:16+00:00
  - tags: ['covid', 'łukasz szumowski', 'poland']
+ - date_dead_since: 2026-05-01T01:59:26.680156+00:00
 
  ## BlackRock: Unofficial Fourth Arm Of Government | The WealthAdvisor
  - [https://www.thewealthadvisor.com/article/blackrock-unofficial-fourth-arm-government](https://www.thewealthadvisor.com/article/blackrock-unofficial-fourth-arm-government)
@@ -724,6 +725,7 @@
  - [https://cloverchronicle.com/2020/07/03/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all](https://cloverchronicle.com/2020/07/03/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all)
  - date_published: 2020-07-03T15:28:00+00:00
  - tags: ['4chan', 'jeffrey epstein', 'unverified']
+ - date_dead_since: 2026-04-30T18:44:00.444686+00:00
 
  ## Deutsche Bank fined $150M for failing to flag Epstein's shady transactions
  - [https://www.cnn.com/2020/07/07/business/jeffrey-epstein-deutsche-bank-fine/index.html](https://www.cnn.com/2020/07/07/business/jeffrey-epstein-deutsche-bank-fine/index.html)
@@ -1127,10 +1129,12 @@
  - [https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html](https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html)
  - date_published: 2020-09-02T21:12:40+00:00
  - tags: ['inequality', 'lgbt', 'socialism', 'the left wing']
+ - date_dead_since: 2026-04-30T07:29:06.237106+00:00
 
  ## Hedonism, Asceticism and the Hermetic Answer
  - [https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer)
  - date_published: 2020-09-03T00:00:00+00:00
+ - date_dead_since: 2026-04-30T07:20:12.879101+00:00
 
  ## Covid: Australian anti-lockdown suspect's arrest draws controversy - BBC News
  - [https://www.bbc.com/news/world-australia-54007824](https://www.bbc.com/news/world-australia-54007824)
@@ -1151,6 +1155,7 @@
  - [https://gamingstreet.com/unity-files-to-go-public-will-apple-now-buy-them](https://gamingstreet.com/unity-files-to-go-public-will-apple-now-buy-them)
  - date_published: 2020-09-07T08:15:56+00:00
  - tags: ['game engines', 'unity']
+ - date_dead_since: 2026-04-30T06:24:09.474147+00:00
 
  ## Norway will prioritise lesbian, gay, bisexual and transgender refugees
  - [https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees](https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees)
