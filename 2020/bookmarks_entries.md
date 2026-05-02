@@ -92,6 +92,7 @@
  - [https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan](https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan)
  - date_published: 2020-01-24T00:00:00+00:00
  - tags: ['covid', 'fearmongering', 'lab leak', 'propaganda', 'wuhan']
+ - date_dead_since: 2026-05-01T13:31:47.032751+00:00
 
  ## Yuval Noah Harari: How to Survive the 21st Century- Davos 2020
  - [https://www.youtube.com/watch?v=gG6WnMb9Fho](https://www.youtube.com/watch?v=gG6WnMb9Fho)
@@ -202,6 +203,7 @@
  - [https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html](https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html)
  - date_published: 2020-02-23T22:16:00+00:00
  - tags: ['aladdin', 'artificial intelligence', 'blackrock']
+ - date_dead_since: 2026-05-01T09:34:05.152926+00:00
 
  ## Your smart speaker could be listening in on your conversations by accident
  - [https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations](https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations)
@@ -212,6 +214,7 @@
  - [https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html](https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html)
  - date_published: 2020-02-26T10:24:40+00:00
  - tags: ['paedophilia', 'peter nygard', 'prince andrew']
+ - date_dead_since: 2026-05-01T09:19:03.398124+00:00
 
  ## Charlie's Angels — How Gender Obsession Can Ruin a Film | Anatomy Of A Failure
  - [https://www.youtube.com/watch?v=xeX4qvP5mGg](https://www.youtube.com/watch?v=xeX4qvP5mGg)
@@ -321,6 +324,7 @@
  - [https://www.ctvnews.ca/health/coronavirus/people-are-reporting-on-their-neighbours-over-covid-19-concerns-1.4872683](https://www.ctvnews.ca/health/coronavirus/people-are-reporting-on-their-neighbours-over-covid-19-concerns-1.4872683)
  - date_published: 2020-03-28T20:28:16+00:00
  - tags: ['canada', 'covid', 'snitch line']
+ - date_dead_since: 2026-05-01T06:27:52.986301+00:00
 
  ## Are You a Slave to your Software Knowledge?
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
@@ -440,6 +444,7 @@
  - [https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password](https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password)
  - date_published: 2020-05-13T06:56:06+00:00
  - tags: ['authentication', 'security']
+ - date_dead_since: 2026-05-01T03:18:56.946295+00:00
 
  ## More than 100,000 small businesses have permanently closed due to coronavirus, study estimates – The Hill
  - [https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently](https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently)

@@ -1730,13 +1730,13 @@
         "language": "en",
         "link": "https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html",
         "manual_status_code": 0,
-        "page_rating": 66,
-        "page_rating_contents": 86,
+        "page_rating": 51,
+        "page_rating_contents": 40,
         "page_rating_visits": 2,
         "page_rating_votes": 55,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "censorship",
             "fahrenheit 451"
@@ -4825,13 +4825,13 @@
         "permanent": false,
         "source__id": 615,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCshObcm-nLhbu8MY50EZ5Ng",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "privacy",
             "surveillance",
             "technofeudalism"
         ],
-        "thumbnail": "https://i3.ytimg.com/vi/vU1-uiUlHTo/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/vU1-uiUlHTo/maxresdefault.jpg",
         "title": "This Flock Camera Leak is like Netflix For Stalkers",
         "vote": 40
     },
@@ -4849,13 +4849,13 @@
         "language": "en",
         "link": "https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "facebook",
             "meta"

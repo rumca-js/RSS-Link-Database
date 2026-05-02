@@ -890,6 +890,7 @@
  - [https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html](https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html)
  - date_published: 2019-11-05T20:56:43+00:00
  - tags: ['intolerance', 'lgbt', 'transgender']
+ - date_dead_since: 2026-05-01T18:35:40.498283+00:00
 
  ## Why Rey is a Mary Sue and Luke Skywalker is Not
  - [https://www.youtube.com/watch?v=JN8Qm5o0oSY](https://www.youtube.com/watch?v=JN8Qm5o0oSY)
