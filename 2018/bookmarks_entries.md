@@ -759,6 +759,7 @@
  - [https://forsal.pl/artykuly/1376241,las-w-hambach-nalezaca-do-rwe-kopalnia-chce-wyciac-las-ktory-ma-12-tys-lat.html](https://forsal.pl/artykuly/1376241,las-w-hambach-nalezaca-do-rwe-kopalnia-chce-wyciac-las-ktory-ma-12-tys-lat.html)
  - date_published: 2018-12-05T06:45:00+00:00
  - tags: ['climate change', 'climate drama', 'co2', 'germany']
+ - date_dead_since: 2026-05-02T23:56:57.678247+00:00
 
  ## Noam Chomsky - Foundations of World Order: the UN, World Bank, IMF & Decl. Human Rights 1999
  - [https://www.youtube.com/watch?v=JduPGFNwB7A](https://www.youtube.com/watch?v=JduPGFNwB7A)

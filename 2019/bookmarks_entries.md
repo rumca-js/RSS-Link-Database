@@ -401,6 +401,7 @@
  ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
  - date_published: 2019-07-06T07:21:17+00:00
+ - date_dead_since: 2026-05-02T05:51:53.187833+00:00
 
  ## A parasitological evaluation of edible insects and their role in the transmission of parasitic diseases to humans and animals - PMC
  - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613697](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613697)
@@ -576,6 +577,7 @@
  - [https://ottawa.ctvnews.ca/ottawa-s-first-black-mass-has-protesters-seeing-red-1.4554309](https://ottawa.ctvnews.ca/ottawa-s-first-black-mass-has-protesters-seeing-red-1.4554309)
  - date_published: 2019-08-17T13:11:25+00:00
  - tags: ['black mass', 'satanic temple']
+ - date_dead_since: 2026-05-02T02:19:21.011156+00:00
 
  ## Greta Thunberg and the plot to forge a climate warrior
  - [https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global](https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global)
