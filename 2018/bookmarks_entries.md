@@ -700,6 +700,7 @@
  - [https://npg.org/library/press-releases/13380.html](https://npg.org/library/press-releases/13380.html)
  - date_published: 2018-10-25T07:32:56+00:00
  - tags: ['climate change', 'depopulation', 'feminism']
+ - date_dead_since: 2026-05-03T17:18:48.858505+00:00
 
  ## Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
