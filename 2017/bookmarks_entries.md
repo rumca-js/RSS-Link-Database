@@ -222,6 +222,7 @@
  - [https://www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html?mc_cid=319c2432e2&mc_eid=fb26c9199a](https://www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html?mc_cid=319c2432e2&mc_eid=fb26c9199a)
  - date_published: 2017-05-19T08:21:51+00:00
  - tags: ['instagram', 'psychology', 'social media']
+ - date_dead_since: 2026-05-04T22:54:53.449887+00:00
 
  ## Daring Fireball: Fuck Facebook
  - [https://daringfireball.net/2017/06/fuck_facebook](https://daringfireball.net/2017/06/fuck_facebook)
@@ -387,6 +388,7 @@
  - [https://www.grunge.com/35035/secret-history-illuminati](https://www.grunge.com/35035/secret-history-illuminati)
  - date_published: 2017-08-28T13:30:16+00:00
  - tags: ['illuminati', 'secret societies']
+ - date_dead_since: 2026-05-04T14:32:29.053709+00:00
 
  ## Now you, too, can disable Intel ME 'backdoor' thanks to the NSA | CSO Online
  - [https://www.csoonline.com/article/3220476/researchers-say-now-you-too-can-disable-intel-me-backdoor-thanks-to-the-nsa.html](https://www.csoonline.com/article/3220476/researchers-say-now-you-too-can-disable-intel-me-backdoor-thanks-to-the-nsa.html)
@@ -517,7 +519,6 @@
  - [http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html](http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html)
  - date_published: 2017-10-23T16:30:02+00:00
  - tags: ['search engines']
- - date_dead_since: 2025-12-25T12:51:04.409173+00:00
 
  ## Anthony Mackie Explains Why Hollywood Movies Suck Now
  - [https://www.youtube.com/watch?v=oj8JK6c5x3M](https://www.youtube.com/watch?v=oj8JK6c5x3M)

@@ -122,6 +122,7 @@
  - [https://zdrowie.radiozet.pl/medycyna/wiadomosci/Prokuratura-Krajowa-wszczela-sledztwo-w-sprawie-wadliwych-szczepionek](https://zdrowie.radiozet.pl/medycyna/wiadomosci/Prokuratura-Krajowa-wszczela-sledztwo-w-sprawie-wadliwych-szczepionek)
  - date_published: 2018-02-28T16:39:56+00:00
  - tags: ['covid', 'vaccine']
+ - date_dead_since: 2026-05-04T09:12:36.674469+00:00
 
  ## Who Owns the Data Your Car Collects?
  - [https://www.consumerreports.org/automotive-technology/who-owns-the-data-your-car-collects](https://www.consumerreports.org/automotive-technology/who-owns-the-data-your-car-collects)
@@ -147,6 +148,7 @@
  - [https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T](https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T)
  - date_published: 2018-03-13T11:23:25+00:00
  - tags: ['facebook', 'hate speech', 'myanmar', 'privacy']
+ - date_dead_since: 2026-05-04T08:57:20.177906+00:00
 
  ## These Are The Concerns Slowly Killing Ad-Tech
  - [https://readwrite.com/concerns-slowly-killing-ad-tech](https://readwrite.com/concerns-slowly-killing-ad-tech)
@@ -242,6 +244,7 @@
  - [https://www.abqjournal.com/1154293/governments-that-disarm-the-people-have-troubling-history.html](https://www.abqjournal.com/1154293/governments-that-disarm-the-people-have-troubling-history.html)
  - date_published: 2018-04-04T20:16:37+00:00
  - tags: ['gun control']
+ - date_dead_since: 2026-05-04T08:02:53.038625+00:00
 
  ## How Mark Zuckerberg Protects His Own Privacy Online
  - [https://slate.com/technology/2018/04/how-mark-zuckerberg-protects-his-own-privacy-online.html](https://slate.com/technology/2018/04/how-mark-zuckerberg-protects-his-own-privacy-online.html)
@@ -277,6 +280,7 @@
  - [https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html](https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html)
  - date_published: 2018-04-12T10:01:48+00:00
  - tags: ['clean code', 'programming']
+ - date_dead_since: 2026-05-04T07:33:46.542396+00:00
 
  ## Public Attention Forces Facebook To Retreat From Anti-Privacy Alliance With ISPs In California
  - [https://www.techdirt.com/2018/04/13/public-attention-forces-facebook-to-retreat-anti-privacy-alliance-with-isps-california](https://www.techdirt.com/2018/04/13/public-attention-forces-facebook-to-retreat-anti-privacy-alliance-with-isps-california)
