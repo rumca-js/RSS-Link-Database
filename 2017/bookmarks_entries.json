@@ -238,7 +238,7 @@
             "government",
             "media"
         ],
-        "thumbnail": "https://cdn-sw.spidersweb.pl/2014/11/Angela-Merkel.jpg",
+        "thumbnail": "https://cdn-sw.spidersweb.pl/2014/11/Angela-Merkel.webp",
         "title": "Kanclerz Merkel zapomnia\u0142a, co Niemcy robi\u0105 z mediami w Polsce",
         "vote": 0
     },
@@ -443,13 +443,13 @@
         "language": "en",
         "link": "https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "big brother",
             "cia",
