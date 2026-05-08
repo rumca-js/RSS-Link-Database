@@ -96,3 +96,13 @@
  - date_published: 2026-04-28T16:24:00+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## DLACZEGO ŻYDZ! RZĄDZĄ ŚWIATEM?
+ - [https://www.youtube.com/watch?v=zuzIz1XoTPg](https://www.youtube.com/watch?v=zuzIz1XoTPg)
+ - date_published: 2026-05-07T05:51:44.481893+00:00
+ - tags: ['rothschilds']
+
+ ## BLACKROCK - JAK RZĄDZĄ ŚWIATEM?
+ - [https://www.youtube.com/watch?v=-4VYkj44fYI](https://www.youtube.com/watch?v=-4VYkj44fYI)
+ - date_published: 2026-05-07T06:25:29.776856+00:00
+ - tags: ['blackrock']
+
