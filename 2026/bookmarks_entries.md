@@ -106,3 +106,8 @@
  - date_published: 2026-05-07T06:25:29.776856+00:00
  - tags: ['blackrock']
 
+ ## Tech leaders come under fire after Epstein files spur allegations
+ - [https://www.aa.com.tr/en/world/tech-leaders-come-under-fire-after-epstein-files-spur-allegations/3818925](https://www.aa.com.tr/en/world/tech-leaders-come-under-fire-after-epstein-files-spur-allegations/3818925)
+ - date_published: 2026-05-09T06:38:15.213169+00:00
+ - tags: ['jeffrey epstein']
+

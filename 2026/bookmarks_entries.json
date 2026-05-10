@@ -631,5 +631,33 @@
         "thumbnail": "https://i.ytimg.com/vi/-4VYkj44fYI/maxresdefault.jpg",
         "title": "BLACKROCK - JAK RZ\u0104DZ\u0104 \u015aWIATEM?",
         "vote": 50
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-05-09T06:37:55.985251+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-09T06:38:15.213169+00:00",
+        "description": "E-mails show Elon Musk made multiple attempts to visit Epstein\u2019s properties, Bill Gates shared top-secret work in biological defense and neurotechnology, and Jeff Bezos was allegedly seen at co-conspirator Maxwell\u2019s townhouse | Anadolu",
+        "id": 5461529,
+        "language": "tr",
+        "link": "https://www.aa.com.tr/en/world/tech-leaders-come-under-fire-after-epstein-files-spur-allegations/3818925",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 81,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "jeffrey epstein"
+        ],
+        "thumbnail": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/02/03/thumbs_b_c_e8a86c60b2368d9ffdffd5e65b71d4e5.jpg?v=153134",
+        "title": "Tech leaders come under fire after Epstein files spur allegations",
+        "vote": 0
     }
 ]
