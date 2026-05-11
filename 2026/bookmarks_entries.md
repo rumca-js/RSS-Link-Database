@@ -111,3 +111,8 @@
  - date_published: 2026-05-09T06:38:15.213169+00:00
  - tags: ['jeffrey epstein']
 
+ ## Empire of Shadows: True Story of the Richest Family in History
+ - [https://www.youtube.com/watch?v=IbWl40xgw0A](https://www.youtube.com/watch?v=IbWl40xgw0A)
+ - date_published: 2026-05-10T07:35:31.141066+00:00
+ - tags: ['rothschilds']
+
