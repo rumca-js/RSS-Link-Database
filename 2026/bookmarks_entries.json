@@ -13,18 +13,18 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=W_F4rEaRduk",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
         "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 615,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCshObcm-nLhbu8MY50EZ5Ng",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "privacy"
         ],
-        "thumbnail": "https://i4.ytimg.com/vi/W_F4rEaRduk/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/W_F4rEaRduk/maxresdefault.jpg",
         "title": "Gadgets For People Who Don't Trust The Government",
         "vote": 0
     },
