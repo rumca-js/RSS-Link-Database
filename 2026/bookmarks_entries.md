@@ -116,3 +116,8 @@
  - date_published: 2026-05-10T07:35:31.141066+00:00
  - tags: ['rothschilds']
 
+ ## Why the U.S. is noticing this Canadian security bill | CBC News
+ - [https://www.cbc.ca/news/politics/why-americans-noticing-canadian-security-bill-9.7199947](https://www.cbc.ca/news/politics/why-americans-noticing-canadian-security-bill-9.7199947)
+ - date_published: 2026-05-16T15:38:56.512990+00:00
+ - tags: ['canada', 'privacy', 'surveillance']
+

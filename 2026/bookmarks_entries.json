@@ -687,5 +687,35 @@
         "thumbnail": "https://i.ytimg.com/vi/IbWl40xgw0A/hqdefault.jpg",
         "title": "Empire of Shadows: True Story of the Richest Family in History",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-05-16T11:08:48.611458+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-16T15:38:56.512990+00:00",
+        "description": "A Liberal government bill that proposes giving police and spies easier access to information during investigations has fallen into the crosshairs of U.S. tech giants and two American congressional committees, threatening to become the latest irritant in the Canada-U.S. relationship.",
+        "id": 5522497,
+        "language": "en",
+        "link": "https://www.cbc.ca/news/politics/why-americans-noticing-canadian-security-bill-9.7199947",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "canada",
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": "https://i.cbc.ca/ais/f8b277ae-26f4-4225-9b40-de440b639c31,1778792409966/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C425%2C6500%2C3656%29%3BResize%3D620",
+        "title": "Why the U.S. is noticing this Canadian security bill | CBC News",
+        "vote": 0
     }
 ]
