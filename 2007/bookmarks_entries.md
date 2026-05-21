@@ -2,6 +2,7 @@
  - [https://edition.cnn.com/2007/POLITICS/01/31/biden.obama](https://edition.cnn.com/2007/POLITICS/01/31/biden.obama)
  - date_published: 2007-02-09T20:26:13+00:00
  - tags: ['barack obama', 'joe biden']
+ - date_dead_since: 2026-05-20T18:16:23.987794+00:00
 
  ## A500 Gods - Intro
  - [https://www.youtube.com/watch?v=xN0VIgO3U0k](https://www.youtube.com/watch?v=xN0VIgO3U0k)
@@ -63,6 +64,7 @@
  - [https://www.cda.pl/video/618603561](https://www.cda.pl/video/618603561)
  - date_published: 2007-09-01T07:05:00+00:00
  - tags: ['aaron russo', 'conspiracy theory']
+ - date_dead_since: 2026-05-20T17:56:45.644231+00:00
 
  ## Have you noticed how much shit the internet has become now? (2007)
  - [https://old.sage.moe/g/thread/721239](https://old.sage.moe/g/thread/721239)

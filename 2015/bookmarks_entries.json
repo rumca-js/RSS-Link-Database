@@ -113,7 +113,7 @@
             "jeffrey epstein",
             "prince andrew"
         ],
-        "thumbnail": "https://i2-prod.mirror.co.uk/article4924946.ece/ALTERNATES/s1200/PAYSinIslandMain.jpg",
+        "thumbnail": "https://i2-prod.mirror.co.uk/article4924946.ece/ALTERNATES/s1200d/PAYSinIslandMain.jpg",
         "title": "Prince Andrew allegation: First pictures of paedo tycoon Jeffrey Epstein's \u00a34k-a-night island lair",
         "vote": 0
     },
@@ -145,7 +145,7 @@
             "islam",
             "religion"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlie-Hebdo-2015-11.JPG/1280px-Charlie-Hebdo-2015-11.JPG",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlie-Hebdo-2015-11.JPG/1280px-Charlie-Hebdo-2015-11.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
         "title": "Charlie Hebdo shooting - Wikipedia",
         "vote": 0
     },
@@ -337,20 +337,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:26.941237+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-05-20T07:44:15.659243+00:00",
         "date_published": "2015-01-22T19:55:29+00:00",
         "description": "Billionaire Pervert Jeffrey Epstein and His Famous Friends: A Primer",
         "id": 40721,
         "language": "en-EN",
         "link": "https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.gawker.com",
-        "status_code": 200,
+        "status_code": 404,
         "tags": [
             "billionairs",
             "elites",
@@ -410,7 +410,7 @@
         "tags": [
             "open source"
         ],
-        "thumbnail": "https://www.propublica.org/wp-content/uploads/2015/02/20150205-werner-koch-2-1200x630.jpg",
+        "thumbnail": "https://www.propublica.org/wp-content/uploads/2015/02/20150205-werner-koch-2-1200x630.jpg?w=1200",
         "title": "The World's Email Encryption Software Relies on One Guy, Who is Going Broke \u2014 ProPublica",
         "vote": 0
     },
@@ -612,7 +612,7 @@
         "link": "https://citizenlab.ca/2015/04/chinas-great-cannon",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -832,7 +832,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.chicagotribune.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "dawn stefanowicz",
             "lgbt"
@@ -1168,7 +1168,7 @@
         "tags": [
             "reddit"
         ],
-        "thumbnail": "https://api.time.com/wp-content/uploads/2015/07/victoria-taylor-reddit.jpg?quality=85&w=1200&h=628&crop=1",
+        "thumbnail": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/bltf8376278924888d9/69885a2ef887dc23ede914a3/victoria-taylor-reddit.jpg?branch=production&width=3840&quality=75&auto=webp&crop=16:9",
         "title": "Reddit Victoria Taylor: Dismissed AMA Coordinator Breaks Silence | Time",
         "vote": 0
     },
@@ -1227,7 +1227,7 @@
             "scripts",
             "youtube"
         ],
-        "thumbnail": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumbnail": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=0f0cab681579",
         "title": "javascript - How to skip ad after 5 seconds using the YouTube JS API? - Stack Overflow",
         "vote": 0
     },
@@ -1852,7 +1852,7 @@
         "link": "https://www.theregister.com/2015/11/25/windows_10_download_explained",
         "manual_status_code": 0,
         "page_rating": 30,
-        "page_rating_contents": 85,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -1863,7 +1863,7 @@
             "telemetry",
             "windows"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://image.theregister.com/249362.jpg?imageId=249362&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "Why Microsoft yanked its latest Windows 10 update download: It hijacked privacy settings \u2022 The Register",
         "vote": 0
     },

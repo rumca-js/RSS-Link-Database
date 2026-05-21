@@ -126,6 +126,7 @@
  - [https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows](https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows)
  - date_published: 2014-07-03T08:17:49+00:00
  - tags: ['addiction', 'digital dementia']
+ - date_dead_since: 2026-05-20T11:06:02.128813+00:00
 
  ## Congress Is Still Editing Wikipedia a Lot -- Here's How We Know
  - [https://gizmodo.com/congress-is-still-editing-wikipedia-a-lot-heres-how-1605295946](https://gizmodo.com/congress-is-still-editing-wikipedia-a-lot-heres-how-1605295946)

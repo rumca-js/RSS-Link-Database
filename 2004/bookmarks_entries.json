@@ -73,13 +73,13 @@
         "language": "en",
         "link": "https://www.nytimes.com/2004/05/03/us/new-internet-site-turns-critical-eyes-and-ears-to-the-right.html",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "media",
             "media matters"
@@ -102,13 +102,13 @@
         "language": "en",
         "link": "https://www.nytimes.com/2004/05/13/technology/state-of-the-art-google-mail-virtue-lies-in-the-in-box.html?pagewanted=print&src=pm",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "gmail",
             "google"
@@ -190,7 +190,7 @@
         "link": "https://www.theregister.com/2004/12/20/patents_vote",
         "manual_status_code": 0,
         "page_rating": 30,
-        "page_rating_contents": 85,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -201,7 +201,7 @@
             "european union",
             "manufacturing consent"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
         "title": "EU fish ministers to vote on software patents",
         "vote": 0
     },

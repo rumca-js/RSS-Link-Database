@@ -57,6 +57,7 @@
  - [https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399](https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399)
  - date_published: 2015-01-22T19:55:29+00:00
  - tags: ['billionairs', 'elites', 'jeffrey epstein']
+ - date_dead_since: 2026-05-20T07:44:15.659243+00:00
 
  ## a brief history of one line fixes
  - [https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)

@@ -37,6 +37,7 @@
  - [https://artmuseum.pl/pl/wydarzenia/occupy-wall-street-nowe-ruchy-spoleczne](https://artmuseum.pl/pl/wydarzenia/occupy-wall-street-nowe-ruchy-spoleczne)
  - date_published: 2012-03-29T07:14:08+00:00
  - tags: ['billionaires', 'occupy wall street', 'protest']
+ - date_dead_since: 2026-05-20T12:51:17.983460+00:00
 
  ## The flip side to Bill Gates' charity billions
  - [https://newint.org/features/2012/04/01/bill-gates-charitable-giving-ethics](https://newint.org/features/2012/04/01/bill-gates-charitable-giving-ethics)
@@ -124,6 +125,7 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - [https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand](https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand)
  - date_published: 2012-10-02T09:18:00+00:00
  - tags: ['bees', 'china', 'pollution']
+ - date_dead_since: 2026-05-20T12:32:12.772521+00:00
 
  ## The little ssh that (sometimes) couldn't | Mina Naguib
  - [https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)

@@ -22,6 +22,7 @@
  - [https://developer.ibm.com/tutorials/l-sockpit](https://developer.ibm.com/tutorials/l-sockpit)
  - date_published: 2005-09-20T13:27:56+00:00
  - tags: ['linux', 'programming', 'scripts']
+ - date_dead_since: 2026-05-20T19:01:45.444165+00:00
 
  ## Sony BMG copy protection rootkit scandal - Wikipedia
  - [https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal](https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal)

@@ -57,6 +57,7 @@
  - [https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm](https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm)
  - date_published: 2010-05-14T08:48:45+00:00
  - tags: ['corporatocracy', 'google', 'law', 'privacy', 'surveillance']
+ - date_dead_since: 2026-05-20T15:28:24.899690+00:00
 
  ## Nestlé drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA
  - [https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr](https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr)
@@ -101,6 +102,7 @@
  - [https://www.cda.pl/video/230515a9](https://www.cda.pl/video/230515a9)
  - date_published: 2010-08-03T20:55:11+00:00
  - tags: ['daniel cohn-bendit', 'lgbt', 'paedophilia', 'the left wing']
+ - date_dead_since: 2026-05-20T15:08:14.291562+00:00
 
  ## How radicals tried to sexually ‘liberate’ children
  - [https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children](https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children)

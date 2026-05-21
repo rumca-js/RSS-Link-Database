@@ -131,6 +131,7 @@
  - [http://www.marketoracle.co.uk/Article40836.html](http://www.marketoracle.co.uk/Article40836.html)
  - date_published: 2013-06-10T09:10:48+00:00
  - tags: ['backdoor', 'big brother', 'dark design', 'nsa', 'privacy', 'surveillance', 'windows']
+ - date_dead_since: 2026-05-20T12:03:03.841419+00:00
 
  ## Please drink a verification can.
  - [https://www.reddit.com/r/4chan/comments/1ggg4u/please_drink_a_verification_can](https://www.reddit.com/r/4chan/comments/1ggg4u/please_drink_a_verification_can)

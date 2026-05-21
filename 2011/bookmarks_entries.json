@@ -80,8 +80,8 @@
         "language": "en",
         "link": "https://pubmed.ncbi.nlm.nih.gov/21419222",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 27,
+        "page_rating_contents": 75,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -240,7 +240,7 @@
             "moderation",
             "shadowban"
         ],
-        "thumbnail": "https://blog.codinghorror.com/content/images/2025/05/image-527-1.png",
+        "thumbnail": "https://storage.ghost.io/c/eb/aa/ebaa2665-01a8-4415-8825-69d1f0e8fd19/content/images/2025/05/image-527-1.png",
         "title": "Suspension, Ban or Hellban?",
         "vote": 0
     },

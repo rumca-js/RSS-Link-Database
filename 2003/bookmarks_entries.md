@@ -7,6 +7,7 @@
  - [https://www.computerworld.pl/news/SCO-zaplaca-miliard-za-Linuxa,53592.html](https://www.computerworld.pl/news/SCO-zaplaca-miliard-za-Linuxa,53592.html)
  - date_published: 2003-03-17T08:33:03+00:00
  - tags: ['linux', 'sco group']
+ - date_dead_since: 2026-05-20T20:06:24.833326+00:00
 
  ## A Spy Machine of DARPA's Dreams
  - [https://www.wired.com/2003/05/a-spy-machine-of-darpas-dreams](https://www.wired.com/2003/05/a-spy-machine-of-darpas-dreams)

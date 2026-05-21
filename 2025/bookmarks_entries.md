@@ -705,6 +705,7 @@
  - [https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it)
  - date_published: 2025-09-01T02:16:10+00:00
  - tags: ['corporatocracy', 'credit score', 'social score']
+ - date_dead_since: 2026-05-20T18:17:32.856828+00:00
 
  ## X(Twitter) Shadow Bans Turkish Presidential Candidate
  - [https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish](https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish)

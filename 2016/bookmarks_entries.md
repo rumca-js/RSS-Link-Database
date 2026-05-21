@@ -246,6 +246,7 @@
  - [https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion](https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion)
  - date_published: 2016-07-14T15:47:42+00:00
  - tags: ['diversity', 'equity', 'inclusion', 'propaganda']
+ - date_dead_since: 2026-05-20T02:57:59.680127+00:00
 
  ## France church attack: Priest killed by two 'IS militants' - BBC News
  - [https://www.bbc.com/news/world-europe-36892785](https://www.bbc.com/news/world-europe-36892785)
