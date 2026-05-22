@@ -27,6 +27,7 @@
  - [https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html](https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html)
  - date_published: 2023-01-01T21:06:41+00:00
  - tags: ['inequality', 'lgbt', 'science is dead', 'the left wing']
+ - date_dead_since: 2026-05-21T16:03:14.819979+00:00
 
  ## Witamy na stronie zaimki.pl!
  - [https://zaimki.pl](https://zaimki.pl)
@@ -37,6 +38,7 @@
  - [https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money](https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money)
  - date_published: 2023-01-01T22:31:55+00:00
  - tags: ['big tech', 'bill gates', 'billionaires', 'jeff bezos', 'mark zuckerberg', 'plutocracy']
+ - date_dead_since: 2026-05-21T15:58:05.406144+00:00
 
  ## Third of world economy to hit recession in 2023, IMF head warns
  - [https://www.theguardian.com/business/2023/jan/02/third-of-world-economy-to-hit-recession-in-2023-imf-head-warns](https://www.theguardian.com/business/2023/jan/02/third-of-world-economy-to-hit-recession-in-2023-imf-head-warns)
@@ -1449,6 +1451,7 @@
  - [https://lajili.com/posts/post-2](https://lajili.com/posts/post-2)
  - date_published: 2023-02-02T15:25:26+00:00
  - tags: ['artificial intelligence', 'chatgpt', 'internet', 'web30']
+ - date_dead_since: 2026-05-21T10:55:34.864783+00:00
 
  ## Will walled gardens rule VR?
  - [https://worldish.substack.com/p/will-walled-gardens-rule-vr](https://worldish.substack.com/p/will-walled-gardens-rule-vr)
@@ -1515,6 +1518,7 @@
  - [https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society](https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society)
  - date_published: 2023-02-03T17:09:01+00:00
  - tags: ['england', 'nudge unit', 'oversight board', 'propaganda', 'psyop']
+ - date_dead_since: 2026-05-21T10:52:57.679334+00:00
 
  ## Sztuczna inteligencja może odebrać pracę. Oto 10 zawodów, które zastąpi
  - [https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c](https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c)
@@ -6328,6 +6332,7 @@
  - [https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews](https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews)
  - date_published: 2023-07-19T14:10:03+00:00
  - tags: ['censorship', 'sound of freedom', 'youtube']
+ - date_dead_since: 2026-05-21T14:23:56.970710+00:00
 
  ## Flying in Europe up to 30 times cheaper than train, says Greenpeace
  - [https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace](https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace)

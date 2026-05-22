@@ -2342,21 +2342,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:19.968960+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-05-21T07:31:11.665343+00:00",
         "date_published": "2024-02-02T15:33:58+00:00",
         "description": "Mark Zuckerberg recently apologized to the parents of children who have been harmed via social media. It's one of many apologies he has made.",
         "id": 40592,
         "language": "en-US",
         "link": "https://time.com/6622135/mark-zuckerberg-apologies-history",
         "manual_status_code": 0,
-        "page_rating": 27,
-        "page_rating_contents": 66,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 5,
         "permanent": false,
         "source__id": 316,
         "source_url": "https://time.com/feed",
-        "status_code": 200,
+        "status_code": 404,
         "tags": [
             "facebook"
         ],
@@ -3070,8 +3070,8 @@
         "language": "en-CA",
         "link": "https://www.google.com/url?q=https://ccla.org/press-release/ccla-urges-substantial-amendments-to-the-online-harms-act/&sa=U&ved=2ahUKEwjX-OzL1N-EAxXhFBAIHVMDC6sQFnoECAMQAg&usg=AOvVaw1fVFEoS_G397B_qdkIz2ep",
         "manual_status_code": 0,
-        "page_rating": 36,
-        "page_rating_contents": 83,
+        "page_rating": 38,
+        "page_rating_contents": 88,
         "page_rating_visits": 0,
         "page_rating_votes": 10,
         "permanent": false,
@@ -3197,7 +3197,7 @@
             "censorship",
             "pronouns"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2024/03/z-gend-policy-scaled.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2024/03/z-gend-policy-scaled.jpg",
         "title": "X Says It Will Reduce the Visibility of Posts That Purposely Ignore a Person\u2019s Preferred Pronouns",
         "vote": 10
     },
@@ -4368,14 +4368,14 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 228,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "privacy",
             "surveillance",
@@ -4860,7 +4860,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://www.404media.co/content/images/size/w1200/2024/05/CleanShot-2024-05-22-at-18.36.20@2x.png",
+        "thumbnail": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2024/05/CleanShot-2024-05-22-at-18.36.20@2x.png",
         "title": "Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows",
         "vote": 20
     },
@@ -4926,7 +4926,7 @@
             "surveillance",
             "technofeudalism"
         ],
-        "thumbnail": "https://regmedia.co.uk/2021/03/31/shutterstock_radar.jpg",
+        "thumbnail": "https://image.theregister.com/240683.jpg?imageId=240683&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "Wi-Fi devices set to become object sensors by 2024 via IEEE 802.11bf standard",
         "vote": 60
     },
@@ -5219,14 +5219,14 @@
         "language": "en-US",
         "link": "https://www.washingtonexaminer.com/policy/healthcare/3029346/fauci-wrote-50-papers-with-adviser-whose-influence-he-downplayed-in-testimony",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 439,
         "source_url": "https://www.washingtonexaminer.com/feed",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "covid",
             "science is dead"
@@ -7922,7 +7922,7 @@
             "surveillance",
             "technofeudalism"
         ],
-        "thumbnail": "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2024/05/joe-biden-and-donald-trump-combination-photo.jpg/w=1300,h=731",
+        "thumbnail": "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2024/05/joe-biden-and-donald-trump-combination-photo.jpg/w=800,h=600,fit=crop",
         "title": "Fitness app Strava gives away location of Biden, Trump and other leaders, French newspaper says",
         "vote": 10
     },

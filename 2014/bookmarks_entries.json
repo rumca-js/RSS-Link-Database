@@ -370,13 +370,13 @@
         "language": "en",
         "link": "https://www.engadget.com/2014-04-20-samsung-com-outage-sds-fire.html?guccounter=1",
         "manual_status_code": 0,
-        "page_rating": 50,
-        "page_rating_contents": 86,
+        "page_rating": 35,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 30,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "technofeudalism"
         ],

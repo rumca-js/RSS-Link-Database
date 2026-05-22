@@ -397,6 +397,7 @@
  - [https://time.com/6622135/mark-zuckerberg-apologies-history](https://time.com/6622135/mark-zuckerberg-apologies-history)
  - date_published: 2024-02-02T15:33:58+00:00
  - tags: ['facebook']
+ - date_dead_since: 2026-05-21T07:31:11.665343+00:00
 
  ## 'Entire districts appear to be taken over by Arabs,' says German billionaire about his hometown of Berlin
  - [https://rmx.news/crime/entire-districts-appear-to-be-taken-over-by-arabs-says-german-billionaire-about-his-hometown-of-berlin-2](https://rmx.news/crime/entire-districts-appear-to-be-taken-over-by-arabs-says-german-billionaire-about-his-hometown-of-berlin-2)

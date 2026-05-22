@@ -982,6 +982,7 @@
  - [https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home](https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home)
  - date_published: 2022-02-19T06:53:36+00:00
  - tags: ['canada', 'covid', 'fearmongering', 'propaganda', 'protest']
+ - date_dead_since: 2026-05-21T18:27:09.330780+00:00
 
  ## Jean-Luc Brunel: Epstein associate found dead in Paris prison cell - BBC News
  - [https://www.bbc.com/news/world-europe-60443518](https://www.bbc.com/news/world-europe-60443518)
@@ -2413,6 +2414,7 @@
  ## My students cheated... A lot • crumplab
  - [https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
  - date_published: 2022-05-29T11:00:57.393519+00:00
+ - date_dead_since: 2026-05-21T17:56:54.660580+00:00
 
  ## Britain should scrap its Online Safety Bill | The Economist
  - [https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
@@ -2851,6 +2853,7 @@
  ## Unity is laying off hundreds of employees - Protocol
  - [https://www.protocol.com/bulletins/unity-layoffs-game-engine](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
  - date_published: 2022-07-01T08:39:12.908918+00:00
+ - date_dead_since: 2026-05-21T17:35:07.993457+00:00
 
  ## Most workers want their employer to share their values
  - [https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html](https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html)
@@ -3505,6 +3508,7 @@
  ## It wasn't for nothing - Grasping gexps
  - [https://gexp.no/it-wasnt-for-nothing.html](https://gexp.no/it-wasnt-for-nothing.html)
  - date_published: 2022-08-18T21:03:53.134487+00:00
+ - date_dead_since: 2026-05-21T17:23:12.451983+00:00
 
  ## Random Acts of Kindness Make a Bigger Splash Than Expected - Neuroscience News
  - [https://neurosciencenews.com/kindness-outcome-21263](https://neurosciencenews.com/kindness-outcome-21263)
@@ -3653,6 +3657,7 @@
  ## ShadowGate – A Banned Documentary Covering The Deep State Coup
  - [https://libertariannews.org/2020/08/15/shadowgate-a-banned-documentary-covering-the-deep-state-coup](https://libertariannews.org/2020/08/15/shadowgate-a-banned-documentary-covering-the-deep-state-coup)
  - date_published: 2022-08-24T12:49:08.064296+00:00
+ - date_dead_since: 2026-05-21T17:18:03.018343+00:00
 
  ## ShadowGate – A Banned Documentary Source
  - [https://www.brighteon.com/fde592b6-4efd-415a-8268-f29bf288ac65](https://www.brighteon.com/fde592b6-4efd-415a-8268-f29bf288ac65)
@@ -5450,6 +5455,7 @@
  - [https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano](https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano)
  - date_published: 2022-09-29T23:59:46+00:00
  - tags: ['big tech', 'social control', 'social media']
+ - date_dead_since: 2026-05-21T16:51:15.801732+00:00
 
  ## Never-before-seen malware has infected hundreds of Linux and Windows devices
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59043](https://www.codeproject.com/script/News/View.aspx?nwid=59043)

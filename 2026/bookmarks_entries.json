@@ -42,18 +42,18 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=5DG0-_lseR4",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 17,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7_D0o48KbfhpEohoP7YSQ",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "artificial intelligence"
         ],
-        "thumbnail": "https://i2.ytimg.com/vi/5DG0-_lseR4/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/5DG0-_lseR4/maxresdefault.jpg",
         "title": "Why AI Agents Replaced the Arduino IDE in My ESP32 Projects (Claude Code, Gemini CLI, Codex)",
         "vote": 0
     },
