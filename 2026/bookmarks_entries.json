@@ -717,5 +717,34 @@
         "thumbnail": "https://i.cbc.ca/ais/f8b277ae-26f4-4225-9b40-de440b639c31,1778792409966/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C425%2C6500%2C3656%29%3BResize%3D620",
         "title": "Why the U.S. is noticing this Canadian security bill | CBC News",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-06-03T09:57:51.903873+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-03T09:58:17.547442+00:00",
+        "description": "Join The Family:\ud83d\udcbb\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbbhttps://cyberflow-academy.framer.website/Check Out The Courses We Offer: https://cyberflow-academy.framer.website/coursesEducational...",
+        "id": 5666914,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=erq-9cRV2c4",
+        "manual_status_code": 0,
+        "page_rating": 50,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 30,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "anonymity",
+            "privacy"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/erq-9cRV2c4/maxresdefault.jpg",
+        "title": "The ONLY Way to Browse Anonymously in 2026",
+        "vote": 30
     }
 ]

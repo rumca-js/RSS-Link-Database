@@ -121,3 +121,8 @@
  - date_published: 2026-05-16T15:38:56.512990+00:00
  - tags: ['canada', 'privacy', 'surveillance']
 
+ ## The ONLY Way to Browse Anonymously in 2026
+ - [https://www.youtube.com/watch?v=erq-9cRV2c4](https://www.youtube.com/watch?v=erq-9cRV2c4)
+ - date_published: 2026-06-03T09:58:17.547442+00:00
+ - tags: ['anonymity', 'privacy']
+
