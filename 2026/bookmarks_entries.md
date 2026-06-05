@@ -62,6 +62,11 @@
  - date_published: 2026-03-15T00:36:01.676292+00:00
  - tags: ['biometric']
 
+ ## Shoshana Strook - Wikipedia
+ - [https://en.wikipedia.org/wiki/Shoshana_Strook](https://en.wikipedia.org/wiki/Shoshana_Strook)
+ - date_published: 2026-03-15T17:16:04+00:00
+ - tags: ['cults', 'elites', 'israel', 'politics', 'rituals']
+
  ## Israel dumps millions into US influence targeting evangelicals in churches and ChatGPT
  - [https://www.disclose.tv/id/wrbhq1fa5c](https://www.disclose.tv/id/wrbhq1fa5c)
  - date_published: 2026-03-18T03:23:22.741567+00:00
