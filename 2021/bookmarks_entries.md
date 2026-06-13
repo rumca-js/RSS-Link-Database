@@ -1399,6 +1399,7 @@
  - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda)
  - date_published: 2021-07-02T09:10:14+00:00
  - tags: ['coke', 'go woke go broke', 'the left wing']
+ - date_dead_since: 2026-06-12T14:33:09.381222+00:00
 
  ## Abigail Shrier’s Irreversible Damage: A Wealth of Irreversible Misinformation | Science-Based Medicine
  - [https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation](https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation)
@@ -3867,6 +3868,7 @@
  - [https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?](https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?)
  - date_published: 2021-12-01T08:06:38+00:00
  - tags: ['booster', 'covid', 'vaccine']
+ - date_dead_since: 2026-06-12T14:22:29.807011+00:00
 
  ## Jaki szyfrowany komunikator wybrać? Lista współpracy z FBI może pomóc w podjęciu decyzji
  - [https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869](https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869)
@@ -3957,12 +3959,6 @@
  - [https://www.macrumors.com/2021/12/07/apple-ceo-tim-cook-secret-deal-with-china](https://www.macrumors.com/2021/12/07/apple-ceo-tim-cook-secret-deal-with-china)
  - date_published: 2021-12-07T11:42:09+00:00
  - tags: ['apple', 'china', 'manufacturing consent', 'tim cook']
-
- ## Coś dziwnego wychodzi z danych o zgonach na COVID-19. Różne województwa jak różne światy [WYKRES DNIA]
- - [/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html](/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html)
- - date_published: 2021-12-07T13:36:27+00:00
- - tags: ['covid', 'statistics']
- - date_dead_since: 2025-09-03T19:21:57.172602+00:00
 
  ## Evidence from Jeffrey Epstein's safe 'went missing' after FBI raid, court hears in Ghislaine Maxwell trial
  - [https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears](https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears)

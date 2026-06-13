@@ -78,14 +78,14 @@
         "permanent": false,
         "source__id": 117,
         "source_url": "https://www.forbes.com/innovation/feed2",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "crypto wars",
             "fbi",
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/697298211a00c61e0b5fc824/0x0.jpg?width=960",
+        "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/697298211a00c61e0b5fc824/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Flaw",
         "vote": 0
     },
@@ -131,7 +131,7 @@
         "language": "en",
         "link": "https://www.privacyguides.org/news/2026/01/30/google-settles-eavesdropping-lawsuit",
         "manual_status_code": 0,
-        "page_rating": 28,
+        "page_rating": 31,
         "page_rating_contents": 86,
         "page_rating_visits": 2,
         "page_rating_votes": 1,

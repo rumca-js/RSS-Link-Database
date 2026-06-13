@@ -1377,15 +1377,15 @@
         "language": "en",
         "link": "https://daringfireball.net/2017/06/fuck_facebook",
         "manual_status_code": 0,
-        "page_rating": 28,
-        "page_rating_contents": 87,
+        "page_rating": 29,
+        "page_rating_contents": 90,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
         "status_code": 200,
         "tags": [],
-        "thumbnail": null,
+        "thumbnail": "https://daringfireball.net/graphics/df-wide-card.png",
         "title": "Daring Fireball: Fuck Facebook",
         "vote": 0
     },
@@ -2935,7 +2935,7 @@
             "privacy",
             "uber"
         ],
-        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQoISfJdHIzKeyx5akcHuaCVb3qZYfdLtcWeSTzR4OvRDq1sm_AF57N729T7xDRFuiGgupmwupZLFg8WXLu87ZWE3gbcUQzjaXauY211eWgxFODOLqJcFlfW6ZIcGjGQbdlrdb4c_Ck0bt/s790-rw-e365/uber-screen-record-iphone.png",
+        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQoISfJdHIzKeyx5akcHuaCVb3qZYfdLtcWeSTzR4OvRDq1sm_AF57N729T7xDRFuiGgupmwupZLFg8WXLu87ZWE3gbcUQzjaXauY211eWgxFODOLqJcFlfW6ZIcGjGQbdlrdb4c_Ck0bt/s1700-e365/uber-screen-record-iphone.png",
         "title": "Apple Allows Uber to Use a Powerful Feature that Lets it Record iPhone Screen",
         "vote": 0
     },

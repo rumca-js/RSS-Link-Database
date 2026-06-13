@@ -102,13 +102,13 @@
         "language": "en",
         "link": "https://www.corpwatch.org/article/iraq-halliburton-reaping-huge-profits",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 85,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.corpwatch.org",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "halliburton",
             "iraq"

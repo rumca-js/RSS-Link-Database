@@ -1028,12 +1028,12 @@
  - [https://www.telegraph.co.uk/business/2024/07/19/outage-tech-internet-broadband-banking-uk-australia-world](https://www.telegraph.co.uk/business/2024/07/19/outage-tech-internet-broadband-banking-uk-australia-world)
  - date_published: 2024-07-19T07:15:51+00:00
  - tags: ['technofeudalism']
+ - date_dead_since: 2026-06-12T19:55:30.427723+00:00
 
  ## Paris Olympic opening ceremony criticized for disrespecting religious beliefs
  - [https://www.aa.com.tr/en/sports/paris-olympic-opening-ceremony-criticized-for-disrespecting-religious-beliefs/3287897](https://www.aa.com.tr/en/sports/paris-olympic-opening-ceremony-criticized-for-disrespecting-religious-beliefs/3287897)
  - date_published: 2024-07-29T15:46:04+00:00
  - tags: ['lgbt', 'tolerance']
- - date_dead_since: 2026-01-14T13:45:21.911110+00:00
 
  ## Starmer announces new plan for police forces to tackle violent disorder
  - [https://www.bbc.com/news/articles/cnk4e5g70pko](https://www.bbc.com/news/articles/cnk4e5g70pko)
@@ -1132,6 +1132,7 @@
  ## Teachers will be trained to challenge ‘whiteness’ in schools
  - [https://www.telegraph.co.uk/news/2024/08/25/teachers-taught-to-challenge-whiteness-in-schools](https://www.telegraph.co.uk/news/2024/08/25/teachers-taught-to-challenge-whiteness-in-schools)
  - date_published: 2024-08-27T21:13:15+00:00
+ - date_dead_since: 2026-06-13T01:27:20.748368+00:00
 
  ## Did your car witness a crime?
  - [https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)

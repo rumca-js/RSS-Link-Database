@@ -397,6 +397,7 @@
  - [https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary](https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary)
  - date_published: 2019-07-05T08:18:45+00:00
  - tags: ['children', 'sexualization']
+ - date_dead_since: 2026-06-12T14:45:34.392494+00:00
 
  ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)

@@ -330,6 +330,7 @@
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
  - date_published: 2020-03-31T09:10:22+00:00
  - tags: ['programming', 'science']
+ - date_dead_since: 2026-06-12T14:41:31.307325+00:00
 
  ## Misused photo of migrants’ coffins used to cast doubt on Covid-19 in Italy
  - [https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo](https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo)
@@ -1881,6 +1882,7 @@
  - [https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport](https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport)
  - date_published: 2020-12-22T22:07:50+00:00
  - tags: ['covid', 'covid mandates', 'france', 'vaccine']
+ - date_dead_since: 2026-06-12T14:36:31.990686+00:00
 
  ## Zoom Shared US User Data With Beijing
  - [https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html](https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html)
@@ -1957,6 +1959,7 @@
  - [https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital](https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital)
  - date_published: 2020-12-30T07:29:04+00:00
  - tags: ['big brother', 'covid']
+ - date_dead_since: 2026-06-12T14:35:56.425498+00:00
 
  ## Hiszpania: Rodzina odmówi zaszczepienia seniora? Może stracić nad nim opiekę
  - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585)

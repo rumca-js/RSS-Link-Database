@@ -23,7 +23,7 @@
         "tags": [
             "youtube"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/oSV6ECh3zr4/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/oSV6ECh3zr4/maxresdefault.jpg",
         "title": "NSFW Content is Taking Over YouTube",
         "vote": 40
     },
@@ -2652,7 +2652,7 @@
         "link": "https://wiescirolnicze.pl/newsy/wyrzucanie-smieci-po-nowemu-potrzebny-kod-qr-i-kosze-za-2-miliony-zl,21067",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating_contents": 91,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
@@ -2662,7 +2662,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://wiescirolnicze.pl/media/cache/38/5d/385dc64ff220cb00d4a9e8d47b524b9b.jpg",
+        "thumbnail": "https://pliki.wiescirolnicze.pl/d/02/27/21/22721_j_egAAH0fQ_GMwvzc.webp",
         "title": "Wyrzucanie \u015bmieci po nowemu. Potrzebny kod QR i kosze za 2 miliony z\u0142",
         "vote": 0
     },
@@ -2709,8 +2709,8 @@
         "language": "pl",
         "link": "https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 17,
         "page_rating_votes": 0,
         "permanent": false,
@@ -2720,7 +2720,7 @@
         "tags": [
             "misinformation"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://images.wsj.net/im-41585603/social",
         "title": "Meta Battles an 'Epidemic of Scams' as Criminals Flood Instagram and Facebook",
         "vote": 0
     },
@@ -4276,7 +4276,7 @@
             "corporatocracy",
             "technofeudalism"
         ],
-        "thumbnail": "https://regmedia.co.uk/2025/09/12/shutterstock_1321800731.jpg",
+        "thumbnail": "https://image.theregister.com/243569.jpg?imageId=243569&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "Dutch students denied access to jailbroken laundry machines",
         "vote": 0
     },
@@ -4729,7 +4729,7 @@
         "language": null,
         "link": "https://www.youtube.com/watch?v=d95J8yzvjbQ",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
         "page_rating_visits": 2,
         "page_rating_votes": 0,

@@ -41,6 +41,7 @@
  - [https://www.telegraph.co.uk/news/newstopics/howaboutthat/3492411/Man-tries-to-pay-overdue-bill-with-spider-drawing.html](https://www.telegraph.co.uk/news/newstopics/howaboutthat/3492411/Man-tries-to-pay-overdue-bill-with-spider-drawing.html)
  - date_published: 2008-11-20T07:59:16+00:00
  - tags: ['funny']
+ - date_dead_since: 2026-06-12T19:56:40.956170+00:00
 
  ## Green New Deal
  - [https://en.wikipedia.org/wiki/Green_New_Deal](https://en.wikipedia.org/wiki/Green_New_Deal)
