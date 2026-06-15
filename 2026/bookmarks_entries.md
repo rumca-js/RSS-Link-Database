@@ -131,3 +131,8 @@
  - date_published: 2026-06-03T09:58:17.547442+00:00
  - tags: ['anonymity', 'privacy']
 
+ ## Your Computer May Soon Require an Age Check. And You Might Have to Prove It
+ - [https://www.pcmag.com/explainers/your-computer-may-require-an-age-check-might-have-to-prove-it](https://www.pcmag.com/explainers/your-computer-may-require-an-age-check-might-have-to-prove-it)
+ - date_published: 2026-06-14T20:00:13+00:00
+ - tags: ['privacy', 'surveillance']
+

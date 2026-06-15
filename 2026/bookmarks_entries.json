@@ -778,5 +778,34 @@
         "thumbnail": "https://i.ytimg.com/vi/erq-9cRV2c4/maxresdefault.jpg",
         "title": "The ONLY Way to Browse Anonymously in 2026",
         "vote": 30
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-06-14T20:00:28.934773+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T20:00:13+00:00",
+        "description": "Age verification laws are moving beyond porn sites and social media. Soon, your operating system could be required to check your age and share it with apps and websites.",
+        "id": 5760548,
+        "language": "en",
+        "link": "https://www.pcmag.com/explainers/your-computer-may-require-an-age-check-might-have-to-prove-it",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 3,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": "https://i.pcmag.com/imagery/articles/05u7V1siHUZ44f4UI2nBnR6-1.fit_lim.size_1200x630.v1779822178.jpg",
+        "title": "Your Computer May Soon Require an Age Check. And You Might Have to Prove It",
+        "vote": 3
     }
 ]
