@@ -667,6 +667,7 @@
  - [https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances)
  - date_published: 2025-08-16T00:00:00+00:00
  - tags: ['jeffrey epstein']
+ - date_dead_since: 2026-06-22T21:36:23.609130+00:00
 
  ## Israeli government official arrested in Nevada in internet crimes against children sting
  - [https://www.theguardian.com/us-news/2025/aug/16/nevada-arrest-israeli-official](https://www.theguardian.com/us-news/2025/aug/16/nevada-arrest-israeli-official)
