@@ -190,6 +190,11 @@
  - date_published: 2015-06-17T09:01:02+00:00
  - tags: ['microsoft', 'privacy', 'telemetry', 'windows']
 
+ ## Sustainable Development Goals - Wikipedia
+ - [https://en.wikipedia.org/wiki/Sustainable_Development_Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)
+ - date_published: 2015-06-28T11:40:20+00:00
+ - tags: ['activism', 'climate change', 'sustainable development goals']
+
  ## Reddit Victoria Taylor: Dismissed AMA Coordinator Breaks Silence | Time
  - [https://time.com/3950496/reddit-victoria-taylor-post](https://time.com/3950496/reddit-victoria-taylor-post)
  - date_published: 2015-07-08T10:27:26+00:00

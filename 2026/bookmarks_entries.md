@@ -136,3 +136,8 @@
  - date_published: 2026-06-14T20:00:13+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Digital ID + CBDCs: The Infrastructure Behind Agenda 2030? | Whitney Webb
+ - [https://www.youtube.com/watch?v=1P9S-jzktOE](https://www.youtube.com/watch?v=1P9S-jzktOE)
+ - date_published: 2026-06-29T11:15:30.706924+00:00
+ - tags: ['agenda 2030', 'privacy', 'surveillance', 'technofeudalism']
+

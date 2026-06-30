@@ -807,5 +807,36 @@
         "thumbnail": "https://i.pcmag.com/imagery/articles/05u7V1siHUZ44f4UI2nBnR6-1.fit_lim.size_1200x630.v1779822178.jpg",
         "title": "Your Computer May Soon Require an Age Check. And You Might Have to Prove It",
         "vote": 3
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-06-29T11:15:05.312490+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-29T11:15:30.706924+00:00",
+        "description": "Investigative journalist Whitney Webb breaks down the coordinated global push toward Digital IDs \u2014 and why they are inseparable from the rollout of Central B...",
+        "id": 5861448,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1P9S-jzktOE",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "agenda 2030",
+            "privacy",
+            "surveillance",
+            "technofeudalism"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/1P9S-jzktOE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgTygzMA8=&rs=AOn4CLBVNuvVXeVe64XlGrCDqi8gSb5UZQ",
+        "title": "Digital ID + CBDCs: The Infrastructure Behind Agenda 2030? | Whitney Webb",
+        "vote": 0
     }
 ]
