@@ -1021,12 +1021,12 @@
         "link": "https://www.youtube.com/watch?v=4o5hSxvN_-s",
         "manual_status_code": 0,
         "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating_contents": 85,
         "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 615,
+        "status_code": 200,
         "tags": [
             "funny",
             "spam"

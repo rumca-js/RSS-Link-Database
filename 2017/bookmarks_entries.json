@@ -2023,11 +2023,11 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 615,
+        "status_code": 200,
         "tags": [
             "funny"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/f_1dhKsELzs/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/f_1dhKsELzs/maxresdefault.jpg",
         "title": "Siri vs Alexa",
         "vote": 0
     },
