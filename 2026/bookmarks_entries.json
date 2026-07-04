@@ -242,18 +242,18 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=ayHuriK5fWk",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
         "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 695,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMwJJL5FJFuTRT55ksbQ4GQ",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "jeffrey epstein"
         ],
-        "thumbnail": "https://i2.ytimg.com/vi/ayHuriK5fWk/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/ayHuriK5fWk/maxresdefault.jpg",
         "title": "Epstein was a spy.. (here's proof)",
         "vote": 0
     },
