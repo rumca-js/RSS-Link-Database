@@ -796,6 +796,7 @@
  - [https://www.telegraph.co.uk/news/2025/10/16/tolkien-ethnic-chauvinism-claim](https://www.telegraph.co.uk/news/2025/10/16/tolkien-ethnic-chauvinism-claim)
  - date_published: 2025-10-17T16:15:28.707388+00:00
  - tags: ['racism']
+ - date_dead_since: 2026-07-04T16:16:37.016115+00:00
 
  ## You should disable ACR on your TV right now (and the difference it makes to your privacy)
  - [https://www.zdnet.com/home-and-office/home-entertainment/you-should-disable-acr-on-your-tv-right-now-and-the-difference-it-makes-to-your-privacy](https://www.zdnet.com/home-and-office/home-entertainment/you-should-disable-acr-on-your-tv-right-now-and-the-difference-it-makes-to-your-privacy)
