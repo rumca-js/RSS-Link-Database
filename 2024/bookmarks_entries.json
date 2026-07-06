@@ -2321,13 +2321,13 @@
         "language": "en-US",
         "link": "https://www.washingtontimes.com/news/2024/feb/1/editorial-faa-turned-away-qualified-air-traffic-co",
         "manual_status_code": 0,
-        "page_rating": 37,
-        "page_rating_contents": 86,
+        "page_rating": 22,
+        "page_rating_contents": 40,
         "page_rating_visits": 2,
         "page_rating_votes": 10,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "racism"
         ],
@@ -4442,7 +4442,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://regmedia.co.uk/2024/04/24/shutterstock_decryption.jpg",
+        "thumbnail": "https://image.theregister.com/241830.jpg?imageId=241830&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "Australia's spies, cops want accountable encryption- a.k.a. access to backdoors",
         "vote": 0
     },
@@ -6376,13 +6376,13 @@
         "language": "en",
         "link": "https://tribune.com.pk/story/2488602/uk-lgbtq-pride-founder-stephen-ireland-arrested-for-child-sex-crimes",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 5,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "lgbt",
             "paedophilia"
