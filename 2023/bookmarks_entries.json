@@ -50719,7 +50719,7 @@
         "tags": [
             "open source"
         ],
-        "thumbnail": "https://regmedia.co.uk/2023/12/27/comp_bruce_perens.jpg",
+        "thumbnail": "https://image.theregister.com/248225.jpg?imageId=248225&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "What comes after open source? Bruce Perens is working on it",
         "vote": 30
     },
@@ -50856,13 +50856,13 @@
         "language": "en-US",
         "link": "https://www.washingtonexaminer.com/restoring-america/community-family/obese-body-positivity-influencers-dying-young",
         "manual_status_code": 0,
-        "page_rating": 34,
-        "page_rating_contents": 86,
+        "page_rating": 19,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 5,
         "permanent": false,
         "source_url": "https://www.washingtonexaminer.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "body positive",
             "obesity"
@@ -51073,7 +51073,7 @@
             "facebook",
             "technofeudalism"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/12/lib-sot.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/12/lib-sot.jpg",
         "title": "Facebook Disables Libs of TikTok Account",
         "vote": 30
     },

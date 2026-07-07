@@ -565,13 +565,13 @@
         "language": "en",
         "link": "https://inquisitivebird.xyz/p/the-effects-of-immigration-in-denmark",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "immigration"
         ],

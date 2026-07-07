@@ -327,6 +327,7 @@
  - [https://www.gulf-insider.com/email-reveals-why-cdc-didnt-issue-alert-on-covid-vaccines-and-myocarditis](https://www.gulf-insider.com/email-reveals-why-cdc-didnt-issue-alert-on-covid-vaccines-and-myocarditis)
  - date_published: 2024-01-27T09:48:37+00:00
  - tags: ['covid']
+ - date_dead_since: 2026-07-06T14:31:46.268165+00:00
 
  ## EU chiefs target ban on gendered phrases including iconic movie quotes
  - [https://www.thesun.co.uk/news/25551111/eu-chiefs-ban-gendered-phrases-iconic-quotes](https://www.thesun.co.uk/news/25551111/eu-chiefs-ban-gendered-phrases-iconic-quotes)
