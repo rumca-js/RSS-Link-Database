@@ -6836,6 +6836,7 @@
  - [https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
  - date_published: 2023-08-01T21:24:08+00:00
  - tags: ['android', 'linux']
+ - date_dead_since: 2026-07-07T14:55:03.312474+00:00
 
  ## Stopping at 90%
  - [https://austinhenley.com/blog/90percent.html](https://austinhenley.com/blog/90percent.html)
@@ -7159,7 +7160,6 @@
  - [https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17](https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17)
  - date_published: 2023-08-17T05:31:04+00:00
  - tags: ['christianophobia', 'pakistan']
- - date_dead_since: 2026-02-27T13:22:38.761195+00:00
 
  ## Petition to stop France from forcing browsers like Firefox to censor websites
  - [https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites](https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites)
@@ -7879,7 +7879,6 @@
  - [https://www.reuters.com/world/europe/berlins-brandenburg-gate-spray-painted-by-climate-activists-2023-09-17](https://www.reuters.com/world/europe/berlins-brandenburg-gate-spray-painted-by-climate-activists-2023-09-17)
  - date_published: 2023-09-17T13:06:15+00:00
  - tags: ['activism', 'climate change']
- - date_dead_since: 2025-06-12T09:07:24.407290+00:00
 
  ## In Colmar, fish found dead after an action of Extinction Rebellion
  - [https://newsrnd.com/news/2023-09-18-in-colmar--fish-found-dead-after-an-action-of-extinction-rebellion.B1N289oBk6.html](https://newsrnd.com/news/2023-09-18-in-colmar--fish-found-dead-after-an-action-of-extinction-rebellion.B1N289oBk6.html)
