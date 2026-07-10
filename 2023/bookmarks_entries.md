@@ -5605,7 +5605,6 @@
  - [https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21)
  - date_published: 2023-06-21T23:35:09+00:00
  - tags: ['amazon']
- - date_dead_since: 2026-03-01T19:20:17.003029+00:00
 
  ## Amazon cancels my account after exposing account lockout for "racist doorbell"
  - [https://www.youtube.com/watch?v=Kcohq313q00](https://www.youtube.com/watch?v=Kcohq313q00)
@@ -6700,7 +6699,6 @@
  - [https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28](https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28)
  - date_published: 2023-07-28T13:28:25+00:00
  - tags: ['climate change', 'electric vehicles']
- - date_dead_since: 2026-03-01T18:53:15.536925+00:00
 
  ## Flash Museum – explore more than 130k flash games and animations
  - [https://flashmuseum.org](https://flashmuseum.org)
