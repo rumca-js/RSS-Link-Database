@@ -838,5 +838,63 @@
         "thumbnail": "https://i.ytimg.com/vi/1P9S-jzktOE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgTygzMA8=&rs=AOn4CLBVNuvVXeVe64XlGrCDqi8gSb5UZQ",
         "title": "Digital ID + CBDCs: The Infrastructure Behind Agenda 2030? | Whitney Webb",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-07-12T06:24:59.162995+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-12T06:25:37.110631+00:00",
+        "description": "Europe's mandatory driver-monitoring camera laws are now officially active for all new cars, and the same tech is coming to the US",
+        "id": 5951140,
+        "language": "en",
+        "link": "https://www.carscoops.com/2026/07/eu-driver-monitoring-mandate",
+        "manual_status_code": 0,
+        "page_rating": 37,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 10,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": "https://www.carscoops.com/wp-content/uploads/2026/07/DTS_AutoSense_PR_v2-copy-scaled.jpg",
+        "title": "Every New Car In Europe Now Spies On Your Face With A Camera. America Is Next | Carscoops",
+        "vote": 10
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-07-12T06:25:43.320715+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-12T06:26:02.853567+00:00",
+        "description": "Every new car now comes with a mandatory eye movement-tracking camera to reduce road accidents, but Brussels remains opaque about where the footage may end up.",
+        "id": 5951141,
+        "language": "en-US",
+        "link": "https://europeanconservative.com/articles/news/surveillance-disguised-as-safety-cars-sold-in-eu-to-spy-on-drivers-24-7",
+        "manual_status_code": 0,
+        "page_rating": 39,
+        "page_rating_contents": 91,
+        "page_rating_visits": 2,
+        "page_rating_votes": 10,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": "https://europeanconservative.com/wp-content/uploads/2026/07/camera-monitors-driver-nvidia-2019.jpg",
+        "title": "Surveillance Disguised as Safety: Cars Sold in EU To Spy on Drivers 24/7",
+        "vote": 10
     }
 ]

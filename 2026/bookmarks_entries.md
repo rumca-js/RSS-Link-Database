@@ -141,3 +141,13 @@
  - date_published: 2026-06-29T11:15:30.706924+00:00
  - tags: ['agenda 2030', 'privacy', 'surveillance', 'technofeudalism']
 
+ ## Every New Car In Europe Now Spies On Your Face With A Camera. America Is Next | Carscoops
+ - [https://www.carscoops.com/2026/07/eu-driver-monitoring-mandate](https://www.carscoops.com/2026/07/eu-driver-monitoring-mandate)
+ - date_published: 2026-07-12T06:25:37.110631+00:00
+ - tags: ['privacy', 'surveillance']
+
+ ## Surveillance Disguised as Safety: Cars Sold in EU To Spy on Drivers 24/7
+ - [https://europeanconservative.com/articles/news/surveillance-disguised-as-safety-cars-sold-in-eu-to-spy-on-drivers-24-7](https://europeanconservative.com/articles/news/surveillance-disguised-as-safety-cars-sold-in-eu-to-spy-on-drivers-24-7)
+ - date_published: 2026-07-12T06:26:02.853567+00:00
+ - tags: ['privacy', 'surveillance']
+
