@@ -5206,7 +5206,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58996](https://www.codeproject.com/script/News/View.aspx?nwid=58996)
  - date_published: 2022-09-26T04:00:00+00:00
  - tags: ['ad business', 'google', 'malvertising']
- - date_dead_since: 2026-03-09T18:23:12.955555+00:00
 
  ## USA: Około 100 nieletnich zdemolowało sklep. Agresywny tłum rozgoniła policja
  - [https://www.polsatnews.pl/wiadomosc/2022-09-26/usa-tlum-mlodych-osob-zdemolowal-sklep](https://www.polsatnews.pl/wiadomosc/2022-09-26/usa-tlum-mlodych-osob-zdemolowal-sklep)

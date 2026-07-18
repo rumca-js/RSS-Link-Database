@@ -604,7 +604,7 @@
             "immigration",
             "racism"
         ],
-        "thumbnail": "https://i2-prod.manchestereveningnews.co.uk/incoming/article30916116.ece/ALTERNATES/s1200/1_gladeburning.jpg",
+        "thumbnail": "https://i2-prod.manchestereveningnews.co.uk/article30916116.ece/ALTERNATES/s1200d/1_gladeburning.jpg",
         "title": "Man arrested after live video of Quran being burned in Manchester",
         "vote": 0
     },
@@ -761,13 +761,13 @@
         "language": null,
         "link": "https://www.youtube.com/watch?v=nPj6pOAYlWM",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 614,
+        "status_code": 200,
         "tags": [
             "censorship",
             "moderation",
@@ -2927,7 +2927,7 @@
         "tags": [
             "web scraping"
         ],
-        "thumbnail": "https://blog.castle.io/content/images/size/w1200/2025/06/castleio_a_simple_patch_on_light_background_--ar_169_--profil_0111d12f-4052-44e4-9caf-0767e60936b9_0.png",
+        "thumbnail": "https://storage.ghost.io/c/30/2d/302db284-6a98-4af6-9641-fe1ecf757b23/content/images/size/w1200/2025/06/castleio_a_simple_patch_on_light_background_--ar_169_--profil_0111d12f-4052-44e4-9caf-0767e60936b9_0.png",
         "title": "From Puppeteer stealth to Nodriver: How anti-detect frameworks evolved to evade bot detection",
         "vote": 0
     },

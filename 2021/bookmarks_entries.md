@@ -486,6 +486,7 @@
  - [https://thepostmillennial.com/portland-mayor-seeks-to-re-fund-the-police-by-2-million-as-violent-crimes-surge](https://thepostmillennial.com/portland-mayor-seeks-to-re-fund-the-police-by-2-million-as-violent-crimes-surge)
  - date_published: 2021-03-16T00:00:00+00:00
  - tags: ['black lives matter', 'defund the police']
+ - date_dead_since: 2026-07-18T00:31:33.677736+00:00
 
  ## Portland cut police funding and got a 2,000% surge in murders | Washington Examiner
  - [https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders](https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders)
@@ -2803,6 +2804,7 @@
  ## The difference between Go and Rust – dominikbraun.io
  - [https://dominikbraun.io/blog/the-difference-between-go-and-rust](https://dominikbraun.io/blog/the-difference-between-go-and-rust)
  - date_published: 2021-09-28T18:24:29.874388+00:00
+ - date_dead_since: 2026-07-17T23:25:42.500852+00:00
 
  ## Women's and trans rights are not in conflict, says Angela Rayner - BBC News
  - [https://www.bbc.co.uk/news/uk-politics-58724514](https://www.bbc.co.uk/news/uk-politics-58724514)

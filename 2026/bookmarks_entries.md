@@ -47,10 +47,10 @@
  - date_published: 2026-02-26T22:26:27.220901+00:00
  - tags: ['christianophobia', 'moderation']
 
+ ## DJI will pay $30,000 to a man who accidentally hacked 7,000 Romo robot vacuum cleaners
  - [https://gigazine.net/gsc_news/en/20260309-dji-bugbounty-program](https://gigazine.net/gsc_news/en/20260309-dji-bugbounty-program)
  - date_published: 2026-03-09T03:30:58+00:00
  - tags: ['privacy', 'surveillance']
- - date_dead_since: 2026-03-09T07:00:22.386280+00:00
 
  ## Jeffrey Epstein’s Prison Guard Googled Him an Hour Before Sex Offender’s Body Was Found, DOJ Documents Show
  - [https://people.com/jeffrey-epstein-prison-guard-googled-him-right-before-body-was-found-11921678](https://people.com/jeffrey-epstein-prison-guard-googled-him-right-before-body-was-found-11921678)
