@@ -3224,6 +3224,7 @@
  - [https://rops.poznan.pl/projekty/realizowane-w-ramach-programu-krajowego-funduszu-azylu-migracji-i-integracji-budowanie-struktur-dla-integracji-w-polsce-etap-ii-pilotaz-centrow-integracji-cudzoziemcow/budowanie-struktur-dla-integracji-cudzoziemcow-w-polsce-etap-ii-pilotaz-centro](https://rops.poznan.pl/projekty/realizowane-w-ramach-programu-krajowego-funduszu-azylu-migracji-i-integracji-budowanie-struktur-dla-integracji-w-polsce-etap-ii-pilotaz-centrow-integracji-cudzoziemcow/budowanie-struktur-dla-integracji-cudzoziemcow-w-polsce-etap-ii-pilotaz-centro)
  - date_published: 2021-10-21T21:51:12+00:00
  - tags: ['immigration']
+ - date_dead_since: 2026-07-18T04:03:40.477824+00:00
 
  ## Fauci’s agency admits it funded gain-of-function work in Wuhan: What else are they keeping from us?
  - [https://nypost.com/2021/10/21/faucis-agency-admits-it-funded-gain-of-function-work-in-wuhan-what-else-are-they-keeping-from-us](https://nypost.com/2021/10/21/faucis-agency-admits-it-funded-gain-of-function-work-in-wuhan-what-else-are-they-keeping-from-us)

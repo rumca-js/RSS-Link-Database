@@ -487,6 +487,7 @@
  - [https://www.ccn.com/google-manipulates-search-results-former-engineer-shockingly-confirms](https://www.ccn.com/google-manipulates-search-results-former-engineer-shockingly-confirms)
  - date_published: 2019-08-01T07:06:58+00:00
  - tags: ['algorithms', 'big tech', 'dead internet', 'manufacturing consent', 'media bias', 'search engines']
+ - date_dead_since: 2026-07-18T02:33:40.002644+00:00
 
  ## Kazakhstan Attempts to MITM Its Citizens
  - [https://www.f5.com/labs/articles/threat-intelligence/kazakhstan-attempts-to-mitm-itscitizens](https://www.f5.com/labs/articles/threat-intelligence/kazakhstan-attempts-to-mitm-itscitizens)

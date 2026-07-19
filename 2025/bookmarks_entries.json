@@ -652,7 +652,7 @@
         "link": "https://www.aa.com.tr/en/americas/in-waste-of-money-usaid-channeled-vast-sums-for-dei-lgbtq-programs-white-house/3470976",
         "manual_status_code": 0,
         "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating_contents": 81,
         "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
@@ -663,7 +663,7 @@
             "lgbt",
             "usaid"
         ],
-        "thumbnail": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/04/thumbs_b_c_6d3dd89a87b1bea4b4ae5336d522c352.jpg?v=113937",
+        "thumbnail": "https://web-cdnprod.aa.com.tr/uploads/Contents/2025/02/04/thumbs_b_c_6d3dd89a87b1bea4b4ae5336d522c352.jpg?v=113937",
         "title": "In 'waste' of money, USAID channeled vast sums for DEI, LGBTQ programs: White House",
         "vote": 0
     },
@@ -2633,7 +2633,7 @@
             "spyware",
             "surveillance"
         ],
-        "thumbnail": "https://smex.org/wp-content/uploads/2025/05/SAMSUNG_AFP-scaled.jpg",
+        "thumbnail": "http://localhost/smex/wp-content/uploads/2025/05/SAMSUNG_AFP-scaled.jpg",
         "title": "Samsung Embeds IronSource Spyware App on Phones Across WANA",
         "vote": 0
     },

@@ -270,7 +270,7 @@
             "plutocracy",
             "politics"
         ],
-        "thumbnail": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/EBJRP3JWOBOREVBEPMPCS3SOKA.jpg?auth=d0241d75b6975471a51a72d03de53553fd748c704e0e2b561cdaa2fc17a86c9f&quality=80&width=1200&height=630&smart=true",
+        "thumbnail": "https://s.hdnux.com/photos/01/55/34/07/28688872/3/rawImage.jpg",
         "title": "No one went to prison after 2008 financial crisis \u2014 and the fault lies with us",
         "vote": 0
     },
@@ -679,7 +679,7 @@
         "tags": [
             "land ownership"
         ],
-        "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/09/20110309_2011_11the-world_w.jpg?1773114934",
+        "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/09/20110309_2011_11the-world_w.jpg?1784347199",
         "title": "Who owns the world?",
         "vote": 10
     },
@@ -3219,18 +3219,18 @@
         "language": "en-EN",
         "link": "https://www.youtube.com/watch?v=gcQk3qM3Ok0",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsoZWD7Uagg2yv3YcQ3zqBA",
-        "status_code": 614,
+        "status_code": 200,
         "tags": [
             "blade runner",
             "movies"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/gcQk3qM3Ok0/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/gcQk3qM3Ok0/maxresdefault.jpg",
         "title": "More Human than Human - A Blade Runner Analysis",
         "vote": 0
     },
