@@ -699,13 +699,13 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=rf_p3-8fTo0",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2YqtiSc9u6vzVR-GwuEx6g",
-        "status_code": 614,
+        "status_code": 200,
         "tags": [
             "chiptune",
             "music"

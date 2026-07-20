@@ -258,7 +258,7 @@
         "link": "https://www.theregister.com/2006/11/20/microsoft_claims_linux_code",
         "manual_status_code": 0,
         "page_rating": 56,
-        "page_rating_contents": 85,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 40,
         "permanent": false,
@@ -269,7 +269,7 @@
             "microsoft",
             "monopoly"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://image.theregister.com/222132.jpg?imageId=222132&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "Microsoft makes claim on Linux code",
         "vote": 40
     },

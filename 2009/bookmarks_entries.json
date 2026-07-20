@@ -219,14 +219,14 @@
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=GSMCRD35ch4",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 407,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9Ntx-EF3LzKY1nQ5rTUP2g",
-        "status_code": 614,
+        "status_code": 200,
         "tags": [
             "art"
         ],
