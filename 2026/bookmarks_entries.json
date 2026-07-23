@@ -326,7 +326,7 @@
         "date_published": "2026-03-14T07:12:07.774122+00:00",
         "description": "One of Jeffrey Epstein\u2019s prison guards, Tova Noel, Googled Epstein about an hour before his body was found in his cell on Aug. 10, 2019. She searched 'latest on Epstein in jail' at 5:42 a.m. and 5:52 a.m. local time, according to an FBI record of her internet search history.",
         "id": 5010654,
-        "language": null,
+        "language": "en",
         "link": "https://people.com/jeffrey-epstein-prison-guard-googled-him-right-before-body-was-found-11921678",
         "manual_status_code": 0,
         "page_rating": 32,
@@ -367,7 +367,7 @@
         "tags": [
             "biometric"
         ],
-        "thumbnail": "https://regmedia.co.uk/2023/03/29/shutterstock_identity.jpg",
+        "thumbnail": "https://image.theregister.com/259618.jpg?imageId=259618&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "DHS wants more biometric data - even from citizens",
         "vote": 10
     },
