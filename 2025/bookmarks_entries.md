@@ -152,6 +152,7 @@
  - [https://www.telegraph.co.uk/news/2025/02/14/zimbabwean-paedophile-allowed-to-stay-in-uk](https://www.telegraph.co.uk/news/2025/02/14/zimbabwean-paedophile-allowed-to-stay-in-uk)
  - date_published: 2025-02-14T10:08:31+00:00
  - tags: ['immigration', 'paedophilia']
+ - date_dead_since: 2026-07-24T17:18:38.871194+00:00
 
  ## Sabine Hossenfelder – I was asked to keep this confidential [video]
  - [https://www.youtube.com/watch?v=shFUDPqVmTg](https://www.youtube.com/watch?v=shFUDPqVmTg)
