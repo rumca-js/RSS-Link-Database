@@ -1091,7 +1091,7 @@
         "page_rating_votes": 10,
         "permanent": false,
         "source_url": "",
-        "status_code": 614,
+        "status_code": 403,
         "tags": [
             "billionaires",
             "democracy",
@@ -1126,7 +1126,7 @@
             "dark patterns",
             "technofeudalism"
         ],
-        "thumbnail": "https://regmedia.co.uk/2016/05/25/shutterstock_on_hold.jpg",
+        "thumbnail": "https://image.theregister.com/259236.jpg?imageId=259236&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "HP adds 15 minutes waiting time for telephone support calls",
         "vote": 0
     },
