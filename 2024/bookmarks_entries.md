@@ -287,6 +287,7 @@
  - [https://www.gulf-insider.com/7-in-10-french-citizens-opposed-to-solving-demographic-decline-with-immigration](https://www.gulf-insider.com/7-in-10-french-citizens-opposed-to-solving-demographic-decline-with-immigration)
  - date_published: 2024-01-25T07:15:24+00:00
  - tags: ['immigration']
+ - date_dead_since: 2026-07-28T14:59:34.258033+00:00
 
  ## Why Is the Web So Monotonous? Google (2022)
  - [https://reasonablypolymorphic.com/blog/monotonous-web/index.html](https://reasonablypolymorphic.com/blog/monotonous-web/index.html)
@@ -383,6 +384,7 @@
  - [https://www.louderwithcrowder.com/cassidy-hate-crime](https://www.louderwithcrowder.com/cassidy-hate-crime)
  - date_published: 2024-01-31T17:30:09+00:00
  - tags: ['christioanophobia', 'satanic temple']
+ - date_dead_since: 2026-07-28T12:33:45.404271+00:00
 
  ## Protesting farmers hurl eggs and clog streets with tractors as EU summit begins | CNN
  - [https://edition.cnn.com/2024/02/01/europe/farmers-protest-brussels-eu-summit-intl/index.html](https://edition.cnn.com/2024/02/01/europe/farmers-protest-brussels-eu-summit-intl/index.html)

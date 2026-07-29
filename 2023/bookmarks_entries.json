@@ -48601,13 +48601,13 @@
         "language": "en",
         "link": "https://www.bloomberg.com/news/articles/2023-11-12/south-africa-s-too-white-farms-lose-eu-uk-access-city-press#xj4y7vzkg",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.bloomberg.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "inequality",
             "racism",
@@ -49427,7 +49427,7 @@
             "quotes",
             "surveillance"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/60/Edward_Snowden-2.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/60/Edward_Snowden-2.jpg?utm_source=en.wikiquote.org&utm_campaign=index&utm_content=thumbnail_unscaled",
         "title": "Edward Snowden - Wikiquote",
         "vote": 0
     },
@@ -50780,7 +50780,7 @@
             "palestine",
             "war"
         ],
-        "thumbnail": "https://api.time.com/wp-content/uploads/2023/12/GettyImages-3217581.jpg?quality=85&w=1200&h=628&crop=1",
+        "thumbnail": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcc2968aedce6ef51/698a43820116822746983c1e/GettyImages-3217581.jpg?branch=production&width=3840&quality=75&auto=webp&crop=16:9",
         "title": "Israeli Teen Who Refused to Enlist in the IDF Is Sentenced to 30 Days in Prison",
         "vote": 0
     },
@@ -51005,13 +51005,13 @@
         "language": "en-US",
         "link": "https://www.washingtonexaminer.com/news/crime/california-police-suspects-pronouns-release-mugshot",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.washingtonexaminer.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "pronouns",
             "the left wing"
