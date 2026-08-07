@@ -319,6 +319,7 @@
  - [https://www.digitaljournal.com/world/israelis-not-muslims-were-arrested-in-us-after-celebrating-9-11/article/450612](https://www.digitaljournal.com/world/israelis-not-muslims-were-arrested-in-us-after-celebrating-9-11/article/450612)
  - date_published: 2015-11-27T19:14:48+00:00
  - tags: ['911', 'israel']
+ - date_dead_since: 2026-08-06T22:00:06.777369+00:00
 
  ## Recently Bought a Windows Computer? Microsoft Probably Has Your Encryption Key
  - [https://theintercept.com/2015/12/28/recently-bought-a-windows-computer-microsoft-probably-has-your-encryption-key](https://theintercept.com/2015/12/28/recently-bought-a-windows-computer-microsoft-probably-has-your-encryption-key)

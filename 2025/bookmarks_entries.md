@@ -42,7 +42,6 @@
  - [https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747](https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747)
  - date_published: 2025-01-20T12:13:18+00:00
  - tags: ['anthony fauci', 'joe biden']
- - date_dead_since: 2026-03-29T22:13:38.885692+00:00
 
  ## $500m-valued Suno hit with new copyright lawsuit from Germany’s GEMA - Music Business Worldwide
  - [https://www.musicbusinessworldwide.com/500m-valued-suno-hit-with-new-copyright-lawsuit-from-germanys-gema](https://www.musicbusinessworldwide.com/500m-valued-suno-hit-with-new-copyright-lawsuit-from-germanys-gema)
@@ -222,7 +221,6 @@
  - [https://www.zdnet.com/article/a-new-android-feature-is-scanning-your-photos-for-sensitive-content-how-to-stop-it](https://www.zdnet.com/article/a-new-android-feature-is-scanning-your-photos-for-sensitive-content-how-to-stop-it)
  - date_published: 2025-02-25T17:10:00+00:00
  - tags: ['google', 'privacy', 'surveillance', 'technofeudalism']
- - date_dead_since: 2026-03-29T21:54:39.184584+00:00
 
  ## Apple responds to its voice-to-text feature writing 'Trump' when a user says 'racist'
  - [https://www.tweaktown.com/news/103523/apple-responds-to-its-voice-text-feature-writing-trump-when-user-says-racist/index.html](https://www.tweaktown.com/news/103523/apple-responds-to-its-voice-text-feature-writing-trump-when-user-says-racist/index.html)
@@ -234,13 +232,11 @@
  - [https://www.cio.com/article/2130365/former-openai-board-member-tells-all-about-altmans-ousting.html](https://www.cio.com/article/2130365/former-openai-board-member-tells-all-about-altmans-ousting.html)
  - date_published: 2025-02-26T01:00:00+00:00
  - tags: ['sam altman']
- - date_dead_since: 2026-03-29T22:20:16.441637+00:00
 
  ## France is about to pass the worst surveillance law in the EU. We must stop them now! | Tuta
  - [https://tuta.com/blog/france-surveillance-nacrotrafic-law](https://tuta.com/blog/france-surveillance-nacrotrafic-law)
  - date_published: 2025-02-27T00:00:00+00:00
  - tags: ['crypto wars', 'france']
- - date_dead_since: 2026-03-29T22:48:36.643225+00:00
 
  ## Apple AI tool transcribed the word 'racist' as 'Trump'
  - [https://www.bbc.co.uk/news/articles/c5ymvjjqzmeo](https://www.bbc.co.uk/news/articles/c5ymvjjqzmeo)
@@ -379,7 +375,6 @@
  - [https://www.euractiv.com/section/eet/news/europes-90-climate-target-for-2040-under-pressure-as-delays-add-up](https://www.euractiv.com/section/eet/news/europes-90-climate-target-for-2040-under-pressure-as-delays-add-up)
  - date_published: 2025-03-21T06:00:25+00:00
  - tags: ['climate change']
- - date_dead_since: 2026-03-30T00:27:41.555168+00:00
 
  ## I won't connect my dishwasher to your stupid cloud
  - [https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud)
@@ -556,10 +551,10 @@
  - date_published: 2025-07-07T15:30:00+00:00
  - tags: ['jeffrey epstein']
 
+ ## Jeffrey Epstein was blackmailing politicians for Israel’s Mossad, new book claims
  - [https://www.middleeastmonitor.com/20200106-jeffrey-epstein-was-blackmailing-politicians-for-israels-mossad-new-book-claims](https://www.middleeastmonitor.com/20200106-jeffrey-epstein-was-blackmailing-politicians-for-israels-mossad-new-book-claims)
  - date_published: 2025-07-08T06:16:56.497136+00:00
  - tags: ['jeffrey epstein']
- - date_dead_since: 2025-07-08T06:16:56.518580+00:00
 
  ## Epstein files: ‘It’s a bigger story than the world has ever known’
  - [https://www.thetimes.com/us/american-politics/article/epstein-client-list-to-be-released-files-xcl267j7k](https://www.thetimes.com/us/american-politics/article/epstein-client-list-to-be-released-files-xcl267j7k)

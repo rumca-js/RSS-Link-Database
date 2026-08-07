@@ -141,6 +141,11 @@
  - date_published: 2026-06-29T11:15:30.706924+00:00
  - tags: ['agenda 2030', 'privacy', 'surveillance', 'technofeudalism']
 
+ ## Microsoft Can Track Users via a Windows Device ID
+ - [https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device)
+ - date_published: 2026-07-07T08:54:03+00:00
+ - tags: ['privacy', 'surveillance']
+
  ## Every New Car In Europe Now Spies On Your Face With A Camera. America Is Next | Carscoops
  - [https://www.carscoops.com/2026/07/eu-driver-monitoring-mandate](https://www.carscoops.com/2026/07/eu-driver-monitoring-mandate)
  - date_published: 2026-07-12T06:25:37.110631+00:00
@@ -149,5 +154,10 @@
  ## Surveillance Disguised as Safety: Cars Sold in EU To Spy on Drivers 24/7
  - [https://europeanconservative.com/articles/news/surveillance-disguised-as-safety-cars-sold-in-eu-to-spy-on-drivers-24-7](https://europeanconservative.com/articles/news/surveillance-disguised-as-safety-cars-sold-in-eu-to-spy-on-drivers-24-7)
  - date_published: 2026-07-12T06:26:02.853567+00:00
+ - tags: ['privacy', 'surveillance']
+
+ ## Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled
+ - [https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing)
+ - date_published: 2026-07-15T13:11:01+00:00
  - tags: ['privacy', 'surveillance']
 

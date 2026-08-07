@@ -841,6 +841,36 @@
     },
     {
         "age": null,
+        "album": "",
+        "author": "ifh-hn",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-07-07T10:13:02.591466+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-07T08:54:03+00:00",
+        "description": "<p>Article URL: <a href=\"https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device\">https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815196\">https://news.ycombinator.com/item?id=48815196</a></p>\n<p>Points: 56</p>\n<p># Comments: 11</p>",
+        "id": 5916627,
+        "language": "en-US",
+        "link": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+        "manual_status_code": 0,
+        "page_rating": 35,
+        "page_rating_contents": 95,
+        "page_rating_visits": 1,
+        "page_rating_votes": 3,
+        "permanent": false,
+        "source__id": 141,
+        "source_url": "https://hnrss.org/frontpage",
+        "status_code": 0,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": null,
+        "title": "Microsoft Can Track Users via a Windows Device ID",
+        "vote": 3
+    },
+    {
+        "age": null,
         "album": null,
         "author": null,
         "bookmarked": true,
@@ -896,5 +926,35 @@
         "thumbnail": "https://europeanconservative.com/wp-content/uploads/2026/07/camera-monitors-driver-nvidia-2019.jpg",
         "title": "Surveillance Disguised as Safety: Cars Sold in EU To Spy on Drivers 24/7",
         "vote": 10
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "robtherobber",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-07-15T15:33:51.784928+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T13:11:01+00:00",
+        "description": "<p>Article URL: <a href=\"https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/\">https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920338\">https://news.ycombinator.com/item?id=48920338</a></p>\n<p>Points: 29</p>\n<p># Comments: 8</p>",
+        "id": 5974738,
+        "language": "en-US",
+        "link": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing",
+        "manual_status_code": 0,
+        "page_rating": 37,
+        "page_rating_contents": 95,
+        "page_rating_visits": 1,
+        "page_rating_votes": 5,
+        "permanent": false,
+        "source__id": 141,
+        "source_url": "https://hnrss.org/frontpage",
+        "status_code": 0,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": null,
+        "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
+        "vote": 5
     }
 ]
