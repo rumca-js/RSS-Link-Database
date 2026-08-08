@@ -1100,7 +1100,6 @@
  - [https://en.wikipedia.org/wiki/Project_2025](https://en.wikipedia.org/wiki/Project_2025)
  - date_published: 2022-03-02T23:01:11+00:00
  - tags: ['donald trump', 'project 2025']
- - date_dead_since: 2026-03-30T02:21:50.241196+00:00
 
  ## SPAs were a mistake | Go Make Things
  - [https://gomakethings.com/spas-were-a-mistake](https://gomakethings.com/spas-were-a-mistake)
