@@ -72,10 +72,10 @@
  - date_published: 2026-03-18T03:23:22.741567+00:00
  - tags: ['israel', 'manufacturing consent']
 
+ ## Google, Cloudflare, and Cisco's claims in a French piracy lawsuit have been rejected five times in a row.
  - [https://gigazine.net/gsc_news/en/20260403-pirate-france](https://gigazine.net/gsc_news/en/20260403-pirate-france)
  - date_published: 2026-04-03T13:17:31.694129+00:00
  - tags: ['piracy']
- - date_dead_since: 2026-04-03T13:17:31.787171+00:00
 
  - [https://www.reuters.com/world/middle-east/trump-says-a-whole-civilization-will-die-tonight-if-iran-does-not-make-deal-2026-04-07](https://www.reuters.com/world/middle-east/trump-says-a-whole-civilization-will-die-tonight-if-iran-does-not-make-deal-2026-04-07)
  - date_published: 2026-04-10T06:10:06.012771+00:00
@@ -160,4 +160,14 @@
  - [https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing)
  - date_published: 2026-07-15T13:11:01+00:00
  - tags: ['privacy', 'surveillance']
+
+ ## New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.
+ - [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
+ - date_published: 2026-08-08T10:07:06+00:00
+ - tags: ['artificial intelligence', 'climate change']
+
+ ## Amazon’s new 7.65GW Texas AI data center power plant could become the largest source of CO₂ pollution in the US — custom 35-turbine gas plant authorized to emit 33 million tons of annual greenhouse gases
+ - [https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases](https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases)
+ - date_published: 2026-08-11T04:42:57+00:00
+ - tags: ['artificial intelligence', 'climate change']
 
