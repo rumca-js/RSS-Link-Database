@@ -8748,7 +8748,7 @@
             "chatgpt",
             "media bias"
         ],
-        "thumbnail": "https://images.firstpost.com/uploads/2023/02/Trump-vs-Biden_-ChatGPT-is-as-biased-as-the-people-working-on-AI-bots.jpg?im=FitAndFill=(1200,675)",
+        "thumbnail": "https://images.firstpost.com/uploads/2023/02/Trump-vs-Biden_-ChatGPT-is-as-biased-as-the-people-working-on-AI-bots.jpg?im=FitAndFill,width=1200,height=675",
         "title": "Trump vs Biden: ChatGPT is as biased as the people working on AI bots",
         "vote": 0
     },
@@ -8810,7 +8810,7 @@
             "virtual reality",
             "walled garden"
         ],
-        "thumbnail": "https://substackcdn.com/image/fetch/$s_!yAJR!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fworldish.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D747396966%26version%3D9",
+        "thumbnail": "https://substackcdn.com/image/fetch/$s_!TRh5!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fworldish.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1815098201%26version%3D9",
         "title": "Will walled gardens rule VR?",
         "vote": 0
     },
@@ -8889,7 +8889,7 @@
         "link": "https://reclaimthenet.org/chatgpt-trump-biden-poem",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -8900,7 +8900,7 @@
             "chatgpt",
             "media bias"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/02/trump-biden.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/02/trump-biden.jpg",
         "title": "AI tool ChatGPT is accused of bias after writing poem about Biden but refusing to create one for Trump",
         "vote": 0
     },
@@ -8948,7 +8948,7 @@
         "link": "https://reclaimthenet.org/netherlands-digital-biometric-centralized-data",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -8958,7 +8958,7 @@
             "biometric",
             "digital id"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/02/nether-pass.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/02/nether-pass.jpg",
         "title": "The Netherlands\u2019 centralized digital biometric database plot is criticized as \u201cgoldmine for hackers\u201d",
         "vote": 0
     },
@@ -9038,7 +9038,7 @@
         "link": "https://reclaimthenet.org/utah-bill-would-bring-id-based-age-verification-to-online-platforms",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -9047,7 +9047,7 @@
         "tags": [
             "digital id"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/02/soc-m.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/02/soc-m.jpg",
         "title": "Utah bill would bring ID-based age verification to online platforms",
         "vote": 0
     },
@@ -9655,7 +9655,7 @@
             "chatgpt",
             "privacy"
         ],
-        "thumbnail": "https://images.theconversation.com/files/508567/original/file-20230207-13-uu7jfn.jpeg?ixlib=rb-4.1.0&rect=8%2C565%2C5982%2C2991&q=45&auto=format&w=1356&h=668&fit=crop",
+        "thumbnail": "https://images.theconversation.com/files/508567/original/file-20230207-13-uu7jfn.jpeg?ixlib=rb-4.1.1&rect=8%2C565%2C5982%2C2991&q=45&auto=format&w=1356&h=668&fit=crop",
         "title": "ChatGPT is a data privacy nightmare",
         "vote": 0
     },
@@ -10046,13 +10046,13 @@
         "language": "en",
         "link": "https://teachersforchoice.org/2023/02/09/fingerprints-of-unvaccinated-nyc-teachers-flagged-to-fbi",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://teachersforchoice.org",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "big brother",
             "covid",
@@ -10187,7 +10187,7 @@
             "tracking",
             "windows"
         ],
-        "thumbnail": "https://www.windowsreport.com/wp-content/uploads/2023/02/windows_11.png",
+        "thumbnail": "https://windowsreport.com/wp-content/uploads/2023/02/windows_11.png",
         "title": "Windows 11 is collecting more user data than you know",
         "vote": 0
     },
@@ -10235,14 +10235,14 @@
         "language": "en-US",
         "link": "https://acoup.blog/2023/02/10/fireside-friday-february-10-2023-on-academic-freedom",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "freedom",
             "science"
@@ -10448,7 +10448,7 @@
         "link": "https://reclaimthenet.org/justin-trudeau-health-data",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -10461,7 +10461,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/02/trud-965.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/02/trud-965.jpg",
         "title": "Justin Trudeau to fund provincial healthcare, only if premiers agree to increased data collection",
         "vote": 0
     },
@@ -10645,7 +10645,7 @@
             "privacy",
             "telemetry"
         ],
-        "thumbnail": "https://regmedia.co.uk/2023/02/10/shutterstock_google.jpg",
+        "thumbnail": "https://image.theregister.com/255237.jpg?imageId=255237&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "Google's Go may add telemetry that's on by default",
         "vote": 0
     },
@@ -10741,7 +10741,7 @@
             "microsoft",
             "subscription"
         ],
-        "thumbnail": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971658/4098556-new_era-mw2.jpg",
+        "thumbnail": "https://www.gamespot.com/wp-content/uploads/original/1597/15971658/4098556-new_era-mw2.jpg",
         "title": "Xbox Game Pass Does Decrease Base Game Sales, Microsoft Says",
         "vote": 0
     },
@@ -10933,20 +10933,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:53:34.543465+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-08-13T01:11:07.015191+00:00",
         "date_published": "2023-02-14T20:51:01+00:00",
         "description": "Use 'egg-producing' not 'female', say scientists in call to phase out binary language",
         "id": 36887,
         "language": "en-GB",
         "link": "https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary",
         "manual_status_code": 0,
-        "page_rating": 13,
-        "page_rating_contents": 33,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.telegraph.co.uk",
-        "status_code": 200,
+        "status_code": 402,
         "tags": [
             "indoctrination",
             "newspeak",
@@ -11098,7 +11098,7 @@
         "link": "https://www.tiktok.com/@project_shadow_us/video/7199634730810363182",
         "manual_status_code": 0,
         "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating_contents": 80,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -11260,7 +11260,7 @@
         "tags": [
             "open source"
         ],
-        "thumbnail": "https://regmedia.co.uk/2015/12/07/moscow_8973456986345.jpg",
+        "thumbnail": "https://image.theregister.com/252681.jpg?imageId=252681&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "Core-JS chief complains open source is broken, no one will pay for it",
         "vote": 0
     },
@@ -11363,20 +11363,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:53:29.870099+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-08-13T01:02:02.046267+00:00",
         "date_published": "2023-02-17T07:47:10+00:00",
         "description": "Augustus Gloop no longer fat as Roald Dahl goes PC",
         "id": 36877,
         "language": "en-GB",
         "link": "https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed",
         "manual_status_code": 0,
-        "page_rating": 13,
-        "page_rating_contents": 33,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.telegraph.co.uk",
-        "status_code": 200,
+        "status_code": 402,
         "tags": [
             "censorship",
             "fahrenheit 451",
@@ -11528,7 +11528,7 @@
         "link": "https://reclaimthenet.org/global-push-for-age-verification",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -11539,7 +11539,7 @@
             "digital id",
             "privacy"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/02/digi-id-age.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/02/digi-id-age.jpg",
         "title": "The sudden global push for age verification to end online anonymity and drive digital ID uptake",
         "vote": 0
     },
@@ -11769,7 +11769,7 @@
         "link": "https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -11781,7 +11781,7 @@
             "social score",
             "surveillance"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/02/a-watch.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/02/a-watch.jpg",
         "title": "UK tests tracking citizens\u2019 habits, rewarding them for good behavior",
         "vote": 0
     },
@@ -12191,14 +12191,14 @@
         "language": "en-US",
         "link": "https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 82,
+        "page_rating": 9,
+        "page_rating_contents": 20,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "canonical",
             "ubuntu"
@@ -12500,14 +12500,14 @@
         "language": "en-US",
         "link": "https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "crypto",
             "hackers",
@@ -12736,7 +12736,7 @@
             "signal",
             "surveillance"
         ],
-        "thumbnail": "https://regmedia.co.uk/2023/02/25/leaving_sutterstock.jpg",
+        "thumbnail": "https://image.theregister.com/259269.jpg?imageId=259269&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "Signal says it'll shut down in UK if Online Safety Bill approved",
         "vote": 0
     },
@@ -12822,7 +12822,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://biz.crast.net",
-        "status_code": 603,
+        "status_code": 404,
         "tags": [
             "apple",
             "iphone",
@@ -12839,21 +12839,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:53:06.709893+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-08-13T00:28:56.916712+00:00",
         "date_published": "2023-02-26T15:42:22+00:00",
         "description": "<p>Article URL: <a href=\"https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references/\">https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=34946350\">https://news.ycombinator.com/item?id=34946350</a></p>\n<p>Points: 35</p>\n<p># Comments: 32</p>",
         "id": 36833,
         "language": "en-US",
         "link": "https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references",
         "manual_status_code": 0,
-        "page_rating": 13,
-        "page_rating_contents": 33,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 402,
         "tags": [
             "books",
             "censorship",
@@ -13364,7 +13364,7 @@
             "covid",
             "lockdown files"
         ],
-        "thumbnail": "https://dailysceptic.org/wp-content/uploads/2023/03/75ed1ec0f7daf7aa129e6623c12cf7e4-ds-social.webp",
+        "thumbnail": "https://dailysceptic.org/wp-content/uploads/2023/03/75ed1ec0f7daf7aa129e6623c12cf7e4.webp",
         "title": "Hancock\u2019s Lockdown Files Show There Was No  \u2018Plandemic\u2019",
         "vote": 0
     },
@@ -13393,7 +13393,7 @@
         "tags": [
             "privacy"
         ],
-        "thumbnail": "https://tuta.com/assets/German-parliamant.BwR1MLQz_Z2n6OwF.png",
+        "thumbnail": "https://tuta.com/assets/German-parliamant.BwR1MLQz_RgE1D.png",
         "title": "Germany opposes client-side scanning planned by EU",
         "vote": 0
     },
@@ -13424,7 +13424,7 @@
             "government control",
             "surveillance"
         ],
-        "thumbnail": "https://tuta.com/assets/German-parliamant.BwR1MLQz_Z2n6OwF.png",
+        "thumbnail": "https://tuta.com/assets/German-parliamant.BwR1MLQz_RgE1D.png",
         "title": "Germany opposes EU plans for client-side scanning",
         "vote": 0
     },
@@ -13525,20 +13525,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:52:57.280641+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-08-13T00:16:09.092034+00:00",
         "date_published": "2023-03-02T15:55:38+00:00",
         "description": "The Lockdown Files",
         "id": 36812,
         "language": "en-GB",
         "link": "https://www.telegraph.co.uk/news/lockdown-files",
         "manual_status_code": 0,
-        "page_rating": 13,
-        "page_rating_contents": 33,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.telegraph.co.uk",
-        "status_code": 200,
+        "status_code": 402,
         "tags": [
             "covid",
             "lockdown files"
@@ -13603,7 +13603,7 @@
             "malware",
             "vulnerability"
         ],
-        "thumbnail": "https://regmedia.co.uk/2023/03/01/failure_shutterstock.jpg",
+        "thumbnail": "https://image.theregister.com/252128.jpg?imageId=252128&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "It's official: BlackLotus malware can bypass secure boot",
         "vote": 0
     },
@@ -13795,21 +13795,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:52:52.111192+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-08-13T00:09:21.645534+00:00",
         "date_published": "2023-03-05T00:37:56+00:00",
         "description": "<p>Article URL: <a href=\"https://www.telegraph.co.uk/news/2023/03/04/project-fear-covid-variant-lockdown-matt-hancock-whatsapp/\">https://www.telegraph.co.uk/news/2023/03/04/project-fear-covid-variant-lockdown-matt-hancock-whatsapp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=35025979\">https://news.ycombinator.com/item?id=35025979</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
         "id": 36801,
         "language": "en-US",
         "link": "https://www.telegraph.co.uk/news/2023/03/04/project-fear-covid-variant-lockdown-matt-hancock-whatsapp",
         "manual_status_code": 0,
-        "page_rating": 13,
-        "page_rating_contents": 33,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 402,
         "tags": [
             "covid",
             "fearmongering",
@@ -13997,7 +13997,7 @@
         "tags": [
             "search engines"
         ],
-        "thumbnail": "https://kagi.com/asset/v2/favicon-32x32.png?v=08d0962703715c6f55b459d967ea2dab1eb596a0",
+        "thumbnail": "https://kagi.com/favicon-32x32.png",
         "title": "Kagi Search",
         "vote": 0
     },
@@ -14087,7 +14087,7 @@
             "sexism",
             "spain"
         ],
-        "thumbnail": "https://c.ndtvimg.com/2023-03/96otbgno_office_625x300_06_March_23.jpg",
+        "thumbnail": "https://c.ndtvimg.com/2023-03/96otbgno_office_625x300_06_March_23.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
         "title": "Spain Set To Introduce Law Requiring 40% Women In Company Boards",
         "vote": 0
     },
@@ -14321,7 +14321,7 @@
             "christianophobia",
             "england"
         ],
-        "thumbnail": "https://res.cloudinary.com/ewtn/image/upload/images/dsc00006-scaled",
+        "thumbnail": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/images/dsc00006-scaled",
         "title": "UK Parliament makes it illegal to pray near abortion facilities | Catholic News Agency",
         "vote": 0
     },
@@ -14415,7 +14415,7 @@
             "spyware",
             "surveillance"
         ],
-        "thumbnail": "https://tvn24.pl/_e/i/najnowsze/cdn-zdjecie-2a0afm-sami-sedziowie-podkreslaja-ze-kontrola-sadu-nad-sluzbami-jest-iluzoryczna-ph6805976/alternates/WEBP_FREE_840",
+        "thumbnail": "https://tvn24.pl/_e/i/najnowsze/cdn-zdjecie-2a0afm-sami-sedziowie-podkreslaja-ze-kontrola-sadu-nad-sluzbami-jest-iluzoryczna-ph6805976/alternates/WEBP_LANDSCAPE_1620",
         "title": "Inwigilacja Pegasusem. PiS: jest kontrola s\u0105du. T\u0142umaczymy, dlaczego to iluzja  - Konkret24",
         "vote": 0
     },
@@ -14503,7 +14503,7 @@
             "digital passport",
             "privacy"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Identity-concept.svg/1280px-Identity-concept.svg.png",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Identity-concept.svg/1280px-Identity-concept.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
         "title": "Self-sovereign identity - Wikipedia",
         "vote": 0
     },
@@ -14781,7 +14781,7 @@
             "censorship",
             "moderation"
         ],
-        "thumbnail": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2023/03/COVID-Cda-20201016-scaled.jpg",
+        "thumbnail": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2025/12/broken.jpg",
         "title": "THOMAS: The Government wants to control what you watch with Bill C-11 | Toronto Sun",
         "vote": 0
     },
@@ -14911,20 +14911,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:52:38.167959+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-08-12T23:46:37.845658+00:00",
         "date_published": "2023-03-09T20:18:16+00:00",
         "description": "Women\u2019s rights have gone \u2018too far\u2019, say majority of Gen Z and millennials, study shows",
         "id": 36771,
         "language": "en-GB",
         "link": "https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study",
         "manual_status_code": 0,
-        "page_rating": 13,
-        "page_rating_contents": 33,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.telegraph.co.uk",
-        "status_code": 200,
+        "status_code": 402,
         "tags": [
             "feminism",
             "propaganda"
@@ -15370,8 +15370,8 @@
         "language": "en-US",
         "link": "https://drewdevault.com/2019/01/23/Why-I-use-old-hardware.html",
         "manual_status_code": 0,
-        "page_rating": 31,
-        "page_rating_contents": 87,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -15487,20 +15487,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:52:29.913129+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-08-12T23:33:04.412202+00:00",
         "date_published": "2023-03-12T11:02:07+00:00",
         "description": "\"I don't know if in five years, this will be my full-time gig anymore.\"",
         "id": 36753,
         "language": "en-US",
         "link": "https://www.cnet.com/tech/features/ais-next-big-takeover-audiobooks/#ftag=CADf328eec",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.cnet.com/rss/all/",
-        "status_code": 200,
+        "status_code": 404,
         "tags": [
             "artificial intelligence"
         ],
@@ -15794,7 +15794,7 @@
         "link": "https://reclaimthenet.org/eric-schmidt-generative-ai-true-anonymity",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -15804,7 +15804,7 @@
             "anonymity",
             "privacy"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/03/eric-schmidt-generative-ai-true-anonymity-a.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/03/eric-schmidt-generative-ai-true-anonymity-a.jpg",
         "title": "Eric Schmidt testifies that there should be no \u201ctrue anonymity\u201d when accessing generative AI platforms",
         "vote": 0
     },
@@ -16038,7 +16038,7 @@
         "tags": [
             "christianophobia"
         ],
-        "thumbnail": "https://ocdn.eu/pulscms-transforms/1/IgXktkuTURBXy81OGU3YWNiMS01NmFkLTRlMDQtOTdjOC1hMWFiODBmN2UxY2QuanBlZ5GTBc0EsM0CdA",
+        "thumbnail": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGlj/LWZvcnNhbC5pbmNkbi5wbC9mb3JzYWwvZG9jdW1l/bnRzL0ZPQjAwMDAwMDAwMDAwMDY4NzIzODgvZmls/ZXMvNDE0NTgzMC13aWVkZW4uanBnIiwidyI6Mzg0MH0",
         "title": "Wiede\u0144 boi si\u0119 atak\u00f3w terrorystycznych. Chodzi o ko\u015bcio\u0142y",
         "vote": 0
     },
@@ -16067,7 +16067,7 @@
             "artificial intelligence",
             "religion"
         ],
-        "thumbnail": "https://images.theconversation.com/files/514747/original/file-20230310-145-4p8lml.jpg?ixlib=rb-4.1.0&rect=0%2C214%2C3680%2C1840&q=45&auto=format&w=1356&h=668&fit=crop",
+        "thumbnail": "https://images.theconversation.com/files/514747/original/file-20230310-145-4p8lml.jpg?ixlib=rb-4.1.1&rect=0%2C214%2C3680%2C1840&q=45&auto=format&w=1356&h=668&fit=crop",
         "title": "Gods in the machine? The rise of artificial intelligence may result in new religions",
         "vote": 0
     },
@@ -16242,7 +16242,7 @@
         "link": "https://reclaimthenet.org/brazil-had-a-secret-program-to-track-peoples-location-via-cell-phone",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -16255,7 +16255,7 @@
             "smartphone",
             "surveillance"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/03/map-point-run098.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/03/map-point-run098.jpg",
         "title": "Brazil had a secret program to track people\u2019s location via cell phone",
         "vote": 0
     },
@@ -16274,7 +16274,7 @@
         "link": "https://en.wikipedia.org/wiki/Dead_Internet_theory",
         "manual_status_code": 0,
         "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating_contents": 82,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -16284,7 +16284,7 @@
         "tags": [
             "dead internet"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/32/Twitter_bots_2016-11-13.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
         "title": "Dead Internet Theory",
         "vote": 0
     },
@@ -16554,7 +16554,7 @@
             "open source",
             "technofeudalism"
         ],
-        "thumbnail": "https://regmedia.co.uk/2023/03/17/shutterstock_oops.jpg",
+        "thumbnail": "https://image.theregister.com/246396.jpg?imageId=246396&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "Docker apologizes for bungled scrapping of free org accounts \u2022 The Register",
         "vote": 0
     },
@@ -17180,7 +17180,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://cointelegraph.com",
-        "status_code": 410,
+        "status_code": 404,
         "tags": [
             "cbdc",
             "government control",
@@ -17471,7 +17471,7 @@
         "link": "https://reclaimthenet.org/biden-administration-crackdown-whatsapp-chats",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -17481,7 +17481,7 @@
             "censorship",
             "meta"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/03/whatsapp-biden.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/03/whatsapp-biden.jpg",
         "title": "Biden Administration demanded crackdown on \u201cvaccine-skeptical\u201d WhatsApp chats",
         "vote": 0
     },
@@ -17558,7 +17558,7 @@
         "link": "https://reclaimthenet.org/canada-distributed-a-blacklist-of-freedom-convoy-sympathizers",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -17569,7 +17569,7 @@
             "covid",
             "freedom convoy"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/03/trudeau-13.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/03/trudeau-13.jpg",
         "title": "Canada distributed a blacklist of Freedom Convoy sympathizers",
         "vote": 0
     },
@@ -17930,13 +17930,13 @@
         "language": "en",
         "link": "https://ketanjoshi.co/2023/03/28/musk-is-remaking-twitter-into-a-climate-denier-sanctuary",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://ketanjoshi.co",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "climate change",
             "elon musk",
@@ -18115,7 +18115,7 @@
         "link": "https://reclaimthenet.org/twitter-censors-tweets-nashville-shooter",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -18127,7 +18127,7 @@
             "the left wing",
             "transgender"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/03/twitter-censor-nashville-shoot.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/03/twitter-censor-nashville-shoot.jpg",
         "title": "Politicians, journalists are locked out of Twitter for tweets about trans shooter targeting Nashville Christian school",
         "vote": 0
     },
@@ -18417,7 +18417,7 @@
         "link": "https://reclaimthenet.org/digital-euro-to-have-built-in-limitations",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -18428,7 +18428,7 @@
             "government control",
             "technofeudalism"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/03/legarde.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/03/legarde.jpg",
         "title": "Digital Euro to have built-in limitations, as Central Bank President says it will never be as private as cash",
         "vote": 0
     },
@@ -18671,7 +18671,7 @@
             "billionaires",
             "climate change"
         ],
-        "thumbnail": "https://ocdn.eu/pulscms-transforms/1/0xHktkuTURBXy85YWU4ZmI4Zi01Y2Q1LTQ0YzktYWIxZS1mOWZkNmZiZTBkNjAuanBlZ5GTBc0EsM0CdA",
+        "thumbnail": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLWZvcn/NhbC5pbmNkbi5wbC9mb3JzYWwvZG9jdW1lbnRzL0ZPQjAw/MDAwMDAwMDAwMDY1Njg3MTEvZmlsZXMvMS1zaHV0dGVyc3/RvY2stOTIzMjUzMTYtMzc0OTM4ODguanBnIiwidyI6Mzg0MH0",
         "title": "Rekordowa liczba podr\u00f3\u017cy prywatnymi odrzutowcami w Europie",
         "vote": 0
     },
@@ -18935,7 +18935,7 @@
         "link": "https://reclaimthenet.org/twitters-open-source-code-has-references-to-government-requested-influence",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -18947,7 +18947,7 @@
             "twitter",
             "twitter files"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/04/twit-vine.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/04/twit-vine.jpg",
         "title": "Twitter\u2019s open-source code has references to \u201cGovernment Requested\u201d influence",
         "vote": 0
     },
@@ -19071,7 +19071,7 @@
         "tags": [
             "christianophobia"
         ],
-        "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/2217812-nashville-covenant-school-memorial-crosses.jpg?w=1200crop=1",
+        "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/2217812-nashville-covenant-school-memorial-crosses.jpg?w=1200&crop=1",
         "title": "Acceptable Hate: Assaults on Christianity Go Overlooked | Opinion",
         "vote": 0
     },
@@ -19554,7 +19554,7 @@
             "surveillance",
             "telegram"
         ],
-        "thumbnail": "https://euromaidanpress.com/wp-content/uploads/2023/05/cropped-logo_broadcast3.png",
+        "thumbnail": "https://euromaidanpress.com/wp-content/uploads/2023/12/logo_broadcast1.png",
         "title": "Russian FSB has the keys to Telegram and Viber messengers and uses them for espionage - Ukrainian intelligence - Euromaidan Press",
         "vote": 0
     },
@@ -19904,7 +19904,7 @@
         "link": "https://reclaimthenet.org/india-to-require-us-social-media-platforms-to-abide-by-government-run-fact-checker",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -19916,7 +19916,7 @@
             "india",
             "moderation"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/04/twitter-india-2.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/04/twitter-india-2.jpg",
         "title": "India to require US social media platforms to abide by government-run fact-checker",
         "vote": 0
     },
@@ -19993,7 +19993,7 @@
         "link": "https://reclaimthenet.org/cdc-behavior-change-project-targeted-vaccine-critics",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -20007,7 +20007,7 @@
             "misinformation response unit",
             "oversight board"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/04/cdc-9241.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/04/cdc-9241.jpg",
         "title": "CDC \u201cbehavior change\u201d project targeted vaccine critics, was funded by Pfizer and New York \u201cMisinformation Response Unit\u201d",
         "vote": 0
     },
@@ -20026,7 +20026,7 @@
         "link": "https://reclaimthenet.org/imf-unveils-unicoin-a-global-cbdc",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -20036,7 +20036,7 @@
             "cbdc",
             "unicoin"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/04/imf-214.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/04/imf-214.jpg",
         "title": "IMF unveils Unicoin \u2013 a global CBDC",
         "vote": 0
     },
@@ -20574,7 +20574,7 @@
         "link": "https://reclaimthenet.org/alex-berenson-sues-biden-administration-censorship",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -20586,7 +20586,7 @@
             "covid",
             "twitter"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/04/berenson-vs-biden-id.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/04/berenson-vs-biden-id.jpg",
         "title": "Biden Administration is sued, accused of pressuring Twitter to censor journalist Alex Berenson",
         "vote": 0
     },
@@ -20853,7 +20853,7 @@
         "link": "https://reclaimthenet.org/rfk-jr-cbdcs-surveillance-control",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -20865,7 +20865,7 @@
             "robert kennedy",
             "surveillance"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/04/rfk-jr-cbdcs-surveillance-control-a.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/04/rfk-jr-cbdcs-surveillance-control-a.jpg",
         "title": "Robert F. Kennedy Jr: \u201cCBDCs are the ultimate mechanisms for social surveillance and control\u201d",
         "vote": 0
     },
@@ -20876,20 +20876,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:50:29.077284+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-08-12T21:40:56.515580+00:00",
         "date_published": "2023-04-15T07:35:41+00:00",
         "description": "Niemcy. Niemcy zamykaj\u0105 ostatnie elektrownie atomowe, wielkie wyzwanie przed najwi\u0119ksz\u0105 gospodark\u0105 Europy - TVN24 Biznes",
         "id": 35546,
         "language": "pl",
         "link": "https://tvn24.pl/biznes/ze-swiata/niemcy-niemcy-zamykaja-ostatnie-elektrownie-atomowe-wielkie-wyzwanie-przed-najwieksza-gospodarka-europy-6919294",
         "manual_status_code": 0,
-        "page_rating": 22,
-        "page_rating_contents": 60,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://tvn24.pl",
-        "status_code": 614,
+        "status_code": 500,
         "tags": [
             "atom",
             "climate change",
@@ -21251,7 +21251,7 @@
         "link": "https://reclaimthenet.org/kari-lake-blasts-facebook-censorship",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -21264,7 +21264,7 @@
             "facebook",
             "meta"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/04/kari-lake-censored-fb.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/04/kari-lake-censored-fb.jpg",
         "title": "\u201cTake your best shot, Zuckerberg.\u201d Kari Lake blasts Facebook censorship",
         "vote": 0
     },
@@ -21771,7 +21771,7 @@
         "link": "https://reclaimthenet.org/canadas-liberals-shut-down-debate-over-online-censorship-plans",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -21785,7 +21785,7 @@
             "misinformation",
             "moderation"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/04/MP-Rachel-Thomas.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/04/MP-Rachel-Thomas.jpg",
         "title": "Canada\u2019s Liberals shut down debate over online censorship plans",
         "vote": 0
     },
@@ -21904,7 +21904,7 @@
             "france",
             "immigration"
         ],
-        "thumbnail": "https://ocdn.eu/pulscms-transforms/1/oS9ktkuTURBXy9iZmE4NWNiOC04ZDQ0LTRjN2UtOGNiNi1jODdjOTBiZjNhY2MuanBlZ5GTBc0EsM0CdA",
+        "thumbnail": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLWZ/vcnNhbC5pbmNkbi5wbC9mb3JzYWwvZG9jdW1lbnRzL0/ZPQjAwMDAwMDAwMDAwMDYzMjg4MDUvZmlsZXMvcGFye/XotZnJhbmNqYS0zNzcwOTc2Mi5qcGciLCJ3IjozODQwfQ",
         "title": "\"Le Figaro\": Trwa \"meksykanizacja Francji\" - wojny gang\u00f3w narkotykowych od Pary\u017ca po Marsyli\u0119",
         "vote": 0
     },
@@ -22017,7 +22017,7 @@
         "link": "https://reclaimthenet.org/youtube-demonetizes-matt-walsh",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -22030,7 +22030,7 @@
             "technofeudalism",
             "youtube"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2023/04/matt-walsh-demonetized-youtube.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2023/04/matt-walsh-demonetized-youtube.jpg",
         "title": "YouTube demonetizes political commentator Matt Walsh",
         "vote": 0
     },

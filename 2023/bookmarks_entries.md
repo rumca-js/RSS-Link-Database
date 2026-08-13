@@ -1811,6 +1811,7 @@
  - [https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary](https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary)
  - date_published: 2023-02-14T20:51:01+00:00
  - tags: ['indoctrination', 'newspeak', 'the left wing']
+ - date_dead_since: 2026-08-13T01:11:07.015191+00:00
 
  ## Android launches yet another way to spy on users with “Privacy Sandbox” beta
  - [https://arstechnica.com/?p=1917626](https://arstechnica.com/?p=1917626)
@@ -1882,6 +1883,7 @@
  - [https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed](https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed)
  - date_published: 2023-02-17T07:47:10+00:00
  - tags: ['censorship', 'fahrenheit 451', 'newspeak']
+ - date_dead_since: 2026-08-13T01:02:02.046267+00:00
 
  ## The Political Bias of ChatGPT – Extended Analysis
  - [https://davidrozado.substack.com/p/political-bias-chatgpt](https://davidrozado.substack.com/p/political-bias-chatgpt)
@@ -2125,6 +2127,7 @@
  - [https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references](https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references)
  - date_published: 2023-02-26T15:42:22+00:00
  - tags: ['books', 'censorship', 'fahrenheit 451']
+ - date_dead_since: 2026-08-13T00:28:56.916712+00:00
 
  ## Lab Leak Most Likely Caused Pandemic, Energy Dept. Says
  - [https://www.nytimes.com/2023/02/26/us/politics/china-lab-leak-coronavirus-pandemic.html](https://www.nytimes.com/2023/02/26/us/politics/china-lab-leak-coronavirus-pandemic.html)
@@ -2240,6 +2243,7 @@
  - [https://www.telegraph.co.uk/news/lockdown-files](https://www.telegraph.co.uk/news/lockdown-files)
  - date_published: 2023-03-02T15:55:38+00:00
  - tags: ['covid', 'lockdown files']
+ - date_dead_since: 2026-08-13T00:16:09.092034+00:00
 
  ## Matt Hancock: Eight government WhatsApp Covid messages revealed
  - [https://www.bbc.co.uk/news/uk-64823096?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-64823096?at_medium=RSS&at_campaign=KARANGA)
@@ -2285,6 +2289,7 @@
  - [https://www.telegraph.co.uk/news/2023/03/04/project-fear-covid-variant-lockdown-matt-hancock-whatsapp](https://www.telegraph.co.uk/news/2023/03/04/project-fear-covid-variant-lockdown-matt-hancock-whatsapp)
  - date_published: 2023-03-05T00:37:56+00:00
  - tags: ['covid', 'fearmongering', 'lockdown files']
+ - date_dead_since: 2026-08-13T00:09:21.645534+00:00
 
  ## Matt Hancock: Leaked messages suggest plan to frighten public - BBC News
  - [https://www.bbc.com/news/uk-64848106](https://www.bbc.com/news/uk-64848106)
@@ -2471,6 +2476,7 @@
  - [https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study](https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study)
  - date_published: 2023-03-09T20:18:16+00:00
  - tags: ['feminism', 'propaganda']
+ - date_dead_since: 2026-08-12T23:46:37.845658+00:00
 
  ## SVB Financial CEO Sold $3.6 Million In Stock Before Bank’s Collapse
  - [https://www.forbes.com/sites/brianbushard/2023/03/10/svb-financial-ceo-sold-36-million-in-stock-before-banks-collapse](https://www.forbes.com/sites/brianbushard/2023/03/10/svb-financial-ceo-sold-36-million-in-stock-before-banks-collapse)
@@ -2567,6 +2573,7 @@
  - [https://www.cnet.com/tech/features/ais-next-big-takeover-audiobooks/#ftag=CADf328eec](https://www.cnet.com/tech/features/ais-next-big-takeover-audiobooks/#ftag=CADf328eec)
  - date_published: 2023-03-12T11:02:07+00:00
  - tags: ['artificial intelligence']
+ - date_dead_since: 2026-08-12T23:33:04.412202+00:00
 
  ## Till the LAST UKRAINIAN  [Documentary]
  - [https://www.youtube.com/watch?v=wcn3_V2_rJ0](https://www.youtube.com/watch?v=wcn3_V2_rJ0)
@@ -3460,6 +3467,7 @@
  - [https://tvn24.pl/biznes/ze-swiata/niemcy-niemcy-zamykaja-ostatnie-elektrownie-atomowe-wielkie-wyzwanie-przed-najwieksza-gospodarka-europy-6919294](https://tvn24.pl/biznes/ze-swiata/niemcy-niemcy-zamykaja-ostatnie-elektrownie-atomowe-wielkie-wyzwanie-przed-najwieksza-gospodarka-europy-6919294)
  - date_published: 2023-04-15T07:35:41+00:00
  - tags: ['atom', 'climate change', 'germany']
+ - date_dead_since: 2026-08-12T21:40:56.515580+00:00
 
  ## Google CEO: “can we change the setting of this group to history-off” [pdf]
  - [https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)

@@ -161,6 +161,11 @@
  - date_published: 2026-07-15T13:11:01+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Facebook pays controversial creators to produce rage-bait content
+ - [https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
+ - date_published: 2026-08-06T03:04:10+00:00
+ - tags: ['facebook', 'social media']
+
  ## New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.
  - [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
  - date_published: 2026-08-08T10:07:06+00:00
