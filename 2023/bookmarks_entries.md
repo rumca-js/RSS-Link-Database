@@ -643,6 +643,7 @@
  - [https://www.plex.com](https://www.plex.com)
  - date_published: 2023-01-13T12:56:31+00:00
  - tags: ['plex', 'selfhost', 'smart home']
+ - date_dead_since: 2026-08-13T05:57:18.640197+00:00
 
  ## GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
  - [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
@@ -1045,6 +1046,7 @@
  - [https://tvn24.pl/biznes/ze-swiata/chiny-nieruchomosci-prezes-evergrande-hui-ka-yan-stracil-93-procent-majatku-6643480](https://tvn24.pl/biznes/ze-swiata/chiny-nieruchomosci-prezes-evergrande-hui-ka-yan-stracil-93-procent-majatku-6643480)
  - date_published: 2023-01-22T10:12:22+00:00
  - tags: ['china', 'crisis']
+ - date_dead_since: 2026-08-13T03:12:46.109984+00:00
 
  ## Peru’s Deadly Protests
  - [https://www.nytimes.com/2023/01/22/briefing/peru-protests.html](https://www.nytimes.com/2023/01/22/briefing/peru-protests.html)
