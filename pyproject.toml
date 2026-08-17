@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "RSS-Link-Database"
+version = "0.0.1"
+description = ""
+authors = ["X Y Z <rozbujnik@gmail.com>"]
+readme = "README.md"
+packages = [{include = "static_lists"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+linkarchivetools="^0.1.98"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
