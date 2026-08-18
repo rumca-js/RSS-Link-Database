@@ -121,6 +121,11 @@
  - date_published: 2026-05-10T07:35:31.141066+00:00
  - tags: ['rothschilds']
 
+ ## Lake Tahoe’s major energy source is being diverted to power AI data centers
+ - [https://www.independent.co.uk/news/world/americas/lake-tahoe-energy-source-ai-data-centers-b2975802.html](https://www.independent.co.uk/news/world/americas/lake-tahoe-energy-source-ai-data-centers-b2975802.html)
+ - date_published: 2026-05-13T11:13:32+00:00
+ - tags: ['artificial intelligence']
+
  ## Why the U.S. is noticing this Canadian security bill | CBC News
  - [https://www.cbc.ca/news/politics/why-americans-noticing-canadian-security-bill-9.7199947](https://www.cbc.ca/news/politics/why-americans-noticing-canadian-security-bill-9.7199947)
  - date_published: 2026-05-16T15:38:56.512990+00:00

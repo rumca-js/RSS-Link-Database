@@ -819,6 +819,11 @@
  - date_published: 2025-11-27T00:20:37+00:00
  - tags: ['adblock', 'crypto wars', 'encryption', 'signal']
 
+ ## Micron stops selling memory to consumers as demand spikes from AI chips
+ - [https://www.cnbc.com/2025/12/03/micron-stops-selling-memory-to-consumers-demand-spikes-from-ai-chips.html](https://www.cnbc.com/2025/12/03/micron-stops-selling-memory-to-consumers-demand-spikes-from-ai-chips.html)
+ - date_published: 2025-12-03T11:13:19+00:00
+ - tags: ['artificial intelligence']
+
  ## LG TVs Get Unremovable Microsoft Copilot App
  - [https://gizmodo.com/lg-tvs-get-unremovable-microsoft-copilot-app-2000699870](https://gizmodo.com/lg-tvs-get-unremovable-microsoft-copilot-app-2000699870)
  - date_published: 2025-12-15T21:45:48+00:00
