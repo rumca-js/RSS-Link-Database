@@ -181,3 +181,12 @@
  - date_published: 2026-08-11T04:42:57+00:00
  - tags: ['artificial intelligence', 'climate change']
 
+ ## Comcast is turning millions of its routers into motion detectors
+ - [https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing](https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing)
+ - date_published: 2026-08-18T09:30:00+00:00
+ - tags: ['privacy', 'surveillance']
+
+ - [https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch](https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch)
+ - date_published: 2026-08-19T06:40:21.082331+00:00
+ - tags: ['privacy', 'surveillance']
+
