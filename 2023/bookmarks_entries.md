@@ -12,6 +12,7 @@
  - [https://www.wsj.com/articles/are-vaccines-fueling-new-covid-variants-xbb-northeast-antibodies-mutation-strain-immune-imprinting-11672483618](https://www.wsj.com/articles/are-vaccines-fueling-new-covid-variants-xbb-northeast-antibodies-mutation-strain-immune-imprinting-11672483618)
  - date_published: 2023-01-01T08:34:35+00:00
  - tags: ['covid', 'vaccine']
+ - date_dead_since: 2026-08-22T01:46:38.412408+00:00
 
  ## MHB 2023 Western Europe Conference - Parenting Options for European Gay Men
  - [https://menhavingbabies.org/surrogacy-seminars/brussels](https://menhavingbabies.org/surrogacy-seminars/brussels)
@@ -252,6 +253,7 @@
  - [https://obywatelenieba.pl/2023/01/06/zdewastowano-chrzescijanski-cmentarz](https://obywatelenieba.pl/2023/01/06/zdewastowano-chrzescijanski-cmentarz)
  - date_published: 2023-01-06T09:02:21+00:00
  - tags: ['christianophobia', 'israel']
+ - date_dead_since: 2026-08-21T19:59:59.297082+00:00
 
  ## Harvard blocks role for former Human Rights Watch head over Israel criticism
  - [https://www.theguardian.com/education/2023/jan/06/harvard-kennedy-school-blocks-role-former-head-human-rights-watch-israel](https://www.theguardian.com/education/2023/jan/06/harvard-kennedy-school-blocks-role-former-head-human-rights-watch-israel)
@@ -313,6 +315,7 @@
  - [https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags](https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags)
  - date_published: 2023-01-07T16:24:26+00:00
  - tags: ['england', 'inequality', 'lgbt', 'police', 'propaganda', 'the left wing']
+ - date_dead_since: 2026-08-21T17:46:31.904657+00:00
 
  ## DC Comics fans outraged as new Batman plot sees the Joker become PREGNANT and give birth
  - [https://www.dailymail.co.uk/news/article-11609947/DC-Comics-fans-outraged-new-Batman-plot-sees-Joker-PREGNANT-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11609947/DC-Comics-fans-outraged-new-Batman-plot-sees-Joker-PREGNANT-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -343,6 +346,7 @@
  - [https://www.louderwithcrowder.com/jordan-peterson-releases-complaint](https://www.louderwithcrowder.com/jordan-peterson-releases-complaint)
  - date_published: 2023-01-08T15:01:12+00:00
  - tags: ['cancel culture', 'jordan peterson']
+ - date_dead_since: 2026-08-21T16:43:45.061120+00:00
 
  ## How Childline Became Captured by Trans Ideology
  - [https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology](https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology)
@@ -358,6 +362,7 @@
  - [https://www.wsj.com/articles/white-house-covid-censorship-machine-social-media-facebook-meta-executive-rob-flaherty-free-speech-google-11673203704](https://www.wsj.com/articles/white-house-covid-censorship-machine-social-media-facebook-meta-executive-rob-flaherty-free-speech-google-11673203704)
  - date_published: 2023-01-08T16:23:11+00:00
  - tags: ['big brother', 'censorship', 'social media']
+ - date_dead_since: 2026-08-21T16:23:31.197877+00:00
 
  ## A village to be evicted for coal – the defense of Luetzerath in Germany
  - [https://freedomnews.org.uk/2023/01/09/a-village-to-be-evicted-for-coal-the-defense-of-luetzerath-in-germany](https://freedomnews.org.uk/2023/01/09/a-village-to-be-evicted-for-coal-the-defense-of-luetzerath-in-germany)
