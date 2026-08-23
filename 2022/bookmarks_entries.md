@@ -9615,7 +9615,6 @@
  - [https://www.forbes.com/sites/emilybaker-white/2022/12/23/lawmakers-outrage-tiktok-spied-on-journalists](https://www.forbes.com/sites/emilybaker-white/2022/12/23/lawmakers-outrage-tiktok-spied-on-journalists)
  - date_published: 2022-12-23T00:00:00+00:00
  - tags: ['china', 'surveillance', 'tiktok']
- - date_dead_since: 2026-04-14T10:50:26.078824+00:00
 
  ## UK woman arrested for silently praying across from abortion clinic: ‘Terrifying’ | New York Post
  - [https://www.youtube.com/watch?v=wXURFRSUS9U](https://www.youtube.com/watch?v=wXURFRSUS9U)
@@ -9641,6 +9640,7 @@
  - [https://www.cnet.com/tech/services-and-software/duckduckgo-wants-to-spare-you-from-annoying-google-sign-in-pop-ups/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/duckduckgo-wants-to-spare-you-from-annoying-google-sign-in-pop-ups/#ftag=CADf328eec)
  - date_published: 2022-12-23T13:00:30+00:00
  - tags: ['duckduckgo', 'google', 'privacy', 'tracking']
+ - date_dead_since: 2026-08-22T11:35:27.128291+00:00
 
  ## Facebook parent Meta agrees to pay $725 million to settle Cambridge Analytica suit
  - [https://www.nbcnews.com/tech/tech-news/facebook-parent-meta-agrees-pay-725-million-settle-cambridge-analytica-rcna63081](https://www.nbcnews.com/tech/tech-news/facebook-parent-meta-agrees-pay-725-million-settle-cambridge-analytica-rcna63081)
@@ -9846,6 +9846,7 @@
  - [https://www.louderwithcrowder.com/klaus-schwab-education](https://www.louderwithcrowder.com/klaus-schwab-education)
  - date_published: 2022-12-28T13:02:15+00:00
  - tags: ['nwo', 'propaganda', 'wef', 'world economic forum']
+ - date_dead_since: 2026-08-22T06:04:11.570364+00:00
 
  ## Mastodon founder says investors lining up since Elon Musk’s Twitter takeover
  - [https://www.theguardian.com/technology/2022/dec/28/mastodon-founder-elon-musk-twitter-takeover](https://www.theguardian.com/technology/2022/dec/28/mastodon-founder-elon-musk-twitter-takeover)
@@ -9926,6 +9927,7 @@
  - [https://www.wsj.com/articles/the-national-crisis-of-generation-z-jonathan-haidt-social-media-performance-anxiety-fragility-gap-childhood-11672401345](https://www.wsj.com/articles/the-national-crisis-of-generation-z-jonathan-haidt-social-media-performance-anxiety-fragility-gap-childhood-11672401345)
  - date_published: 2022-12-30T09:09:58+00:00
  - tags: ['cancel culture', 'social media', 'victimhood']
+ - date_dead_since: 2026-08-22T04:28:42.277930+00:00
 
  ## BBC is 'warping modern Britain' by allowing 'woke viewpoints' in dramas, report warns
  - [https://www.dailymail.co.uk/news/article-11585077/BBC-warping-modern-Britain-allowing-woke-viewpoints-dramas-report-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11585077/BBC-warping-modern-Britain-allowing-woke-viewpoints-dramas-report-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
