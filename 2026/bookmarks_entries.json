@@ -562,19 +562,19 @@
         "language": "en-US",
         "link": "https://www.bbc.com/news/articles/c937wldkkw8o",
         "manual_status_code": 0,
-        "page_rating": 26,
-        "page_rating_contents": 82,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 27,
         "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "homosexuality",
             "immigration"
         ],
-        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a9/live/c1497170-3824-11f1-8606-05fe34b06e1b.png",
+        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/d071/live/bf2ed390-388c-11f1-9d5c-8ba507d7dbde.jpg",
         "title": "Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds",
         "vote": 0
     },
@@ -1131,5 +1131,33 @@
         "thumbnail": null,
         "title": null,
         "vote": 10
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-08-23T20:33:30.817138+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-23T20:34:01.061722+00:00",
+        "description": "EDIT: This is a hobbyist made video that I didn't expect to blow up, and since then I've learned about all sorts of mistakes I made in this video, but I hope...",
+        "id": 6234109,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=tkUgOT22F5s",
+        "manual_status_code": 0,
+        "page_rating": 31,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 1,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "internet"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/tkUgOT22F5s/maxresdefault.jpg",
+        "title": "A Web Revival: the Internet didn't die, you're just not on it",
+        "vote": 1
     }
 ]

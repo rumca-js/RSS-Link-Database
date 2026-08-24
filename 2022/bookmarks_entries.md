@@ -8899,6 +8899,7 @@
  - [https://www.cnet.com/tech/services-and-software/blur-your-home-on-google-maps-right-now-to-protect-your-privacy/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/blur-your-home-on-google-maps-right-now-to-protect-your-privacy/#ftag=CADf328eec)
  - date_published: 2022-12-11T21:15:02+00:00
  - tags: ['google', 'privacy']
+ - date_dead_since: 2026-08-23T06:31:50.902232+00:00
 
  ## Tech guru slams Twitter shadow banning as ‘one step away from George Orwell's Thought Police’
  - [https://www.foxnews.com/media/tech-guru-slams-twitter-shadow-banning-as-one-step-away-from-george-orwells-thought-police](https://www.foxnews.com/media/tech-guru-slams-twitter-shadow-banning-as-one-step-away-from-george-orwells-thought-police)
@@ -8948,6 +8949,7 @@
  - [https://www.cnet.com/news/privacy/this-privacy-setting-helps-keep-facebook-from-tracking-you/#ftag=CADf328eec](https://www.cnet.com/news/privacy/this-privacy-setting-helps-keep-facebook-from-tracking-you/#ftag=CADf328eec)
  - date_published: 2022-12-13T00:15:03+00:00
  - tags: ['facebook', 'privacy']
+ - date_dead_since: 2026-08-23T05:37:48.406441+00:00
 
  ## Twitter files show how Trump was banned, while world dictators were allowed to call for mass murder
  - [https://www.dailymail.co.uk/news/article-11530873/Twitter-files-Trump-banned-world-dictators-allowed-call-mass-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11530873/Twitter-files-Trump-banned-world-dictators-allowed-call-mass-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -8972,6 +8974,7 @@
  ## 'Maybe because I'm from China...': Twitter shutting down Chinese employee's concerns over censorship says so much
  - [https://www.louderwithcrowder.com/twitter-censorship-employee-concern](https://www.louderwithcrowder.com/twitter-censorship-employee-concern)
  - date_published: 2022-12-13T13:05:00+00:00
+ - date_dead_since: 2026-08-23T05:03:37.256726+00:00
 
  ## WordPress debated taking down the New York Post Hunter Biden story
  - [https://www.theverge.com/2022/12/13/23506029/wordpress-vip-automattic-matt-mullenweg-content-moderation-new-york-post-biden-laptop](https://www.theverge.com/2022/12/13/23506029/wordpress-vip-automattic-matt-mullenweg-content-moderation-new-york-post-biden-laptop)
@@ -9037,6 +9040,7 @@
  - [https://www.cnet.com/personal-finance/taxes/if-you-make-over-600-on-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/if-you-make-over-600-on-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CADf328eec)
  - date_published: 2022-12-14T17:15:00+00:00
  - tags: ['big brother', 'cbdc', 'government', 'surveillance']
+ - date_dead_since: 2026-08-23T03:03:26.466980+00:00
 
  ## YouTube moderation bots will start issuing warnings, 24-hour bans
  - [https://arstechnica.com/?p=1904382](https://arstechnica.com/?p=1904382)
@@ -9077,6 +9081,7 @@
  - [https://www.cnet.com/news/social-media/senate-passes-bill-banning-tiktok-on-government-devices/#ftag=CADf328eec](https://www.cnet.com/news/social-media/senate-passes-bill-banning-tiktok-on-government-devices/#ftag=CADf328eec)
  - date_published: 2022-12-15T17:46:00+00:00
  - tags: ['china', 'moderation', 'tiktok']
+ - date_dead_since: 2026-08-23T02:20:12.686131+00:00
 
  ## Israel to introduce sweeping online censorship law
  - [https://reclaimthenet.org/israel-to-introduce-sweeping-online-censorship-law](https://reclaimthenet.org/israel-to-introduce-sweeping-online-censorship-law)

@@ -190,3 +190,8 @@
  - date_published: 2026-08-19T06:40:21.082331+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## A Web Revival: the Internet didn't die, you're just not on it
+ - [https://www.youtube.com/watch?v=tkUgOT22F5s](https://www.youtube.com/watch?v=tkUgOT22F5s)
+ - date_published: 2026-08-23T20:34:01.061722+00:00
+ - tags: ['internet']
+
