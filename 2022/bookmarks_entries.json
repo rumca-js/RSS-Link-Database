@@ -51404,14 +51404,14 @@
         "language": "en-US",
         "link": "https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 117,
         "source_url": "https://www.forbes.com/innovation/feed2",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "blackrock",
             "esg"
@@ -52068,13 +52068,13 @@
         "language": "en",
         "link": "https://seths.blog/2022/12/the-reasons-search-is-getting-worse",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://seths.blog",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "dead internet",
             "google",
@@ -52110,7 +52110,7 @@
             "digital",
             "smartphone"
         ],
-        "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F6%2F3%2F9%2F41689366-3-eng-GB%2FCropped-1659725278photo_SXM2022071300005218.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+        "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F6%2F3%2F9%2F41689366-3-eng-GB%2FCropped-1659725278photo_SXM2022071300005218.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
         "title": "Smartphones wiped out 97% of the compact camera market",
         "vote": 0
     },
@@ -52282,7 +52282,7 @@
         "link": "https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -52295,7 +52295,7 @@
             "new zealand",
             "privacy"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/new-zealand-government-facebook-content-reporting-system.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/new-zealand-government-facebook-content-reporting-system.jpg",
         "title": "New Zealand admits it has access to Facebook takedown portal to censor content",
         "vote": 0
     },
@@ -52306,21 +52306,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:55:26.818393+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-08-26T23:16:28.863807+00:00",
         "date_published": "2022-12-03T05:00:00+00:00",
         "description": "<p>Article URL: <a href=\"https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099\">https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=33851406\">https://news.ycombinator.com/item?id=33851406</a></p>\n<p>Points: 37</p>\n<p># Comments: 4</p>",
         "id": 37933,
         "language": "en-US",
         "link": "https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 401,
         "tags": [
             "apple",
             "china",
@@ -52376,7 +52376,7 @@
         "link": "https://reclaimthenet.org/democrat-staffers-wanted-more-twitter-censorship",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -52387,7 +52387,7 @@
             "twitter",
             "twitter files"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/dems-twitter.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/dems-twitter.jpg",
         "title": "\u201cThe First Amendment isn\u2019t absolute\u201d \u2013 Twitter files show Democrat staffers wanted more censorship",
         "vote": 0
     },
@@ -52534,7 +52534,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://rachelbythebay.com",
-        "status_code": 404,
+        "status_code": 600,
         "tags": [],
         "thumbnail": null,
         "title": "Twenty five thousand dollars of funny money",
@@ -52586,7 +52586,7 @@
         "link": "https://reclaimthenet.org/uk-ukraine-to-collaborate-on-digital-id-tech",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -52595,7 +52595,7 @@
         "tags": [
             "digital id"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/uk-ukr.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/uk-ukr.jpg",
         "title": "UK and Ukraine to collaborate on digital ID",
         "vote": 0
     },
@@ -52614,7 +52614,7 @@
         "link": "https://reclaimthenet.org/tim-cook-questioned-suppressed-popular-protest-tool-in-china",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -52624,7 +52624,7 @@
             "apple",
             "privacy"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/tim-cool-letter-airdro.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/tim-cool-letter-airdro.jpg",
         "title": "Apple CEO Tim Cook is questioned after company limited popular protest tool in China",
         "vote": 0
     },
@@ -52643,7 +52643,7 @@
         "link": "https://reclaimthenet.org/yoel-roth-babylon-bee",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -52654,7 +52654,7 @@
             "censorship",
             "twitter"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/yoel-roth.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/yoel-roth.jpg",
         "title": "Former Twitter censor stands by decision to ban satire site Babylon Bee \u2013 \u201cnot funny,\u201d \u201cdangerous\u201d",
         "vote": 0
     },
@@ -52894,7 +52894,7 @@
         "link": "https://reclaimthenet.org/nz-force-big-tech-pay-media",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -52906,7 +52906,7 @@
             "media",
             "new zealand"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/nz0edia.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/nz0edia.jpg",
         "title": "New Zealand wants to force Big Tech to hand over cash to mainstream media",
         "vote": 0
     },
@@ -52957,7 +52957,7 @@
         "link": "https://reclaimthenet.org/elon-musk-elon-musk-social-credit",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -52968,7 +52968,7 @@
             "paypal",
             "social credit"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/elon-musk-pp.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/elon-musk-pp.jpg",
         "title": "Elon Musk says PayPal is moving in the \u201cdirection of social credit\u201d",
         "vote": 0
     },
@@ -53141,7 +53141,7 @@
         "link": "https://reclaimthenet.org/world-health-organization-censorship-misinformation-pandemic-treaty",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -53153,7 +53153,7 @@
             "moderation",
             "who"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/world-health-organization-censorship-misinformation-pandemic-treaty.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/world-health-organization-censorship-misinformation-pandemic-treaty.jpg",
         "title": "World Health Organization meets to plot censorship of \u201cmisinformation\u201d under international pandemic treaty",
         "vote": 0
     },
@@ -53235,7 +53235,7 @@
         "link": "https://reclaimthenet.org/white-house-hunter-biden-censorship-distraction",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -53248,7 +53248,7 @@
             "propaganda",
             "white house"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/white-house-press-sec-hunter-distraction.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/white-house-press-sec-hunter-distraction.jpg",
         "title": "The White House calls Twitter\u2019s Hunter Biden censorship evidence \u201cold news,\u201d \u201cdistraction\u201d",
         "vote": 0
     },
@@ -53267,7 +53267,7 @@
         "link": "https://cointelegraph.com/news/nigeria-bans-atm-cash-withdrawals-over-225-a-week-to-force-use-of-cbdc",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -53278,7 +53278,7 @@
             "cbdc",
             "technofeudalism"
         ],
-        "thumbnail": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2022-12/338cb3ce-463c-40b9-b4bf-4912434e0895.jpg",
+        "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-98702-nigeria-bans-atm-cash-withdrawals-over-225-a-week-to-force-use-of-cbdc.jpg",
         "title": "Nigeria bans ATM cash withdrawals over $225 a week to force use of CBDC",
         "vote": 0
     },
@@ -53307,7 +53307,7 @@
             "blackrock",
             "esg"
         ],
-        "thumbnail": "https://www.coreysdigs.com/wp-content/uploads/2022/12/ESG-scaled-1200x628-cropped.jpg",
+        "thumbnail": "https://www.coreysdigs.com/wp-content/uploads/2022/12/ESG-scaled-1200x628.jpg",
         "title": "Don\u2019t Let Your Mortgage Servicer \u201cBlackRock\u201d You with Verint\u2019s Scary ESG Survey + BlackRock Under Fire",
         "vote": 0
     },
@@ -53386,7 +53386,7 @@
         "link": "https://reclaimthenet.org/fauci-deposition",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -53397,7 +53397,7 @@
             "censorship",
             "covid"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/fauci-depo.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/fauci-depo.jpg",
         "title": "Fauci deposition: Fauci says no one from his office pushed for social media censorship. Documents show they did.",
         "vote": 0
     },
@@ -53446,7 +53446,7 @@
         "link": "https://reclaimthenet.org/wef-digital-id-metaverse",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -53458,7 +53458,7 @@
             "wef",
             "world economic forum"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/wef-fing.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/wef-fing.jpg",
         "title": "WEF thinks of ways to regulate digital ID in the metaverse",
         "vote": 0
     },
@@ -53581,7 +53581,7 @@
             "shadowban",
             "social media"
         ],
-        "thumbnail": "https://www.cnet.com/a/img/resize/4d75c11c193b8a790212e7d745eb119b856b3b7d/hub/2022/12/07/14296b67-8a54-4ac5-bf67-d1767479e8d6/gettyimages-1245156212.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/14296b67-8a54-4ac5-bf67-d1767479e8d6.jpg",
         "title": "Instagram Will Now Tell You if You've Been Shadow-Banned and Why     - CNET",
         "vote": 0
     },
@@ -53600,7 +53600,7 @@
         "link": "https://reclaimthenet.org/cdc-census-bureau-twitter-portal-censorship",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -53611,7 +53611,7 @@
             "censorship",
             "twitter"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/cdc-census-bureau-twitter-portal-censorship.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/cdc-census-bureau-twitter-portal-censorship.jpg",
         "title": "CDC and Census Bureau had direct access to Twitter portal where they could flag speech for censorship",
         "vote": 0
     },
@@ -54010,7 +54010,7 @@
             "meta",
             "privacy"
         ],
-        "thumbnail": "https://tuta.com/assets/social-media.CNQlhU_P_Z1EvyeB.png",
+        "thumbnail": "https://tuta.com/assets/social-media.CNQlhU_P_PrQc5.png",
         "title": "Win for privacy: Facebook tracking is illegal in Europe",
         "vote": 0
     },
@@ -54058,8 +54058,8 @@
         "language": "en-US",
         "link": "https://twitter.com/bariweiss/status/1601007575633305600",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 32,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -54070,7 +54070,7 @@
             "twitter",
             "twitter files"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://pbs.twimg.com/profile_images/1360808590999650307/XlQ7X1Mr_400x400.jpg",
         "title": "The Twitter Files Part 2: Twitter's Secret Blacklists",
         "vote": 0
     },
@@ -54147,7 +54147,7 @@
         "link": "https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -54161,7 +54161,7 @@
             "misinformation",
             "moderation"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/goog-eu.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/goog-eu.jpg",
         "title": "EU court orders Google to remove \u201cmanifestly inaccurate\u201d information",
         "vote": 0
     },
@@ -54390,8 +54390,8 @@
         "language": "en",
         "link": "https://twitter.com/LLibertadAvanza/status/1601659384572309504?ref_src=twsrc%5Etfw",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 32,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -54400,7 +54400,7 @@
         "tags": [
             "racism"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://pbs.twimg.com/card_img/2090841169722757120/R7rVrZLJ?format=jpg&name=orig",
         "title": "Argentina is not black enough for the Washington Post",
         "vote": 0
     },
@@ -54480,7 +54480,7 @@
         "link": "https://reclaimthenet.org/twitter-allowed-fbi-flag-tweets",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -54492,7 +54492,7 @@
             "twitter",
             "twitter files"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/yoel-roth-fbi.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/yoel-roth-fbi.jpg",
         "title": "Twitter had regular meetings with FBI, allowed them to flag tweets",
         "vote": 0
     },
@@ -54511,7 +54511,7 @@
         "link": "https://reclaimthenet.org/elon-musk-says-candidates-shadow-banned",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -54521,7 +54521,7 @@
             "twitter",
             "twitter files"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/musk-8.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/musk-8.jpg",
         "title": "Elon Musk says some political candidates running for office were secretly shadow banned on Twitter",
         "vote": 0
     },
@@ -54683,7 +54683,7 @@
         "link": "https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -54695,7 +54695,7 @@
             "twitter",
             "twitter files"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2022/12/mcarthy.jpg",
+        "thumbnail": "https://media.reclaimthenet.org/2022/12/mcarthy.jpg",
         "title": "Rep Kevin McCarthy calls for investigation into social media censorship following Twitter disclosures",
         "vote": 0
     },
@@ -54783,7 +54783,7 @@
             "censorship",
             "facebook"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/be/Facebook_Censorship_Cropped.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/be/Facebook_Censorship_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
         "title": "Censorship by Facebook",
         "vote": 0
     },
@@ -54869,7 +54869,7 @@
         "tags": [
             "surveillance"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Globe_eye_icon.svg/1280px-Globe_eye_icon.svg.png",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Globe_eye_icon.svg/1280px-Globe_eye_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
         "title": "Surveillance issues in smart cities",
         "vote": 0
     },
@@ -54901,7 +54901,7 @@
             "earn it act",
             "government control"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/1280px-Great_Seal_of_the_United_States_%28obverse%29.svg.png",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/1280px-Great_Seal_of_the_United_States_%28obverse%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
         "title": "EARN IT Act",
         "vote": 0
     },

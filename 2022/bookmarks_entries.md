@@ -8455,6 +8455,7 @@
  - [https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
  - date_published: 2022-12-03T05:00:00+00:00
  - tags: ['apple', 'china', 'india', 'iphone']
+ - date_dead_since: 2026-08-26T23:16:28.863807+00:00
 
  ## Russia is spying on Telegram chats in occupied Ukrainian regions. Here's how.
  - [https://www.pwnallthethings.com/p/russia-is-spying-on-telegram-chats](https://www.pwnallthethings.com/p/russia-is-spying-on-telegram-chats)
