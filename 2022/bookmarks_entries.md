@@ -7045,6 +7045,7 @@
  - [https://www.cnet.com/culture/entertainment/netflixs-password-sharing-crackdown-is-coming/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflixs-password-sharing-crackdown-is-coming/#ftag=CADf328eec)
  - date_published: 2022-10-29T14:24:49+00:00
  - tags: ['ad business', 'netflix', 'streaming']
+ - date_dead_since: 2026-08-27T22:55:50.061322+00:00
 
  ## Florida medical board votes to ban gender-affirming care for transgender minors
  - [https://www.reddit.com/r/news/comments/ygnjd3/florida_medical_board_votes_to_ban](https://www.reddit.com/r/news/comments/ygnjd3/florida_medical_board_votes_to_ban)
@@ -7198,6 +7199,7 @@
  ## Shanghai Disneyland Reportedly Shuts Down Due to COVID With Guests Still Inside     - CNET
  - [https://www.cnet.com/health/medical/shanghai-disneyland-reportedly-shuts-down-due-to-covid-with-guests-still-inside/#ftag=CADf328eec](https://www.cnet.com/health/medical/shanghai-disneyland-reportedly-shuts-down-due-to-covid-with-guests-still-inside/#ftag=CADf328eec)
  - date_published: 2022-10-31T22:15:05+00:00
+ - date_dead_since: 2026-08-27T20:16:39.282791+00:00
 
  ## "I WISH I HAD MORE INTERNET FRIENDS." - Literally Nobody
  - [https://www.youtube.com/watch?v=fVsCLKErPqE](https://www.youtube.com/watch?v=fVsCLKErPqE)
@@ -7331,6 +7333,7 @@
  - [https://www.louderwithcrowder.com/white-house-tweet](https://www.louderwithcrowder.com/white-house-tweet)
  - date_published: 2022-11-02T17:15:18+00:00
  - tags: ['big brother', 'fact check', 'twitter']
+ - date_dead_since: 2026-08-27T18:22:43.659431+00:00
 
  ## Gmail will track packages to help with your holiday shopping
  - [https://www.engadget.com/gmail-package-tracking-google-173148117.html?src=rss](https://www.engadget.com/gmail-package-tracking-google-173148117.html?src=rss)
@@ -7455,6 +7458,7 @@
  - [https://rsapkf.org/weblog/q2z](https://rsapkf.org/weblog/q2z)
  - date_published: 2022-11-04T16:22:38+00:00
  - tags: ['privacy', 'rss', 'selfhost', 'smart home']
+ - date_dead_since: 2026-08-27T18:03:53.116026+00:00
 
  ## UK Government scans all web servers hosted in the UK for vulnerabilities
  - [https://www.ncsc.gov.uk/information/ncsc-scanning-information](https://www.ncsc.gov.uk/information/ncsc-scanning-information)
@@ -7578,7 +7582,6 @@
  - [https://adnamerica.com/en/united-states/tiktok-ships-opium-version-world-and-less-addictive-app-chinese-audience](https://adnamerica.com/en/united-states/tiktok-ships-opium-version-world-and-less-addictive-app-chinese-audience)
  - date_published: 2022-11-07T15:49:52+00:00
  - tags: ['china', 'propaganda', 'social engineering', 'social media']
- - date_dead_since: 2026-04-19T17:42:16.143875+00:00
 
  ## Your Organization should run its own Mastodon server
  - [https://martinfowler.com/articles/your-org-run-mastodon.html](https://martinfowler.com/articles/your-org-run-mastodon.html)
@@ -7609,7 +7612,6 @@
  - [https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-8435106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-8435106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2022-11-08T05:00:00+00:00
  - tags: ['joe biden']
- - date_dead_since: 2026-04-19T17:35:22.726099+00:00
 
  ## Afera we francuskim kościele. 11 biskupów "zamieszanych" w przemoc seksualną
  - [https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna](https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna)
@@ -7660,6 +7662,7 @@
  - [https://www.asiamarkets.com/china-russia-gold-reserve-currency](https://www.asiamarkets.com/china-russia-gold-reserve-currency)
  - date_published: 2022-11-09T08:02:07+00:00
  - tags: ['brics', 'cbdc', 'china', 'crisis', 'fiat currency']
+ - date_dead_since: 2026-08-27T17:29:30.397904+00:00
 
  ## Smartphones Are Like Cars. So Why Don’t We Maintain Them?
  - [https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html](https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html)
@@ -7888,6 +7891,7 @@
  - [https://www.cnet.com/culture/heres-why-andrew-tate-is-banned-from-almost-every-social-media-platform/#ftag=CADf328eec](https://www.cnet.com/culture/heres-why-andrew-tate-is-banned-from-almost-every-social-media-platform/#ftag=CADf328eec)
  - date_published: 2022-11-15T22:44:00+00:00
  - tags: ['andrew tate', 'deplatform']
+ - date_dead_since: 2026-08-27T16:46:43.196184+00:00
 
  ## Covid Australia: ABC's Dr Norman Swan's huge mistakes about the pandemic
  - [https://www.dailymail.co.uk/news/article-11432117/Covid-Australia-ABCs-Dr-Norman-Swans-huge-mistakes-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11432117/Covid-Australia-ABCs-Dr-Norman-Swans-huge-mistakes-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -7897,7 +7901,6 @@
  ## Even a global recession may not crush inflation
  - [https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation](https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation)
  - date_published: 2022-11-16T13:05:11+00:00
- - date_dead_since: 2026-04-19T16:42:09.679510+00:00
 
  ## 82% of Open-Source Projects Suffer from Tool Rot
  - [https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2](https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2)
@@ -8147,6 +8150,7 @@
  - [https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469](https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469)
  - date_published: 2022-11-26T10:30:00+00:00
  - tags: ['climate change', 'science', 'science is dead']
+ - date_dead_since: 2026-08-27T05:01:21.604280+00:00
 
  ## Animated Gay Teen Romance Film Is Woke Disney’s Latest Box-Office Bomb
  - [https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb](https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb)
@@ -8239,6 +8243,7 @@
  - [https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology](https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology)
  - date_published: 2022-11-28T18:52:00+00:00
  - tags: ['apple', 'china']
+ - date_dead_since: 2026-08-27T03:14:21.685499+00:00
 
  ## Tech Reporter at Bezos-Owned Washington Post Blasts Amazon: ‘Betraying Your Trust’ to ‘Make an Extra Buck’
  - [https://www.msn.com/en-us/money/companies/tech-reporter-at-bezos-owned-washington-post-blasts-amazon-betraying-your-trust-to-make-an-extra-buck/ar-AA14F0eZ](https://www.msn.com/en-us/money/companies/tech-reporter-at-bezos-owned-washington-post-blasts-amazon-betraying-your-trust-to-make-an-extra-buck/ar-AA14F0eZ)

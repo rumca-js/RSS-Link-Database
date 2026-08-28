@@ -7564,7 +7564,7 @@
         "link": "https://blog.kagi.com/age-pagerank-over",
         "manual_status_code": 0,
         "page_rating": 30,
-        "page_rating_contents": 85,
+        "page_rating_contents": 86,
         "page_rating_visits": 3,
         "page_rating_votes": 0,
         "permanent": false,
@@ -7574,7 +7574,7 @@
         "tags": [
             "search engines"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://blog.kagi.com/og-image.png",
         "title": "The Age of PageRank Is Over",
         "vote": 0
     },
