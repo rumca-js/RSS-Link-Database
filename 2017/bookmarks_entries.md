@@ -118,6 +118,7 @@
  - [https://eklitzke.org/the-cult-of-dd](https://eklitzke.org/the-cult-of-dd)
  - date_published: 2017-03-17T00:00:00+00:00
  - tags: ['linux', 'scripts']
+ - date_dead_since: 2026-08-28T06:08:56.306049+00:00
 
  ## Szef Ringier Axel Springer instruuje swoich dziennikarzy, jak oceniać polski rząd. Wysłał specjalny list
  - [https://www.tysol.pl/a5495-szef-ringier-axel-springer-instruuje-swoich-dziennikarzy-jak-oceniac-polski-rzad-wyslal-specjalny-list](https://www.tysol.pl/a5495-szef-ringier-axel-springer-instruuje-swoich-dziennikarzy-jak-oceniac-polski-rzad-wyslal-specjalny-list)

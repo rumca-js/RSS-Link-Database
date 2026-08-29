@@ -5501,7 +5501,6 @@
  - [https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum](https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum)
  - date_published: 2022-09-30T23:53:09+00:00
  - tags: ['family', 'father']
- - date_dead_since: 2026-04-21T00:49:36.370196+00:00
 
  ## Two-thirds of U.S. adults do not plan on getting COVID boosters
  - [https://www.foxnews.com/health/two-thirds-us-adults-do-not-plan-getting-covid-boosters](https://www.foxnews.com/health/two-thirds-us-adults-do-not-plan-getting-covid-boosters)
@@ -5882,6 +5881,7 @@
  - [https://cryptobullsclub.com/cbdc-a-threat-you-privacy](https://cryptobullsclub.com/cbdc-a-threat-you-privacy)
  - date_published: 2022-10-09T00:00:00+00:00
  - tags: ['cdbc', 'privacy', 'surveillance']
+ - date_dead_since: 2026-08-28T17:30:21.538731+00:00
 
  ## How to DISASSEMBLE and REPAIR an LED lamp WITHOUT A SOLDERING IRON Do-it-yourself LED lamp repair
  - [https://www.youtube.com/watch?v=JBKF7rKB3zc](https://www.youtube.com/watch?v=JBKF7rKB3zc)
@@ -5915,6 +5915,7 @@
  - [https://www.skynews.com.au/lifestyle/celebrity-life/kanye-west-banned-from-twitter-and-instagram-accounts-after-sharing-antisemitic-posts-which-went-viral/news-story/9d317fffefa77ac679face2f9923dd72](https://www.skynews.com.au/lifestyle/celebrity-life/kanye-west-banned-from-twitter-and-instagram-accounts-after-sharing-antisemitic-posts-which-went-viral/news-story/9d317fffefa77ac679face2f9923dd72)
  - date_published: 2022-10-09T22:46:54+00:00
  - tags: ['deplatform', 'kanye west']
+ - date_dead_since: 2026-08-28T17:03:21.838873+00:00
 
  ## Morawiecki zapowiedział aktywny udział PL w 4-tej rewolucji Schwaba
  - [https://www.youtube.com/watch?v=LdVgb8Q8BRY](https://www.youtube.com/watch?v=LdVgb8Q8BRY)
@@ -6098,6 +6099,7 @@
  - [https://theface.com/life/inside-the-world-of-wikipedias-deaditors-editors-volunteers-queen-elizabeth-ii](https://theface.com/life/inside-the-world-of-wikipedias-deaditors-editors-volunteers-queen-elizabeth-ii)
  - date_published: 2022-10-14T10:25:15.015426+00:00
  - tags: ['deaditors', 'wikipedia']
+ - date_dead_since: 2026-08-28T14:22:36.030172+00:00
 
  ## Meta's VR legs video wasn't what it seemed
  - [https://www.engadget.com/meta-vr-legs-video-mocap-105007370.html?src=rss](https://www.engadget.com/meta-vr-legs-video-mocap-105007370.html?src=rss)
@@ -6178,6 +6180,7 @@
  ## Notorious 'Defund the Police' councilwoman demands police catch whoever is throwing poop on her house
  - [https://www.louderwithcrowder.com/seattle-councilwoman-police-poop](https://www.louderwithcrowder.com/seattle-councilwoman-police-poop)
  - date_published: 2022-10-17T14:43:13+00:00
+ - date_dead_since: 2026-08-28T14:10:43.194075+00:00
 
  ## Two thirds of voters say crime is up and blame 'woke politicians' for the rise
  - [https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
