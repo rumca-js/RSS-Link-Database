@@ -4094,6 +4094,7 @@
  - [https://www.louderwithcrowder.com/teacher-arrested-ireland](https://www.louderwithcrowder.com/teacher-arrested-ireland)
  - date_published: 2022-09-06T14:35:25+00:00
  - tags: ['gender', 'newspeak', 'pronouns', 'school', 'the left wing']
+ - date_dead_since: 2026-08-30T01:31:29.250528+00:00
 
  ## Walmart Is Facing a Class Action Over Its Alleged Use of Surveillance Cameras and Clearview AI's Facial Recognition Database
  - [https://www.businessinsider.com/walmart-is-facing-a-class-action-over-its-alleged-use-of-surveillance-cameras-and-clearview-ais-facial-recognition-database-2022-9?IR=T](https://www.businessinsider.com/walmart-is-facing-a-class-action-over-its-alleged-use-of-surveillance-cameras-and-clearview-ais-facial-recognition-database-2022-9?IR=T)
@@ -4180,6 +4181,7 @@
  - [https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed)
  - date_published: 2022-09-07T21:30:19+00:00
  - tags: ['digital dementia', 'dystopia', 'future']
+ - date_dead_since: 2026-08-29T23:54:47.209428+00:00
 
  ## I Tracked Everything I Read on the Internet for a Year
  - [https://www.tdpain.net/blog/a-year-of-reading](https://www.tdpain.net/blog/a-year-of-reading)
@@ -4259,7 +4261,6 @@
  ## Hackers can now sneak malware into the GIFs you share
  - [https://www.digitaltrends.com/computing/hackers-sneak-malware-into-gifs](https://www.digitaltrends.com/computing/hackers-sneak-malware-into-gifs)
  - date_published: 2022-09-09T10:16:02+00:00
- - date_dead_since: 2026-04-21T21:46:44.118080+00:00
 
  ## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
  - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
@@ -4303,7 +4304,6 @@
  ## Regarding the eSIM-only iPhone 14 models in the U.S.
  - [https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us](https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us)
  - date_published: 2022-09-09T23:05:04+00:00
- - date_dead_since: 2026-04-21T21:50:53.128302+00:00
 
  ## FBI Hiding Potentially Explosive Records On Jeffrey Epstein, Internet Sleuth Claims After FOIA Denial
  - [https://www.dailywire.com/news/fbi-hiding-potentially-explosive-records-on-jeffrey-epstein-internet-sleuth-claims-after-foia-denial](https://www.dailywire.com/news/fbi-hiding-potentially-explosive-records-on-jeffrey-epstein-internet-sleuth-claims-after-foia-denial)
@@ -4324,6 +4324,7 @@
  - [https://www.louderwithcrowder.com/credit-cards-track-gun-purchases](https://www.louderwithcrowder.com/credit-cards-track-gun-purchases)
  - date_published: 2022-09-10T14:00:15+00:00
  - tags: ['big brother', 'censorship', 'corporatocracy', 'government']
+ - date_dead_since: 2026-08-29T21:37:29.927017+00:00
 
  ## Intelowi zakazano produkcji procesorów w Chinach przez następne 10 lat
  - [https://www.wykop.pl/link/6811875/intelowi-zakazano-produkcji-procesorow-w-chinach-przez-nastepne-10-lat](https://www.wykop.pl/link/6811875/intelowi-zakazano-produkcji-procesorow-w-chinach-przez-nastepne-10-lat)
@@ -4338,6 +4339,7 @@
  ## Gay Florida resident speaks out against LGBTQ+ indoctrination in public schools
  - [https://www.louderwithcrowder.com/gay-florida-resident-against-indoctrination](https://www.louderwithcrowder.com/gay-florida-resident-against-indoctrination)
  - date_published: 2022-09-11T14:01:41+00:00
+ - date_dead_since: 2026-08-29T21:15:55.388618+00:00
 
  ## Rząd USA na wojennej ścieżce. Górnicy kryptowalut muszą ograniczyć zużycie energii
  - [https://ithardware.pl/aktualnosci/rzad_usa_na_wojennej_sciezce_gornicy_kryptowalut_musza_ograniczyc_zuzycie_energii-23227.html](https://ithardware.pl/aktualnosci/rzad_usa_na_wojennej_sciezce_gornicy_kryptowalut_musza_ograniczyc_zuzycie_energii-23227.html)
@@ -4405,6 +4407,7 @@
  ## Leftist says wanting biological children with your partner is transphobic: 'It feeds into the stigma'
  - [https://www.louderwithcrowder.com/wanting-biological-children-is-transphobic](https://www.louderwithcrowder.com/wanting-biological-children-is-transphobic)
  - date_published: 2022-09-12T18:11:24+00:00
+ - date_dead_since: 2026-08-29T20:00:17.709072+00:00
 
  ## Why Schools Don’t Educate (1990)
  - [https://www.thesunmagazine.org/issues/175/why-schools-dont-educate](https://www.thesunmagazine.org/issues/175/why-schools-dont-educate)
@@ -4547,6 +4550,7 @@
  ## 'It’s f***ed up': Jake Paul DROPS BOMBS about Big Tech working with White House to censor Americans
  - [https://www.louderwithcrowder.com/jake-paul-free-speech](https://www.louderwithcrowder.com/jake-paul-free-speech)
  - date_published: 2022-09-14T13:02:58+00:00
+ - date_dead_since: 2026-08-29T17:41:11.888034+00:00
 
  ## Google loses EU appeal and is fined a record $4B
  - [https://www.axios.com/2022/09/14/google-loses-appeal-eu-antitrust-ruling](https://www.axios.com/2022/09/14/google-loses-appeal-eu-antitrust-ruling)
@@ -4741,6 +4745,7 @@
  ## Wisconsin education department seeks to indoctrinate preschoolers into LGBTQ+, transgender ideology
  - [https://www.louderwithcrowder.com/wisconsin-transgender-preschooler-resources](https://www.louderwithcrowder.com/wisconsin-transgender-preschooler-resources)
  - date_published: 2022-09-17T14:36:46+00:00
+ - date_dead_since: 2026-08-29T14:22:44.255030+00:00
 
  ## Transpłciowy pedofil chciał uprawiać seks z rocznym dzieckiem.
  - [https://www.wykop.pl/link/6821243/transplciowy-pedofil-chcial-uprawiac-seks-z-rocznym-dzieckiem](https://www.wykop.pl/link/6821243/transplciowy-pedofil-chcial-uprawiac-seks-z-rocznym-dzieckiem)
@@ -4897,6 +4902,7 @@
  - [https://www.telegraph.co.uk/news/2022/09/20/paypal-shuts-accounts-free-speech-union](https://www.telegraph.co.uk/news/2022/09/20/paypal-shuts-accounts-free-speech-union)
  - date_published: 2022-09-20T11:54:15+00:00
  - tags: ['censorship', 'corporatocracy', 'free speech', 'intolerance', 'paypal', 'social score', 'technofeudalism', 'the left wing']
+ - date_dead_since: 2026-08-29T11:52:38.569622+00:00
 
  ## Biden’s Declaration That The COVID Pandemic Is ‘Over’ Explodes Liberals’ Heads
  - [https://www.dailywire.com/news/bidens-declaration-that-the-covid-pandemic-is-over-explodes-liberals-heads](https://www.dailywire.com/news/bidens-declaration-that-the-covid-pandemic-is-over-explodes-liberals-heads)
@@ -5164,7 +5170,6 @@
  - [https://www.bankier.pl/wiadomosc/10-milionow-dzieci-na-swiecie-stracilo-rodzica-lub-opiekuna-w-wyniku-COVID-19-8408616.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/10-milionow-dzieci-na-swiecie-stracilo-rodzica-lub-opiekuna-w-wyniku-COVID-19-8408616.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2022-09-25T09:00:00+00:00
  - tags: ['covid']
- - date_dead_since: 2026-04-21T06:56:00.984357+00:00
 
  ## Niemcy: Rząd tworzy setki fałszywych kont „prawicowo-ekstremistycznych” w mediach społecznościowych
  - [https://ithardware.pl/aktualnosci/niemcy_rzad_tworzy_setki_falszywych_kont_prawicowo_ekstremistycznych_w_mediach_spolecznosciowych-23491.html](https://ithardware.pl/aktualnosci/niemcy_rzad_tworzy_setki_falszywych_kont_prawicowo_ekstremistycznych_w_mediach_spolecznosciowych-23491.html)
@@ -5182,6 +5187,7 @@
  ## Pride dancers defy critics, spread legs for children while letting others (allegedly) touch their crotch
  - [https://www.louderwithcrowder.com/dancers-chattanooga-brewery](https://www.louderwithcrowder.com/dancers-chattanooga-brewery)
  - date_published: 2022-09-25T12:29:55+00:00
+ - date_dead_since: 2026-08-29T06:35:46.801980+00:00
 
  ## A Ponzi scheme by any other name: the bursting of China’s property bubble | Chinese economy | The Guardian
  - [https://www.theguardian.com/business/2022/sep/25/china-property-bubble-evergrande-group](https://www.theguardian.com/business/2022/sep/25/china-property-bubble-evergrande-group)
@@ -5271,6 +5277,7 @@
  - [https://www.telegraph.co.uk/politics/2022/09/27/paypal-reinstates-free-speech-union-accounts-accused-politically](https://www.telegraph.co.uk/politics/2022/09/27/paypal-reinstates-free-speech-union-accounts-accused-politically)
  - date_published: 2022-09-27T08:30:52+00:00
  - tags: ['censorship', 'free speech', 'paypal']
+ - date_dead_since: 2026-08-29T04:58:47.898327+00:00
 
  ## What Happens When China Makes a Popular Homegrown Movie Disappear?
  - [https://gizmodo.com/china-return-to-dust-popular-streaming-movie-disappear-1849584746](https://gizmodo.com/china-return-to-dust-popular-streaming-movie-disappear-1849584746)
@@ -5368,6 +5375,7 @@
  ## Niemiecki resort sprawiedliwości "uruchamia system donosicielstwa"? Wyjaśniamy
  - [https://konkret24.tvn24.pl/r/niemiecki-resort-sprawiedliwo-ci--uruchamia-system-donosicielstwa---wyja-niamy,1119875.html?source=rss](https://konkret24.tvn24.pl/r/niemiecki-resort-sprawiedliwo-ci--uruchamia-system-donosicielstwa---wyja-niamy,1119875.html?source=rss)
  - date_published: 2022-09-28T15:57:58+00:00
+ - date_dead_since: 2026-08-29T03:08:39.600465+00:00
 
  ## OpenAI’s image generator DALL-E is available for anyone to use immediately
  - [https://www.theverge.com/2022/9/28/23376328/ai-art-image-generator-dall-e-access-waitlist-scrapped](https://www.theverge.com/2022/9/28/23376328/ai-art-image-generator-dall-e-access-waitlist-scrapped)
