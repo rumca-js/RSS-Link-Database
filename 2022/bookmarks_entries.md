@@ -3236,6 +3236,7 @@
  - [https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take)
  - date_published: 2022-07-29T07:21:23+00:00
  - tags: ['microsoft', 'palladium', 'pluton', 'secure boot', 'tpm', 'web environment integrity']
+ - date_dead_since: 2026-08-30T17:25:33.730487+00:00
 
  ## Bristol Drag queen children's story hour disrupted by protests - BBC News
  - [https://www.bbc.com/news/uk-england-bristol-62335147](https://www.bbc.com/news/uk-england-bristol-62335147)
@@ -3423,10 +3424,12 @@
  ## Smiling Dogs? Captcha Has Gone Too Far | WIRED UK
  - [https://www.wired.co.uk/article/smiling-dogs-horses-made-of-clouds-captcha-has-gone-too-far](https://www.wired.co.uk/article/smiling-dogs-horses-made-of-clouds-captcha-has-gone-too-far)
  - date_published: 2022-08-11T11:00:00+00:00
+ - date_dead_since: 2026-08-30T08:21:50.822480+00:00
 
  ## Let websites framebust out of native apps | Holovaty.com
  - [https://www.holovaty.com/writing/framebust-native-apps](https://www.holovaty.com/writing/framebust-native-apps)
  - date_published: 2022-08-11T13:17:39.757889+00:00
+ - date_dead_since: 2026-08-30T14:13:38.195015+00:00
 
  ## Facebook messages are key evidence in abortion prosecution : NPR
  - [https://www.npr.org/2022/08/12/1117092169/nebraska-cops-used-facebook-messages-to-investigate-an-alleged-illegal-abortion](https://www.npr.org/2022/08/12/1117092169/nebraska-cops-used-facebook-messages-to-investigate-an-alleged-illegal-abortion)
@@ -3636,7 +3639,6 @@
  - [https://newsrescue.com/google-quickly-resets-screens-results-for-mass-formation-psychosis-after-bombshell-dr-malone-joe-rogan-interview](https://newsrescue.com/google-quickly-resets-screens-results-for-mass-formation-psychosis-after-bombshell-dr-malone-joe-rogan-interview)
  - date_published: 2022-08-24T12:04:49.986383+00:00
  - tags: ['censorship', 'dr. malone', 'google', 'joe rogan', 'mass formation psychosis']
- - date_dead_since: 2026-04-22T10:32:47.881878+00:00
 
  ## How Social Media Affects Our Behavior
  - [https://socialpsych.blogs.pace.edu/2017/12/12/how-social-media-affects-our-behavior](https://socialpsych.blogs.pace.edu/2017/12/12/how-social-media-affects-our-behavior)
@@ -3978,6 +3980,7 @@
  - [https://twitter.com/svbelmeha/status/1566063915515133952](https://twitter.com/svbelmeha/status/1566063915515133952)
  - date_published: 2022-09-04T08:19:57+00:00
  - tags: ['apple', 'corporatocracy', 'subscription', 'technofeudalism']
+ - date_dead_since: 2026-08-30T03:59:36.055808+00:00
 
  ## The super-rich ‘preppers’ planning to save themselves
  - [https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff](https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff)
@@ -4039,6 +4042,7 @@
  - [https://www.louderwithcrowder.com/frog-pronouns](https://www.louderwithcrowder.com/frog-pronouns)
  - date_published: 2022-09-05T12:57:45+00:00
  - tags: ['gender', 'newspeak', 'pronouns', 'school', 'the left wing']
+ - date_dead_since: 2026-08-30T02:44:46.822199+00:00
 
  ## Vegan restaurant hit by cost-of-living crisis will start serving meat due to lack of customers
  - [https://www.dailymail.co.uk/news/article-11181337/Vegan-restaurant-hit-cost-living-crisis-start-serving-meat-lack-customers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11181337/Vegan-restaurant-hit-cost-living-crisis-start-serving-meat-lack-customers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -4047,6 +4051,7 @@
  ## Posh private school defends woke teacher exposed for attacking her 'white boy' students
  - [https://www.louderwithcrowder.com/woke-teacher-private-school-defends](https://www.louderwithcrowder.com/woke-teacher-private-school-defends)
  - date_published: 2022-09-05T13:44:27+00:00
+ - date_dead_since: 2026-08-30T02:35:36.101043+00:00
 
  ## Node.js creator Ryan Dahl urges Oracle to release JavaScript trademark • DEVCLASS
  - [https://devclass.com/2022/09/05/node-js-creator-ryan-dahl-urges-oracle-to-release-javascript-trademark/?td=rt-3a](https://devclass.com/2022/09/05/node-js-creator-ryan-dahl-urges-oracle-to-release-javascript-trademark/?td=rt-3a)

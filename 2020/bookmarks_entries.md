@@ -644,6 +644,7 @@
  - [https://www.studynotesaba.com/so-you-think-you-can-beat-social-media-addiction](https://www.studynotesaba.com/so-you-think-you-can-beat-social-media-addiction)
  - date_published: 2020-06-25T02:54:12+00:00
  - tags: ['skinner box', 'social media']
+ - date_dead_since: 2026-08-30T10:17:21.108498+00:00
 
  ## How do you deal with people who refuse to wear a mask? - The Verge
  - [https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public](https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public)
