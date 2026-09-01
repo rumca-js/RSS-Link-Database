@@ -1370,7 +1370,6 @@
  - [https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe](https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe)
  - date_published: 2022-03-19T20:15:46+00:00
  - tags: ['coudenhove-kalergi', 'depopulation', 'genocide', 'immigration', 'the right wing']
- - date_dead_since: 2026-04-24T01:45:48.397533+00:00
 
  ## Please put units in names
  - [https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
@@ -1767,6 +1766,7 @@
  ## My Mathematics PhD research workflow | Gilles Castel
  - [https://castel.dev/post/research-workflow](https://castel.dev/post/research-workflow)
  - date_published: 2022-04-11T14:35:08.429883+00:00
+ - date_dead_since: 2026-08-31T19:36:35.470292+00:00
 
  ## How I decided to move away from bigTech for my children and myself
  - [https://lof.flounder.online/gemlog/2022-04-11%20How%20I%20decided%20to%20move%20away%20for%20bigTech%20for%20my%20children%20and%20myself.gmi](https://lof.flounder.online/gemlog/2022-04-11%20How%20I%20decided%20to%20move%20away%20for%20bigTech%20for%20my%20children%20and%20myself.gmi)
@@ -1787,6 +1787,7 @@
  ## At last, Atlassian sees an end to its outage ... in two weeks • The Register
  - [https://www.theregister.com/AMP/2022/04/11/atlassian_outage_backups](https://www.theregister.com/AMP/2022/04/11/atlassian_outage_backups)
  - date_published: 2022-04-12T13:42:29.786489+00:00
+ - date_dead_since: 2026-08-31T18:50:17.462724+00:00
 
  ## Facebook oferuje rządom platformę do zgłaszania treści do ocenzurowania
  - [https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html](https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html)
@@ -2058,14 +2059,17 @@
  ## How I draw figures for my mathematical lecture notes using Inkscape | Gilles Castel
  - [https://castel.dev/post/lecture-notes-2](https://castel.dev/post/lecture-notes-2)
  - date_published: 2022-05-02T13:21:22.333192+00:00
+ - date_dead_since: 2026-08-31T14:15:58.709336+00:00
 
  ## How I'm able to take notes in mathematics lectures using LaTeX and Vim | Gilles Castel
  - [https://castel.dev/post/lecture-notes-1](https://castel.dev/post/lecture-notes-1)
  - date_published: 2022-05-02T13:32:45.160709+00:00
+ - date_dead_since: 2026-08-31T14:11:43.387364+00:00
 
  ## How I manage my LaTeX lecture notes | Gilles Castel
  - [https://castel.dev/post/lecture-notes-3](https://castel.dev/post/lecture-notes-3)
  - date_published: 2022-05-02T13:38:54.219841+00:00
+ - date_dead_since: 2026-08-31T14:05:25.939039+00:00
 
  ## New government maps show nearly all of the West is in drought and it's not even summer yet: "This is unprecedented" - CBS News
  - [https://www.cbsnews.com/news/west-climate-change-water](https://www.cbsnews.com/news/west-climate-change-water)
@@ -2441,11 +2445,11 @@
  - [https://www.libertyplanets.com/articles/wef-issues-threat-to-brazil-after-bolsonaro-refuses-to-sign-who-pandemic-treaty](https://www.libertyplanets.com/articles/wef-issues-threat-to-brazil-after-bolsonaro-refuses-to-sign-who-pandemic-treaty)
  - date_published: 2022-05-30T18:01:48+00:00
  - tags: ['big brother', 'corporatocracy', 'covid', 'pandemic', 'wef', 'who', 'world economic forum']
+ - date_dead_since: 2026-08-31T06:37:00.832724+00:00
 
  ## Why is Front-End Development So Unstable?
  - [https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable)
  - date_published: 2022-05-30T21:07:00.874723+00:00
- - date_dead_since: 2026-04-23T06:29:46.757707+00:00
 
  ## NIH, Wuhan were working on monkeypox
  - [https://www.youtube.com/watch?v=4E6cD-VWhQY](https://www.youtube.com/watch?v=4E6cD-VWhQY)
