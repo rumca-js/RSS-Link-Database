@@ -3439,6 +3439,7 @@
  ## These Parents Built a School App. Then the City Called the Cops | WIRED UK
  - [https://www.wired.co.uk/article/sweden-stockholm-school-app-open-source](https://www.wired.co.uk/article/sweden-stockholm-school-app-open-source)
  - date_published: 2021-11-04T11:00:00+00:00
+ - date_dead_since: 2026-09-02T10:46:04.658011+00:00
 
  ## Letter confirms Wuhan lab’s COVID-19 leak was funded by US taxpayers
  - [https://nypost.com/2021/11/04/letter-confirms-wuhan-lab-virus-study-was-funded-by-taxpayers](https://nypost.com/2021/11/04/letter-confirms-wuhan-lab-virus-study-was-funded-by-taxpayers)
@@ -3456,6 +3457,7 @@
  ## What is AT&T doing at 1111340002?
  - [https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
  - date_published: 2021-11-06T08:07:19.990899+00:00
+ - date_dead_since: 2026-09-02T10:40:48.080417+00:00
 
  ## Most US States Suing to Stop Biden COVID-19 Vaxx Mandate
  - [https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T](https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T)
@@ -4276,7 +4278,6 @@
  ## Italian Courts Find Open Source Software Terms Enforceable | If This Be Treason
  - [http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable](http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable)
  - date_published: 2021-12-28T10:19:20.123970+00:00
- - date_dead_since: 2026-04-24T23:30:35.309550+00:00
 
  ## Brute-forcing 22 trillion parameters in AoC 2021-24
  - [https://www.mattkeeter.com/blog/2021-12-27-brute](https://www.mattkeeter.com/blog/2021-12-27-brute)

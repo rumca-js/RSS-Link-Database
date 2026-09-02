@@ -56,6 +56,7 @@
  - [https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom](https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom)
  - date_published: 2022-01-04T10:26:59+00:00
  - tags: ['censorship', 'christianophobia', 'facebook', 'feminism', 'hypocrisy', 'inequality']
+ - date_dead_since: 2026-09-01T20:50:28.088161+00:00
 
  ## Crypto is fully banned in China and 8 other countries | Fortune
  - [https://fortune.com/2022/01/04/crypto-banned-china-other-countries](https://fortune.com/2022/01/04/crypto-banned-china-other-countries)
@@ -633,6 +634,7 @@
  - [https://torontosun.com/news/national/gofundme-pulls-plug-on-fundraiser-for-ottawa-convoy-protesters](https://torontosun.com/news/national/gofundme-pulls-plug-on-fundraiser-for-ottawa-convoy-protesters)
  - date_published: 2022-02-04T20:49:21+00:00
  - tags: ['canada', 'covid', 'freedom convoy', 'gofundme']
+ - date_dead_since: 2026-09-01T12:05:47.448580+00:00
 
  ## Optimizing GoAWK with a bytecode compiler and virtual machine
  - [https://benhoyt.com/writings/goawk-compiler-vm](https://benhoyt.com/writings/goawk-compiler-vm)
@@ -716,6 +718,7 @@
  ## Why I Quit Shopify After Five Months | The Blog of Josh Simmons
  - [https://www.joshcsimmons.com/posts/why-i-quit-shopify](https://www.joshcsimmons.com/posts/why-i-quit-shopify)
  - date_published: 2022-02-07T18:38:06.692482+00:00
+ - date_dead_since: 2026-09-01T10:37:57.252328+00:00
 
  ## One machine can go pretty far if you build things properly
  - [https://rachelbythebay.com/w/2022/01/27/scale](https://rachelbythebay.com/w/2022/01/27/scale)

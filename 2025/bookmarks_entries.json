@@ -1861,7 +1861,7 @@
             "digital euro",
             "digital money"
         ],
-        "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/79ae87b30531e862f7cc4c36f4ace7a55d5d8d39-8256x5504.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/79ae87b30531e862f7cc4c36f4ace7a55d5d8d39-8256x5504.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
         "title": "ECB Targets October to Finish Digital Euro Preparation Phase",
         "vote": 0
     },
