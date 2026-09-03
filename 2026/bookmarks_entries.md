@@ -195,3 +195,8 @@
  - date_published: 2026-08-23T20:34:01.061722+00:00
  - tags: ['internet']
 
+ ## Making the internet boring
+ - [https://cemrehancavdar.com/2026/08/30/making-the-internet-boring](https://cemrehancavdar.com/2026/08/30/making-the-internet-boring)
+ - date_published: 2026-09-02T20:24:03.878106+00:00
+ - tags: ['personal']
+

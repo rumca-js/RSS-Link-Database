@@ -2364,6 +2364,7 @@
  - [https://chromeunboxed.com/windows-11-insider-preview-chrome-default-difficulties](https://chromeunboxed.com/windows-11-insider-preview-chrome-default-difficulties)
  - date_published: 2021-08-28T17:51:47+00:00
  - tags: ['dark design', 'windows']
+ - date_dead_since: 2026-09-03T00:01:42.094029+00:00
 
  ## 🏡 Neil's Place - DoomPhone
  - [https://neilbostian.github.io/#/doomphone](https://neilbostian.github.io/#/doomphone)
@@ -2607,6 +2608,7 @@
  ## Chris Corbett on Twitter: "Hey @StarbucksUK and @TrustArc if you get rid of the unnecessary timeouts there won't be any need for this processing "status". This only happens when you customise your privacy settings, can you explain that? Funny how some dark patterns are just accepted. https://t.co/qA231RjSeb" / Twitter
  - [https://twitter.com/pixelscript/status/1436664488913215490](https://twitter.com/pixelscript/status/1436664488913215490)
  - date_published: 2021-09-13T13:21:14.633058+00:00
+ - date_dead_since: 2026-09-02T22:06:20.630633+00:00
 
  ## The outdated machine hampering the fight against Covid-19 - BBC Future
  - [https://www.bbc.com/future/article/20210903-how-covid-19-could-finally-be-the-end-of-the-fax-machine](https://www.bbc.com/future/article/20210903-how-covid-19-could-finally-be-the-end-of-the-fax-machine)
@@ -2740,6 +2742,7 @@
  - [https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278)
  - date_published: 2021-09-23T06:58:09+00:00
  - tags: ['poland', 'prawo i sprawiedliwość', 'turow']
+ - date_dead_since: 2026-09-02T20:39:33.861659+00:00
 
  ## Scotland becomes first country in world to embed LGBT education in school curriculum | The Scotsman
  - [https://www.scotsman.com/news/politics/scotland-becomes-first-country-in-world-to-embed-lgbt-education-in-school-curriculum-3393389](https://www.scotsman.com/news/politics/scotland-becomes-first-country-in-world-to-embed-lgbt-education-in-school-curriculum-3393389)
@@ -2820,6 +2823,7 @@
  ## The BBC’s radical new data plan takes aim at Netflix | WIRED UK
  - [https://www.wired.co.uk/article/bbc-data-personalisation](https://www.wired.co.uk/article/bbc-data-personalisation)
  - date_published: 2021-09-29T05:00:00+00:00
+ - date_dead_since: 2026-09-02T16:46:40.320999+00:00
 
  ## My Wife Was Dying of Brain Cancer. My Boss at Amazon Told Me to Perform or Quit. – Mother Jones
  - [https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit](https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit)
@@ -2935,6 +2939,7 @@
  - [https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules](https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules)
  - date_published: 2021-10-06T12:04:50+00:00
  - tags: ['deplatform', 'tiktok', 'tim pool']
+ - date_dead_since: 2026-09-02T18:30:19.332754+00:00
 
  ## Canada imposes COVID-19 vaccine mandate on federal workers, transportation | Reuters
  - [https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06](https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06)

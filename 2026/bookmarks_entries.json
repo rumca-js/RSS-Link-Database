@@ -1159,5 +1159,33 @@
         "thumbnail": "https://i.ytimg.com/vi/tkUgOT22F5s/maxresdefault.jpg",
         "title": "A Web Revival: the Internet didn't die, you're just not on it",
         "vote": 1
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-09-02T20:23:24.267246+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-02T20:24:03.878106+00:00",
+        "description": "I once overrode my own website blocker for 444 minutes. After that I stopped relying on willpower and started making the internet boring: app deletions, LeechBlock, grayscale mode, and a custom userscript.",
+        "id": 6302345,
+        "language": "en",
+        "link": "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring",
+        "manual_status_code": 0,
+        "page_rating": 38,
+        "page_rating_contents": 90,
+        "page_rating_visits": 1,
+        "page_rating_votes": 10,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "personal"
+        ],
+        "thumbnail": null,
+        "title": "Making the internet boring",
+        "vote": 10
     }
 ]
