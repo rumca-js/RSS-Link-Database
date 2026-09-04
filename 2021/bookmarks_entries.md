@@ -1749,11 +1749,13 @@
  ## The NHS App has quietly become a vaccine passport | WIRED UK
  - [https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport](https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport)
  - date_published: 2021-07-21T05:00:00+00:00
+ - date_dead_since: 2026-09-03T10:26:15.334453+00:00
 
  ## The Ties That Bind: BlackRock and Biden — Nicollet Investment Management
  - [https://www.nicolletinvest.com/navigator/the-ties-that-bind-blackrock-and-biden](https://www.nicolletinvest.com/navigator/the-ties-that-bind-blackrock-and-biden)
  - date_published: 2021-07-21T07:13:09+00:00
  - tags: ['blackrock', 'corporatocracy', 'joe biden', 'manufacturing consent']
+ - date_dead_since: 2026-09-03T12:10:26.238200+00:00
 
  ## What Does an ESG Score Really Say About a Company?
  - [https://hbswk.hbs.edu/item/what-does-an-esg-score-really-say-about-a-company](https://hbswk.hbs.edu/item/what-does-an-esg-score-really-say-about-a-company)
