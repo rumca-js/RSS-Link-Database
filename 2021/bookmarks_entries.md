@@ -1427,6 +1427,7 @@
  - [https://european-pirateparty.eu/parliament-approves-chatcontrol](https://european-pirateparty.eu/parliament-approves-chatcontrol)
  - date_published: 2021-07-06T12:55:03+00:00
  - tags: ['chat control', 'government control', 'privacy', 'surveillance']
+ - date_dead_since: 2026-09-04T12:21:00.997090+00:00
 
  ## How to Become a Master at Talking to Strangers
  - [https://www.entrepreneur.com/article/375641](https://www.entrepreneur.com/article/375641)
