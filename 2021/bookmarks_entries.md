@@ -233,6 +233,7 @@
  - [https://tekdeeps.com/bill-gates-will-spray-chemicals-in-the-atmosphere-in-june-using-thousands-of-planes-neews](https://tekdeeps.com/bill-gates-will-spray-chemicals-in-the-atmosphere-in-june-using-thousands-of-planes-neews)
  - date_published: 2021-01-29T12:54:21+00:00
  - tags: ['atmosphere', 'bill gates', 'climate change', 'sun-dimming']
+ - date_dead_since: 2026-09-05T14:12:02.280555+00:00
 
  ## Rząd nowelizuje ustawę o cyberbezpieczeństwie. Będzie mógł wyłączać serwisy internetowe bez uzasadnienia
  - [https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg](https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg)
@@ -693,6 +694,7 @@
  - [https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana](https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana)
  - date_published: 2021-04-13T14:07:37+00:00
  - tags: ['covid', 'israel', 'mrna', 'pfizer', 'vaccine']
+ - date_dead_since: 2026-09-05T13:20:02.125838+00:00
 
  ## CNN director shown on undercover video boasting about removing Trump from office and admitting to spreading propaganda | Washington Examiner
  - [https://www.washingtonexaminer.com/news/cnn-director-boasts-removing-trump-from-office-spreading-propaganda](https://www.washingtonexaminer.com/news/cnn-director-boasts-removing-trump-from-office-spreading-propaganda)
