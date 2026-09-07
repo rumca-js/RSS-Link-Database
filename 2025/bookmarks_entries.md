@@ -653,6 +653,7 @@
  - [http://privacyinternational.org/news-analysis/5635/revealed-skyrocketing-scale-uk-polices-secret-facial-recognition-searches](http://privacyinternational.org/news-analysis/5635/revealed-skyrocketing-scale-uk-polices-secret-facial-recognition-searches)
  - date_published: 2025-08-12T14:41:31.864986+00:00
  - tags: ['privacy', 'surveillance']
+ - date_dead_since: 2026-09-06T14:44:08.802883+00:00
 
  ## More Than Two Dozen People Linked to Jeffrey Epstein Have Died Under Mysterious Circumstances
  - [https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances](https://nationalenquirer.com/more-than-two-dozen-people-linked-to-jeffrey-epstein-have-died-under-mysterious-circumstances)

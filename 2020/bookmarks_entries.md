@@ -1475,7 +1475,6 @@
  - [https://news.trust.org/item/20201110191107-tecjt](https://news.trust.org/item/20201110191107-tecjt)
  - date_published: 2020-11-10T22:01:46+00:00
  - tags: ['censorship', 'hate speech', 'lgbt', 'norway', 'the left wing', 'transgender']
- - date_dead_since: 2026-04-29T21:10:29.347489+00:00
 
  ## Prezes Pfizera sprzedał swoje akcje w dniu ogłoszenia sukcesu badań nad szczepionką. Zarobił 5,6 mln dol.
  - [https://businessinsider.com.pl/wiadomosci/prezes-pfizera-sprzedal-swoje-akcje-w-dniu-ogloszenia-sukcesu-badan-nad-szczepionka/y1ccgzn](https://businessinsider.com.pl/wiadomosci/prezes-pfizera-sprzedal-swoje-akcje-w-dniu-ogloszenia-sukcesu-badan-nad-szczepionka/y1ccgzn)
