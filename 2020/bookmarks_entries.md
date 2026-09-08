@@ -1175,6 +1175,7 @@
  - [https://wco.pl/2020/09/09/rak-jest-grozniejszy-niz-koronawirus](https://wco.pl/2020/09/09/rak-jest-grozniejszy-niz-koronawirus)
  - date_published: 2020-09-09T07:03:20+00:00
  - tags: ['cancer', 'covid']
+ - date_dead_since: 2026-09-07T06:00:03.591120+00:00
 
  ## Oscars' woke quota will backfire on Hollywood spectacularly
  - [https://nypost.com/2020/09/09/oscars-woke-quota-will-backfire-on-hollywood-spectacularly](https://nypost.com/2020/09/09/oscars-woke-quota-will-backfire-on-hollywood-spectacularly)
@@ -1312,6 +1313,7 @@
  - [https://www.independent.ie/world-news/coronavirus/i-lost-my-job-for-speaking-out-but-i-have-no-regrets-dr-martin-feeley-on-his-coronavirus-views-39585808.html](https://www.independent.ie/world-news/coronavirus/i-lost-my-job-for-speaking-out-but-i-have-no-regrets-dr-martin-feeley-on-his-coronavirus-views-39585808.html)
  - date_published: 2020-10-04T07:26:41+00:00
  - tags: ['covid', 'freedom']
+ - date_dead_since: 2026-09-07T02:19:39.307160+00:00
 
  ## Artykuł o „Margot” na Wikipedii z najwyższym poziomem ochrony. Tylko nieliczni mogą zmieniać treść
  - [https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej](https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej)

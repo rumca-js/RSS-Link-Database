@@ -200,3 +200,8 @@
  - date_published: 2026-09-02T20:24:03.878106+00:00
  - tags: ['personal']
 
+ ## LG smart TVs caught logging audio with screen off and snooping on local devices
+ - [https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html)
+ - date_published: 2026-09-07T07:03:20+00:00
+ - tags: ['privacy', 'surveillance']
+

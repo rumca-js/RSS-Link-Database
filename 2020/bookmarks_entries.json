@@ -3040,7 +3040,7 @@
         "tags": [
             "covid"
         ],
-        "thumbnail": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/bltf82a97950f28a39c/698a0e7f096a94ed246a8313/social-distancing-circles.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
+        "thumbnail": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf82a97950f28a39c/698a0e7f096a94ed246a8313/social-distancing-circles.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
         "title": "Study: Up to 80% of COVID-19 Infections Are Asymptomatic | Time",
         "vote": 0
     },
@@ -3098,7 +3098,7 @@
             "poland",
             "tests"
         ],
-        "thumbnail": "https://i.iplsc.com/-/000A5L3PDT41VAS6-C316.jpg",
+        "thumbnail": "https://rmf24.rmffm.pl/attachments/000A5L3PDT41VAS6-C0.jpg",
         "title": "Onet: Polski rz\u0105d przep\u0142aca\u0142 za testy na koronawirusa z Turcji - RMF 24",
         "vote": 0
     },
@@ -4118,7 +4118,7 @@
             "surveillance",
             "tracking"
         ],
-        "thumbnail": "https://regmedia.co.uk/2020/02/05/shutterstock_google_chrome.jpg",
+        "thumbnail": "https://image.theregister.com/257474.jpg?imageId=257474&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "We're suing Google for harvesting our personal info even though we opted out of Chrome sync \u2013 netizens \u2022 The Register",
         "vote": 0
     },
@@ -4534,8 +4534,8 @@
         "language": "en-US",
         "link": "https://supersoldiertalk.com/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all",
         "manual_status_code": 0,
-        "page_rating": 31,
-        "page_rating_contents": 88,
+        "page_rating": 32,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -4546,7 +4546,7 @@
             "jeffrey epstein",
             "unverified"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://cdn.xoilaclivettbdd.tv/wp-content/uploads/2025/05/xoilactv_share_social_image.jpg",
         "title": "Confessions Of A Dead Man: Personal Driver Of Jeffrey Epstein And Other Elites Tells All",
         "vote": 0
     },
@@ -5118,7 +5118,7 @@
             "masks",
             "propaganda"
         ],
-        "thumbnail": "https://images.theconversation.com/files/348541/original/file-20200721-37-1yttydi.jpg?ixlib=rb-4.1.0&rect=47%2C173%2C5264%2C2632&q=45&auto=format&w=1356&h=668&fit=crop",
+        "thumbnail": "https://images.theconversation.com/files/348541/original/file-20200721-37-1yttydi.jpg?ixlib=rb-4.1.1&rect=47%2C173%2C5264%2C2632&q=45&auto=format&w=1356&h=668&fit=crop",
         "title": "A $200 fine for not wearing a mask is fair, as long as free masks go to those in need",
         "vote": 0
     },
@@ -5502,8 +5502,8 @@
         "language": "en-EN",
         "link": "https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 9,
+        "page_rating_contents": 20,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -5973,7 +5973,7 @@
             "racism",
             "the left wing"
         ],
-        "thumbnail": "https://media.townhall.com/townhall/reu/ha/2019/284/b798f6b4-0d82-4bb4-b701-ef62ac3a2327.png",
+        "thumbnail": "https://media.townhall.com/townhall/reu/ha/2019/284/b798f6b4-0d82-4bb4-b701-ef62ac3a2327-1200x630.png",
         "title": "Public School Teachers Openly Fear Parents Overhearing the Leftist Brainwashing During Virtual Classroom Sessions \u2013 RedState",
         "vote": 0
     },
@@ -6111,8 +6111,8 @@
         "language": "en-US",
         "link": "https://twitter.com/realchrisrufo/status/1293603172842221570",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 32,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -6124,7 +6124,7 @@
             "indoctrination",
             "propaganda"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://pbs.twimg.com/profile_images/1971986671928541184/nwHqdQB0_400x400.jpg",
         "title": "The federal government's premier nuclear research lab hosted a 3-day reeducation camp for white males",
         "vote": 0
     },
@@ -6447,7 +6447,7 @@
         "link": "https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -6458,7 +6458,7 @@
             "facebook",
             "fact check"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2020/08/gates-foundation-facebook-fact-checker.jpeg",
+        "thumbnail": "https://media.reclaimthenet.org/2020/08/gates-foundation-facebook-fact-checker.jpeg",
         "title": "Gates Foundation funds Facebook fact-checkers that defend it from allegations",
         "vote": 0
     },
@@ -6488,7 +6488,7 @@
             "linux",
             "security"
         ],
-        "thumbnail": "https://www.zdnet.com/a/img/resize/22782afb6105ac76b55c49a216b186c8f08bbb08/2019/02/04/4b3d2fed-274e-4be0-a8ec-63424591f976/linux-windows-and-security-fud.png?auto=webp&fit=crop&height=675&width=1200",
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/linux-windows-and-security-fud.png",
         "title": "Enough with the Linux security FUD",
         "vote": 0
     },
@@ -6517,7 +6517,7 @@
             "covid",
             "lab leak"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Wuhan_Institute_of_Virology_main_entrance.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Wuhan_Institute_of_Virology_main_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
         "title": "COVID-19 lab leak theory",
         "vote": 0
     },
@@ -6566,7 +6566,7 @@
         "link": "https://reclaimthenet.org/google-bans-lbry",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -6578,7 +6578,7 @@
             "monopoly",
             "play store"
         ],
-        "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2020/09/google-play-bans-lbry-android-app.jpeg",
+        "thumbnail": "https://media.reclaimthenet.org/2020/09/google-play-bans-lbry-android-app.jpeg",
         "title": "Google stifles growing YouTube competitor LBRY by banning it from Play Store for pedantic reasons",
         "vote": 0
     },
@@ -7049,20 +7049,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:59:53.505641+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-09-07T06:00:03.591120+00:00",
         "date_published": "2020-09-09T07:03:20+00:00",
         "description": "Jak podaje Polska Liga Walki z Rakiem, po wybuchu pandemii COVID-19, w obawie przed kontaktem ze s\u0142u\u017cb\u0105 zdrowia i r\u00f3wnoczesnym l\u0119kiem przed zara\u017ceniem koronawirusem wiele os\u00f3b, mimo niepokoj\u0105cych objaw\u00f3w, zrezygnowa\u0142o z wizyty u lekarza. Specjali\u015bci wielu dziedzin, zw\u0142aszcza onkolodzy apeluj\u0105 do Polak\u00f3w, by strach przed zaka\u017ceniem koronawirusem nie by\u0142 silniejszy ni\u017c g\u0142os rozs\u0105dku, bo",
         "id": 40101,
         "language": "en-gb",
         "link": "https://wco.pl/2020/09/09/rak-jest-grozniejszy-niz-koronawirus",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "wco.pl",
-        "status_code": 200,
+        "status_code": 404,
         "tags": [
             "cancer",
             "covid"
@@ -7492,7 +7492,7 @@
             "co2",
             "global warming"
         ],
-        "thumbnail": "https://gumlet.assettype.com/down-to-earth%2Fimport%2Flibrary%2Flarge%2F2020-09-23%2F0.66177100_1600854991_october_comparisun.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "thumbnail": "https://cf-images.assettype.com/down-to-earth%2Fimport%2Flibrary%2Flarge%2F2020-09-23%2F0.66177100_1600854991_october_comparisun.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
         "title": "Cold comfort: The sun is cooling; doesn't mean there'll be no global warming",
         "vote": 0
     },
@@ -7698,7 +7698,7 @@
             "islam",
             "religion"
         ],
-        "thumbnail": "https://i.iplsc.com/-/000AJBGXV1LWPV9N-C316.jpg",
+        "thumbnail": "https://rmf24.rmffm.pl/attachments/000AJBGY8UJ7FI9S-C0.png",
         "title": "Islamski terrorysta wy\u0142udzi\u0142 100 tys. euro od francuskiego pa\u0144stwa - RMF 24",
         "vote": 0
     },
@@ -7887,20 +7887,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:59:52.245055+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-09-07T02:19:39.307160+00:00",
         "date_published": "2020-10-04T07:26:41+00:00",
         "description": "Dr Martin Feeley changed the course of the national conversation when he said we'd lost perspective on the threat of the virus and needed to take a different approach at this stage of the pandemic. The brutal social and economic costs are outweighing the public health benefits, he believes.",
         "id": 40078,
         "language": "en",
         "link": "https://www.independent.ie/world-news/coronavirus/i-lost-my-job-for-speaking-out-but-i-have-no-regrets-dr-martin-feeley-on-his-coronavirus-views-39585808.html",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "www.independent.ie",
-        "status_code": 200,
+        "status_code": 404,
         "tags": [
             "covid",
             "freedom"
