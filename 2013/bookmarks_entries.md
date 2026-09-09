@@ -1,7 +1,7 @@
  ## Aaron Swartz: hacker, genius… martyr?
  - [https://www.theguardian.com/technology/2013/jun/02/aaron-swartz-hacker-genius-martyr-girlfriend-interview](https://www.theguardian.com/technology/2013/jun/02/aaron-swartz-hacker-genius-martyr-girlfriend-interview)
  - date_published: 2013-01-02T10:29:46+00:00
- - tags: ['aaron swartz']
+ - tags: ['aaron swartz', 'piracy']
 
  ## Unix philosophy
  - [https://en.wikipedia.org/wiki/Unix_philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
@@ -11,7 +11,7 @@
  ## Internet Activist, a Creator of RSS, Is Dead at 26, Apparently a Suicide
  - [https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html](https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html)
  - date_published: 2013-01-12T10:28:59+00:00
- - tags: ['aaron swartz', 'rss']
+ - tags: ['aaron swartz', 'piracy', 'rss']
 
  ## Francuski dziennik „Le Figaro” opublikował wyznania mężczyzny wychowanego przez dwie lesbijki. Ukazują one osobisty i intymny dramat człowieka liczącego dzisiaj 66 lat.
  - [https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze](https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze)
@@ -31,12 +31,12 @@
  ## The inside story of Aaron Swartz’s campaign to liberate court filings | Ars Technica
  - [https://arstechnica.com/tech-policy/2013/02/the-inside-story-of-aaron-swartzs-campaign-to-liberate-court-filings/2](https://arstechnica.com/tech-policy/2013/02/the-inside-story-of-aaron-swartzs-campaign-to-liberate-court-filings/2)
  - date_published: 2013-02-08T10:04:44+00:00
- - tags: ['aaron swartz', 'pacer']
+ - tags: ['aaron swartz', 'pacer', 'piracy']
 
  ## Aaron Swartz's battle to free the PACER legal document database - The Verge
  - [https://www.theverge.com/2013/2/8/3968824/aaron-swartzs-battle-to-free-the-pacer-legal-document-database](https://www.theverge.com/2013/2/8/3968824/aaron-swartzs-battle-to-free-the-pacer-legal-document-database)
  - date_published: 2013-02-09T00:34:17+00:00
- - tags: ['aaron swartz', 'pacer']
+ - tags: ['aaron swartz', 'pacer', 'piracy']
 
  ## Google Play Store policy raises privacy concerns
  - [https://www.gadgets360.com/apps/news/google-play-store-policy-raises-privacy-concerns-331116](https://www.gadgets360.com/apps/news/google-play-store-policy-raises-privacy-concerns-331116)
@@ -196,7 +196,7 @@
  ## MIT releases report on its actions in the Aaron Swartz case
  - [https://news.mit.edu/2013/mit-releases-swartz-report-0730](https://news.mit.edu/2013/mit-releases-swartz-report-0730)
  - date_published: 2013-07-30T10:30:37+00:00
- - tags: ['aaron swartz']
+ - tags: ['aaron swartz', 'piracy']
 
  ## Pfizer zapłaci 491 mld dolarów kary - rp.pl
  - [https://www.rp.pl/biznes/art12941831-pfizer-zaplaci-491-mld-dolarow-kary](https://www.rp.pl/biznes/art12941831-pfizer-zaplaci-491-mld-dolarow-kary)

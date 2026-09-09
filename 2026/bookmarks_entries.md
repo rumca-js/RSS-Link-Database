@@ -141,6 +141,11 @@
  - date_published: 2026-06-14T20:00:13+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot
+ - [https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63)
+ - date_published: 2026-06-21T18:01:26+00:00
+ - tags: ['piracy']
+
  ## Digital ID + CBDCs: The Infrastructure Behind Agenda 2030? | Whitney Webb
  - [https://www.youtube.com/watch?v=1P9S-jzktOE](https://www.youtube.com/watch?v=1P9S-jzktOE)
  - date_published: 2026-06-29T11:15:30.706924+00:00

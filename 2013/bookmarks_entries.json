@@ -13,19 +13,20 @@
         "language": "en-US",
         "link": "https://www.theguardian.com/technology/2013/jun/02/aaron-swartz-hacker-genius-martyr-girlfriend-interview",
         "manual_status_code": 0,
-        "page_rating": 30,
+        "page_rating": 37,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
+        "page_rating_visits": 1,
+        "page_rating_votes": 10,
         "permanent": false,
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "aaron swartz"
+            "aaron swartz",
+            "piracy"
         ],
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/5/29/1369827994288/Aaron-Swartz-internet-act-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMTMucG5n&enable=upscale&s=058020bdfba55d78e2aa660df365d41b",
         "title": "Aaron Swartz: hacker, genius\u2026 martyr?",
-        "vote": 0
+        "vote": 10
     },
     {
         "age": null,
@@ -73,13 +74,14 @@
         "manual_status_code": 0,
         "page_rating": 16,
         "page_rating_contents": 40,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
         "status_code": 614,
         "tags": [
             "aaron swartz",
+            "piracy",
             "rss"
         ],
         "thumbnail": "https://static01.nyt.com/images/2013/01/13/us/SWARTZ/SWARTZ-articleLarge.jpg?year=2013&h=407&w=600&s=feccc14329bc88b6e41bce6f20b19ab1bba848dd4f5912ef0ac9be86e62641b7&k=ZQJBKqZ0VN",
@@ -189,14 +191,15 @@
         "manual_status_code": 0,
         "page_rating": 32,
         "page_rating_contents": 91,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
             "aaron swartz",
-            "pacer"
+            "pacer",
+            "piracy"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2013/02/aaron-wall.jpg",
         "title": "The inside story of Aaron Swartz\u2019s campaign to liberate court filings | Ars Technica",
@@ -218,14 +221,15 @@
         "manual_status_code": 0,
         "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
             "aaron swartz",
-            "pacer"
+            "pacer",
+            "piracy"
         ],
         "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14231709/Swartz_Memorial_Program_-_Verge.1419979270.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
         "title": "Aaron Swartz's battle to free the PACER legal document database - The Verge",
@@ -1194,13 +1198,14 @@
         "manual_status_code": 0,
         "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://news.mit.edu",
         "status_code": 200,
         "tags": [
-            "aaron swartz"
+            "aaron swartz",
+            "piracy"
         ],
         "thumbnail": "https://news.mit.edu/sites/default/files/images/201307/20130730152451-0.jpg",
         "title": "MIT releases report on its actions in the Aaron Swartz case",

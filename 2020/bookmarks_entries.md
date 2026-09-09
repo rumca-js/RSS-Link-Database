@@ -385,6 +385,7 @@
  - [https://www.newswars.com/leaked-amazon-whole-foods-docs-workforce-diversity-helps-prevent-unions](https://www.newswars.com/leaked-amazon-whole-foods-docs-workforce-diversity-helps-prevent-unions)
  - date_published: 2020-04-24T06:12:13+00:00
  - tags: ['corporatocracy', 'diversity', 'hypocrisy', 'inclusion']
+ - date_dead_since: 2026-09-08T04:49:33.985791+00:00
 
  ## Zbigniew Brzeziński Obawia się Globalnego Przebudzenia
  - [https://bomega.pl/zbigniew-brzezinski-obawia-sie-globalnego-przebudzenia-konferencja-cfr](https://bomega.pl/zbigniew-brzezinski-obawia-sie-globalnego-przebudzenia-konferencja-cfr)

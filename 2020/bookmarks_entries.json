@@ -53,7 +53,7 @@
             "linus torvalds",
             "linux"
         ],
-        "thumbnail": "https://regmedia.co.uk/2016/12/13/termina_text.jpg",
+        "thumbnail": "https://image.theregister.com/229359.jpg?imageId=229359&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
         "title": "80-characters-per-line limits should be terminal, says Linux kernel chief Linus Torvalds",
         "vote": 0
     },
@@ -129,13 +129,13 @@
         "language": "en",
         "link": "https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.forbes.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "esg",
             "stakeholder capitalism",
@@ -231,7 +231,7 @@
             "avast",
             "privacy"
         ],
-        "thumbnail": "https://www.cnet.com/a/img/resize/409feb6e6f636b255068ef85c02446ce2d5141d8/hub/2019/01/22/9ea88367-cff2-4836-aaa0-9bc4cfc1a96c/data-privacy-security-hackers-hacking-0984.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/9ea88367-cff2-4836-aaa0-9bc4cfc1a96c.jpg",
         "title": "Antivirus firm Avast is reportedly selling users' web browsing data - CNET",
         "vote": 0
     },
@@ -923,13 +923,13 @@
         "language": "en",
         "link": "https://www.forbes.com/sites/johnscottlewinski/2020/02/07/uk-doctor-uses-youtube-to-treat-panic-of-coronavirus-myths",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.forbes.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "covid",
             "dr. john campbell"
@@ -1095,7 +1095,7 @@
             "linux",
             "misinformation"
         ],
-        "thumbnail": "https://www.zdnet.com/a/img/resize/2887618877b417eb021d82d682bb2442002f9d5e/2020/02/14/8e02a657-7199-408e-a649-3e175e123ac0/screenshot-2020-02-14-at-14-23-07.png?auto=webp&fit=crop&height=675&width=1200",
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2020-02-14-at-14-23-07.png",
         "title": "UK police deny responsibility for poster urging parents to report kids for using Kali Linux | ZDNET",
         "vote": 0
     },
@@ -1300,7 +1300,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://humansbefree.com",
-        "status_code": 404,
+        "status_code": 603,
         "tags": [
             "paedophilia",
             "peter nygard",
@@ -1416,7 +1416,7 @@
         "link": "https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497",
         "manual_status_code": 0,
         "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating_contents": 85,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -1635,7 +1635,7 @@
             "climate change",
             "desmog"
         ],
-        "thumbnail": "https://www.influencewatch.org/wp-content/uploads/2026/04/sharing_image.png",
+        "thumbnail": "https://www.influencewatch.org/wp-content/uploads/2026/05/IW_Preview-Image_dark_3.jpg",
         "title": "DeSmog - InfluenceWatch",
         "vote": 0
     },
@@ -2305,20 +2305,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:00.416768+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-09-08T04:49:33.985791+00:00",
         "date_published": "2020-04-24T06:12:13+00:00",
         "description": "Leaked Amazon Whole Foods Docs: Workforce Diversity Helps Prevent Unions \u2013 NewsWars",
         "id": 40228,
         "language": "en-US",
         "link": "https://www.newswars.com/leaked-amazon-whole-foods-docs-workforce-diversity-helps-prevent-unions",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.newswars.com",
-        "status_code": 403,
+        "status_code": 603,
         "tags": [
             "corporatocracy",
             "diversity",
@@ -2387,7 +2387,7 @@
             "covid",
             "wuhan"
         ],
-        "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/1585372-fauci-trump-corornavirus-covid-19-pandemic-research-nih.jpg?w=1200crop=1",
+        "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/1585372-fauci-trump-corornavirus-covid-19-pandemic-research-nih.jpg?w=1200&crop=1",
         "title": "Dr. Fauci Backed Controversial Wuhan Lab with U.S. Dollars for Risky Coronavirus Research",
         "vote": 0
     },
@@ -2479,7 +2479,7 @@
             "tracking",
             "xiaomi"
         ],
-        "thumbnail": "https://cdn.benchmark.pl/uploads/article/75586/MODERNICON/7889ad837fcc7d9aedd668a5ebcbbb146f5ca634.jpg",
+        "thumbnail": "https://v.wpimg.pl/MWRlNzgyYjYzDjhJSAJvI3BWbBMOW2F1J050WEhIe2ViFH9KV0liMTsAKwgCCSJ5NR47CgYOPXkiAGEbFxBiIWNDKhMUCSE2K0MrFwUcKXg3WXtNBUh5M39deUNQVHlvZVRjQlZIdHpnVXZNVkgpMmVUfExFBA",
         "title": "Jest afera. Ka\u017cdy smartfon Xiaomi to podobno \u201ebackdoor z funkcjonalno\u015bci\u0105 telefonu\u201d",
         "vote": 0
     },
@@ -2734,13 +2734,13 @@
         "language": "en",
         "link": "https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.forbes.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "cbdc",
             "visa"

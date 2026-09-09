@@ -367,6 +367,11 @@
  - date_published: 2025-03-16T10:00:14+00:00
  - tags: ['covid', 'lab leak', 'wuhan']
 
+ ## Meta's Massive AI Training Book Heist: What Authors Need to Know
+ - [https://authorsguild.org/news/meta-libgen-ai-training-book-heist-what-authors-need-to-know](https://authorsguild.org/news/meta-libgen-ai-training-book-heist-what-authors-need-to-know)
+ - date_published: 2025-03-20T20:33:24+00:00
+ - tags: ['piracy']
+
  ## Europe’s 90% climate target for 2040 under pressure as delays add up - Euractiv
  - [https://www.euractiv.com/section/eet/news/europes-90-climate-target-for-2040-under-pressure-as-delays-add-up](https://www.euractiv.com/section/eet/news/europes-90-climate-target-for-2040-under-pressure-as-delays-add-up)
  - date_published: 2025-03-21T06:00:25+00:00
@@ -391,6 +396,11 @@
  - [https://brusselssignal.eu/2025/04/ec-admits-misuse-and-undue-lobbying-activities-in-grant-awards](https://brusselssignal.eu/2025/04/ec-admits-misuse-and-undue-lobbying-activities-in-grant-awards)
  - date_published: 2025-04-02T14:32:18+00:00
  - tags: ['climate change', 'lobbying']
+
+ ## ‘Meta has stolen books’: authors to protest in London against AI trained using ‘shadow library’
+ - [https://www.theguardian.com/books/2025/apr/03/meta-has-stolen-books-authors-to-protest-in-london-against-ai-trained-using-shadow-library](https://www.theguardian.com/books/2025/apr/03/meta-has-stolen-books-authors-to-protest-in-london-against-ai-trained-using-shadow-library)
+ - date_published: 2025-04-03T20:33:07+00:00
+ - tags: ['piracy']
 
  ## Lazarus Group Targets Organizations with Sophisticated LinkedIn Recruiting Scam
  - [https://www.bitdefender.com/en-us/blog/labs/lazarus-group-targets-organizations-with-sophisticated-linkedin-recruiting-scam](https://www.bitdefender.com/en-us/blog/labs/lazarus-group-targets-organizations-with-sophisticated-linkedin-recruiting-scam)

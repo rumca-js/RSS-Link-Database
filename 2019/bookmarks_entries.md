@@ -624,6 +624,7 @@
  - [https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi](https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi)
  - date_published: 2019-08-24T13:09:09+00:00
  - tags: ['big brother', 'biometric', 'corporatocracy', 'facial recognition', 'france', 'government control', 'surveillance']
+ - date_dead_since: 2026-09-09T00:59:52.762278+00:00
 
  ## SWEDISH PR GURU RAISED MILLIONS BY HELPING MAKE GRETA THUNBERG A CLIMATE CELEBRITY
  - [https://pluralist.com/ingmar-rentzhog-greta-thunberg](https://pluralist.com/ingmar-rentzhog-greta-thunberg)
@@ -824,6 +825,7 @@
  - [https://www.centerforhealthsecurity.org/our-work/exercises/event201](https://www.centerforhealthsecurity.org/our-work/exercises/event201)
  - date_published: 2019-10-18T07:29:13+00:00
  - tags: ['bill gates', 'covid', 'event 201', 'pandemic']
+ - date_dead_since: 2026-09-08T19:47:40.523939+00:00
 
  ## What Hunter Biden did on the board of Ukrainian energy company Burisma
  - [https://www.reuters.com/article/world/us-politics/what-hunter-biden-did-on-the-board-of-ukrainian-energy-company-burisma-idUSKBN1WX1P6](https://www.reuters.com/article/world/us-politics/what-hunter-biden-did-on-the-board-of-ukrainian-energy-company-burisma-idUSKBN1WX1P6)
