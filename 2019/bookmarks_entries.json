@@ -113,7 +113,7 @@
             "c++",
             "programming"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png",
+        "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
         "title": "Criticism of C++",
         "vote": 0
     },
@@ -586,13 +586,13 @@
         "language": "en",
         "link": "https://www.thestreet.com/investing/google-pays-apple-billions-to-be-default-search-engine-14865683",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.thestreet.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "apple",
             "google",
@@ -859,13 +859,13 @@
         "language": "en-US",
         "link": "https://www.quora.com/Why-does-Google-limit-results-to-only-like-30-pages-even-for-very-popular-search-terms?share=1",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.quora.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "search engines"
         ],
@@ -1163,8 +1163,8 @@
         "language": "en-EN",
         "link": "https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 9,
+        "page_rating_contents": 20,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -1348,13 +1348,13 @@
         "language": "en",
         "link": "https://www.forbes.com/sites/emmawoollacott/2019/04/16/amazons-fake-review-problem-is-getting-worse",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.forbes.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "amazon"
         ],
@@ -2093,13 +2093,13 @@
         "language": "en",
         "link": "https://www.economist.com/graphic-detail/2019/06/08/google-rewards-reputable-reporting-not-left-wing-politics",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.economist.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "algorithms",
             "search engines"
@@ -2152,13 +2152,13 @@
         "language": "en",
         "link": "https://www.forbes.com/sites/niallmccarthy/2019/06/13/report-the-u-s-military-emits-more-co2-than-many-industrialized-nations-infographic/?sh=678b045e4372",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.forbes.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "carbon emissions",
             "carbon footprint",
@@ -2315,7 +2315,7 @@
             "facebook",
             "google"
         ],
-        "thumbnail": "https://images.theconversation.com/files/280521/original/file-20190620-149847-1nj4b4q.jpg?ixlib=rb-4.1.0&rect=0%2C260%2C3000%2C1499&q=45&auto=format&w=1356&h=668&fit=crop",
+        "thumbnail": "https://images.theconversation.com/files/280521/original/file-20190620-149847-1nj4b4q.jpg?ixlib=rb-4.1.1&rect=0%2C260%2C3000%2C1499&q=45&auto=format&w=1356&h=668&fit=crop",
         "title": "Amazon, Google and Facebook warrant antitrust scrutiny for many reasons \u2013 not just because they're large",
         "vote": 0
     },
@@ -2457,7 +2457,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.ncbi.nlm.nih.gov",
-        "status_code": 200,
+        "status_code": 203,
         "tags": [
             "eatingbugs"
         ],
@@ -2610,7 +2610,7 @@
             "jeffrey epstein",
             "kubrick"
         ],
-        "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/1511972-kubrick-eyes-wide-shut-epstein.jpg?w=1200crop=1",
+        "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/1511972-kubrick-eyes-wide-shut-epstein.jpg?w=1200&crop=1",
         "title": "In 'Eyes Wide Shut' Stanley Kubrick Captured Horrors of Jeffrey Epstein Era",
         "vote": 0
     },
@@ -3260,7 +3260,7 @@
         "tags": [
             "electric vehicles"
         ],
-        "thumbnail": "https://www.woodmac.com/siteassets/photography---industry/power--renewables/woodmac_electric_004.jpg?width=800&height=480&rmode=crop&rxy=0.5,0.5",
+        "thumbnail": "https://www.woodmac.com/cdn-cgi/image/width=800,height=480,fit=cover,gravity=auto,quality=70,format=auto/https://www.woodmac.com/siteassets/photography---industry/power--renewables/woodmac_electric_004.jpg",
         "title": "Copper: Powering Up The Electric Vehicle | Wood Mackenzie",
         "vote": 0
     },
