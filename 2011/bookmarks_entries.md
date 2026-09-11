@@ -53,6 +53,11 @@
  - date_published: 2011-07-02T06:59:32+00:00
  - tags: ['big pharma', 'the lancet']
 
+ ## A near-disaster at a federal nuclear weapons laboratory takes a hidden toll on America's arsenal
+ - [https://www.science.org/content/article/near-disaster-federal-nuclear-weapons-laboratory-takes-hidden-toll-america-s-arsenal](https://www.science.org/content/article/near-disaster-federal-nuclear-weapons-laboratory-takes-hidden-toll-america-s-arsenal)
+ - date_published: 2011-08-11T01:54:43+00:00
+ - tags: ['nuclear']
+
  ## Pfizer: Nigeria drug trial victims get compensation
  - [https://www.bbc.com/news/world-africa-14493277](https://www.bbc.com/news/world-africa-14493277)
  - date_published: 2011-08-11T20:58:19+00:00

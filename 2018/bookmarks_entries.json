@@ -2738,8 +2738,8 @@
         "language": "en-US",
         "link": "https://www.dailymail.co.uk/sciencetech/article-5916671/Your-smartphone-NOT-listening-does-record-video-do.html",
         "manual_status_code": 0,
-        "page_rating": 13,
-        "page_rating_contents": 33,
+        "page_rating": 9,
+        "page_rating_contents": 20,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -3439,7 +3439,7 @@
             "pfizer",
             "vaccine"
         ],
-        "thumbnail": "https://s7d1.scene7.com/is/image/CENODS/09635-cover-mrna:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp",
+        "thumbnail": "https://s7d1.scene7.com/is/image/CENODS/09635-cover-mrna:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
         "title": "Can mRNA disrupt the drug industry?",
         "vote": 0
     },
