@@ -339,6 +339,7 @@
  - [https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc](https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc)
  - date_published: 2017-08-05T08:54:59+00:00
  - tags: ['big brother', 'children', 'sweden']
+ - date_dead_since: 2026-09-11T16:16:26.691192+00:00
 
  ## How big brands including Sports Direct unwittingly used slave labour
  - [https://www.theguardian.com/global-development/2017/aug/08/how-big-brands-including-sports-direct-unwittingly-used-slave-labour](https://www.theguardian.com/global-development/2017/aug/08/how-big-brands-including-sports-direct-unwittingly-used-slave-labour)

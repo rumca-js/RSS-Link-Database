@@ -73,6 +73,7 @@
  - [https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun](https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun)
  - date_published: 2018-02-02T08:13:20+00:00
  - tags: ['newspeak', 'pronouns', 'the left wing']
+ - date_dead_since: 2026-09-11T09:43:50.339460+00:00
 
  ## Why Paper Jams Persist | The New Yorker
  - [https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist](https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist)

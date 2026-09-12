@@ -85,7 +85,7 @@
             "design patterns",
             "programming"
         ],
-        "thumbnail": "https://blog.ndepend.com/wp-content/uploads/Null-Is-Evil.-Whats-the-Best-Alternative-Null.png",
+        "thumbnail": "https://blog.ndepend.com/wp-content/uploads/charpe-nullable-types-explained.png",
         "title": "Null Is Evil. What\u2019s the Best Alternative? Null.",
         "vote": 0
     },
@@ -355,7 +355,7 @@
             "corporatocracy",
             "tencent"
         ],
-        "thumbnail": "https://images.theconversation.com/files/202419/original/file-20180118-158541-141pfeo.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+        "thumbnail": "https://images.theconversation.com/files/202419/original/file-20180118-158541-141pfeo.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=1356&h=668&fit=crop",
         "title": "How Tencent became the world's most valuable social network firm \u2013 with barely any advertising",
         "vote": 0
     },
@@ -423,20 +423,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:17.793108+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-09-11T09:43:50.339460+00:00",
         "date_published": "2018-02-02T08:13:20+00:00",
         "description": "New California Law Allows Jail Time for Using Wrong Gender Pronoun \u2014 San Diego Criminal Lawyers Blog \u2014 February 2, 2018",
         "id": 40547,
         "language": "en-US",
         "link": "https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.sandiegocriminallawyersblog.com",
-        "status_code": 200,
+        "status_code": 603,
         "tags": [
             "newspeak",
             "pronouns",
@@ -696,7 +696,7 @@
         "link": "https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2",
         "manual_status_code": 0,
         "page_rating": 27,
-        "page_rating_contents": 76,
+        "page_rating_contents": 75,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -731,7 +731,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://zdrowie.radiozet.pl",
-        "status_code": 404,
+        "status_code": 410,
         "tags": [
             "covid",
             "vaccine"
@@ -1523,7 +1523,7 @@
             "artificial intelligence",
             "blackrock"
         ],
-        "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/06/shutterstock_684865414-scaled.jpg?1777881486",
+        "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/06/shutterstock_684865414-scaled.jpg?1789113522",
         "title": "Meet Aladdin, the computer \"more powerful than traditional politics\"",
         "vote": 0
     },
@@ -1573,13 +1573,13 @@
         "language": "en",
         "link": "https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "www.zdnet.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "ad business",
             "all time",
@@ -1780,13 +1780,13 @@
         "language": "en",
         "link": "https://www.forbes.com/sites/michaeldurkheimer/2018/04/16/on-the-internet-bots-have-already-overrun-humans-what-do-they-want",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.forbes.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "dead internet",
             "social media"
@@ -1909,7 +1909,7 @@
             "domain-fronting",
             "privacy"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Domain_Fronting_letter_illustration.svg/1280px-Domain_Fronting_letter_illustration.svg.png",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Domain_Fronting_letter_illustration.svg/1280px-Domain_Fronting_letter_illustration.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
         "title": "Domain fronting - Wikipedia",
         "vote": 0
     },
@@ -2385,7 +2385,7 @@
             "don't be evil",
             "google"
         ],
-        "thumbnail": "https://www.zdnet.com/a/img/resize/7b90be538d715dfdd8ae27a00a68d387cc4b6121/2018/05/21/1ddad754-9842-4db8-bee6-7a77a46a2458/google-data-center-connie.png?auto=webp&fit=crop&height=675&width=1200",
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/google-data-center-connie.png",
         "title": "Google erases 'Don't be evil' from code of conduct after 18 years | ZDNET",
         "vote": 0
     },
@@ -2414,7 +2414,7 @@
             "donald trump",
             "fbi"
         ],
-        "thumbnail": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt9e65239f9766a98b/698931580a4a2249fb9d2cd9/trump-immigration-gangs-animals-ms13.jpg?branch=production&width=3840&quality=75&auto=webp&crop=16:9",
+        "thumbnail": "https://static.time.com/v3/assets/bltea6093859af6183b/blt9e65239f9766a98b/698931580a4a2249fb9d2cd9/trump-immigration-gangs-animals-ms13.jpg?branch=production&width=5353&quality=75&auto=webp&crop=16:9",
         "title": "Trump Claims FBI Spied on His Campaign. Here Are the Facts | Time",
         "vote": 0
     },

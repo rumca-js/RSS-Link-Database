@@ -707,7 +707,7 @@
         "tags": [
             "abortion"
         ],
-        "thumbnail": "https://www.liveaction.org/assets/1749507242-22weekultrasound.jpeg?auto=format&fit=max&w=1200",
+        "thumbnail": "https://www.liveaction.org/assets/1749507242-22weekultrasound.jpeg?auto=compress&fit=crop&fm=jpg&h=630&w=1200",
         "title": "Abortion facility workers explain how they disposed of aborted babies",
         "vote": 0
     },
@@ -767,7 +767,7 @@
             "manufacturing consent",
             "media"
         ],
-        "thumbnail": "http://tysol.pl/storage/files/2026/3/1/001a57a7-f1a7-4c47-9e94-16e70d7684c2/5495.jpg",
+        "thumbnail": "https://tysol.pl/storage/files/2026/3/1/001a57a7-f1a7-4c47-9e94-16e70d7684c2/5495.jpg",
         "title": "Szef Ringier Axel Springer instruuje swoich dziennikarzy, jak ocenia\u0107 polski rz\u0105d. Wys\u0142a\u0142 specjalny list",
         "vote": 0
     },
@@ -882,7 +882,7 @@
             "climate change",
             "pollution"
         ],
-        "thumbnail": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/19f63090d4b896a221b9abce32c25d6d.jpg",
+        "thumbnail": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/19f63090d4b896a221b9abce32c25d6d.jpg",
         "title": "China has fished itself out of its own waters, so Chinese fishermen are now sticking their rods in other nations\u2019 seas",
         "vote": 0
     },
@@ -930,13 +930,13 @@
         "language": "en-US",
         "link": "https://www.pewresearch.org/fact-tank/2017/04/06/why-muslims-are-the-worlds-fastest-growing-religious-group",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.pewresearch.org",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "islam",
             "religion"
@@ -971,7 +971,7 @@
             "corporatocracy",
             "democracy"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/aa/Requiem_for_the_American_Dream_%28book%29.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/aa/Requiem_for_the_American_Dream_%28book%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
         "title": "Requiem for the American Dream - Wikipedia",
         "vote": 0
     },
@@ -1268,7 +1268,7 @@
             "corporatocracy",
             "vanguard"
         ],
-        "thumbnail": "https://images.theconversation.com/files/168552/original/file-20170509-11015-1ydxdq8.PNG?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+        "thumbnail": "https://images.theconversation.com/files/168552/original/file-20170509-11015-1ydxdq8.PNG?ixlib=rb-4.1.1&q=45&auto=format&w=1356&h=668&fit=crop",
         "title": "These three firms own corporate America",
         "vote": 0
     },
@@ -1566,7 +1566,7 @@
             "police",
             "sweden"
         ],
-        "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/628028-malmo-shooting.jpg?w=1200crop=1",
+        "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/628028-malmo-shooting.jpg?w=1200&crop=1",
         "title": "Are There No-Go Zones in Sweden? Police Identify Dozens of 'Vulnerable Areas' Rife With Criminality",
         "vote": 0
     },
@@ -1723,7 +1723,7 @@
             "malware",
             "vulnerability"
         ],
-        "thumbnail": "https://www.cnet.com/a/img/resize/5d6f4e2b407f2ae67b6c0ff775898f4e8939040d/hub/2012/10/15/d12a3ecb-fdb7-11e2-8c7c-d4ae52e62bcc/android-marching-malware.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/d12a3ecb-fdb7-11e2-8c7c-d4ae52e62bcc.jpg",
         "title": "Android devices hit with CopyCat malware - CNET",
         "vote": 0
     },
@@ -2038,20 +2038,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:59:03.968460+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-09-11T16:16:26.691192+00:00",
         "date_published": "2017-08-05T08:54:59+00:00",
         "description": "SZWECJA: Terrory\u015bci s\u0105 dobrymi rodzicami! Polakom zabior\u0105 dzieci za nadopieku\u0144czo\u015b\u0107",
         "id": 39810,
         "language": "pl-PL",
         "link": "https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc",
         "manual_status_code": 0,
-        "page_rating": 22,
-        "page_rating_contents": 60,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://newsbook.pl",
-        "status_code": 614,
+        "status_code": 404,
         "tags": [
             "big brother",
             "children",
@@ -2106,8 +2106,8 @@
         "language": "en",
         "link": "https://www.telegraph.co.uk/news/2017/08/08/police-afraid-racism-complaints-use-stop-search-powers",
         "manual_status_code": 0,
-        "page_rating": 13,
-        "page_rating_contents": 33,
+        "page_rating": 9,
+        "page_rating_contents": 20,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -2481,7 +2481,7 @@
             "pronouns",
             "the left wing"
         ],
-        "thumbnail": "https://www.ewtnnews.com/EWTNNewsLogo.png",
+        "thumbnail": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/images/Gender_Credit_fieldwork_via_Shutterstock",
         "title": "California bill seeks to punish 'misgendering' with jail time | Catholic News Agency",
         "vote": 0
     },
@@ -3044,18 +3044,18 @@
         "language": "en",
         "link": "https://www.eweek.com/enterprise-apps/ubuntu-drops-unity-for-gnome-in-artful-aardvark-release",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.eweek.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "canonical",
             "ubuntu"
         ],
-        "thumbnail": "https://assets.eweek.com/uploads/2020/10/1088x725ubuntu1710.jpg",
+        "thumbnail": "https://cdn.eweek.com/a488f1ba3a067cbdc5216993ada5359f.jpg",
         "title": "Ubuntu 17.10 Linux Debuts Without Unity but With New Logs App",
         "vote": 0
     },
@@ -3289,7 +3289,7 @@
             "surveillance",
             "tracking"
         ],
-        "thumbnail": "https://www.zdnet.com/a/img/resize/3bbe23c57d1fffc3a7d12a8f4fa0a372566dca61/2017/11/07/877cc7b5-76b9-4ee3-b230-890dca8d9f79/intel-thumb.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/intel-thumb_cee5f1.jpg",
         "title": "MINIX: \u200bIntel's hidden in-chip operating system | ZDNET",
         "vote": 0
     },
@@ -3471,7 +3471,7 @@
             "surveillance",
             "tracking"
         ],
-        "thumbnail": "https://www.zdnet.com/a/img/resize/8d79c779d672a45d8ce784f5a3de37510ee95a6b/2017/11/21/2d476025-5961-40c2-9170-48b0c8522c20/intel-8th-gen-core-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/intel-8th-gen-core-3_46ad5a.jpg",
         "title": "Intel: We've found severe bugs in secretive Management Engine, affecting millions | ZDNET",
         "vote": 0
     },
@@ -3623,7 +3623,7 @@
             "tracking",
             "vulnerability"
         ],
-        "thumbnail": "https://www.zdnet.com/a/img/resize/8d79c779d672a45d8ce784f5a3de37510ee95a6b/2017/11/21/2d476025-5961-40c2-9170-48b0c8522c20/intel-8th-gen-core-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/intel-8th-gen-core-3_46ad5a.jpg",
         "title": "\u200bComputer vendors start disabling Intel Management Engine | ZDNET",
         "vote": 0
     },
@@ -3653,7 +3653,7 @@
             "privacy",
             "smartphone"
         ],
-        "thumbnail": "https://www.zdnet.com/a/img/resize/c1e6e67d3a8234593dde9c3cc3b0a57216bebca3/2017/12/05/8ea5d1aa-6358-468d-938e-08a41c8fe0d7/gboard.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/keys-jpg.jpg",
         "title": "A popular virtual keyboard app leaks 31 million users' personal data | ZDNET",
         "vote": 0
     },
@@ -3775,7 +3775,7 @@
             "plutocracy",
             "rothschild"
         ],
-        "thumbnail": "https://www.gsb.stanford.edu/sites/default/files/styles/1630x_variable/public/photo-is-vftt-chamath-palihapitya.jpg.webp?itok=7wczBrpT",
+        "thumbnail": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/photo-is-vftt-chamath-palihapitya.jpg.jpeg?itok=K8g9LPT5",
         "title": "Chamath Palihapitiya: Why Failing Fast Fails | Stanford Graduate School of Business",
         "vote": 0
     },
@@ -3853,13 +3853,13 @@
         "language": "en",
         "link": "https://www.forbes.com/sites/antoinegara/2017/12/19/blackrocks-edge-why-technology-is-creating-a-6-trillion-amazon-of-wall-street",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.forbes.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "blackrock",
             "fintech"
@@ -3882,13 +3882,13 @@
         "language": "en-US",
         "link": "https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations",
         "manual_status_code": 0,
-        "page_rating": 16,
-        "page_rating_contents": 40,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.quora.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "cia",
             "conspiracy theory",
@@ -3980,7 +3980,7 @@
             "blackrock",
             "fintech"
         ],
-        "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fprod-upp-image-read.ft.com%2F279f2526-2b9c-11e8-a34a-7e7563b0b0f4?source=next-barrier-page",
+        "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fprod-upp-image-read.ft.com%2F279f2526-2b9c-11e8-a34a-7e7563b0b0f4?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
         "title": "BlackRock bets on algorithms to beat the fund managers",
         "vote": 0
     }
