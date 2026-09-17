@@ -1245,5 +1245,34 @@
         "thumbnail": null,
         "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
         "vote": 1
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-09-16T21:06:24.867033+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-16T20:18:31+00:00",
+        "description": "New state laws are pushing age verification into macOS and Windows. By 2027, logging in might require a facial scan or government ID.",
+        "id": 6395471,
+        "language": "en-gb",
+        "link": "https://uk.pcmag.com/security/167356/your-computer-might-demand-your-age-soon-no-matter-where-you-live",
+        "manual_status_code": 0,
+        "page_rating": 37,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 10,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": "https://sm.pcmag.com/t/pcmag_uk/explainers/y/your-compu/your-computer-might-demand-your-age-soon-no-matter-where-you_4w9f.1200.jpg",
+        "title": "Your Computer Might Demand Your Age Soon, No Matter Where You Live",
+        "vote": 10
     }
 ]

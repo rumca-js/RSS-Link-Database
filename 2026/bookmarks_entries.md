@@ -210,3 +210,8 @@
  - date_published: 2026-09-07T07:03:20+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Your Computer Might Demand Your Age Soon, No Matter Where You Live
+ - [https://uk.pcmag.com/security/167356/your-computer-might-demand-your-age-soon-no-matter-where-you-live](https://uk.pcmag.com/security/167356/your-computer-might-demand-your-age-soon-no-matter-where-you-live)
+ - date_published: 2026-09-16T20:18:31+00:00
+ - tags: ['privacy', 'surveillance']
+
