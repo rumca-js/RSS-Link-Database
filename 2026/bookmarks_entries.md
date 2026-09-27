@@ -215,3 +215,8 @@
  - date_published: 2026-09-16T20:18:31+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## I was WARNING you about this...
+ - [https://www.youtube.com/watch?v=R9hW6ztGaM4](https://www.youtube.com/watch?v=R9hW6ztGaM4)
+ - date_published: 2026-09-25T15:15:37+00:00
+ - tags: ['privacy', 'surveillance']
+

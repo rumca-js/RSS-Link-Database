@@ -1262,7 +1262,7 @@
         "manual_status_code": 0,
         "page_rating": 37,
         "page_rating_contents": 86,
-        "page_rating_visits": 2,
+        "page_rating_visits": 3,
         "page_rating_votes": 10,
         "permanent": false,
         "source_url": "",
@@ -1274,5 +1274,35 @@
         "thumbnail": "https://sm.pcmag.com/t/pcmag_uk/explainers/y/your-compu/your-computer-might-demand-your-age-soon-no-matter-where-you_4w9f.1200.jpg",
         "title": "Your Computer Might Demand Your Age Soon, No Matter Where You Live",
         "vote": 10
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "The Hated One",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-09-25T16:01:29.911742+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-25T15:15:37+00:00",
+        "description": "Predictive surveillance is here and it's near impossible to escape. My independent research cannot happen if you don't support me: https://www.patreon.com/thehatedone \n\nWhat if I told you that McDonald\u2019s has a 500-page-long dossier of your personal life? A dossier that doesn\u2019t just contain information about what you ate the restaurant but one where the company has followed you everywhere on the web? Where it tracked down your social media posts and spied on you from inside third party apps on your phone?\nIt\u2019s a personal file on you individually with your name, address and everything that identifies you and your movements. And it\u2019s not just a historical record of what you did. It\u2019s a list of predictions McDonald\u2019s made about what they think you\u2019ll do in the future.\n\nIf this doesn\u2019t sound real or too much like from a dystopian SciFi novel, all you need to do is to visit McDonald\u2019s Privacy policy website and request your very own copy of every piece of data McDonald\u2019s holds on you. If yo",
+        "id": 6454713,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=R9hW6ztGaM4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 344,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
+        "status_code": 0,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": "https://i3.ytimg.com/vi/R9hW6ztGaM4/hqdefault.jpg",
+        "title": "I was WARNING you about this...",
+        "vote": 0
     }
 ]
