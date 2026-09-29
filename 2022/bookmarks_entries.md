@@ -623,7 +623,6 @@
  - [https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm](https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm)
  - date_published: 2022-02-04T06:55:19+00:00
  - tags: ['anthony fauci', 'covid', 'lab leak', 'wuhan']
- - date_dead_since: 2025-09-03T18:42:46.791396+00:00
 
  ## FDA: Nakaz sądowy odtajnienia dokumentów
  - [https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf](https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf)
@@ -985,7 +984,6 @@
  - [https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home](https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home)
  - date_published: 2022-02-19T06:53:36+00:00
  - tags: ['canada', 'covid', 'fearmongering', 'propaganda', 'protest']
- - date_dead_since: 2026-05-21T18:27:09.330780+00:00
 
  ## Jean-Luc Brunel: Epstein associate found dead in Paris prison cell - BBC News
  - [https://www.bbc.com/news/world-europe-60443518](https://www.bbc.com/news/world-europe-60443518)
@@ -1138,6 +1136,7 @@
  - [https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev](https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev)
  - date_published: 2022-03-04T19:05:50+00:00
  - tags: ['climate change', 'dark design', 'electric vehicles', 'technofeudalism']
+ - date_dead_since: 2026-09-28T12:14:04.480105+00:00
 
  ## Sky News team's harrowing account of their violent ambush in Ukraine this week | World News | Sky News
  - [https://news.sky.com/story/sky-news-teams-harrowing-account-of-their-violent-ambush-in-ukraine-this-week-12557585](https://news.sky.com/story/sky-news-teams-harrowing-account-of-their-violent-ambush-in-ukraine-this-week-12557585)
@@ -1868,6 +1867,7 @@
  ## Be less technical
  - [https://www.sequential.dev/posts/be-less-technical](https://www.sequential.dev/posts/be-less-technical)
  - date_published: 2022-04-17T17:23:04.796246+00:00
+ - date_dead_since: 2026-09-28T17:59:17.535911+00:00
 
  ## Tucker Carlson takes aim at ADL with Israeli immigration policy -analysis - The Jerusalem Post
  - [https://m.jpost.com/american-politics/why-did-tucker-carlson-talk-about-israeli-immigration-policy-analysis-665400](https://m.jpost.com/american-politics/why-did-tucker-carlson-talk-about-israeli-immigration-policy-analysis-665400)
@@ -3796,6 +3796,7 @@
  - [https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency](https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency)
  - date_published: 2022-08-29T16:56:15+00:00
  - tags: ['brics', 'cbdc', 'fiat currency']
+ - date_dead_since: 2026-09-28T17:15:34.253666+00:00
 
  ## The Huawei Backdoor Conspiracy
  - [https://www.youtube.com/watch?v=z7luwhj9a2w](https://www.youtube.com/watch?v=z7luwhj9a2w)

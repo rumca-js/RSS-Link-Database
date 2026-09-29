@@ -3480,6 +3480,7 @@
  - [https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
  - date_published: 2023-04-15T09:05:20+00:00
  - tags: ['corporatocracy', 'google', 'monopoly']
+ - date_dead_since: 2026-09-28T15:06:29.354419+00:00
 
  ## COVID vaccine doubter Alex Berenson sues Biden over Twitter ban
  - [https://nypost.com/2023/04/15/covid-vaccine-doubter-alex-berenson-sues-biden-over-twitter-ban](https://nypost.com/2023/04/15/covid-vaccine-doubter-alex-berenson-sues-biden-over-twitter-ban)
@@ -6171,7 +6172,6 @@
  - [https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews](https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews)
  - date_published: 2023-07-19T14:10:03+00:00
  - tags: ['censorship', 'sound of freedom', 'youtube']
- - date_dead_since: 2026-05-21T14:23:56.970710+00:00
 
  ## Flying in Europe up to 30 times cheaper than train, says Greenpeace
  - [https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace](https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace)

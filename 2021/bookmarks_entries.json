@@ -16530,13 +16530,13 @@
         "language": "en",
         "link": "https://www.forbes.com/sites/graisondangor/2021/09/19/cdcs-six-foot-social-distancing-rule-was-arbitrary-says-former-fda-commissioner",
         "manual_status_code": 0,
-        "page_rating": 43,
-        "page_rating_contents": 86,
+        "page_rating": 29,
+        "page_rating_contents": 40,
         "page_rating_visits": 1,
         "page_rating_votes": 20,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "covid",
             "science is dead"
