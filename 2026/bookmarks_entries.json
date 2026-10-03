@@ -1304,5 +1304,35 @@
         "thumbnail": "https://i3.ytimg.com/vi/R9hW6ztGaM4/hqdefault.jpg",
         "title": "I was WARNING you about this...",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "Stevie Bonifield",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-09-30T17:46:35.822880+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-30T13:21:29+00:00",
+        "description": "<figure>\n\n<img alt=\"Amazon\u2019s Amelia smart delivery glasses, with tinted lenses and cameras.\" data-caption=\"\" data-portal-copyright=\"Image: Amazon\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"wp-block-paragraph\">Amazon deliveries could soon come with a new catch: the <a href=\"https://www.theverge.com/news/804962/amazon-reveals-smart-delivery-glasses-that-guide-drivers-and-scan-packages\">delivery driver's smart glasses</a> will be snapping photos of anything they see while they're in use, including people and private property. <a href=\"https://www.bloomberg.com/opinion/articles/2026-09-30/amazon-drivers-smart-glasses-are-going-to-be-an-image-problem\"><em>Bloomberg</em></a> reports that the glasses could take \"several thousand captures in a single driver's typical shift,\" which Amazon plans to upload to its AI Wellspr",
+        "id": 6493182,
+        "language": "en-US",
+        "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+        "manual_status_code": 0,
+        "page_rating": 37,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 10,
+        "permanent": false,
+        "source__id": 359,
+        "source_url": "https://www.theverge.com/rss/index.xml",
+        "status_code": 0,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;",
+        "vote": 10
     }
 ]

@@ -220,3 +220,8 @@
  - date_published: 2026-09-25T15:15:37+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;
+ - [https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy](https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy)
+ - date_published: 2026-09-30T13:21:29+00:00
+ - tags: ['privacy', 'surveillance']
+
