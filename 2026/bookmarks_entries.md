@@ -176,6 +176,10 @@
  - date_published: 2026-08-06T03:04:10+00:00
  - tags: ['facebook', 'social media']
 
+ - [https://www.telegraph.co.uk/news/2026/07/26/mysterious-deaths-jeffrey-epstein-friends](https://www.telegraph.co.uk/news/2026/07/26/mysterious-deaths-jeffrey-epstein-friends)
+ - date_published: 2026-08-06T15:21:03+00:00
+ - tags: ['donald trump', 'jeffrey epstein']
+
  ## New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.
  - [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
  - date_published: 2026-08-08T10:07:06+00:00
@@ -224,4 +228,23 @@
  - [https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy](https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy)
  - date_published: 2026-09-30T13:21:29+00:00
  - tags: ['privacy', 'surveillance']
+
+ - [https://www.forbes.com/sites/alisondurkee/2026/10/05/epstein-whistleblower-simon-andriesz-dies-after-exposing-lutnick-ties-what-to-know](https://www.forbes.com/sites/alisondurkee/2026/10/05/epstein-whistleblower-simon-andriesz-dies-after-exposing-lutnick-ties-what-to-know)
+ - date_published: 2026-10-07T10:59:11.641414+00:00
+ - tags: ['donald trump', 'jeffrey epstein']
+
+ ## Whistleblower who exposed Trump official's ties to Epstein found dead - AOL
+ - [https://www.aol.com/articles/whistleblower-exposed-trump-officials-ties-132800000.html](https://www.aol.com/articles/whistleblower-exposed-trump-officials-ties-132800000.html)
+ - date_published: 2026-10-07T10:59:26.603957+00:00
+ - tags: ['donald trump', 'jeffrey epstein']
+
+ ## Anger as man sentenced to death for Facebook comment
+ - [https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304](https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304)
+ - date_published: 2026-10-08T22:24:25+00:00
+ - tags: ['surveillance', 'technofeudalism']
+
+ ## Man discovers his parents’ coffee machine used 1TB of data in 10 days - Dexerto
+ - [https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399)
+ - date_published: 2026-10-09T06:16:48.836809+00:00
+ - tags: ['privacy', 'technofeudalism']
 
