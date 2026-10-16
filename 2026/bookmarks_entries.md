@@ -248,3 +248,8 @@
  - date_published: 2026-10-09T06:16:48.836809+00:00
  - tags: ['privacy', 'technofeudalism']
 
+ ## Some Meta Smart Glasses Secretly Recorded Conversations: Owners Shocked To Find Audio and Transcripts
+ - [https://www.ibtimes.sg/some-meta-smart-glasses-secretly-recorded-conversations-owners-shocked-find-audio-transcripts-95166](https://www.ibtimes.sg/some-meta-smart-glasses-secretly-recorded-conversations-owners-shocked-find-audio-transcripts-95166)
+ - date_published: 2026-10-15T12:18:01.117838+00:00
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
+

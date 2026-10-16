@@ -1479,5 +1479,35 @@
         "thumbnail": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/07/coffee-maker-stock-photo.jpg",
         "title": "Man discovers his parents\u2019 coffee machine used 1TB of data in 10 days - Dexerto",
         "vote": 10
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2026-10-15T12:17:47.267534+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-15T12:18:01.117838+00:00",
+        "description": "Meta smart-glasses owners reported recordings appearing without the \"Hey Meta\" wake phrase, prompting privacy concerns as the company says the issue has been resolved.",
+        "id": 6603657,
+        "language": "en",
+        "link": "https://www.ibtimes.sg/some-meta-smart-glasses-secretly-recorded-conversations-owners-shocked-find-audio-transcripts-95166",
+        "manual_status_code": 0,
+        "page_rating": 34,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 6,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "privacy",
+            "surveillance",
+            "technofeudalism"
+        ],
+        "thumbnail": "https://data.ibtimes.sg/en/full/98486/meta-ray-ban-smart-glasses.jpg?w=1200&h=630?q=60",
+        "title": "Some Meta Smart Glasses Secretly Recorded Conversations: Owners Shocked To Find Audio and Transcripts",
+        "vote": 6
     }
 ]
