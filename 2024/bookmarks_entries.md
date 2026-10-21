@@ -1028,7 +1028,6 @@
  - [https://www.telegraph.co.uk/business/2024/07/19/outage-tech-internet-broadband-banking-uk-australia-world](https://www.telegraph.co.uk/business/2024/07/19/outage-tech-internet-broadband-banking-uk-australia-world)
  - date_published: 2024-07-19T07:15:51+00:00
  - tags: ['technofeudalism']
- - date_dead_since: 2026-06-12T19:55:30.427723+00:00
 
  ## Paris Olympic opening ceremony criticized for disrespecting religious beliefs
  - [https://www.aa.com.tr/en/sports/paris-olympic-opening-ceremony-criticized-for-disrespecting-religious-beliefs/3287897](https://www.aa.com.tr/en/sports/paris-olympic-opening-ceremony-criticized-for-disrespecting-religious-beliefs/3287897)

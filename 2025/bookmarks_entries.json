@@ -217,14 +217,14 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 228,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "democracy",
             "monarchy"
@@ -2599,7 +2599,7 @@
         "tags": [
             "israel"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flickr_-_Israel_Defense_Forces_-_Chief_of_Staff_Lt._Gen._Benny_Gantz_Holds_a_Surprise_Training_Exercise_%283%29.jpg/1280px-Flickr_-_Israel_Defense_Forces_-_Chief_of_Staff_Lt._Gen._Benny_Gantz_Holds_a_Surprise_Training_Exercise_%283%29.jpg",
+        "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Flickr_-_Israel_Defense_Forces_-_Chief_of_Staff_Lt._Gen._Benny_Gantz_Holds_a_Surprise_Training_Exercise_%283%29.jpg/1280px-Flickr_-_Israel_Defense_Forces_-_Chief_of_Staff_Lt._Gen._Benny_Gantz_Holds_a_Surprise_Training_Exercise_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
         "title": "Hannibal Directive - Wikipedia",
         "vote": 0
     },
