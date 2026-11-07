@@ -167,6 +167,7 @@
  - [https://www.youtube.com/watch?v=4o5hSxvN_-s](https://www.youtube.com/watch?v=4o5hSxvN_-s)
  - date_published: 2020-02-13T00:00:00+00:00
  - tags: ['funny', 'spam']
+ - date_dead_since: 2026-11-07T11:40:35.438933+00:00
 
  ## Facebook, Amazon, Google and more met with WHO to figure out how to stop coronavirus misinformation
  - [https://www.cnbc.com/2020/02/14/facebook-google-amazon-met-with-who-to-talk-coronavirus-misinformation.html](https://www.cnbc.com/2020/02/14/facebook-google-amazon-met-with-who-to-talk-coronavirus-misinformation.html)
