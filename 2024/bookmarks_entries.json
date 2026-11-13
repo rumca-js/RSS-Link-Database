@@ -2314,20 +2314,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2025-01-31T13:48:22.135155+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2026-11-12T14:00:34.484632+00:00",
         "date_published": "2024-02-01T14:48:17+00:00",
         "description": "The disturbing rise in near-miss incidents at America\u2019s airports is no accident.",
         "id": 2012353,
         "language": "en-US",
         "link": "https://www.washingtontimes.com/news/2024/feb/1/editorial-faa-turned-away-qualified-air-traffic-co",
         "manual_status_code": 0,
-        "page_rating": 22,
-        "page_rating_contents": 40,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 2,
         "page_rating_votes": 10,
         "permanent": false,
         "source_url": "",
-        "status_code": 614,
+        "status_code": 600,
         "tags": [
             "racism"
         ],
@@ -4350,7 +4350,7 @@
         "tags": [
             "privacy"
         ],
-        "thumbnail": "https://assets.mofoprod.net/network/images/PNI_Dating-Apps-OG.original_TGyt3gY.png",
+        "thumbnail": "https://assets.mofoprod.net/network/images/What-Is-Secure_-1.original_BiVCFH5.png",
         "title": "Most dating apps sell and share users' personal data",
         "vote": 50
     },
