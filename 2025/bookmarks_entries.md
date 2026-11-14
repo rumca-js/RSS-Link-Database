@@ -97,6 +97,7 @@
  - [https://inquisitivebird.xyz/p/the-effects-of-immigration-in-denmark](https://inquisitivebird.xyz/p/the-effects-of-immigration-in-denmark)
  - date_published: 2025-02-01T08:49:18+00:00
  - tags: ['immigration']
+ - date_dead_since: 2026-11-13T07:58:30.761881+00:00
 
  ## Man arrested after live video of Quran being burned in Manchester
  - [https://www.manchestereveningnews.co.uk/news/greater-manchester-news/man-arrested-after-live-video-30915996](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/man-arrested-after-live-video-30915996)

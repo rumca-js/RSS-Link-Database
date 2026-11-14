@@ -78,7 +78,6 @@
  - [https://www.telegraph.co.uk/news/2024/01/10/scotland-is-abandoning-children-to-trans-extremists](https://www.telegraph.co.uk/news/2024/01/10/scotland-is-abandoning-children-to-trans-extremists)
  - date_published: 2024-01-10T07:44:37+00:00
  - tags: ['family oppression', 'gender', 'the left wing', 'transgender']
- - date_dead_since: 2026-02-26T18:22:11.025746+00:00
 
  ## Bottled water has 'up to 100 times' more bits of plastic than previously feared
  - [https://www.theregister.com/2024/01/10/water_nanoplastic_pollution](https://www.theregister.com/2024/01/10/water_nanoplastic_pollution)
@@ -606,6 +605,7 @@
  - [https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html](https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html)
  - date_published: 2024-03-14T09:08:36+00:00
  - tags: ['climate change']
+ - date_dead_since: 2026-11-13T07:21:51.944405+00:00
 
  ## Planet Fitness Ends Woman’s Membership After She Complained About Man Shaving in Woman’s Locker Room — in Front of Frightened Girl.
  - [https://thenewamerican.com/us/culture/planet-fitness-ends-womans-membership-after-she-complained-about-man-shaving-in-womans-locker-room-in-front-of-frightened-girl](https://thenewamerican.com/us/culture/planet-fitness-ends-womans-membership-after-she-complained-about-man-shaving-in-womans-locker-room-in-front-of-frightened-girl)
@@ -631,6 +631,7 @@
  - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
  - date_published: 2024-03-20T00:00:00+00:00
  - tags: ['israel', 'palestine']
+ - date_dead_since: 2026-11-13T06:31:46.574298+00:00
 
  ## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
  - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)

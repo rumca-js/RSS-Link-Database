@@ -8342,6 +8342,7 @@
  - [https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html](https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html)
  - date_published: 2023-12-01T00:16:08+00:00
  - tags: ['hamas', 'israel', 'palestine']
+ - date_dead_since: 2026-11-14T02:43:55.773781+00:00
 
  ## Windsor police officer who donated to Ottawa convoy will learn his penalty in May | CBC News
  - [https://www.cbc.ca/news/canada/windsor/windsor-police-convoy-donation-1.6792348](https://www.cbc.ca/news/canada/windsor/windsor-police-convoy-donation-1.6792348)
