@@ -7230,6 +7230,7 @@
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-faces-first-german-lawsuit-over-alleged-covid-vaccine-side-effects-2023-06-11](https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-faces-first-german-lawsuit-over-alleged-covid-vaccine-side-effects-2023-06-11)
  - date_published: 2023-08-31T07:23:13+00:00
  - tags: ['covid', 'vaccine']
+ - date_dead_since: 2026-11-14T11:14:59.064859+00:00
 
  ## It's not just you – no one is posting on social media anymore
  - [https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
@@ -7583,6 +7584,7 @@
  - [https://www.youtube.com/watch?v=HLTNXTbFRhM](https://www.youtube.com/watch?v=HLTNXTbFRhM)
  - date_published: 2023-09-16T00:00:00+00:00
  - tags: ['social media']
+ - date_dead_since: 2026-11-14T09:28:37.705376+00:00
 
  ## Bechtel - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Bechtel](https://en.m.wikipedia.org/wiki/Bechtel)
@@ -8201,6 +8203,7 @@
  - [https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16](https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16)
  - date_published: 2023-11-16T20:59:54.309490+00:00
  - tags: ['inequality', 'israel', 'palestine']
+ - date_dead_since: 2026-11-14T05:44:25.393053+00:00
 
  ## Sam altman
  - [https://www.nytimes.com/2023/11/17/technology/openai-sam-altman-ousted.html](https://www.nytimes.com/2023/11/17/technology/openai-sam-altman-ousted.html)
