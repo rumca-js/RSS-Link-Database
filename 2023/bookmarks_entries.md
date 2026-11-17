@@ -4623,6 +4623,7 @@
  - [https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5](https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5)
  - date_published: 2023-05-26T01:43:22+00:00
  - tags: ['climate change']
+ - date_dead_since: 2026-11-16T19:46:30.682718+00:00
 
  ## ‘Massive’ Tesla data leak reveals thousands of alleged safety complaints
  - [https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints](https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints)
@@ -5606,6 +5607,7 @@
  - [https://www.reuters.com/sustainability/eu-calls-global-talks-climate-geoengineering-risks-2023-06-28](https://www.reuters.com/sustainability/eu-calls-global-talks-climate-geoengineering-risks-2023-06-28)
  - date_published: 2023-06-28T05:15:18+00:00
  - tags: ['climate change', 'geoengineering']
+ - date_dead_since: 2026-11-16T19:16:03.560540+00:00
 
  ## Dane milionów Polaków na Seszelach. Dostęp po 40 zł
  - [https://wydarzenia.interia.pl/tylko-w-interii/news-dane-milionow-polakow-na-seszelach-dostep-po-40-zl,nId,6867040](https://wydarzenia.interia.pl/tylko-w-interii/news-dane-milionow-polakow-na-seszelach-dostep-po-40-zl,nId,6867040)
@@ -6004,6 +6006,7 @@
  - [https://www.youtube.com/watch?v=UXMrH0BMLqg](https://www.youtube.com/watch?v=UXMrH0BMLqg)
  - date_published: 2023-07-14T00:00:00+00:00
  - tags: ['crime', 'racism', 'science is dead']
+ - date_dead_since: 2026-11-16T19:05:54.199229+00:00
 
  ## Police Department Uses Clearview AI for a Year, to the Surprise of Its Oversight
  - [https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight](https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight)
