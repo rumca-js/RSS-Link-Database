@@ -803,6 +803,7 @@
  - [https://www.zdnet.com/home-and-office/home-entertainment/you-should-disable-acr-on-your-tv-right-now-and-the-difference-it-makes-to-your-privacy](https://www.zdnet.com/home-and-office/home-entertainment/you-should-disable-acr-on-your-tv-right-now-and-the-difference-it-makes-to-your-privacy)
  - date_published: 2025-10-28T11:28:36+00:00
  - tags: ['privacy', 'surveillance']
+ - date_dead_since: 2026-11-22T13:05:08.907514+00:00
 
  ## Revealed: Israel demanded Google and Amazon use secret ‘wink’ to sidestep legal orders
  - [https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code](https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code)
