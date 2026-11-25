@@ -2387,6 +2387,7 @@
  - [https://www.youtube.com/watch?v=2L2Hr2QOOJk](https://www.youtube.com/watch?v=2L2Hr2QOOJk)
  - date_published: 2023-03-08T00:00:00+00:00
  - tags: ['digital id', 'digital passport', 'government control', 'mobywatel']
+ - date_dead_since: 2026-11-24T16:40:40.198189+00:00
 
  ## Privacy is FUTILE…unless…?
  - [https://www.youtube.com/watch?v=hSjWWL9mzR4](https://www.youtube.com/watch?v=hSjWWL9mzR4)
@@ -4054,6 +4055,7 @@
  - [https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04](https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04)
  - date_published: 2023-05-04T14:06:57+00:00
  - tags: ['crisis', 'inflation']
+ - date_dead_since: 2026-11-24T15:42:31.612495+00:00
 
  ## Pascal's wager - Wikipedia
  - [https://en.wikipedia.org/wiki/Pascal%27s_wager](https://en.wikipedia.org/wiki/Pascal%27s_wager)
