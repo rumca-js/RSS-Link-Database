@@ -94,6 +94,7 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - [https://www.reuters.com/article/us-pfizer-settlement-idUSBRE8760WM20120807](https://www.reuters.com/article/us-pfizer-settlement-idUSBRE8760WM20120807)
  - date_published: 2012-08-07T19:57:30+00:00
  - tags: ['big pharma', 'manufacturing consent', 'pfizer']
+ - date_dead_since: 2026-11-26T13:40:23.715438+00:00
 
  ## Pfizer znów zapłaci za łapówki
  - [https://www.prawo.pl/zdrowie/pfizer-znow-zaplaci-za-lapowki,248972.html](https://www.prawo.pl/zdrowie/pfizer-znow-zaplaci-za-lapowki,248972.html)
